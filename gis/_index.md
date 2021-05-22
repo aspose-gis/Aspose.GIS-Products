@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="GIS & Geospatial File Format Solution" h2="Native APIs and free apps offering features to create, read, convert & process GIS data and render maps." logoImageSrc="https://www.aspose.com/templates/brand/images/gis/aspose_gis-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="GIS & Geospatial File Format Solution" h2="Native APIs and free apps offering features to create, read, convert & process GIS data and render maps." logoImageSrc="https://www.aspose.com/templates/brand/images/gis/aspose_gis-brand.png" imageAlt="Aspose.GIS Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.GIS On Premise APIs Include" >}}
@@ -33,15 +33,6 @@ Transform your coordinates to UTM, WGS84, NAD83 and other spatial references.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/gis/family" innerText="View All Cross Platform Apps" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
