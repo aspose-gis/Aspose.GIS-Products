@@ -5,15 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Data Manipulation" h2="Create, read, convert, process GIS data and render maps with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/header/aspose_gis-for-net.png" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Data Manipulation" h2="Create, read, convert, process GIS data and render maps with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/header/aspose_gis-for-net.png" pfName="Aspose.GIS for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/gis/net/" instalationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.GIS for .NET enables you to access & manipulate geographic information from vector-based geospatial data formats. API supports to read, write & convert most popular GIS file formats such as Shapefile, GeoJSON, FIleGDB, KML & OSM XML as well as render a map from supported formats to SVG.  Furthermore, a developer can easily customize rendering and feature styles to get the desired map look.</p>
-<p>Aspose.GIS for .NET is designed with simplicity, performance, usability & portability in mind. It contains APIs to be used with .NET Framework, .NET Core & Xamarin platforms, enabling you to build cross-platform applications with great ease.</p>
+<p>
+ Aspose.GIS for .NET enables you to access &amp; manipulate geographic information from vector-based geospatial data formats. API supports to read, write &amp; convert most popular GIS file formats such as Shapefile, GeoJSON, FIleGDB, KML &amp; OSM XML as well as render a map from supported formats to SVG.  Furthermore, a developer can easily customize rendering and feature styles to get the desired map look.
+</p>
+
+<p>
+ Aspose.GIS for .NET is designed with simplicity, performance, usability &amp; portability in mind. It contains APIs to be used with .NET Framework, .NET Core &amp; Xamarin platforms, enabling you to build cross-platform applications with great ease.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -710,12 +716,6 @@ url: /net/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -741,7 +741,7 @@ url: /net/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="" description="" >}}
 
     {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
 

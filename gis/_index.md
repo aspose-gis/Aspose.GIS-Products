@@ -38,14 +38,28 @@ Transform your coordinates to UTM, WGS84, NAD83 and other spatial references.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.GIS." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.GIS." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-We have been using Aspose for quite some time now, and we have not run into a single Aspose related bug.
+<p class="first">
+ We have been using Aspose for quite some time now, and we have not run into a single Aspose related bug.
+ <em>
+  Jac Goorden | Bicore, Netherlands
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.Total works great when we have large files and documents to work on.
+<p class="second">
+ Aspose.Total works great when we have large files and documents to work on.
+ <em>
+  MiniTool® Software Ltd., Canada
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
