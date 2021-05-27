@@ -2,6 +2,7 @@
 title: .NET API for GIS Mapping | GIS Formats Parsing & Conversion 
 weight: 10
 url: /family
+description: GIS library for .NET developers. Process and convert GeoJSON ESRI Shapefile TopoJson Google Earth OpenStreetMap formats and more
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
