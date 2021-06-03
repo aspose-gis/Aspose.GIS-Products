@@ -1,6 +1,6 @@
 ---
 title: Convert OSM to SHX GIS Data via .NET 
-weight: 210
+weight: 250
 url: /net/conversion/osm-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your GIS data conversion on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Convert OSM to SHX Using C#" %}}
 
- In order to convert OSM to SHX, weвЂ™ll use
+ In order to convert OSM to SHX, we’ll use
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
  API which is a feature-rich, powerful and easy to use GIS API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.gis) 
@@ -87,7 +87,7 @@ VectorLayer.Convert(dir + "example.osm", Drivers.OsmXml, dir + "output.shx", Dri
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. вЂЋ
+ Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. ‎
 
 
 
@@ -97,7 +97,7 @@ VectorLayer.Convert(dir + "example.osm", Drivers.OsmXml, dir + "output.shx", Dri
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="https://docs.fileformat.com/gis/osm/" >}}
 
-OpenStreetMap (OSM) is a huge collection of volunteered geographic information stores in different types of files, using different encoding schemes to convert this data into bits and bytes. OSM is a collaborative effort toward the creation of a free editable map of the world.  The primary output of this collaborative effort is geographic data rather than the map itself. The constraints on the use or availability of geographic information across much of the world triggers the need to create an OSM.  The data available from OSM is ready to replace Google Maps for classical applications (Facebook, Craigslist etc.) and default data for GPS receiverвЂ™s applications. Although data quality is diverse across the world yet OpenStreetMap data can be conveniently compared with patent data sources.
+OpenStreetMap (OSM) is a huge collection of volunteered geographic information stores in different types of files, using different encoding schemes to convert this data into bits and bytes. OSM is a collaborative effort toward the creation of a free editable map of the world.  The primary output of this collaborative effort is geographic data rather than the map itself. The constraints on the use or availability of geographic information across much of the world triggers the need to create an OSM.  The data available from OSM is ready to replace Google Maps for classical applications (Facebook, Craigslist etc.) and default data for GPS receiver’s applications. Although data quality is diverse across the world yet OpenStreetMap data can be conveniently compared with patent data sources.
 Read More
 
         {{< /blocks/products/pf/agp/about-file-text >}}

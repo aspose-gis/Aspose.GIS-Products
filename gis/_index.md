@@ -1,6 +1,6 @@
 ---
 title: Read, write, Convert GIS files to Google Earth, GeoJSON & ESRI Shapefiles 
-weight: 20
+weight: 270
 url: /
 description: Read GPX, SHX, JSON, KML Formats and render to Google Earth, ESRI Shapefile, GeoJSON, FileGDB, KML & OSM XML. Reproject Geometries, Compute Topological Relations.
 ---

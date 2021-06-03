@@ -1,6 +1,6 @@
 ---
 title: Convert KML to SHX GIS Data via .NET 
-weight: 170
+weight: 110
 url: /net/conversion/kml-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your GIS data conversion on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Convert KML to SHX Using C#" %}}
 
- In order to convert KML to SHX, weвЂ™ll use
+ In order to convert KML to SHX, we’ll use
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
  API which is a feature-rich, powerful and easy to use GIS API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.gis) 
@@ -87,7 +87,7 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. вЂЋ
+ Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Convert GEOJSON to TOPOJSON GIS Data via .NET 
-weight: 60
+weight: 150
 url: /net/conversion/geojson-to-topojson/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your GIS data conversion on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Convert GEOJSON to TOPOJSON Using C#" %}}
 
- In order to convert GEOJSON to TOPOJSON, weвЂ™ll use
+ In order to convert GEOJSON to TOPOJSON, we’ll use
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
  API which is a feature-rich, powerful and easy to use GIS API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.gis) 
@@ -87,7 +87,7 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topo
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. вЂЋ
+ Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. ‎
 
 
 
@@ -97,7 +97,7 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topo
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes. This format defines different JSON (JavaScript Object Notation) objects and their joining fashion. JSON format represents a collective information about the Geographical features, their spatial extents, and properties. An object of this file may indicate a geometry (Point, LineString, Polygon), a feature or collection of features. The features reflect addresses and places as pointвЂ™s streets, main roads and borders as line strings and countries, provinces, and land regions as polygons. Using the GeoJSON, different mobile routing and navigation applications can indicate the coverage of their services. An extension of GeoJSON is TopoJSON that is smaller in size and encodes geospatial topology.
+GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes. This format defines different JSON (JavaScript Object Notation) objects and their joining fashion. JSON format represents a collective information about the Geographical features, their spatial extents, and properties. An object of this file may indicate a geometry (Point, LineString, Polygon), a feature or collection of features. The features reflect addresses and places as point’s streets, main roads and borders as line strings and countries, provinces, and land regions as polygons. Using the GeoJSON, different mobile routing and navigation applications can indicate the coverage of their services. An extension of GeoJSON is TopoJSON that is smaller in size and encodes geospatial topology.
 Read More
 
         {{< /blocks/products/pf/agp/about-file-text >}}
