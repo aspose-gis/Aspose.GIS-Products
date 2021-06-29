@@ -115,6 +115,13 @@ Read More
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="Keyhole Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shx" name="JSON TO SHX" description="Shapefile File Extension" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
