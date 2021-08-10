@@ -1,8 +1,8 @@
 ---
-title: Read, write, Convert GIS files to Google Earth, GeoJSON & ESRI Shapefiles 
+title: Read, Write, Render, Geoprocess GIS files (GPX, KML, GeoJSON, GeoTiff and many others).
 weight: 270
 url: /
-description: Read GPX, SHX, JSON, KML Formats and render to Google Earth, ESRI Shapefile, GeoJSON, FileGDB, KML & OSM XML. Reproject Geometries, Compute Topological Relations.
+description: Geoprocess many formats: GPX, KML, Shapefile (SHP), GeoJSON, GeoTiff, OSM and other. Support Well-Known Text (WKT). Reproject Geometries, Compute Topological Relations.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -12,7 +12,7 @@ description: Read GPX, SHX, JSON, KML Formats and render to Google Earth, ESRI S
 {{< blocks/products/pf/product-card-row title="Aspose.GIS On Premise APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.GIS for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png" productLink="https://products.aspose.com/gis/net" >}}
-On Premise APIs targeting Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.7 or later.
+On Premise APIs to target .NET Core and .NET Framework to develop geoprocessing applications for Windows, Web applications and Web Services.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/gis/family" innerText="View All On Premise APIs" >}}
@@ -29,7 +29,7 @@ Free App offering features to Convert GIS data files to Google Earth, GeoJSON & 
 Render vector and raster geo formats in your favorite browser from anywhere.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.GIS" title="Transform" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_words-splitter-app.png" productLink="https://products.aspose.app/gis/transformaion" >}}
+{{< blocks/products/pf/product pfName="Aspose.GIS" title="Transform" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_words-splitter-app.png" productLink="https://products.aspose.app/gis/transformation" >}}
 Transform your coordinates to UTM, WGS84, NAD83 and other spatial references.
 {{< /blocks/products/pf/product >}}
 
