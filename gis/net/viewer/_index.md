@@ -1,8 +1,8 @@
 ---
-title: GIS Data Manipulation APIs for .NET - Aspose 
+title: Map Viewer APIs for .NET - Aspose 
 weight: 40
 url: /net/viewer
-description: Render maps through library designed specifically for .NET developers. View your Kml, GeoJson Gpx, Kml, and more files.
+description: Render maps through library designed specifically for .NET developers. Map Viewer APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -14,7 +14,7 @@ description: Render maps through library designed specifically for .NET develope
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.GIS for .NET enables you to view geographic information from vector-based and raster geospatial data formats.
+ Aspose.GIS for .NET enables you to create map viewer for vector-based and raster geospatial data formats.
 </p>
 
 <p>
@@ -25,172 +25,6 @@ description: Render maps through library designed specifically for .NET develope
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
-
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.GIS for .NET API." >}}
-<div class="diagram1 d1-net">
- <div class="d1-row">
-  <div class="d1-col d1-left">
-   <header>
-    <i class="fa fa-database">
-    </i>
-    Symbology
-   </header>
-   <ul>
-    <li>
-     Marker Point
-    </li>
-    <li>
-     Draw Line
-    </li>
-    <li>
-     Fill Polygons
-    </li>
-    <li>
-     Make Cluster
-    </li>
-    <li>
-
-    </li>
-    <li>
-     Combine symbolizers
-    </li>
-    <li>
-     Mixed Geometry
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-calculator">
-    </i>
-     Geometry Symbolizer
-   </header>
-   <ul>
-    <li>
-     Geometry Generator
-    </li>
-    <li>
-     Mixed Geometry
-    </li>
-   </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-random">
-    </i>
-    Labeling
-   </header>
-   <ul>
-    <li>
-     Draw Labels
-    </li>
-    <li>
-     Selects a labeler to draw
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-map">
-    </i>
-    Render Formats
-   </header>
-   <ul>
-    <li>
-     SVG
-    </li>
-    <li>
-     PNG
-    </li>
-    <li>
-     BMP
-    </li>
-    <li>
-     JPEG
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-globe">
-    </i>
-    Other
-   </header>
-   <ul>
-    <li>
-     Import from SLD
-    </li>
-   </ul>
-  </div>
-  <!--/right-->
- </div>
- <!--/row-->
- <div class="d1-logo">
-  <img alt=".NET GIS Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
-  <header>
-   Aspose.GIS
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
- </div>
- <!--/logo-->
-</div>
-
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.GIS for .NET supports .NET Framework 4.7 or later under Windows, and .NET Core 2.0 or later under Windows or Linux" >}}
-<div class="diagram1 d1-net">
- <div class="d1-row">
-  <div class="d1-col d1-left">
-   <header>
-    <i class="fa fa-windows">
-    </i>
-    Windows
-   </header>
-   <ul>
-    <li>
-     .NET Framework 4.7 or later
-    </li>
-    <li>
-     .NET Core 2.0 or later
-    </li>
-   </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-linux">
-    </i>
-    Linux
-   </header>
-   <ul>
-    <li>
-     .NET Core 2.0 or later
-    </li>
-   </ul>
-  </div>
-  <!--/right-->
- </div>
- <!--/row-->
- <div class="d1-logo">
-  <img alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
-  <header>
-   Aspose.GIS
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
- </div>
- <!--/logo-->
-</div>
-
-{{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.GIS for .NET [supports popular GIS](https://docs.aspose.com/gis/net/supported-file-formats/)  file formats." >}}
 <div class="diagram1 d2 d1-net">
@@ -263,23 +97,6 @@ description: Render maps through library designed specifically for .NET develope
      : OSM
     </li>
    </ul>
-   <header>
-    <i class="fa fa-database">
-    </i>
-    Databases
-   </header>
-   <ul>
-    <li>
-     <b>
-      PostgreSQL (PostGIS)
-     </b>
-    </li>
-    <li>
-     <b>
-      SQL Server (MS SQL)
-     </b>
-    </li>
-   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -316,35 +133,13 @@ description: Render maps through library designed specifically for .NET develope
     </li>
    </ul>
    <header>
-    <i class="fa fa-file-image-o">
+    <i class="fa fa-database">
     </i>
-    Rendering
+    Databases
    </header>
    <ul>
-    <li>
-     <b>
-      Scalable Vector Graphics:
-     </b>
-     SVG
-    </li>
-    <li>
-     <b>
-      Portable Network Graphics:
-     </b>
-     PNG
-    </li>
-    <li>
-     <b>
-      JPEG:
-     </b>
-     JPEG, JPG
-    </li>
-    <li>
-     <b>
-      Bitmap:
-     </b>
-     BMP
-    </li>
+    <li><b>PostgreSQL (PostGIS)</b></li>
+    <li><b>SQL Server (MS SQL)</b></li>
    </ul>
   </div>
   <!--/right-->
@@ -368,6 +163,142 @@ description: Render maps through library designed specifically for .NET develope
 </div>
 
 {{< /blocks/products/pf/carousel-item >}}
+
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.GIS for .NET supports .NET Framework 4.7 or later under Windows, and .NET Core 2.0 or later under Windows or Linux" >}}
+<div class="diagram1 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-windows">
+    </i>
+    Windows
+   </header>
+   <ul>
+    <li>
+     .NET Framework 4.7 or later
+    </li>
+    <li>
+     .NET Core 2.0 or later
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-linux">
+    </i>
+    Linux
+   </header>
+   <ul>
+    <li>
+     .NET Core 2.0 or later
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
+  <header>
+   Aspose.GIS
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Map Viewer" description="An overview of map rendering .NET API." >}}
+<div class="diagram1 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-database">
+    </i>
+    Styling (color, sizes, etc.)
+   </header>
+   <ul>
+    <li>Point Symbolizer</li>
+    <li>Line Symbolizer</li>
+    <li>Fill Polygons</li>
+    <li>Point Clustering</li>
+    <li>Use Picture in Points</li>
+   </ul>
+   <header>
+    <i class="fa fa-calculator">
+    </i>
+     Advanced Symbolizers
+   </header>
+   <ul>
+    <li>Combine Layers</li>
+    <li>Combine Symbolizers</li>
+    <li>Geometry Generator</li>
+    <li>Mixed Geometry</li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-random">
+    </i>
+    Labeling
+   </header>
+   <ul>
+    <li>Auto Detect Places</li>
+    <li>Draw along curved lines</li>
+   </ul>
+   <header>
+    <i class="fa fa-map">
+    </i>
+    Output Formats
+   </header>
+   <ul>
+    <li>SVG</li>
+    <li>PNG</li>
+    <li>BMP</li>
+    <li>JPEG</li>
+   </ul>
+   <header>
+    <i class="fa fa-globe">
+    </i>
+    Other
+   </header>
+   <ul>
+    <li>Import from SLD</li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET GIS Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
+  <header>
+   Aspose.GIS
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
 
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
