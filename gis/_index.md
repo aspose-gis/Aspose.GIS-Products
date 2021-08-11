@@ -2,7 +2,7 @@
 title: Read, Write, Render, Geoprocess GIS files (GPX, KML, GeoJSON, GeoTiff and many others).
 weight: 270
 url: /
-description: Geoprocess many formats: GPX, KML, Shapefile (SHP), GeoJSON, GeoTiff, OSM and other. Support Well-Known Text (WKT). Reproject Geometries, Compute Topological Relations.
+description: Geoprocess many formats GPX, KML, Shapefile (SHP), GeoJSON, GeoTiff, OSM and other. Support Well-Known Text (WKT). Reproject Geometries, Compute Topological Relations.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
