@@ -26,8 +26,6 @@ description: Render maps through library designed specifically for .NET develope
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< /blocks/products/pf/carousel-item >}}
-
 {{< blocks/products/pf/carousel-item h3="Map Viewer" description="An overview of map rendering .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
