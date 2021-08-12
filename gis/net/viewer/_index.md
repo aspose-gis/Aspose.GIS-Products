@@ -26,196 +26,6 @@ description: Render maps through library designed specifically for .NET develope
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.GIS for .NET [supports popular GIS](https://docs.aspose.com/gis/net/supported-file-formats/)  file formats." >}}
-<div class="diagram1 d2 d1-net">
- <div class="d1-row">
-  <div class="d1-col d1-left">
-   <header>
-    <i class="fa fa-random">
-    </i>
-    Vector files in GIS
-   </header>
-   <ul>
-    <li>
-     <b>
-      ESRI Shapefile:
-     </b>
-     SHP, SHX, DBF
-    </li>
-    <li>
-     <b>
-      GeoJSON:
-     </b>
-     JSON, GeoJSON
-    </li>
-    <li>
-     <b>
-      TopoJSON:
-     </b>
-     JSON, TopoJSON
-    </li>
-    <li>
-     <b>
-      ESRI File Geodatabase:
-     </b>
-     GDB
-    </li>
-    <li>
-     <b>
-      Geography Markup Language:
-     </b>
-     GML
-    </li>
-    <li>
-     <b>
-      Google Earth:
-     </b>
-     KML
-    </li>
-    <li>
-     <b>
-      GPS Exchange Format:
-     </b>
-     GPX
-    </li>
-    <li>
-     <b>
-      MapInfo Interchange Format
-     </b>
-     : MIF
-    </li>
-    <li>
-     <b>
-      MapInfo Tab Format
-     </b>
-     : TAB, DAT, DBF
-    </li>
-    <li>
-     <b>
-      OpenStreetMap
-     </b>
-     : OSM
-    </li>
-   </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-random">
-    </i>
-    Raster files in GIS
-   </header>
-   <ul>
-    <li>
-     <b>
-      GeoTIFF:
-     </b>
-     TIF, TIFF
-    </li>
-    <li>
-     <b>
-      Esri ASCII / Esri grid:
-     </b>
-     ASCII
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-map">
-    </i>
-    Web Tiles
-   </header>
-   <ul>
-    <li>
-     <b>
-      XYZ Tiles:
-     </b>
-     Slippy Maps
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-database">
-    </i>
-    Databases
-   </header>
-   <ul>
-    <li><b>PostgreSQL (PostGIS)</b></li>
-    <li><b>SQL Server (MS SQL)</b></li>
-   </ul>
-  </div>
-  <!--/right-->
- </div>
- <!--/row-->
- <div class="d1-logo">
-  <img alt=".NET GIS API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
-  <header>
-   Aspose.GIS
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
- </div>
- <!--/logo-->
-</div>
-
-{{< /blocks/products/pf/carousel-item >}}
-
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.GIS for .NET supports .NET Framework 4.7 or later under Windows, and .NET Core 2.0 or later under Windows or Linux" >}}
-<div class="diagram1 d1-net">
- <div class="d1-row">
-  <div class="d1-col d1-left">
-   <header>
-    <i class="fa fa-windows">
-    </i>
-    Windows
-   </header>
-   <ul>
-    <li>
-     .NET Framework 4.7 or later
-    </li>
-    <li>
-     .NET Core 2.0 or later
-    </li>
-   </ul>
-  </div>
-  <!--/left-->
-  <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-linux">
-    </i>
-    Linux
-   </header>
-   <ul>
-    <li>
-     .NET Core 2.0 or later
-    </li>
-   </ul>
-  </div>
-  <!--/right-->
- </div>
- <!--/row-->
- <div class="d1-logo">
-  <img alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
-  <header>
-   Aspose.GIS
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
- </div>
- <!--/logo-->
-</div>
-
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Map Viewer" description="An overview of map rendering .NET API." >}}
@@ -296,9 +106,130 @@ description: Render maps through library designed specifically for .NET develope
  </div>
  <!--/logo-->
 </div>
-
 {{< /blocks/products/pf/carousel-item >}}
 
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.GIS for .NET supports .NET Framework 4.7 or later under Windows, and .NET Core 2.0 or later under Windows or Linux" >}}
+<div class="diagram1 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-windows">
+    </i>
+    Windows
+   </header>
+   <ul>
+    <li>
+     .NET Framework 4.7 or later
+    </li>
+    <li>
+     .NET Core 2.0 or later
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-linux">
+    </i>
+    Linux
+   </header>
+   <ul>
+    <li>
+     .NET Core 2.0 or later
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
+  <header>
+   Aspose.GIS
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.GIS for .NET [supports popular GIS](https://docs.aspose.com/gis/net/supported-file-formats/)  file formats." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-random">
+    </i>
+    Vector files in GIS
+   </header>
+   <ul>
+    <li><b>ESRI Shapefile:</b>SHP, SHX, DBF</li>
+    <li><b>GeoJSON:</b>JSON, GeoJSON</li>    
+    <li><b>TopoJSON:</b>JSON, TopoJSON</li>
+    <li><b>ESRI File Geodatabase:</b>GDB</li>
+    <li><b>Geography Markup Language:</b>GML</li>
+    <li><b>Google Earth:</b>KML</li>
+    <li><b>GPS Exchange Format:</b>GPX</li>
+    <li><b>MapInfo Interchange Format:</b>MIF</li>
+    <li><b>MapInfo Tab Format:</b>TAB, DAT, DBF</li>
+    <li><b>OpenStreetMap:</b>OSM</li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-random">
+    </i>
+    Raster files in GIS
+   </header>
+   <ul>
+    <li><b>GeoTIFF:</b> TIF, TIFF</li>
+    <li><b>Esri ASCII / Esri grid:</b>ASCII</li>
+   </ul>
+   <header>
+    <i class="fa fa-map">
+    </i>
+    Web Tiles
+   </header>
+   <ul>
+    <li><b>XYZ Tiles:</b>Slippy Maps</li>
+   </ul>
+   <header>
+    <i class="fa fa-database">
+    </i>
+    Databases
+   </header>
+   <ul>
+    <li><b>PostgreSQL (PostGIS)</b></li>
+    <li><b>SQL Server (MS SQL)</b></li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET GIS API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"/>
+  <header>
+   Aspose.GIS
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+{{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
@@ -316,7 +247,9 @@ description: Render maps through library designed specifically for .NET develope
    </p>
 
    <div class="col-lg-12">
-
+![london roads sample](london-roads.png)
+![city quarter sample](city-quarter.png)
+![africa rivers sample](africa-rivers.png)
    </div>
 
    <div class="col-lg-12">
