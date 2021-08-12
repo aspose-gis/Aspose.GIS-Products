@@ -316,11 +316,6 @@ description: Render maps through library designed specifically for .NET develope
    </p>
 
    <div class="col-lg-12">
-![london roads sample](london-roads.png)
-![city quarter sample](city-quarter.png)
-![africa rivers sample](africa-rivers.png)
-
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderMap-RenderWithDefaultSettings.cs" >}}
 
    </div>
 
