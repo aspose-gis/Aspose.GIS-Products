@@ -11,7 +11,7 @@ description: Geoprocess many formats GPX, KML, Shapefile (SHP), GeoJSON, GeoTiff
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.GIS On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.GIS for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png" productLink="https://products.aspose.com/gis/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.GIS for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productLink="https://products.aspose.com/gis/net" >}}
 On Premise APIs to target .NET Core and .NET Framework to develop geoprocessing applications for Windows, Web applications and Web Services.
 {{< /blocks/products/pf/product >}}
 

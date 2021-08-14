@@ -6,7 +6,7 @@ description: Render maps through library designed specifically for .NET develope
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Map Rendering" h2="View and render map with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/header/aspose_gis-for-net.png" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Map Rendering" h2="View and render map with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
 
