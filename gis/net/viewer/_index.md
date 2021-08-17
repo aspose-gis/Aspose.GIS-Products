@@ -26,8 +26,6 @@ description: Render maps through library designed specifically for .NET develope
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< /blocks/products/pf/carousel-item >}}
-
 {{< blocks/products/pf/carousel-item h3="Map Viewer" description="An overview of map rendering .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
@@ -158,6 +156,7 @@ description: Render maps through library designed specifically for .NET develope
  </div>
  <!--/logo-->
 </div>
+{{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.GIS for .NET [supports popular GIS](https://docs.aspose.com/gis/net/supported-file-formats/)  file formats." >}}
 <div class="diagram1 d2 d1-net">
@@ -247,9 +246,18 @@ description: Render maps through library designed specifically for .NET develope
    </p>
 
    <div class="col-lg-12">
-![london roads sample](london-roads.png)
-![city quarter sample](city-quarter.png)
-![africa rivers sample](africa-rivers.png)
+    <h2 class="h2title">
+     Gallery Maps
+    </h2>
+
+      <div class="row">
+        <div class="col-md-12">{{< figure src="london-roads.png" title="London Roads Map" alt="london roads map" class="img-fluid" width="100%" >}} </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">{{< figure src="city-quarter.png" title="City Quarter Map" alt="City Quarter map" class="img-fluid" width="100%" >}} </div>
+        <div class="col-md-6">{{< figure src="africa-rivers.png" title="Africa Rivers Map" alt="Africa Rivers map" class="img-fluid" width="100%">}} </div>
+      </div>
+
    </div>
 
    <div class="col-lg-12">
@@ -257,26 +265,12 @@ description: Render maps through library designed specifically for .NET develope
      Render Maps
     </h2>
     <p>
-     Data is only useful when someone can see it. .NET GIS library makes it easy and fast to export GIS data to vector or raster images and provides rich symbology for complex visualization scenarios.
+     Data is only useful when someone can see it. .NET GIS library makes it easy and fast to export GIS data to vector or raster images and provides rich symbology for complex visualization scenarios. 
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Render a TopoJSON map to SVG - C#
-     </h3>
-     <pre><code class="cs">using (var map = new Map(800, 600))
-
-{
-
-    var layer = VectorLayer.Open(dir + "map.json", Drivers.TopoJson);
-
-    var style = new SimpleFill { FillColor = Color.Azure, StrokeWidth = 1.5 };
-
-    map.Add(layer, style);
-
-    map.Render(dir + "mymap.svg", Renderers.Svg);
-
-}</code></pre>
-    </div>
+    <p>
+     Here is how to render a map from a shapefile to SVG using default settings:
+    </p>
+     {{< gist aspose-com-gists 10f3783b9581d10bc69dbada42705d2c "Examples-CSharp-Rendering-RenderMap-RenderWithDefaultSettings.cs" >}}
    </div>
   </div>
  </div>
