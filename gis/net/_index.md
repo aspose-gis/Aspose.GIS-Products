@@ -217,66 +217,17 @@ description: Create, read, convert, process GIS data and render maps though libr
     Vector files in GIS
    </header>
    <ul>
-    <li>
-     <b>
-      ESRI Shapefile:
-     </b>
-     SHP, SHX, DBF
-    </li>
-    <li>
-     <b>
-      GeoJSON:
-     </b>
-     JSON, GeoJSON
-    </li>
-    <li>
-     <b>
-      TopoJSON:
-     </b>
-     JSON, TopoJSON
-    </li>
-    <li>
-     <b>
-      ESRI File Geodatabase:
-     </b>
-     GDB
-    </li>
-    <li>
-     <b>
-      Geography Markup Language:
-     </b>
-     GML
-    </li>
-    <li>
-     <b>
-      Google Earth:
-     </b>
-     KML
-    </li>
-    <li>
-     <b>
-      GPS Exchange Format:
-     </b>
-     GPX
-    </li>
-    <li>
-     <b>
-      MapInfo Interchange Format
-     </b>
-     : MIF
-    </li>
-    <li>
-     <b>
-      MapInfo Tab Format
-     </b>
-     : TAB, DAT, DBF
-    </li>
-    <li>
-     <b>
-      OpenStreetMap
-     </b>
-     : OSM
-    </li>
+    <li><b>      ESRI Shapefile:     </b>     SHP, SHX, DBF    </li>
+    <li><b>      GeoJSON:     </b>     JSON, GeoJSON    </li>
+    <li><b>      TopoJSON:     </b>     JSON, TopoJSON    </li>
+    <li><b>      ESRI File Geodatabase:     </b>     GDB    </li>
+    <li><b>      Geography Markup Language:     </b>     GML    </li>
+    <li><b>      Google Earth:     </b>     KML    </li>
+    <li><b>      GPS Exchange Format:     </b>     GPX    </li>
+    <li><b>      MapInfo Interchange Format     </b>     : MIF    </li>
+    <li><b>      MapInfo Tab Format     </b>     : TAB, DAT, DBF    </li>
+    <li><b>OpenStreetMap</b>: OSM </li>
+    <li><b>Comma-Separated Values:</b>CSV</li>
    </ul>
    <header>
     <i class="fa fa-database">

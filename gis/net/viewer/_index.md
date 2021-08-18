@@ -2,11 +2,11 @@
 title: Map Viewer APIs for .NET - Aspose 
 weight: 40
 url: /net/viewer
-description: Render maps through library designed specifically for .NET developers. Map Viewer APIs for Kml, GeoJson Gpx, Kml, and other files.
+description: Develop map viewer through library designed specifically for .NET developers. Map Rendering APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Map Rendering" h2="View and render map with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Map Rendering" h2="Develop a map viewer with an API designed specifically for .NET developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
 
@@ -14,7 +14,7 @@ description: Render maps through library designed specifically for .NET develope
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.GIS for .NET enables you to create map viewer for vector-based and raster geospatial data formats.
+ Aspose.GIS for .NET enables you to create a map viewer for vector-based and raster geospatial data formats. Data is only useful when someone can see it. .NET GIS library makes it easy and fast to export GIS data to vector or raster images and provides rich symbology for complex visualization scenarios. 
 </p>
 
 <p>
@@ -178,6 +178,7 @@ description: Render maps through library designed specifically for .NET develope
     <li><b>MapInfo Interchange Format:</b>MIF</li>
     <li><b>MapInfo Tab Format:</b>TAB, DAT, DBF</li>
     <li><b>OpenStreetMap:</b>OSM</li>
+    <li><b>Comma-Separated Values:</b>CSV</li>
    </ul>
   </div>
   <!--/left-->
@@ -245,11 +246,78 @@ description: Render maps through library designed specifically for .NET develope
    <p>
    </p>
 
+   <div class="col-lg-4">
+    <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+      Combine several layers on one map image. 
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Apply styles for points, lines, and surfaces.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-circle-o-notch ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Import styles from SLD format.
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+      Draw labels and text. Apply styles for text and auto detect places on a map.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Draw clustered points.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Save a created map in SVG, PNG, BMP, or JPEG.
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-map-marker ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manage the spatial reference system for your map.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-picture-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Draw labels along curved lines.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-map-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Use advanced rendering: Combine Symbolizers, Geometry Generator, Mixed Geometry.
+    </p>
+   </div>
+
+
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Gallery Maps
     </h2>
-
       <div class="row">
         <div class="col-md-12">{{< figure src="london-roads.png" title="London Roads Map" alt="london roads map" class="img-fluid" width="100%" >}} </div>
       </div>
@@ -257,16 +325,12 @@ description: Render maps through library designed specifically for .NET develope
         <div class="col-md-6">{{< figure src="city-quarter.png" title="City Quarter Map" alt="City Quarter map" class="img-fluid" width="100%" >}} </div>
         <div class="col-md-6">{{< figure src="africa-rivers.png" title="Africa Rivers Map" alt="Africa Rivers map" class="img-fluid" width="100%">}} </div>
       </div>
-
    </div>
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Render Maps
+     Map Viewer - Code Sample for .NET
     </h2>
-    <p>
-     Data is only useful when someone can see it. .NET GIS library makes it easy and fast to export GIS data to vector or raster images and provides rich symbology for complex visualization scenarios. 
-    </p>
     <p>
      Here is how to render a map from a shapefile to SVG using default settings:
     </p>
