@@ -39,6 +39,6 @@ Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
