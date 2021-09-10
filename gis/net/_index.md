@@ -10,7 +10,7 @@ description: Create, read, convert, process GIS data and render maps though libr
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com/pricing/gis/net" docsLink="https://docs.aspose.com/gis/net/" installationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/gis/net/" installationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

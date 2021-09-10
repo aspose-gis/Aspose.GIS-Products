@@ -10,7 +10,7 @@ description: Develop map viewer through library designed specifically for .NET d
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com/pricing/gis/net" docsLink="https://docs.aspose.com/gis/net/" installationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/gis/net/" installationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
