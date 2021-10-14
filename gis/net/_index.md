@@ -13,13 +13,9 @@ description: Create, read, convert, process GIS data and render maps though libr
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" liveDemosLink="https://products.aspose.app/gis/family" PricingLink="https://purchase.aspose.com/pricing/gis/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/gis/net/" installationsDocsLink="https://docs.aspose.com/gis/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.GIS/" nugetPackageName="Aspose.GIS" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.GIS for .NET enables you to access &amp; manipulate geographic information from vector-based geospatial data formats. API supports to read, write &amp; convert most popular GIS file formats such as Shapefile, GeoJSON, FIleGDB, KML &amp; OSM XML as well as render a map from supported formats to SVG.  Furthermore, a developer can easily customize rendering and feature styles to get the desired map look.
-</p>
+<p>Aspose.GIS for .NET enables you to access &amp; manipulate geographic information from vector-based geospatial data formats. API supports to read, write &amp; convert most popular GIS file formats such as Shapefile, GeoJSON, FIleGDB, KML &amp; OSM XML as well as render a map from supported formats to SVG.  Furthermore, a developer can easily customize rendering and feature styles to get the desired map look.</p>
 
-<p>
- Aspose.GIS for .NET is designed with simplicity, performance, usability &amp; portability in mind. It contains APIs to be used with .NET Framework, .NET Core &amp; Xamarin platforms, enabling you to build cross-platform applications with great ease.
-</p>
+<p>Aspose.GIS for .NET is designed with simplicity, performance, usability &amp; portability in mind. It contains APIs to be used with .NET Framework, .NET Core &amp; Xamarin platforms, enabling you to build cross-platform applications with great ease.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
