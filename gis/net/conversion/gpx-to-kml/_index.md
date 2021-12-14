@@ -1,8 +1,8 @@
 ---
-title: Convert GPX to KML GIS Data via .NET 
-weight: 80
+title: Convert GPX to KML GIS Data via .NET or C#
+weight: 120
 url: /net/conversion/gpx-to-kml/ 
-description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
+description: Try our On-Premise APIs to convert GPX to KML on .NET Framework, .NET Core, C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -64,11 +64,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/code-block title="Save GPX as KML - C#" offSpacer="" %}}
 
-```cs
-// Convert GPX GIS data to KML data
-VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.kml", Drivers.Kml);
-
-```
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-kml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,15 +93,13 @@ VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.kml", Driver
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-Files with GPX extension represent GPS Exchange format for interchange of GPS data between applications and web services on the internet. It is a light-weight XML file format that contains GPS data i.e. waypoints, routes and tracks to be imported and red by multiple programs. GPX file format is open and is supported by variety of applications and GPS devices. GPS data from such files can be loaded for display on mapping applications for geo-spatial purposes.
-Read More
+GPX extension represents GPS Exchange format for interchange of GPS data between applications and web services on the internet. It is a light-weight XML format that contains GPS data i.e. waypoints, routes and tracks to be imported and red by multiple programs. GPX is open and is supported by variety of applications and GPS devices.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML, (Keyhole Markup Language contains) geospatial information in XML notation. Files saved as KML can be opened in Geographic Information System (GIS) applications provided they support it. Many applications have started providing support for KML file format after it has been adopted as international standard. KML uses a tag-based structure with nested elements and attributes. All the tags are case-sensitive and the order of these tags, as per KML Reference, is important to follow.
-Read More
+KML (Keyhole Markup Language) contains geospatial information in XML notation. KML can be opened in Geographic Information System (GIS) applications provided they support it. Many applications have started providing support for KML format after it has been adopted as international standard.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -117,9 +111,14 @@ Read More
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert GPX into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GEOJSON" description="JSON Based Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shx" name="GPX TO SHX" description="Shapefile File Extension" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
