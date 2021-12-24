@@ -83,7 +83,7 @@ PM> Install-Package Aspose.GIS
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. ‎
+ Aspose.GIS for .NET is a GIS data manipulation and conversion API. It fully supports reading, writing and converting famous GIS data formats such as ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats and OpenStreetMap. It is a standalone .NET based API and does not require any GIS based softwares like ArcGIS / ArcMap, QGIS etc. 
 
 
 
