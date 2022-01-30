@@ -132,7 +132,7 @@ description: Create, read, convert, process GIS data and render maps though libr
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET GIS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
+  <img width="70" height="75" alt=".NET GIS Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
   <header>
    Aspose.GIS
   </header>
@@ -185,7 +185,7 @@ description: Create, read, convert, process GIS data and render maps though libr
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
+  <img width="70" height="75" alt="GIS Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
   <header>
    Aspose.GIS
   </header>
@@ -313,7 +313,7 @@ description: Create, read, convert, process GIS data and render maps though libr
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET GIS API" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
+  <img width="70" height="75" alt=".NET GIS API" src="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg"/>
   <header>
    Aspose.GIS
   </header>
