@@ -790,13 +790,12 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/gis/python-net/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/gis/python-net" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-gis/Aspose.GIS-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="Python Source Code" href="https://github.com/aspose-gis/Aspose.GIS-for-Python-Net" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
@@ -813,7 +812,7 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
 
 
 {{< /blocks/products/pf/main-wrap-class >}}
