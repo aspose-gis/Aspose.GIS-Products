@@ -12,7 +12,11 @@ description: GIS library for .NET developers. Process and convert GPX, KML, GeoT
 {{< blocks/products/pf/product-card-row title="Aspose.GIS High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.GIS for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" productLink="/gis/net/" >}}
-Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.7 or later.
+Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.7, .NET Standard 2.0, .NET 6, .NET 8
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.GIS for Python" title="via .NET" imgSrc="aspose_gis-for-python-via-net.svg" productLink="/gis/python-net/" >}}
+Python wrapper supports Python 3.5-3.13. Supported platforms: Win32, Windows x64, Linux x86/x64, MacOS on ARM Apple Silicon and MacOS x86/x64.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
