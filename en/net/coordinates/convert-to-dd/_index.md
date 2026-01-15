@@ -1,7 +1,7 @@
 ---
 title: Convert to Decimal Degrees (DD) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-dd
+url: /en/net/coordinates/convert-to-dd
 description: Convert to Decimal Degrees (DD) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

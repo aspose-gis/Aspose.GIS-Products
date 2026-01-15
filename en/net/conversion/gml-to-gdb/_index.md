@@ -1,7 +1,7 @@
 ---
 title: Convert GML to GDB GIS Data via .NET 
 weight: 290
-url: /net/conversion/gml-to-gdb/ 
+url: /en/net/conversion/gml-to-gdb/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

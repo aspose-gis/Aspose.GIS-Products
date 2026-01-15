@@ -1,7 +1,7 @@
 ---
 title: Convert MapInfo-TAB to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/mapinfo-tab-to-gpx/ 
+url: /en/net/conversion/mapinfo-tab-to-gpx/ 
 description: Try our On-Premise APIs to convert MapInfo-TAB to GPX on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert SHP to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/shp-to-gpx/ 
+url: /en/net/conversion/shp-to-gpx/ 
 description: Try our On-Premise APIs to convert SHP to GPX on .NET Framework, .NET Core, C#.
 ---
 

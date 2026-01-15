@@ -1,7 +1,7 @@
 ---
 title: Convert TOPOJSON to SHX GIS Data via .NET 
 weight: 260
-url: /net/conversion/topojson-to-shx/ 
+url: /en/net/conversion/topojson-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

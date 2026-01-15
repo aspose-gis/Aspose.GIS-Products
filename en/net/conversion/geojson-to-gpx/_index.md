@@ -1,7 +1,7 @@
 ---
 title: Convert GeoJSON to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/geojson-to-gpx/ 
+url: /en/net/conversion/geojson-to-gpx/ 
 description: Try our On-Premise APIs to convert GeoJSON to GPX on .NET Framework, .NET Core, C#.
 ---
 

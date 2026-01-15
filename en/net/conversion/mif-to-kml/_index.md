@@ -1,7 +1,7 @@
 ---
 title: Convert MIF to KML GIS Data via .NET 
 weight: 50
-url: /net/conversion/mif-to-kml/ 
+url: /en/net/conversion/mif-to-kml/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

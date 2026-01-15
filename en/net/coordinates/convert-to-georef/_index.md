@@ -1,7 +1,7 @@
 ---
 title: Convert to World Geographic Reference System (GeoRef) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-georef
+url: /en/net/coordinates/convert-to-georef
 description: Convert to World Geographic Reference System (GeoRef) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

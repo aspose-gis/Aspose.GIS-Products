@@ -1,7 +1,7 @@
 ---
 title: Map Viewer APIs for .NET - Aspose 
 weight: 40
-url: /net/viewer
+url: /en/net/viewer
 description: Develop map viewer through library designed specifically for .NET developers. Map Rendering APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 

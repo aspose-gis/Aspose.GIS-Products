@@ -1,7 +1,7 @@
 ---
 title: Map Viewer APIs for .NET - Aspose 
 weight: 40
-url: /net/viewer/shp
+url: /en/net/viewer/shp
 description: Develop SHP viewer through library designed specifically for .NET developers. Map Rendering APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: C# GIS Data Conversion
-url: /net/conversion/
+url: /en/net/conversion/
 description: Convert GIS data in different formats including GeoJSON, ESRI Shapefile SHX, TopoJSON, FIleGDB, GML, KML, MIF, OSM with few lines of C# code via .NET library.
 ---
 

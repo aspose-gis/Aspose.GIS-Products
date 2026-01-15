@@ -1,7 +1,7 @@
 ---
 title: Convert GPX to TopoJSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gpx-to-topojson/ 
+url: /en/net/conversion/gpx-to-topojson/ 
 description: Try our On-Premise APIs to convert GPX to TopoJSON on .NET Framework, .NET Core, C#.
 ---
 

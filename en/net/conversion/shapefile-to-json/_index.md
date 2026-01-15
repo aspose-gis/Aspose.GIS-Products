@@ -1,7 +1,7 @@
 ---
 title: Convert Shapefile to JSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/shapefile-to-json/ 
+url: /en/net/conversion/shapefile-to-json/ 
 description: Try our On-Premise APIs to convert Shapefile to JSON on .NET Framework, .NET Core, C#.
 ---
 

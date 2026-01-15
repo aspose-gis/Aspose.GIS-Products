@@ -1,7 +1,7 @@
 ---
 title: Convert to Degree Minute Seconds (DMS) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-dms
+url: /en/net/coordinates/convert-to-dms
 description: Convert to Degree Minute Seconds (DMS) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

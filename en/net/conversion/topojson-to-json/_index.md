@@ -1,7 +1,7 @@
 ---
 title: Convert TOPOJSON to JSON GIS Data via .NET 
 weight: 160
-url: /net/conversion/topojson-to-json/ 
+url: /en/net/conversion/topojson-to-json/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

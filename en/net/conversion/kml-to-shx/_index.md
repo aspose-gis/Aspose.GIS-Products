@@ -1,7 +1,7 @@
 ---
 title: Convert KML to SHX GIS Data via .NET 
 weight: 110
-url: /net/conversion/kml-to-shx/ 
+url: /en/net/conversion/kml-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

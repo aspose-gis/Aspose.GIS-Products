@@ -1,7 +1,7 @@
 ---
 title: Coordinates Converter APIs for .NET - Aspose 
 weight: 40
-url: /net/coordinates
+url: /en/net/coordinates
 description: Develop a coordinates converter through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

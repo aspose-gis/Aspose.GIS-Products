@@ -1,7 +1,7 @@
 ---
 title: Map Viewer APIs for .NET - Aspose 
 weight: 40
-url: /net/viewer/mapinfo-tab
+url: /en/net/viewer/mapinfo-tab
 description: Develop MapInfo-TAB viewer through library designed specifically for .NET developers. Map Rendering APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 

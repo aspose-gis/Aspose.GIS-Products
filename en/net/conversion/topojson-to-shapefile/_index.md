@@ -1,7 +1,7 @@
 ---
 title: Convert TopoJSON to Shapefile GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/topojson-to-shapefile/ 
+url: /en/net/conversion/topojson-to-shapefile/ 
 description: Try our On-Premise APIs to convert TopoJSON to Shapefile on .NET Framework, .NET Core, C#.
 ---
 

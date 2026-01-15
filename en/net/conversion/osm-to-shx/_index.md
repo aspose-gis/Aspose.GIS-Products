@@ -1,7 +1,7 @@
 ---
 title: Convert OSM to SHX GIS Data via .NET 
 weight: 250
-url: /net/conversion/osm-to-shx/ 
+url: /en/net/conversion/osm-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

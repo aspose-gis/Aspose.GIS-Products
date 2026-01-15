@@ -1,7 +1,7 @@
 ---
 title: Convert GML to CSV GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gml-to-csv/ 
+url: /en/net/conversion/gml-to-csv/ 
 description: Try our On-Premise APIs to convert GML to CSV on .NET Framework, .NET Core, C#.
 ---
 

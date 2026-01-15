@@ -1,7 +1,7 @@
 ---
 title: Convert GEOJSON to JSON GIS Data via .NET 
 weight: 90
-url: /net/conversion/geojson-to-json/ 
+url: /en/net/conversion/geojson-to-json/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

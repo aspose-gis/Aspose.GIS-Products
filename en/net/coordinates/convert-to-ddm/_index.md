@@ -1,7 +1,7 @@
 ---
 title: Convert to Decimal Degree Minutes (DDM) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-ddm
+url: /en/net/coordinates/convert-to-ddm
 description: Convert to Decimal Degree Minutes (DDM) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

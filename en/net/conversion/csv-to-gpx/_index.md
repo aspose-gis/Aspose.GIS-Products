@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/csv-to-gpx/ 
+url: /en/net/conversion/csv-to-gpx/ 
 description: Try our On-Premise APIs to convert CSV to GPX on .NET Framework, .NET Core, C#.
 ---
 

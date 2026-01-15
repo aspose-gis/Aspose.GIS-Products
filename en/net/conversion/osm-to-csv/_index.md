@@ -1,7 +1,7 @@
 ---
 title: Convert OSM to CSV GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/osm-to-csv/ 
+url: /en/net/conversion/osm-to-csv/ 
 description: Try our On-Premise APIs to convert OSM to CSV on .NET Framework, .NET Core, C#.
 ---
 

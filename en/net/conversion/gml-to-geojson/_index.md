@@ -1,7 +1,7 @@
 ---
 title: Convert GML to GeoJSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gml-to-geojson/ 
+url: /en/net/conversion/gml-to-geojson/ 
 description: Try our On-Premise APIs to convert GML to GeoJSON on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert OSM to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/osm-to-gpx/ 
+url: /en/net/conversion/osm-to-gpx/ 
 description: Try our On-Premise APIs to convert OSM to GPX on .NET Framework, .NET Core, C#.
 ---
 

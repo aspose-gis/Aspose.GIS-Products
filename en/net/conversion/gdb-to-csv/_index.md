@@ -1,7 +1,7 @@
 ---
 title: Convert GDB to CSV GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gdb-to-csv/ 
+url: /en/net/conversion/gdb-to-csv/ 
 description: Try our On-Premise APIs to convert GDB to CSV on .NET Framework, .NET Core, C#.
 ---
 

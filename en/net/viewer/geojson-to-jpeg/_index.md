@@ -1,7 +1,7 @@
 ---
 title: Map Viewer APIs for .NET - Aspose 
 weight: 40
-url: /net/viewer/geojson-to-jpeg
+url: /en/net/viewer/geojson-to-jpeg
 description: Convert from GeoJSON to JPEG through library designed specifically for .NET developers. Map Rendering APIs for Kml, GeoJson Gpx, Kml, and other files.
 ---
 

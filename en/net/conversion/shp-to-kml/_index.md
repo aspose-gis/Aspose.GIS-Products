@@ -1,7 +1,7 @@
 ---
 title: Convert SHP to KML GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/shp-to-kml/ 
+url: /en/net/conversion/shp-to-kml/ 
 description: Try our On-Premise APIs to convert SHP to KML on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert to Military Grid Reference System (MGRS) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-mgrs
+url: /en/net/coordinates/convert-to-mgrs
 description: Convert to Military Grid Reference System (MGRS) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

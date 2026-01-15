@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to SHX GIS Data via .NET 
 weight: 280
-url: /net/conversion/json-to-shx/ 
+url: /en/net/conversion/json-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

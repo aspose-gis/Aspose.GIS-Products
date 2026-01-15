@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to SHP GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/csv-to-shp/ 
+url: /en/net/conversion/csv-to-shp/ 
 description: Try our On-Premise APIs to convert CSV to SHP on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert OSM to KML GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/osm-to-kml/ 
+url: /en/net/conversion/osm-to-kml/ 
 description: Try our On-Premise APIs to convert OSM to KML on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert GPX to JSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gpx-to-json/ 
+url: /en/net/conversion/gpx-to-json/ 
 description: Try our On-Premise APIs to convert GPX to JSON on .NET Framework, .NET Core, C#.
 ---
 

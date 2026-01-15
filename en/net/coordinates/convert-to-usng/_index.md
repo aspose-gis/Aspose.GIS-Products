@@ -1,7 +1,7 @@
 ---
 title: Convert to United States National Grid (USNG) - APIs for .NET
 weight: 40
-url: /net/coordinates/convert-to-usng
+url: /en/net/coordinates/convert-to-usng
 description: Convert to United States National Grid (USNG) through library designed specifically for .NET developers. Coordinates Converter APIs for DD, DMS, DDM, GeoRef, and other formats.
 ---
 

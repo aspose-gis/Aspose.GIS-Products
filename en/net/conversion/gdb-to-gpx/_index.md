@@ -1,7 +1,7 @@
 ---
 title: Convert GDB to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gdb-to-gpx/ 
+url: /en/net/conversion/gdb-to-gpx/ 
 description: Try our On-Premise APIs to convert GDB to GPX on .NET Framework, .NET Core, C#.
 ---
 

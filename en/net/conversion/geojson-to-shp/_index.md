@@ -1,7 +1,7 @@
 ---
 title: Convert GeoJSON to SHP GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/geojson-to-shp/ 
+url: /en/net/conversion/geojson-to-shp/ 
 description: Try our On-Premise APIs to convert GeoJSON to SHP on .NET Framework, .NET Core, C#.
 ---
 

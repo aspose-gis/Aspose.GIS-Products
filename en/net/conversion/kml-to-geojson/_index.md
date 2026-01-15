@@ -1,7 +1,7 @@
 ---
 title: Convert KML to GeoJSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/kml-to-geojson/ 
+url: /en/net/conversion/kml-to-geojson/ 
 description: Try our On-Premise APIs to convert KML to GeoJSON on .NET Framework, .NET Core, C#.
 ---
 

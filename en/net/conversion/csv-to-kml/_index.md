@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to KML GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/csv-to-kml/ 
+url: /en/net/conversion/csv-to-kml/ 
 description: Try our On-Premise APIs to convert CSV to KML on .NET Framework, .NET Core, C#.
 ---
 

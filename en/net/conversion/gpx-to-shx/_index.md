@@ -1,7 +1,7 @@
 ---
 title: Convert GPX to SHX GIS Data via .NET 
 weight: 20
-url: /net/conversion/gpx-to-shx/ 
+url: /en/net/conversion/gpx-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert GML to SHP GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gml-to-shp/ 
+url: /en/net/conversion/gml-to-shp/ 
 description: Try our On-Premise APIs to convert GML to SHP on .NET Framework, .NET Core, C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convert GML to JSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gml-to-json/ 
+url: /en/net/conversion/gml-to-json/ 
 description: Try our On-Premise APIs to convert GML to JSON on .NET Framework, .NET Core, C#.
 ---
 

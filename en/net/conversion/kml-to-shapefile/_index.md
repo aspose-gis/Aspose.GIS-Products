@@ -1,7 +1,7 @@
 ---
 title: Convert KML to Shapefile GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/kml-to-shapefile/ 
+url: /en/net/conversion/kml-to-shapefile/ 
 description: Try our On-Premise APIs to convert KML to Shapefile on .NET Framework, .NET Core, C#.
 ---
 

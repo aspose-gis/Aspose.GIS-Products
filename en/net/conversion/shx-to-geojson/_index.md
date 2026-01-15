@@ -1,7 +1,7 @@
 ---
 title: Convert SHX to GEOJSON GIS Data via .NET 
 weight: 240
-url: /net/conversion/shx-to-geojson/ 
+url: /en/net/conversion/shx-to-geojson/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

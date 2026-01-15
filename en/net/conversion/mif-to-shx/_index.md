@@ -1,7 +1,7 @@
 ---
 title: Convert MIF to SHX GIS Data via .NET 
 weight: 130
-url: /net/conversion/mif-to-shx/ 
+url: /en/net/conversion/mif-to-shx/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

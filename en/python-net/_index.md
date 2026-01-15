@@ -1,7 +1,7 @@
 ---
 title: GIS Data Manipulation APIs for Python via .NET | Aspose.GIS
 weight: 40
-url: /python-net/ 
+url: /en/python-net/ 
 description: Create, read, convert, and process GIS data including GeoPackage, Shapefile, and raster formats. Render maps with a high-performance .NET API for Python on Windows, macOS (Intel & ARM).
 ---
 
@@ -400,73 +400,7 @@ description: Create, read, convert, and process GIS data including GeoPackage, S
     <p>
     Please check list of support for the most popular formats that can be processed in Aspose.GIS for Python
     </p>
-        <style>        
-        .description {
-            font-size: 1.1rem;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        
-        .table-container {
-            overflow-x: auto;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(200, 200, 200, 0.3);
-            margin-bottom: 30px;
-        }
-        
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            min-width: 600px;
-        }
-        
-        th, td {
-            padding: 5px;
-            text-align: left;
-            border: 1px solid #e1e1e1;
-
-        }
-
-        th {
-            padding: 10px;
-        }
-        
-        th {
-            background-color: #3498db;
-            color: white;
-            font-weight: 600;
-            position: sticky;
-            top: 0;
-        }
-        
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-        
-        tr:hover {
-            background-color: #e8f4fc;
-        }
-        
-        .extensions {
-            font-family: monospace;
-            font-size: 0.9rem;
-        }
-        
-        .checkmark {
-            color: #27ae60;
-            font-weight: bold;
-            text-align: center;
-            font-size: 1.2rem;
-        }
-        
-        .x-mark {
-            color: #e74c3c;
-            font-weight: bold;
-            text-align: center;
-            font-size: 1.2rem;
-        }    
-    </style>
+        <style>PLACEHOLDER</style>
             <table style="margin: 10px 0 10px 0; border-collapse: collapse;" border ="1" >
                 <thead>
                     <tr>

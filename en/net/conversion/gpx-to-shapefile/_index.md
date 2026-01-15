@@ -1,7 +1,7 @@
 ---
 title: Convert GPX to Shapefile GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/gpx-to-shapefile/ 
+url: /en/net/conversion/gpx-to-shapefile/ 
 description: Try our On-Premise APIs to convert GPX to Shapefile on .NET Framework, .NET Core, C#.
 ---
 

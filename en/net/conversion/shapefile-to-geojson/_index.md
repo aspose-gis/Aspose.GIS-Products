@@ -1,7 +1,7 @@
 ---
 title: Convert Shapefile to GeoJSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/shapefile-to-geojson/ 
+url: /en/net/conversion/shapefile-to-geojson/ 
 description: Try our On-Premise APIs to convert Shapefile to GeoJSON on .NET Framework, .NET Core, C#.
 ---
 

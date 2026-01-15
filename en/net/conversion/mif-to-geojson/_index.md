@@ -1,7 +1,7 @@
 ---
 title: Convert MIF to GEOJSON GIS Data via .NET 
 weight: 70
-url: /net/conversion/mif-to-geojson/ 
+url: /en/net/conversion/mif-to-geojson/ 
 description: Try our On-Premise APIs for your GIS data conversion on .NET Framework, .NET Core.
 ---
 

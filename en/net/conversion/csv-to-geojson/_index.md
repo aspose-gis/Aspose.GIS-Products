@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to GeoJSON GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/csv-to-geojson/ 
+url: /en/net/conversion/csv-to-geojson/ 
 description: Try our On-Premise APIs to convert CSV to GeoJSON on .NET Framework, .NET Core, C#.
 ---
 

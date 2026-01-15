@@ -1,7 +1,7 @@
 ---
 title: GIS Data Manipulation APIs for .NET - Aspose 
 weight: 40
-url: /net/ 
+url: /en/net/ 
 description: Create, read, convert, process GIS data and render maps though library designed specifically for .NET developers.
 ---
 

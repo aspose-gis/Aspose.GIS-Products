@@ -1,7 +1,7 @@
 ---
 title: Convert KML to GPX GIS Data via .NET or C#
 weight: 120
-url: /net/conversion/kml-to-gpx/ 
+url: /en/net/conversion/kml-to-gpx/ 
 description: Try our On-Premise APIs to convert KML to GPX on .NET Framework, .NET Core, C#.
 ---
 
