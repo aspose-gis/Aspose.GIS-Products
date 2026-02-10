@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="الأمر" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // تحويل بيانات GIS SHX إلى بيانات JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -87,8 +83,6 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json",
     {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJson وقواعد بيانات ESRI Geodatabase ولغة ترميز جغرافيا Geography Markup Language وأنظمة Google Earth وتنسيق تبادل GPS OpenStreetMap. إنها واجهة برمجة تطبيقات قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -121,6 +115,5 @@ JSON (تدوين كائن JavaScript) هو تنسيق ملف قياسي مفتو
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

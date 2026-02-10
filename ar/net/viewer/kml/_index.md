@@ -1,11 +1,10 @@
 ---
-title: واجهات برمجة تطبيقات عارض الخرائط لـ .NET - Aspose 
+title: واجهات برمجة تطبيقات عارض الخرائط لـ .NET - Aspose
 weight: 40
 url: /ar/net/viewer/kml
 description: قم بتطوير عارض KML من خلال مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لعرض الخرائط لملفات Kml و GeoJson Gpx و Kml وغيرها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs لعارض KML" h2="قم بتطوير عارض KML باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -362,7 +361,6 @@ description: قم بتطوير عارض KML من خلال مكتبة مصممة 
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}

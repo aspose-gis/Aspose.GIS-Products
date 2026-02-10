@@ -15,7 +15,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 
  من أجل تحويل MIF إلى GEOJSON، سنستخدم
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net)
- واجهة برمجة التطبيقات (API) وهي واجهة برمجة تطبيقات GIS غنية بالميزات وقوية وسهلة الاستخدام لمنصة C#. افتح
+ واجهة برمجة تطبيقات (API) وهي واجهة برمجة تطبيقات GIS غنية بالميزات وقوية وسهلة الاستخدام لمنصة C#. افتح
  [NuGet](https://www.nuget.org/packages/aspose.gis)
  مدير الحزم، وابحث عن
  **Aspose.GIS**
@@ -74,8 +74,7 @@ Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +119,5 @@ Read More
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

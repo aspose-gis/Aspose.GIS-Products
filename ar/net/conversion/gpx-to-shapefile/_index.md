@@ -1,7 +1,7 @@
 ---
 title: Convert GPX to Shapefile GIS Data via .NET or C#
 weight: 120
-url: /ar/net/conversion/gpx-to-shapefile/ 
+url: /ar/net/conversion/gpx-to-shapefile/
 description: جرّب واجهات برمجة التطبيقات (APIs) الخاصة بنا المحلية لتحويل GPX إلى Shapefile على .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -103,19 +101,17 @@ SHP هو امتداد الملف لأحد الأنواع الرئيسية للم
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert GPX into many other file formats including few listed below." >}}
+### Other Supported Conversions
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
+You can also convert GPX into many other file formats including few listed below.
 
+- **[GPX TO JSON](https://products.aspose.com/gis/net/conversion/gpx-to-json)** – JavaScript Object Notation
+- **[GPX TO SHP](https://products.aspose.com/gis/net/conversion/gpx-to-shp)** – ESRI SHP
+- **[GPX TO GeoJSON](https://products.aspose.com/gis/net/conversion/gpx-to-geojson)** – GeoJSON
+- **[GPX TO KML](https://products.aspose.com/gis/net/conversion/gpx-to-kml)** – Keyword Markup Language
+- **[GPX TO Shapefile](https://products.aspose.com/gis/net/conversion/gpx-to-shapefile)** – ESRI Shapefile
+- **[GPX TO TopoJSON](https://products.aspose.com/gis/net/conversion/gpx-to-topojson)** – TopoJSON
+- **[GPX TO CSV](https://products.aspose.com/gis/net/conversion/gpx-to-csv)** – Comma Separated Values
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

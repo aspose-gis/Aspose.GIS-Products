@@ -73,8 +73,8 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,7 +86,7 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقواعد بيانات ESRI Geodatabase و Geography Markup Language و Google Earth وتنسيق GPS Exchange Format وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات قائمة على .NET مستقلة ولا تتطلب أي برامج GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
+ Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. إنها تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقواعد بيانات ESRI Geodatabase و Geography Markup Language و Google Earth وتنسيق GPS Exchange Format وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات قائمة على .NET مستقلة ولا تتطلب أي برامج GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -117,6 +117,4 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

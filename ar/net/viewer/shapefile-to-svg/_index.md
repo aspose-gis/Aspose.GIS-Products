@@ -5,7 +5,7 @@ url: /ar/net/viewer/shapefile-to-svg
 description: تحويل من SHAPEFILE إلى SVG عبر مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لرسم الخرائط لـ Kml و GeoJson Gpx و Kml، وملفات أخرى.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs للتحويل من SHAPEFILE إلى SVG" h2="تحويل SHAPEFILE إلى SVG باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -362,7 +362,6 @@ description: تحويل من SHAPEFILE إلى SVG عبر مكتبة مصممة �
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}

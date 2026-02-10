@@ -22,13 +22,9 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
  وقم بالتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,42 +32,31 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Steps for converting KML to Shapefile in C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  يمكن إجراء التحويل بسطر واحد من التعليمات البرمجية فقط أثناء استخدام
  *VectorLayer.Convert*
  الطريقة. تأخذ 4 معلمات كما هو مفصل أدناه.
-
 {{% /blocks/products/pf/agp/text %}}
-
 1.  مسار ملف سلسلة إلى ملف KML المصدر
 2.  السائق المصدر لإعلام واجهة برمجة التطبيقات (API) بتنسيق الإدخال. اضبطه على Drivers.Kml
 3.  مسار ملف سلسلة إلى ملف بيانات Shapefile الوجهة
 4.  سائق الوجهة لتحديد تنسيق الإخراج. اضبطه على Drivers.Shapefile
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  واجهات برمجة التطبيقات (APIs) الخاصة بنا مدعومة على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من أن لديك المتطلبات الأساسية التالية على نظامك.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Save KML as Shapefile - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-shapefile.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -82,34 +67,23 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
-
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية (GIS). وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ESRI Shapefiles و GeoJSON و TopoJSON و ESRI Geodatabase و Geography Markup Language و Google Earth و GPS Exchange Format و MapInfo Formats و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على البرمجيات مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML (Keyhole Markup Language) يحتوي على معلومات جغرافية مكانية بتنسيق XML. يمكن فتح KML في تطبيقات نظم المعلومات الجغرافية (GIS) بشرط أن تدعمها. بدأت العديد من التطبيقات في توفير الدعم لتنسيق KML بعد اعتماده كمعيار دولي.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
 SHP هو امتداد الملف لأحد الأنواع الرئيسية للملفات المستخدمة لتمثيل ESRI Shapefile. إنه يمثل معلومات جغرافية مكانية في شكل بيانات متجه لاستخدامها بواسطة تطبيقات نظم المعلومات الجغرافية (GIS). تم تطوير التنسيق كمواصفات مفتوحة من أجل تسهيل قابلية التشغيل البيني بين ESRI والمنتجات البرمجية الأخرى.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert KML into many other file formats including few listed below." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML TO GeoJSON" description="GeoJSON" >}}
@@ -117,9 +91,6 @@ SHP هو امتداد الملف لأحد الأنواع الرئيسية للم
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}

@@ -5,7 +5,7 @@ url: /ar/net/viewer/osm
 description: قم بتطوير عارض OSM باستخدام مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لرسم الخرائط لأنواع ملفات Kml و GeoJson Gpx و Kml وغيرها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs لعرض OSM" h2="قم بتطوير عارض OSM باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -362,7 +362,6 @@ description: قم بتطوير عارض OSM باستخدام مكتبة مصمم
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}

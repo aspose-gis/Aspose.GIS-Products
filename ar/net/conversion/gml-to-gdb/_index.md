@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Convert GML GIS data to GDB data
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -87,7 +84,6 @@ VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Driver
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON و ESRI Geodatabase و Geography Markup Language و Google Earth و GPS Exchange Format وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على البرامج مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -119,6 +115,6 @@ GML تعني Geography Markup Language وهي تعتمد على مواصفات X
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

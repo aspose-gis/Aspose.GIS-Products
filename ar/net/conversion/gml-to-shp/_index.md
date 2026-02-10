@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل GML إلى SHP" sectionDescription="حوّل GML إلى SHP الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/gml-to-shp). تتمتع النسخة التجريبية المباشرة بالفوائد التالية" >}}
@@ -84,8 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات GIS. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ESRI Shapefiles و GeoJSON و TopoJSON و ESRI Geodatabase و Geography Markup Language و Google Earth و GPS Exchange Format و MapInfo Formats و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,8 +113,8 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="تبادل GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

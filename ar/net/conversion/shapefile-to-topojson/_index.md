@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,12 +68,11 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل Shapefile إلى TopoJSON" sectionDescription="حوّل ملف Shapefile إلى TopoJSON الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/shapefile-to-topojson). تتمتع العروض التوضيحية المباشرة بالفوائد التالية" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل Shapefile إلى TopoJSON" sectionDescription="حوّل ملف Shapefile إلى TopoJSON الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/shapefile-to-topojson). تتمتع العروض التوضیحية المباشرة بالفوائد التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل واجهة برمجة التطبيقات (API) Aspose GIS." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" حدد ببساطة TopoJSON كتنسيق إخراج و." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" قم بتحميل ملف Shapefile الخاص بك، وسيتم تحويله على الفور إلى TopoJSON." >}}
@@ -84,8 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات نظم المعلومات الجغرافية (GIS). وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ESRI Shapefiles و GeoJSON و TopoJSON و ESRI Geodatabase و Geography Markup Language و Google Earth و GPS Exchange Format وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على البرمجيات مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -116,9 +111,7 @@ TopoJSON هو امتداد لـ GeoJSON يقوم بترميز الطوبولوج
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
----
+{{< /blocks/products/pf/main-wrap-class >}}
