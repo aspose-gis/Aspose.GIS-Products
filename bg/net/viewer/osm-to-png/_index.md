@@ -250,7 +250,7 @@ description: Конвертирайте от OSM към PNG чрез библи�
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      Комбинирайте няколко слоя върху една карта. 
+      Комбинирайте няколко слоя върху единa карта. 
     </p>
    </div>
    <div class="col-lg-4">
@@ -363,27 +363,8 @@ description: Конвертирайте от OSM към PNG чрез библи�
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Обучителни ресурси" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/gis/net/" >}}
-{{< blocks/products/pf/slr-element name="Изходен код" href="https://github.com/aspose-gis/Aspose.GIS-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Препратки към API" href="https://apireference.aspose.com/gis/net" >}}
-{{< blocks/products/pf/slr-element name="Видео уроци" href="https://www.youtube.com/user/asposevideo" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="Поддръжка на продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Безплатна поддръжка" href="https://forum.aspose.com/c/gis" >}}
-{{< blocks/products/pf/slr-element name="Платена поддръжка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/gis/" >}}
-{{< blocks/products/pf/slr-element name="Бележки за изданието" href="https://docs.aspose.com/gis/net/release-notes/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="Защо Aspose.GIS за .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Списък с клиенти" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Успешни истории" href="https://company.aspose.com/customers/success-stories/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
 {{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}

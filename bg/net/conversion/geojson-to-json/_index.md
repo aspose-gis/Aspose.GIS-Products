@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,15 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Преобразувайте GIS данни от GEOJSON в JSON данни
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -89,21 +85,20 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json
 
  Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни формати на GIS данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS софтуер като ArcGIS / ArcMap, QGIS и т.н.
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON е формат, базиран на JSON, предназначен да представя географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON форматът представлява колективна информация за Географските характеристики, техните пространствени граници и свойства. Обект на този файл може да показва геометрия (Точка, Линия, Полигон), характеристика или колекция от характеристики. Характеристиките отразяват адреси и места като точки, улици, основни пътища и граници като линии и държави, провинции и земни региони като полигони. Използвайки GeoJSON, различни мобилни приложения за маршрутизация и навигация могат да посочат обхвата на своите услуги. Разширение на GeoJSON е TopoJSON, което е по-малко по размер и кодира геопространствена топология.
+GeoJSON е формат, базиран на JSON, предназначен да представя географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON форматът представлява колективна информация за Географските характеристики, техните пространствени граници и свойства. Обект на този файл може да показва геометрия (Точка, Линия, Полигон), характеристика или колекция от характеристики. Характеристиките отразяват адреси и места като точки, улици, основни пътища и граници като линии и държави, провинции и земни региони като полигони. Използвайки GeoJSON, различни мобилни приложения за маршрутизация и навигация могат да посочат обхвата на своите услуги. Разширение на GeoJSON е TopoJSON, което е по‑малко по размер и кодира геопространствена топология.
 Прочетете повече
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
 
-JSON (JavaScript Object Notation) е отворен стандартен файлов формат за споделяне на данни, който използва лесен за четене текст за съхранение и предаване на данни. JSON файловете се съхраняват с разширение .json. JSON изисква по-малко форматиране и е добра алтернатива на XML. JSON произлиза от JavaScript, но е езиково-независим формат на данни. Генерирането и анализирането на JSON се поддържа от много съвременни програмни езици. application/json е медийният тип, използван за JSON.
+JSON (JavaScript Object Notation) е отворен стандартен файлов формат за споделяне на данни, който използва лесен за четене текст за съхранение и предаване на данни. JSON файловете се съхраняват с разширение .json. JSON изисква по‑малко форматиране и е добра алтернатива на XML. JSON произлиза от JavaScript, но е езиково‑независим формат на данни. Генерирането и анализирането на JSON се поддържа от много съвременни програмни езици. application/json е медийният тип, използван за JSON.
 Прочетете повече
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -122,6 +117,5 @@ JSON (JavaScript Object Notation) е отворен стандартен фай�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

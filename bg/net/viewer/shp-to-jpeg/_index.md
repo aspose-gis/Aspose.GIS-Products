@@ -14,7 +14,7 @@ description: Конвертирайте от SHP към JPEG чрез библи
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.GIS за .NET ви позволява да конвертирате SHP към JPEG за геопространствени формати на векторни и растерни данни. Данните са полезни само когато някой може да ги види. Библиотеката .NET GIS улеснява и ускорява експортирането на ГИС данни в изображения с вектори или растри и осигурява богата символика за сложни сценарии за визуализация. 
+ Aspose.GIS за .NET ви позволява да конвертирате SHP към JPEG за геопространствени формати на векторни и растерни данни. Данните са полезни само когато някой може да ги види. Библиотеката .NET GIS улеснява и ускорява експортирането на ГИС данни в изображения с вектори или растри и осигурява богata символика за сложни сценарии за визуализация. 
 </p>
 
 <p>
@@ -362,7 +362,7 @@ description: Конвертирайте от SHP към JPEG чрез библи
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучителни ресурси" tabId="resources" >}}
@@ -387,4 +387,3 @@ description: Конвертирайте от SHP към JPEG чрез библи
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

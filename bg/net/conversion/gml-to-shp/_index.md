@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,55 +68,46 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GML към SHP на живо демонстрации" sectionDescription="Конвертирайте GML в SHP точно сега, като посетите нашия [уебсайт за живи демонстрации](https://products.aspose.app/gis/conversion/gml-to-shp). Живата демонстрация има следните предимства" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете SHP като изходен формат и." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GML файл, той ще бъде незабавно конвертиран в SHP." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзката за изтегляне." >}}
-
-    {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете SHP като изходен формат и." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GML файл, той ще бъде незабавно конвертиран в SHP." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзката за изтегляне." >}}
+{{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
 Aspose.GIS for .NET е API за манипулиране и конвертиране на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
+{{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 
 Geographic Markup Language (известен като GML) е XML базиран формат, използван в GIS. GML е отворен обменен формат за географски транзакции в Интернет. Този формат е ориентиран към данни и структура.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 Shapefile е многофайлов формат (известен като ESRI Shapefile). Основният има разширение SHP. Shapefile е популярен вектор географски файлов формат. Разработен и поддържан от ESRI за съвместимост между продуктите на Esri и други програми.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Други поддържани преобразувания" subTitle="Можете също така да конвертирате GML в много други файлови формати, включително няколко, изброени по-долу." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-csv" name="GML TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-shp" name="GML TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-kml" name="GML TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-json" name="GML TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS Exchange" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-csv" name="GML TO CSV" description="Comma Separated Values" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-shp" name="GML TO SHP" description="ESRI SHP" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-kml" name="GML TO KML" description="Keyword Markup Language" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-json" name="GML TO JSON" description="JavaScript Object Notation" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS Exchange" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,7 +5,7 @@ url: /bg/viewer/osm-to-jpeg
 description: Конвертирайте от OSM към JPEG чрез библиотека, предназначена специално за разработчици на .NET. API за рендиране на карти за Kml, GeoJson Gpx, Kml и други файлове.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs за конвертиране на OSM към JPEG" h2="Конвертирайте OSM към JPEG с API, предназначен специално за разработчици на .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="за .NET" >}}

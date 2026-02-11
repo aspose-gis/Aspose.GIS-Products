@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,21 +68,19 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX към Shapefile на живо демонстрации" sectionDescription="Преобразувайте GPX в Shapefile сега, като посетите нашия [уебсайт за живи демонстрации](https://products.aspose.app/gis/conversion/gpx-to-shapefile). Живата демонстрация има следните предимства" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете Shapefile като изходен формат и." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GPX файл, той ще бъде незабавно преобразуван в Shapefile." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзка за изтегляне." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете Shapefile като изходен формат и." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GPX файл, той ще бъде незабавно преобразуван в Shapefile." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзка за изтегляне." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
- Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
-
+    Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,8 +114,7 @@ SHP е файловото разширение за един от основни
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}

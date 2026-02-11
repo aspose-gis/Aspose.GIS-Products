@@ -317,7 +317,7 @@ description: Разработвайте визуализатор на карти
      Галерия карти
     </h2>
       <div class="row">
-        <div class="col-md-12">{{< figure src="london-roads.png" title="Карта на лондонските пътища" alt="Карта на лондонските пътища" class="img-fluid" width="100%" >}} </div>
+        <div class="col-md-12">{{< figure src="london-roads.png" title="Карта на лондонските пътищи" alt="Карта на лондонските пътищи" class="img-fluid" width="100%" >}} </div>
       </div>
       <div class="row">
         <div class="col-md-6">{{< figure src="city-quarter.png" title="Карта на градски квартал" alt="Карта на градски квартал" class="img-fluid" width="100%" >}} </div>
@@ -340,7 +340,6 @@ description: Разработвайте визуализатор на карти
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучителни ресурси" tabId="resources" >}}
@@ -365,4 +364,5 @@ description: Разработвайте визуализатор на карти
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

@@ -5,7 +5,7 @@ url: /bg/coordinates/convert-to-georef
 description: Конвертирайте във Световна Географска Референтна Система (GeoRef) чрез библиотека, проектирана специално за разработчици на .NET. APIs за конвертиране на координати в DD, DMS, DDM, GeoRef и други формати.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs за конвертиране на Световна Географска Референтна Система (GeoRef) за ГИС" h2="Разработване на конверсия на GeoRef с API, проектиран специално за разработчици на .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="за .NET" >}}

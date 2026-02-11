@@ -5,7 +5,7 @@ url: /bg/viewer/geojson-to-svg
 description: Конвертирайте от GeoJSON към SVG чрез библиотека, предназначена специално за разработчици на .NET. API за рендиране на карти за Kml, GeoJson Gpx, Kml и други файлове.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs за конвертиране на GeoJSON към SVG" h2="Конвертирайте GeoJSON към SVG с API, проектиран специално за разработчици на .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="за .NET" >}}

@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +36,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Стъпки за преобразуване на GML в JSON в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Преобразуването може да се извърши само с един ред код, докато използвате
 *VectorLayer.Convert*
 метод. Той приема 4 параметъра, както е описано по-долу.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Стрингов тип път към изходния GML файл
@@ -55,9 +51,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Системни изисквания" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Нашите API се поддържат на всички основни платформи и операционни системи. Преди да изпълните кода по-долу, уверете се, че имате следните предварителни условия на вашата система.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,8 +64,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +77,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
 Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -119,6 +111,5 @@ JSON базиран формат, предназначен да представ
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

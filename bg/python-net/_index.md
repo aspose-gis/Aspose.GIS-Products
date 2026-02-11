@@ -625,7 +625,7 @@ map_instance.render(output, Renderers.jpeg)</code></pre>
     </p>
      <div class="codeblock" id="code">
      <h3>
-      Отворете GeoPackage DataSet и итерирайте слоеве с Aspose.GIS за Python
+      Отворете GeoPackage DataSet и итерирате слоеве с Aspose.GIS за Python
      </h3>
      <pre><code class="python">
 with Dataset.open("testdb.gpkg", Drivers.geo_package) as dataset:
@@ -802,7 +802,7 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< blocks/products/pf/slr-element name="Безплатна поддръжка" href="https://forum.aspose.com/c/gis" >}}
 {{< blocks/products/pf/slr-element name="Платена поддръжка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/gis/" >}}
-{{< blocks/products/pf/slr-element name="Бележки за изданието" href="https://releases.aspose.com/gis/python-net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Бележки за изданието" href="https://release.aspose.com/gis/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Защо Aspose.GIS за .NET?" tabId="success-stories" >}}
@@ -813,4 +813,5 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
----
+
+{{< /blocks/products/pf/main-wrap-class >}}

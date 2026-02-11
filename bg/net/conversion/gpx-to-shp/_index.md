@@ -1,7 +1,7 @@
 ---
 title: Преобразуване на GPX в SHP GIS данни чрез .NET или C#
 weight: 120
-url: /bg/net/conversion/gpx-to-shp/ 
+url: /bg/net/conversion/gpx-to-shp/
 description: Опитайте нашите On-Premise API за преобразуване на GPX в SHP на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Опитайте нашите On-Premise API за преобраз�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +36,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Стъпки за преобразуване на GPX в SHP в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Преобразуването може да се извърши само с един ред код, докато използвате
  *VectorLayer.Convert* 
  метод. Той приема 4 параметъра, както е описано по-долу.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Стрингов тип път към изходния GPX файл
@@ -55,23 +51,18 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Системни изисквания" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Нашите API се поддържат на всички основни платформи и операционни системи. Преди да изпълните кода по-долу, уверете се, че имате следните предварителни условия на вашата система.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Запазване на GPX като SHP - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-shp.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +109,8 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,39 +68,30 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GeoJSON към SHP на живо демонстрации" sectionDescription="Преобразувайте GeoJSON в SHP точно сега, като посетите нашия [уебсайт за живи демонстрации](https://products.aspose.app/gis/conversion/geojson-to-shp). Живата демонстрация има следните предимства" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете SHP като изходен формат и." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GeoJSON файл, той ще бъде незабавно преобразуван в SHP." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзката за изтегляне." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете SHP като изходен формат и." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя GeoJSON файл, той ще бъде незабавно преобразуван в SHP." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзката за изтегляне." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
- Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
-
-
+    Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни GIS формати на данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
-GeoJSON е формат, базиран на JSON, предназначен да представя географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON представлява колективна информация за Географските характеристики, техните пространствени граници и свойства.
-
+        GeoJSON е формат, базиран на JSON, предназначен да представя географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON представлява колективна информация за Географските характеристики, техните пространствени граници и свойства.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
- Shapefile е многофайлов формат (известен като ESRI Shapefile). Основният има разширение SHP. Shapefile е популярен вектор географски файлов формат. Разработен и поддържан от ESRI за съвместимост между Esri продукти и други програми.
-
+        Shapefile е многофайлов формат (известен като ESRI Shapefile). Основният има разширение SHP. Shapefile е популярен вектор географски файлов формат. Разработен и поддържан от ESRI за съвместимост между Esri продукти и други програми.
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -110,15 +99,13 @@ GeoJSON е формат, базиран на JSON, предназначен да
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Други поддържани преобразувания" subTitle="Можете също така да преобразувате GeoJSON в много други файлови формати, включително няколко, изброени по-долу." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-csv" name="GeoJSON TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GeoJSON TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
-
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-csv" name="GeoJSON TO CSV" description="Comma Separated Values" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GeoJSON TO KML" description="Keyword Markup Language" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---
