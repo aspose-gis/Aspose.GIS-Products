@@ -1,11 +1,12 @@
 ---
 title: MapInfo-TAB zu GPX GIS-Daten via .NET oder C# konvertieren
 weight: 120
-url: /de/net/conversion/mapinfo-tab-to-gpx/ 
+url: /de/net/conversion/mapinfo-tab-to-gpx/
 description: Probieren Sie unsere On-Premise APIs aus, um MapInfo-TAB in GPX auf .NET Framework, .NET Core, C# zu konvertieren.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="MapInfo-TAB in C# konvertieren" h2="Exportieren Sie MapInfo-TAB nach GPX mit serverseitigen APIs, ohne Software wie ArcGIS, ArcMap, QGIS oder Google Earth zu benötigen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MapInfo-TAB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="für .NET" >}}
@@ -24,9 +25,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +68,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -107,13 +105,12 @@ Die GPX-Erweiterung steht für GPS Exchange Format zum Austausch von GPS-Daten z
 
 <!-- aboutfile Ends -->
 
+{{< /blocks/products/pf/agp/faq-item >}}
+
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können MapInfo-TAB auch in viele andere Dateiformate konvertieren, einschließlich einiger unten aufgeführter." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB zu GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

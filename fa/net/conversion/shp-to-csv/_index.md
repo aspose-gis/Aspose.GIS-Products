@@ -25,9 +25,7 @@ description: استفاده از API های On-Premise ما برای تبدیل 
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -42,7 +40,7 @@ PM> Install-Package Aspose.GIS
 
 تبدیل را می توان تنها با یک خط کد با استفاده از
  *VectorLayer.Convert* 
- روش انجام داد. این چهار پارامتر را همانطور که در زیر توضیح داده شده است، دریافت می کند.
+ روش انجام داد. این چهار پارامتر را همانطور که در زیر توضیح داده شده است، دریافت می شود.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,9 +113,7 @@ API های ما از تمام پلتفرم ها و سیستم عامل های ا
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="مقادیر جدا شده با کاما" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="تبادل GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

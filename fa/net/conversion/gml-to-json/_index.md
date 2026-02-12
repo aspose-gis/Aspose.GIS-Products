@@ -97,7 +97,7 @@ API های ما از تمام پلتفرم‌ها و سیستم‌عامل‌ه�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-فرمت مبتنی بر JSON که برای نمایش ویژگی‌های جغرافیایی با صفات غیر فضایی طراحی شده است. این فرمت اشیاء مختلف JSON و نحوه پیوستن آنها را تعریف می‌کند. JSON اطلاعات جمعی در مورد ویژگی‌های جغرافیایی، وسعت‌های مکانی و خصوصیات آنها را نشان می‌دهد.
+فرمت مبتنی بر JSON که برای نمایش ویژگی‌های جغرافیایی با صفات غیر فضایی طراحی شده است. این فرم...
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,8 +116,8 @@ API های ما از تمام پلتفرم‌ها و سیستم‌عامل‌ه�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="تبادل GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

@@ -24,9 +24,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,14 +64,12 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 ```cs
 // Konvertieren Sie MIF GIS Daten in KML Daten
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,7 +82,6 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
     {{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
 
 Aspose.GIS für .NET ist eine GIS-Datenmanipulations- und -konvertierungs-API. Es unterstützt vollständig das Lesen, Schreiben und Konvertieren berühmter GIS-Datenformate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats und OpenStreetMap. Es ist eine eigenständige .NET-basierte API und erfordert keine GIS-basierten Software wie ArcGIS / ArcMap, QGIS usw.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -119,6 +114,5 @@ Mehr lesen
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

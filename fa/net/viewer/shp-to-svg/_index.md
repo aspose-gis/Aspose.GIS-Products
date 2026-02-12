@@ -5,7 +5,7 @@ url: /fa/viewer/shp-to-svg
 description: تبدیل از SHP به SVG از طریق کتابخانه طراحی شده به‌طور خاص برای توسعه‌دهندگان .NET. APIهای رندر نقشه برای Kml، GeoJson Gpx، Kml و سایر فایل‌ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs for SHP to SVG conversion" h2="تبدیل SHP به SVG با یک API طراحی شده به‌طور خاص برای توسعه‌دهندگان .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

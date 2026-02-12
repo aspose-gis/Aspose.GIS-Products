@@ -5,7 +5,7 @@ url: /fa/net/coordinates/convert-to-ddm
 description: تبدیل به درجه دقیقه اعشاری (DDM) از طریق کتابخانه ای که به طور خاص برای توسعه دهندگان .NET طراحی شده است. API های مبدل مختصات برای DD، DMS، DDM، GeoRef و سایر فرمت ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs برای تبدیل درجه دقیقه اعشاری (DDM) برای GIS" h2="توسعه تبدیل DDM با API طراحی شده به طور خاص برای توسعه دهندگان .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

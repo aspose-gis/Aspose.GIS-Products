@@ -24,9 +24,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,41 +70,39 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHX zu KML Live Demos" sectionDescription="Konvertieren Sie SHX jetzt in KML, indem Sie unsere [Live Demos Website](https://products.aspose.app/gis/conversion/shx-to-kml) besuchen. Die Live Demo hat die folgenden Vorteile" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach KML als Ausgabeformat und." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre SHX-Datei hoch, sie wird sofort in KML konvertiert." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach KML als Ausgabeformat und." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre SHX-Datei hoch, sie wird sofort in KML konvertiert." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
 
 Aspose.GIS für .NET ist eine GIS-Datenmanipulations- und -konvertierungs-API. Es unterstützt vollständig das Lesen, Schreiben und Konvertieren berühmter GIS-Datenformate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats und OpenStreetMap. Es ist eine eigenständige .NET-basierte API und erfordert keine GIS-basierten Software wie ArcGIS / ArcMap, QGIS usw.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
 Shape Index Format, ein Positionsindex der Feature-Geometrie zur schnellen Vorwärts- und Rückwärtssuche
 Mehr lesen
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
 KML (Keyhole Markup Language enthält) Geodaten in XML-Notation. Dateien, die als KML gespeichert werden, können in Geographischen Informationssystemen (GIS) geöffnet werden, sofern diese es unterstützen. Viele Anwendungen haben begonnen, das KML-Dateiformat zu unterstützen, nachdem es als internationaler Standard übernommen wurde. KML verwendet eine tagbasierte Struktur mit verschachtelten Elementen und Attributen. Alle Tags sind Groß- und Kleinschreibungsempfindlich und die Reihenfolge dieser Tags ist gemäß der KML-Referenz wichtig.
 Mehr lesen
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -119,6 +115,5 @@ Mehr lesen
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

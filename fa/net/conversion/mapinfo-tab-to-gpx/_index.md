@@ -1,7 +1,7 @@
 ---
 title: تبدیل MapInfo-TAB به داده‌های GIS GPX از طریق .NET یا C#
 weight: 120
-url: /fa/net/conversion/mapinfo-tab-to-gpx/ 
+url: /fa/net/conversion/mapinfo-tab-to-gpx/
 description: API های On-Premise ما را برای تبدیل MapInfo-TAB به GPX در .NET Framework، .NET Core، C# امتحان کنید.
 ---
 
@@ -25,9 +25,7 @@ description: API های On-Premise ما را برای تبدیل MapInfo-TAB ب�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -112,9 +110,7 @@ API های ما از تمام پلتفرم‌ها و سیستم‌عامل‌ه�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB TO GPX" description="تبادل GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

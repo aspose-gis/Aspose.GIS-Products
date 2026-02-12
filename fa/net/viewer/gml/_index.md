@@ -5,7 +5,7 @@ url: /fa/viewer/gml
 description: توسعه‌ی GML viewer از طریق کتابخانه‌ای که به‌طور خاص برای توسعه‌دهندگان .NET طراحی شده است. APIهای رندر نقشه برای Kml، GeoJson Gpx، Kml و سایر فایل‌ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs for GML Viewer" h2="توسعه‌ی یک GML viewer با API که به‌طور خاص برای توسعه‌دهندگان .NET / C# طراحی شده است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -18,7 +18,7 @@ description: توسعه‌ی GML viewer از طریق کتابخانه‌ای ک
 </p>
 
 <p>
- Aspose.GIS for .NET با در نظر گرفتن سادگی، عملکرد، قابلیت استفاده و قابلیت حمل طراحی شده است. این شامل APIهایی برای استفاده با پلتفرم‌های .NET Framework &amp; .NET Core است که به شما امکان می‌دهد برنامه‌های چندسکویی را با سهولت زیاد ایجاد کنید.
+ Aspose.GIS for .NET با در نظر گرفتن سادگی، عملکرد, قابلیت استفاده و قابلیت حمل طراحی شده است. این شامل APIهایی برای استفاده با پلتفرم‌های .NET Framework &amp; .NET Core است که به شما امکان می‌دهد برنامه‌های چندسکویی را با سهولت زیاد ایجاد کنید.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -341,7 +341,6 @@ description: توسعه‌ی GML viewer از طریق کتابخانه‌ای ک
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="مستندات" href="https://docs.aspose.com/gis/net/" >}}
@@ -365,4 +364,3 @@ description: توسعه‌ی GML viewer از طریق کتابخانه‌ای ک
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

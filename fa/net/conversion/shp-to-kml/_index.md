@@ -117,6 +117,6 @@ KML (Keyhole Markup Language) حاوی اطلاعات جغرافیایی به ص
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

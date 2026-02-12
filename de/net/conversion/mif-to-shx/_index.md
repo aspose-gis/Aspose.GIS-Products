@@ -22,103 +22,72 @@ Paketmanager, suchen Sie nach
 und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Schritte zur Konvertierung von MIF in SHX in C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Die Konvertierung kann mit nur einer Codezeile erfolgen, während Sie die
 *VectorLayer.Convert*-Methode verwenden. Es nimmt 4 Parameter wie unten beschrieben entgegen.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Ein String-Dateipfad zur Quell-MIF-Datei
-2.  Quelltreiber, um der API mitzuteilen, welches Eingabeformat vorliegt. Setzen Sie ihn auf Drivers.MapInfoInterchange
-3.  Der String-Dateipfad zur Ziel-SHX-Datendatei
-4.  Zieltreiber zum Angeben des Ausgabeformats. Setzen Sie ihn auf Drivers.Shapefile
-
+1. Ein String-Dateipfad zur Quell-MIF-Datei  
+2. Quelltreiber, um der API mitzuteilen, welches Eingabeformat vorliegt. Setzen Sie ihn auf `Drivers.MapInfoInterchange`  
+3. Der String-Dateipfad zur Ziel‑SHX‑Datendatei  
+4. Zieltreiber zum Angeben des Ausgabeformats. Setzen Sie ihn auf `Drivers.Shapefile`
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemanforderungen" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie sicher, dass Sie die folgenden Voraussetzungen auf Ihrem System haben.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="MIF als SHX speichern - C#" offSpacer="" %}}
-
 ```cs
 // Konvertieren Sie GIS-Daten von MIF in SHX-Daten
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
-
 {{< blocks/products/pf/agp/demobox sectionTitle="MIF zu SHX Live Demos" sectionDescription="Konvertieren Sie MIF jetzt in SHX, indem Sie unsere [Live Demos Website](https://products.aspose.app/gis/conversion/mif-to-shx) besuchen. Die Live-Demo hat die folgenden Vorteile" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach SHX als Ausgabeformat und." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre MIF-Datei hoch, sie wird sofort in SHX konvertiert." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach SHX als Ausgabeformat und." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre MIF-Datei hoch, sie wird sofort in SHX konvertiert." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
-
+{{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
 Aspose.GIS für .NET ist eine API zur Manipulation und Konvertierung von GIS-Daten. Es unterstützt vollständig das Lesen, Schreiben und Konvertieren bekannter GIS-Datenformate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats und OpenStreetMap. Es ist eine eigenständige .NET-basierte API und erfordert keine GIS-basierte Software wie ArcGIS / ArcMap, QGIS usw.
+{{% /blocks/products/pf/agp/content %}}
 
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 Read More
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
 Shape Index Format, ein Positionsindex der Feature-Geometrie zur schnellen Vorwärts- und Rückwärtssuche
 Read More
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können MIF auch in viele andere Dateiformate konvertieren, einschließlich einiger unten aufgeführter." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-geojson" name="MIF NACH GEOJSON" description="JSON-basiertes Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-kml" name="MIF NACH KML" description="Keyhole Markup Language" >}}
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

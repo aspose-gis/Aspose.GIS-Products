@@ -264,6 +264,7 @@ description: Umwandlung in Dezimalgrade (DD) mithilfe einer Bibliothek, die spez
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}

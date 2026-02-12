@@ -5,7 +5,7 @@ url: /de/viewer/geotiff-to-svg
 description: Konvertieren Sie von GeoTIFF zu SVG über eine Bibliothek, die speziell für .NET-Entwickler entwickelt wurde. Map Rendering APIs für Kml, GeoJson Gpx, Kml und andere Dateien.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs zur GeoTIFF zu SVG Konvertierung" h2="Konvertieren Sie GeoTIFF zu SVG mit einer API, die speziell für .NET / C# Entwickler entwickelt wurde." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="für .NET" >}}
@@ -362,7 +362,6 @@ description: Konvertieren Sie von GeoTIFF zu SVG über eine Bibliothek, die spez
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}

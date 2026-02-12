@@ -114,11 +114,11 @@ Mehr erfahren
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können JSON auch in viele andere Dateiformate konvertieren, darunter einige unten aufgeführte." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON NACH GEOJSON" description="JSON-basiertes Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON NACH GEOJSON" description="JSON-basierte Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON NACH KML" description="Keyhole Markup Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

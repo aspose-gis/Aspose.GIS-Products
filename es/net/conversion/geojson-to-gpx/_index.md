@@ -1,7 +1,7 @@
 ---
 title: Convertir GeoJSON a GPX GIS Data vía .NET o C#
 weight: 120
-url: /es/net/conversion/geojson-to-gpx/ 
+url: /es/net/conversion/geojson-to-gpx/
 description: Pruebe nuestras APIs On-Premise para convertir GeoJSON a GPX en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ método. Toma 4 parámetros como se detalla a continuación.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Una ruta de archivo de tipo string para el archivo GeoJSON fuente
-2.  Controlador fuente para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.GeoJson
-3.  La ruta de archivo de tipo string al archivo de datos GPX de destino
-4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.Gpx
+1.  Una ruta de archivo de tipo string para el archivo GeoJSON fuente  
+2.  Controlador fuente para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.GeoJson  
+3.  La ruta de archivo de tipo string al archivo de datos GPX de destino  
+4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.Gpx  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -115,9 +113,7 @@ La extensión GPX representa el formato de intercambio GPS para el intercambio d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

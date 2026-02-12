@@ -5,7 +5,7 @@ url: /fa/viewer/osm
 description: توسعه‌ی نمایشگر OSM از طریق کتابخانه‌ای که به‌طور خاص برای توسعه‌دهندگان .NET طراحی شده است. APIهای رندر نقشه برای Kml، GeoJson Gpx، Kml و سایر فایل‌ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs for OSM Viewer" h2="توسعه‌ی یک نمایشگر OSM با API طراحی شده به‌طور خاص برای توسعه‌دهندگان .NET / C#" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -387,4 +387,3 @@ description: توسعه‌ی نمایشگر OSM از طریق کتابخانه�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

@@ -24,9 +24,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX zu KML Live Demos" sectionDescription="Konvertieren Sie GPX jetzt in KML, indem Sie unsere [Live Demos Website](https://products.aspose.app/gis/conversion/gpx-to-kml) besuchen. Die Live-Demo hat die folgenden Vorteile" >}}
@@ -84,7 +81,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
     {{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
 
  Aspose.GIS für .NET ist eine GIS-Datenmanipulations- und -konvertierungs-API. Es unterstützt vollständig das Lesen, Schreiben und Konvertieren berühmter GIS-Datenformate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats und OpenStreetMap. Es ist eine eigenständige .NET-basierte API und erfordert keine GIS-basierten Software wie ArcGIS / ArcMap, QGIS usw. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,8 +114,7 @@ KML (Keyhole Markup Language) enthält geografische Informationen in XML-Notatio
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX NACH TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX NACH CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -348,7 +348,7 @@ description: ایجاد، خواندن، تبدیل و پردازش داده‌�
     <em class="fa fa-apple ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     پشتیبانی بومی از macOS (معماری‌های Intel & ARM)
+     پشتیبانی بومی از macOS (معماری‌های Intel &amp; ARM)
     </p>
    </div>
    <div class="col-lg-4">
@@ -792,6 +792,7 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}
@@ -805,7 +806,7 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< blocks/products/pf/slr-element name="پشتیبانی رایگان" href="https://forum.aspose.com/c/gis" >}}
 {{< blocks/products/pf/slr-element name="پشتیبانی پولی" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="بلاگ" href="https://blog.aspose.com/category/gis/" >}}
-{{< blocks/products/pf/slr-element name="یادداشت‌های انتشار" href="https://releases.aspose.com/gis/python-net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="یادداشت‌های انتشار" href="https://release.aspose.com/gis/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="چرا Aspose.GIS for .NET؟" tabId="success-stories" >}}
@@ -816,4 +817,3 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
----

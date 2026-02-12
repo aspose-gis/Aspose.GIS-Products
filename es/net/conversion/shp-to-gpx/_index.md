@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,40 +67,35 @@ Nuestras API son compatibles con todas las plataformas y sistemas operativos pri
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHP a GPX Live Demos" sectionDescription="Convierta SHP a GPX ahora mismo visitando nuestro [sitio web de demostraciones en vivo](https://products.aspose.app/gis/conversion/shp-to-gpx). La demostración en vivo tiene los siguientes beneficios" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar la API de Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione GPX como formato de salida y." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo SHP, se convertirá instantáneamente a GPX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar la API de Aspose GIS." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione GPX como formato de salida y." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo SHP, se convertirá instantáneamente a GPX." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
 
-    {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
 
 Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Base de datos ESRI, Lenguaje de marcado de geografía, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software basado en GIS como ArcGIS / ArcMap, QGIS, etc. 
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 Shapefile es un formato de archivo múltiple (conocido como ESRI Shapefile). El principal tiene la extensión SHP. Shapefile es un formato de archivo geográfico vectorial popular. Desarrollado y mantenido por ESRI para la compatibilidad entre los productos Esri y otros programas.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 La extensión GPX representa el formato de intercambio GPS para el intercambio de datos GPS entre aplicaciones y servicios web en Internet. Es un formato XML ligero que contiene datos GPS, es decir, puntos de ruta, rutas y pistas para ser importados y leídos por múltiples programas. GPX es abierto y está soportado por una variedad de aplicaciones y dispositivos GPS.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -114,9 +107,6 @@ La extensión GPX representa el formato de intercambio GPS para el intercambio d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Valores separados por comas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

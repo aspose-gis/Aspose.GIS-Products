@@ -1,7 +1,7 @@
 ---
 title: Convertir GPX a GeoJSON GIS Data vía .NET o C#
 weight: 120
-url: /es/net/conversion/gpx-to-geojson/ 
+url: /es/net/conversion/gpx-to-geojson/
 description: Pruebe nuestras APIs On-Premise para convertir GPX a GeoJSON en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ método. Toma 4 parámetros como se detalla a continuación.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Una ruta de archivo de tipo cadena para el archivo GPX fuente
-2.  Controlador de origen para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.Gpx
-3.  La ruta de archivo de tipo cadena al archivo de datos GeoJSON de destino
-4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.GeoJson
+1.  Una ruta de archivo de tipo cadena para el archivo GPX fuente  
+2.  Controlador de origen para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.Gpx  
+3.  La ruta de archivo de tipo cadena al archivo de datos GeoJSON de destino  
+4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.GeoJson  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -118,9 +116,7 @@ GeoJSON es un formato basado en JSON diseñado para representar las característ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Valores Separados por Comas" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

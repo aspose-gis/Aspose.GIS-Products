@@ -25,9 +25,7 @@ description: API های On-Premise ما را برای تبدیل داده‌ها
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -68,7 +66,6 @@ API های ما از تمام پلتفرم ها و سیستم عامل های ا
 ```cs
 // تبدیل داده‌های GIS MIF به داده‌های KML
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +118,6 @@ KML، (Keyhole Markup Language contains) اطلاعات جغرافیایی را 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

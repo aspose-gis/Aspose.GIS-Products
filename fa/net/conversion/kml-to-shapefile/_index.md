@@ -25,9 +25,7 @@ API استفاده خواهیم کرد که یک API GIS قدرتمند، غنی
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,8 +69,7 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -85,7 +82,6 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
     {{% blocks/products/pf/agp/content h2="کتابخانه .NET GIS" %}}
 
 Aspose.GIS for .NET یک API دستکاری و تبدیل داده‌های GIS است. این از خواندن، نوشتن و تبدیل فرمت‌های معروف داده‌های GIS مانند ESRI Shapefiles، GeoJSON، TopoJSON، ESRI Geodatabase، Geography Markup Language، Google Earth، GPS Exchange Format، MapInfo Formats و OpenStreetMap پشتیبانی می‌کند. این یک API مستقل مبتنی بر .NET است و به هیچ نرم‌افزار GIS مانند ArcGIS / ArcMap، QGIS و غیره نیاز ندارد.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -119,8 +115,7 @@ SHP پسوند فایل یکی از انواع اصلی فایل‌های مور
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

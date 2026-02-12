@@ -5,7 +5,7 @@ url: /es/net/coordinates/convert-to-dms
 description: Convertir a Grado Minuto Segundo (DMS) a través de una biblioteca diseñada específicamente para desarrolladores de .NET. APIs de Conversión de Coordenadas para DD, DMS, DDM, GeoRef y otros formatos.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class / >}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs para convertir Grado Minuto Segundo (DMS) para SIG" h2="Desarrolle la conversión DMS con una API diseñada específicamente para desarrolladores de .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="para .NET" >}}

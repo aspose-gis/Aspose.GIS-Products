@@ -5,7 +5,7 @@ url: /de/viewer/osm
 description: Entwickeln Sie einen OSM-Viewer mit einer Bibliothek, die speziell für .NET-Entwickler entwickelt wurde. Map Rendering APIs für Kml, GeoJson Gpx, Kml und andere Dateien.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs für OSM Viewer" h2="Entwickeln Sie einen OSM-Viewer mit einer API, die speziell für .NET / C# Entwickler entwickelt wurde." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="für .NET" >}}
@@ -387,4 +387,3 @@ description: Entwickeln Sie einen OSM-Viewer mit einer Bibliothek, die speziell 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

@@ -122,4 +122,5 @@ SHP ist die Dateierweiterung für einen der Hauptdateitypen, die zur Darstellung
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

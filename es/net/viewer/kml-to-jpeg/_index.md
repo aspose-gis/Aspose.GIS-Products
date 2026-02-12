@@ -5,7 +5,7 @@ url: /ar/net/viewer/kml-to-jpeg
 description: Convertir desde KML a JPEG a través de una biblioteca diseñada específicamente para desarrolladores de .NET. APIs de renderizado de mapas para Kml, GeoJson Gpx, Kml y otros archivos.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs para la conversión de KML a JPEG" h2="Convertir KML a JPEG con una API diseñada específicamente para desarrolladores de .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="para .NET" >}}
@@ -341,7 +341,6 @@ description: Convertir desde KML a JPEG a través de una biblioteca diseñada es
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/gis/net/" >}}
@@ -365,4 +364,3 @@ description: Convertir desde KML a JPEG a través de una biblioteca diseñada es
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

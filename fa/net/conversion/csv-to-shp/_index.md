@@ -120,4 +120,5 @@ Shapefile یک فرمت چندگانه (که به عنوان ESRI Shapefile شن
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---
