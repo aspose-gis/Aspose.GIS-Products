@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,45 +65,38 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 ```cs
 // Převeďte GIS data SHX na data JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHX to JSON Live Demos" sectionDescription="Převod SHX do JSON hned teď návštěvou našich [Live Demos webových stránek](https://products.aspose.app/gis/conversion/shx-to-json). Živá ukázka má následující výhody" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat JSON jako výstupní formát a." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj soubor SHX, okamžitě se převede na JSON." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat JSON jako výstupní formát a." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj soubor SHX, okamžitě se převede na JSON." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS knihovna" %}}
 
- Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
-
+    Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-Formát indexu tvarů, poziční index geometrie objektů pro rychlé dopředné a zpětné vyhledávání
-Přečtěte si více
-
+        Formát indexu tvarů, poziční index geometrie objektů pro rychlé dopředné a zpětné vyhledávání
+        Přečtěte si více
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON (JavaScript Object Notation) je otevřený standardní formát souboru pro sdílení dat, který používá text srozumitelný člověku k ukládání a přenosu dat. JSON soubory jsou uloženy v rozšíření .json. JSON vyžaduje méně formátování a je dobrou alternativou k XML. JSON je odvozen z JavaScriptu, ale jedná se o jazykově nezávislý formát dat. Generování a parsování JSON podporuje mnoho moderních programovacích jazyků. application/json je typ média používaný pro JSON.
-Přečtěte si více
-
+        JSON (JavaScript Object Notation) je otevřený standardní formát souboru pro sdílení dat, který používá text srozumitelný člověku k ukládání a přenosu dat. JSON soubory jsou uloženy v rozšíření .json. JSON vyžaduje méně formátování a je dobrou alternativou k XML. JSON je odvozen z JavaScriptu, ale jedná se o jazykově nezávislý formát dat. Generování a parsování JSON podporuje mnoho moderních programovacích jazyků. application/json je typ média používaný pro JSON.
+        Přečtěte si více
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -121,7 +112,5 @@ Přečtěte si více
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

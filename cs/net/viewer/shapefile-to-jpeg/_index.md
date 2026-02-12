@@ -5,7 +5,7 @@ url: /cs/viewer/shapefile-to-jpeg
 description: Převeďte soubor SHAPEFILE do JPEG pomocí knihovny navržené speciálně pro vývojáře .NET. Map Rendering APIs pro Kml, GeoJson Gpx, Kml a další soubory.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pro konverzi SHAPEFILE do JPEG" h2="Převeďte SHAPEFILE do JPEG pomocí API navrženého speciálně pro vývojáře .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pro .NET" >}}
@@ -387,4 +387,3 @@ description: Převeďte soubor SHAPEFILE do JPEG pomocí knihovny navržené spe
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

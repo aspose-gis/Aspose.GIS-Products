@@ -363,6 +363,7 @@ description: Vyvíjejte prohlížeč ESRI-ASCII pomocí knihovny navržené spec
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}

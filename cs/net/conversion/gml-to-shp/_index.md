@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GML to SHP Live Demos" sectionDescription="Převod GML na SHP hned teď návštěvou našich [Live Demos webových stránek](https://products.aspose.app/gis/conversion/gml-to-shp). Živá ukázka má následující výhody" >}}
@@ -84,7 +81,6 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
     {{% blocks/products/pf/agp/content h2=".NET GIS knihovna" %}}
 
  Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -117,8 +113,8 @@ Shapefile je více souborový formát (známý jako ESRI Shapefile). Hlavní má
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

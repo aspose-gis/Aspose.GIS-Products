@@ -5,7 +5,7 @@ url: /cs/net/coordinates/convert-to-dd
 description: Převod na desetinné stupně (DD) pomocí knihovny navržené speciálně pro vývojáře .NET. API pro převod souřadnic pro DD, DMS, DDM, GeoRef a další formáty.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET API pro převod desetinných stupňů (DD) pro GIS" h2="Vyvíjejte převod DD pomocí API navrženého speciálně pro vývojáře .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -263,7 +263,6 @@ description: Převod na desetinné stupně (DD) pomocí knihovny navržené spec
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Učební zdroje" tabId="resources" >}}

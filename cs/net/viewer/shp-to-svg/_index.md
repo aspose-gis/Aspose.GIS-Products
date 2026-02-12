@@ -5,7 +5,7 @@ url: /cs/viewer/shp-to-svg
 description: Převeďte soubory z formátu SHP do SVG pomocí knihovny navržené speciálně pro vývojáře .NET. API pro vykreslování map Kml, GeoJson Gpx, Kml a dalších souborů.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class / >}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pro konverzi SHP do SVG" h2="Převeďte SHP do SVG pomocí API navrženého speciálně pro vývojáře .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pro .NET" >}}
