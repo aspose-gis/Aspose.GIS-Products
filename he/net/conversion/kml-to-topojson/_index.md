@@ -17,16 +17,14 @@ description: נסה את ה-API שלנו באתר כדי להמיר KML ל-TopoJ
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
  API שהוא API GIS עוצמתי, עשיר בתכונות וקל לשימוש עבור פלטפורמת ‎#C‎. פתח את
  [NuGet](https://www.nuget.org/packages/aspose.gis) 
- מנהל החבילות, חפש את
+ מנהל החבירות, חפש את
  **Aspose.GIS** 
  והתקן. ניתן גם להשתמש בפקודה הבאה ממסוף Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ TopoJSON הוא הרחבה של GeoJSON המקודדת טופולוגיה. פו�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

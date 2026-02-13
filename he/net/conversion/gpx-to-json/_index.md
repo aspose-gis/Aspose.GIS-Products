@@ -92,7 +92,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המכיל נתוני GPS כלומר נקודות ציון, מסלולים ומסלולים לייבוא וקריאה על ידי תוכניות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
+הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המ containing נתוני GPS כלומר נקודות ציון, מסלולים ומסלולים לייבוא וקריאה על ידי תוכניות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +118,7 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

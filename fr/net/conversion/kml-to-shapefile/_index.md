@@ -1,8 +1,8 @@
 ---
-title: Convertir KML en Shapefile : Données SIG via .NET ou C#
+title: "Convertir KML en Shapefile : Données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/kml-to-shapefile/ 
-description: Essayez nos API sur site pour convertir KML en Shapefile sur .NET Framework, .NET Core, C#.
+url: "/fr/net/conversion/kml-to-shapefile/"
+description: "Essayez nos API sur site pour convertir KML en Shapefile sur .NET Framework, .NET Core, C#."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,103 +13,75 @@ description: Essayez nos API sur site pour convertir KML en Shapefile sur .NET F
 
 {{% blocks/products/pf/agp/content h2="Comment convertir KML en Shapefile à l'aide de C#" %}}
 
- Afin de convertir KML en Shapefile, nous utiliserons
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- gestionnaire de paquets, recherchez
- **Aspose.GIS** 
- et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
+Afin de convertir KML en Shapefile, nous utiliserons
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)
+API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
+[NuGet](https://www.nuget.org/packages/aspose.gis)
+gestionnaire de paquets, recherchez
+**Aspose.GIS**
+et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Étapes pour convertir KML en Shapefile en C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
- La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
- *VectorLayer.Convert* 
- . Elle prend 4 paramètres comme détaillé ci-dessous.
-
+La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode *VectorLayer.Convert*. Elle prend 4 paramètres comme détaillé ci-dessous.
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Un chemin d'accès au fichier source KML de type chaîne
-2.  Pilote source pour informer l'API du format d'entrée. Définissez-le sur Drivers.Kml
-3.  Le chemin d'accès au fichier de données Shapefile de destination de type chaîne
-4.  Pilote de destination pour spécifier le format de sortie. Définissez-le sur Drivers.Shapefile
-
+1. Un chemin d'accès au fichier source KML de type chaîne  
+2. Pilote source pour informer l'API du format d'entrée. Définissez-le sur `Drivers.Kml`  
+3. Le chemin d'accès au fichier de données Shapefile de destination de type chaîne  
+4. Pilote de destination pour spécifier le format de sortie. Définissez-le sur `Drivers.Shapefile`
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
- Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
-
+Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Enregistrer KML en tant que Shapefile - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-shapefile.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct de KML à Shapefile" sectionDescription="Convertissez KML en Shapefile dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/kml-to-shapefile). La démo en direct présente les avantages suivants" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger l'API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sélectionnez simplement Shapefile comme format de sortie et." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez votre fichier KML, il sera instantanément converti en Shapefile." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Vous obtiendrez le lien de téléchargement." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger l'API Aspose GIS." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Sélectionnez simplement Shapefile comme format de sortie et." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez votre fichier KML, il sera instantanément converti en Shapefile." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Vous obtiendrez le lien de téléchargement." >}}
 
-    {{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
+Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend entièrement en charge la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, les bases de données ESRI Geodatabase, le langage de balisage géographique, Google Earth, le format d'échange GPS, les formats MapInfo et OpenStreetMap. Il s'agit d'une API autonome basée sur .NET qui ne nécessite aucun logiciel SIG tel qu'ArcGIS / ArcMap, QGIS, etc.
+{{% /blocks/products/pf/agp/content %}}
 
- Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend entièrement en charge la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, les bases de données ESRI Geodatabase, le langage de balisage géographique, Google Earth, le format d'échange GPS, les formats MapInfo et OpenStreetMap. Il s'agit d'une API autonome basée sur .NET qui ne nécessite aucun logiciel SIG tel qu'ArcGIS / ArcMap, QGIS, etc. 
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 KML (Keyhole Markup Language) contient des informations géospatiales au format XML. KML peut être ouvert dans des applications de systèmes d'information géographique (SIG) à condition qu'elles le prennent en charge. De nombreuses applications ont commencé à prendre en charge le format KML après son adoption comme norme internationale.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 SHP est l'extension de fichier pour l'un des principaux types de fichiers utilisés pour la représentation d'ESRI Shapefile. Il représente les informations géospatiales sous forme de données vectorielles à utiliser par les applications de systèmes d'information géographique (SIG). Le format a été développé comme spécifications ouvertes afin de faciliter l'interopérabilité entre ESRI et d'autres produits logiciels.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir KML vers de nombreux autres formats de fichiers, y compris quelques-uns répertoriés ci-dessous." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML TO GeoJSON" description="GeoJSON" >}}
@@ -117,10 +89,7 @@ SHP est l'extension de fichier pour l'un des principaux types de fichiers utilis
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

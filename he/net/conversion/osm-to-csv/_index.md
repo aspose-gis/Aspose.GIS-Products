@@ -1,7 +1,7 @@
 ---
 title: המרת OSM לנתוני GIS בפורמט CSV באמצעות .NET או C#
 weight: 120
-url: /he/net/conversion/osm-to-csv/ 
+url: /he/net/conversion/osm-to-csv/
 description: נסה את ה-API הפרימיסי שלנו כדי להמיר OSM ל-CSV ב-.NET Framework, ‎.NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: נסה את ה-API הפרימיסי שלנו כדי להמיר OSM 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -115,9 +113,7 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

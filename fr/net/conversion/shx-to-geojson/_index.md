@@ -1,7 +1,7 @@
 ---
-title: Convertir SHX en GEOJSON : Données SIG via .NET 
+title: "Convertir SHX en GEOJSON : Données SIG via .NET"
 weight: 240
-url: /fr/net/conversion/shx-to-geojson/ 
+url: /fr/net/conversion/shx-to-geojson/
 description: Essayez nos API sur site pour la conversion de vos données SIG sur .NET Framework, .NET Core.
 ---
 
@@ -13,24 +13,19 @@ description: Essayez nos API sur site pour la conversion de vos données SIG sur
 
 {{% blocks/products/pf/agp/content h2="Comment convertir SHX en GEOJSON à l'aide de C#" %}}
 
- Afin de convertir SHX en GEOJSON, nous utiliserons
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- gestionnaire de paquets, recherchez
- **Aspose.GIS** 
- et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de paquets.
+Afin de convertir SHX en GEOJSON, nous utiliserons
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+gestionnaire de paquets, recherchez
+**Aspose.GIS** 
+et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de paquets.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -38,11 +33,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Étapes pour convertir SHX en GEOJSON en C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
- *VectorLayer.Convert* 
- . Elle prend 4 paramètres comme détaillé ci-dessous.
-
+La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
+*VectorLayer.Convert* 
+. Elle prend 4 paramètres comme détaillé ci-dessous.
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Un chemin d'accès au fichier source SHX de type chaîne
@@ -55,71 +48,59 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
-
+Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Enregistrer SHX en tant que GEOJSON - C#" offSpacer="" %}}
-
 ```cs
 // Convertir les données SIG SHX en données GEOJSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojson", Drivers.GeoJson);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct SHX vers GEOJSON" sectionDescription="Convertissez SHX en GEOJSON dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/shx-to-geojson). La démo en direct présente les avantages suivants" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger l'API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sélectionnez simplement GEOJSON comme format de sortie et." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez votre fichier SHX, il sera instantanément converti en GEOJSON." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Vous obtiendrez le lien de téléchargement." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger l'API Aspose GIS." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sélectionnez simplement GEOJSON comme format de sortie et." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez votre fichier SHX, il sera instantanément converti en GEOJSON." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Vous obtiendrez le lien de téléchargement." >}}
 
-    {{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
 
- Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend entièrement en charge la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, GPS Exchange Format, Formats MapInfo et OpenStreetMap. Il s’agit d’une API autonome basée sur .NET qui ne nécessite aucun logiciel SIG tel qu’ArcGIS / ArcMap, QGIS, etc. 
+Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend entièrement en charge la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, GPS Exchange Format, Formats MapInfo et OpenStreetMap. Il s’agit d’une API autonome basée sur .NET qui ne nécessite aucun logiciel SIG tel qu’ArcGIS / ArcMap, QGIS, etc. 
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 Format d'index de forme, un index positionnel de la géométrie des entités permettant une recherche rapide vers l'avant et vers l'arrière
 En savoir plus
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 GeoJSON est un format basé sur JSON conçu pour représenter les entités géographiques avec leurs attributs non spatiaux. Ce format définit différents objets JSON (JavaScript Object Notation) et leur mode de jonction. Le format JSON représente des informations collectives sur les entités géographiques, leurs étendues spatiales et leurs propriétés. Un objet de ce fichier peut indiquer une géométrie (Point, LineString, Polygon), une entité ou une collection d'entités. Les entités reflètent les adresses et les lieux sous forme de points, les rues principales et les frontières sous forme de chaînes de lignes et les pays, les provinces et les régions terrestres sous forme de polygones. En utilisant GeoJSON, différents applications de routage et de navigation mobiles peuvent indiquer la couverture de leurs services. Une extension de GeoJSON est TopoJSON qui est plus petite en taille et code la topologie géospatiale.
 En savoir plus
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir SHX vers de nombreux autres formats de fichiers, y compris quelques-uns répertoriés ci-dessous." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir SHX vers de nombreux autres formats de fichiers, incluant quelques-uns répertoriés ci-dessous." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-json" name="SHX TO JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-kml" name="SHX TO KML" description="Keyhole Markup Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

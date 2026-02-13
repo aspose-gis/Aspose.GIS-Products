@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר עבור המרת נתוני G
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,15 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // המרת נתוני GIS של MIF לנתוני GEOJSON
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -88,7 +84,6 @@ Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab
     {{% blocks/products/pf/agp/content h2="ספריית .NET GIS" %}}
 
  Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה של GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -103,7 +98,7 @@ MIF
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="" >}}
 
-GeoJSON הוא פורמט מבוסס JSON שתוכנן לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. פורמט JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפים המרחביים שלהן ותכונות. אובייקט של קובץ זה עשוי לציין גיאומטריה (נקודה, מחרוזת קו, מצולע), תכונה או אוסף של תכונות. התכונות משקפות כתובות ומקומות כנקודות, רחובות ודרכים ראשיות כמחרוזות קו ומדינות, מחוזות ואזורי קרקע כמצולעים. שימוש ב-GeoJSON, יישומי ניווט וניתוב ניידים שונים יכולים לציין את הכיסוי של השירותים שלהם. הרחבה של GeoJSON היא TopoJSON שהיא קטנה יותר בגודלה ומקודדת טופולוגיה גיאוגרפית.
+GeoJSON הוא פורמט מבוסס JSON שתוכנן לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. פורמט JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפים המרחביים שלהן ותכונות. אובייקט של קובץ זה עשוי לציין גיאומטריה (נקודה, מחרוזת קו, מצולע), תכונה או אוסף של תכונות. התכונות משקפות כתובות ומקומות כנקודות, רחובות ודרכי קו ומדינות, מחוזות ואזורי קרקע כמצולעים. שימוש ב-GeoJSON, יישומי ניווט וניתוב ניידים שונים יכולים לציין את הכיסוי של השירותים שלהם. הרחבה של GeoJSON היא TopoJSON שהיא קטנה יותר בגודלה ומקודדת טופולוגיה גיאוגרפית.
 קרא עוד
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -122,4 +117,4 @@ GeoJSON הוא פורמט מבוסס JSON שתוכנן לייצג תכונות �
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

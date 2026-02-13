@@ -17,16 +17,14 @@ description: נסה את ה-API שלנו באתר כדי להמיר GeoJSON ל-G
  [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
  API שהוא API GIS עוצמתי, עשיר בתכונות וקל לשימוש עבור פלטפורמת C#. פתח את
  [NuGet](https://www.nuget.org/packages/aspose.gis) 
- מנהל החבילות, חפש את
+ מנהל החבירות, חפש את
  **Aspose.GIS** 
  והתקן. ניתן גם להשתמש בפקודה הבאה ממסוף Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="הדגמות חיות של GeoJSON ל-GPX" sectionDescription="המרת GeoJSON ל-GPX עכשיו על ידי ביקור באתר [הדגמות החיות שלנו](https://products.aspose.com/gis/conversion/geojson-to-gpx). להדגמה החיה יש את היתרונות הבאים" >}}
@@ -83,8 +80,7 @@ PM> Install-Package Aspose.GIS
 
     {{% blocks/products/pf/agp/content h2="ספריית GIS של .NET" %}}
 
- Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה של GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'. 
-
+ Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה של GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET וא אינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'. 
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -115,9 +111,7 @@ GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות ג�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="החלפת GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

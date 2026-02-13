@@ -95,7 +95,7 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json",
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-Format d'index de forme, un index positionnel de la géométrie des entités pour permettre une recherche rapide vers l'avant et vers l'arrière
+Format d'index de forme, un indice positionnel de la géométrie des entités pour permettre une recherche rapide vers l'avant et vers l'arrière
 En savoir plus
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -120,6 +120,6 @@ En savoir plus
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -236,7 +236,9 @@ description: Créez, lisez, convertissez et traitez les données SIG, notamment 
     <li><b>MapInfo Interchange Format :</b> MIF</li>
     <li><b>MapInfo Tab Format :</b> TAB, DAT, DBF</li>
     <li><b>OpenStreetMap :</b> OSM</li>
-    <li><b>Comma-Separated Values :</b> CSV</li>
+    <li><b>Comma-Sep
+
+ated Values :</b> CSV</li>
    </ul>
   </div>
   <!--/left-->
@@ -813,3 +815,5 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

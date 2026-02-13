@@ -1,8 +1,8 @@
 ---
-title: Convertir GPX en Shapefile : données SIG via .NET ou C#
+title: "Convertir GPX en Shapefile : données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/gpx-to-shapefile/ 
-description: Essayez nos API sur site pour convertir GPX en Shapefile sur .NET Framework, .NET Core, C#.
+url: "/fr/net/conversion/gpx-to-shapefile/"
+description: "Essayez nos API sur site pour convertir GPX en Shapefile sur .NET Framework, .NET Core, C#."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -117,9 +114,7 @@ SHP est l'extension de fichier pour l'un des principaux types de fichiers utilis
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

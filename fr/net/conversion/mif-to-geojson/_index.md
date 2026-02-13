@@ -1,8 +1,8 @@
 ---
-title: Convertir MIF en GEOJSON : données SIG via .NET 
+title: "Convertir MIF en GEOJSON : données SIG via .NET"
 weight: 70
-url: /fr/net/conversion/mif-to-geojson/ 
-description: Essayez nos API sur site pour la conversion de vos données SIG sur .NET Framework, .NET Core.
+url: "/fr/net/conversion/mif-to-geojson/"
+description: "Essayez nos API sur site pour la conversion de vos données SIG sur .NET Framework, .NET Core."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -67,7 +67,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Convertir les données SIG MIF en données GEOJSON
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -120,6 +119,5 @@ Lire la suite
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

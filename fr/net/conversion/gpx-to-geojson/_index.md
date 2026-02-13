@@ -1,7 +1,7 @@
 ---
 title: Convertir GPX en données SIG GeoJSON via .NET ou C#
 weight: 120
-url: /fr/net/conversion/gpx-to-geojson/ 
+url: /fr/net/conversion/gpx-to-geojson/
 description: Essayez nos API sur site pour convertir GPX en GeoJSON sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -117,9 +115,7 @@ GeoJSON est un format basé sur JSON conçu pour représenter les entités géog
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

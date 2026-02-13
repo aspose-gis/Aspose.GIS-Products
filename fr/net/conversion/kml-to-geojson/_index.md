@@ -1,8 +1,8 @@
 ---
-title: Convertir KML en GeoJSON : Données SIG via .NET ou C#
+title: "Convertir KML en GeoJSON : Données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/kml-to-geojson/ 
-description: Essayez nos API sur site pour convertir KML en GeoJSON sur .NET Framework, .NET Core, C#.
+url: /fr/net/conversion/kml-to-geojson/
+description: "Essayez nos API sur site pour convertir KML en GeoJSON sur .NET Framework, .NET Core, C#."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -24,9 +24,7 @@ description: Essayez nos API sur site pour convertir KML en GeoJSON sur .NET Fra
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,7 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -116,9 +114,8 @@ GeoJSON est un format basé sur JSON conçu pour représenter les entités géog
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -362,7 +362,7 @@ description: Développez un visualiseur TopoJSON grâce à une bibliothèque con
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'Apprentissage" tabId="resources" >}}

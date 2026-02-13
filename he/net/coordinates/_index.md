@@ -1,8 +1,8 @@
 ---
-title: ממשקי API להמרת קואורדינטות עבור .NET - Aspose 
+title: ממשכי API להמרת קואורדינטות עבור .NET - Aspose 
 weight: 40
 url: /he/net/coordinates
-description: פתח ממיר קואורדינטות באמצעות ספרייה שתוכננה במיוחד למפתחי .NET. ממשקי API להמרת קואורדינטות עבור DD, DMS, DDM, GeoRef ומבנים אחרים.
+description: פתח ממיר קואורדינטות באמצעות ספרייה שתוכננה במיוחד למפתחי .NET. ממשכי API להמרת קואורדינטות עבור DD, DMS, DDM, GeoRef ומבנים אחרים.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -18,7 +18,7 @@ description: פתח ממיר קואורדינטות באמצעות ספרייה 
 </p>
 
 <p>
- Aspose.GIS for .NET תוכנן תוך התחשבות בפשטות, ביצועים, שימושיות וניידות. הוא מכיל ממשקי API לשימוש עם פלטפורמות ‎.NET Framework ו-‎.NET Core, ומאפשר לך לבנות יישומי חוצי פלטפורמות בקלות רבה.
+ Aspose.GIS for .NET תוכנן תוך ההתחשבות בפשטות, ביצועים, שימושיות וניידות. הוא מכיל ממשקי API לשימוש עם פלטפורמות ‎.NET Framework ו-‎.NET Core, ומאפשר לך לבנות יישומים חוצי פלטפורמות בקלות רבה.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -264,7 +264,6 @@ description: פתח ממיר קואורדינטות באמצעות ספרייה 
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,3 +287,5 @@ description: פתח ממיר קואורדינטות באמצעות ספרייה 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר עבור המרת נתוני �
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // המרת נתוני GIS של SHX לנתוני KML
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -95,7 +92,7 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדימה ואחורה במהירות
+פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדמן ואחורה במהירות
 קרא עוד
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -120,6 +117,5 @@ KML, (שפת סימון Keyhole מכילה) מידע גיאוגרפי בציון
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

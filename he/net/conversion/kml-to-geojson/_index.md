@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר כדי להמיר KML ל-GeoJS
 {{% blocks/products/pf/agp/code-block title="פקודה" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -92,7 +90,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) מכיל מידע גיאוגרפי בסימון XML. ניתן לפתוח KML באפליקציות מערכת מידע גיאוגרפית (GIS) בתנאי שהן תומכות בה. יישומים רבים החלו לתמוך בפורמט KML לאחר שאומץ כסטנדרט בינלאומי.
+KML (Keyhole Markup Language) מכיל מידע גיאוגרפי בסימון XML. ניתן לפתוח KML באפליקציות מערכת מידע גיאוגרפית (GIS) בתנאי שהן תומכות בו. יישומים רבים החלו לתמוך בפורמט KML לאחר שאומץ כסטנדרט בינלאומי.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +116,8 @@ GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות ג�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

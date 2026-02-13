@@ -88,7 +88,6 @@ VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Driver
 
  Aspose.GIS for .NET היא API למניפולציה והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטי נתוני GIS מפורסמים כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ו-OpenStreetMap. זהו API עצמאי המבוסס על .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -119,6 +118,6 @@ GML מייצג שפת סימון גיאוגרפית המבוססת על מפרט
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

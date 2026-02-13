@@ -24,9 +24,7 @@ description: נסה את ממשקי ה-API שלנו On-Premise להמרת נתו
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // המרת נתוני GIS KML לנתוני SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,8 +82,7 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
 
     {{% blocks/products/pf/agp/content h2="ספריית .NET GIS" %}}
 
- Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה של GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
-
+ Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפית, Google Earth, פורמט החלפה של GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -120,6 +115,5 @@ KML, (Keyhole Markup Language מכיל) מידע גיאוגרפי בסימון X
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

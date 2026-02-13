@@ -288,3 +288,4 @@ description: Convertir en Degré Minute Seconde (DMS) grâce à une bibliothèqu
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+{{< /blocks/products/pf/main-wrap-class >}}

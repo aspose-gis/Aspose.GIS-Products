@@ -75,7 +75,6 @@ VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.sh
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="הדגמות חיות TOPOJSON ל-SHX" sectionDescription="המירו TOPOJSON ל-SHX עכשיו על ידי ביקור באתר [ההדגמות החיות שלנו](https://products.aspose.app/gis/conversion/topojson-to-shx). להדגמה חיה יש את היתרונות הבאים" >}}
@@ -102,7 +101,7 @@ TopoJSON הוא הרחבה של GeoJSON המקודדת טופולוגיה. במ�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדימה ואחורה במהירות
+פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדמה ואחורה במהירות
 קרא עוד
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -121,6 +120,5 @@ TopoJSON הוא הרחבה של GeoJSON המקודדת טופולוגיה. במ�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

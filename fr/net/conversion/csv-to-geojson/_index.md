@@ -1,7 +1,7 @@
 ---
 title: Convertir CSV en données SIG GeoJSON via .NET ou C#
 weight: 120
-url: /fr/net/conversion/csv-to-geojson/ 
+url: /fr/net/conversion/csv-to-geojson/
 description: Essayez nos API sur site pour convertir CSV en GeoJSON sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -117,6 +114,5 @@ GeoJSON est un format basé sur JSON conçu pour représenter les entités géog
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

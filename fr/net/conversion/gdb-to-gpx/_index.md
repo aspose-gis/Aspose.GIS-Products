@@ -1,8 +1,8 @@
 ---
-title: Convertir GDB en GPX : Données SIG via .NET ou C#
+title: "Convertir GDB en GPX : Données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/gdb-to-gpx/ 
-description: Essayez nos API sur site pour convertir de GDB à GPX sur .NET Framework, .NET Core, C#.
+url: /fr/net/conversion/gdb-to-gpx/
+description: "Essayez nos API sur site pour convertir de GDB à GPX sur .NET Framework, .NET Core, C#."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -113,7 +113,6 @@ L'extension GPX représente le format d'échange GPS pour l'interchange de donn�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-kml" name="GDB TO KML" description="Langage de balisage des mots clés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-shp" name="GDB TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-gpx" name="GDB TO GPX" description="Échange GPS" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

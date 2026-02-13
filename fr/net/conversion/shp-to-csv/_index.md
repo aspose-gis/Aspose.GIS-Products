@@ -1,8 +1,8 @@
 ---
-title: Convertir SHP en CSV : Données SIG via .NET ou C#
+title: "Convertir SHP en CSV : Données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/shp-to-csv/ 
-description: Essayez nos API sur site pour convertir SHP en CSV sur .NET Framework, .NET Core, C#.
+url: "/fr/net/conversion/shp-to-csv/"
+description: "Essayez nos API sur site pour convertir SHP en CSV sur .NET Framework, .NET Core, C#."
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ Elle prend 4 paramètres comme détaillé ci-dessous.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Un chemin d'accès au fichier source SHP de type chaîne
-2.  Pilote source pour informer l'API du format d'entrée. Définissez-le sur Drivers.Shapefile
-3.  Le chemin d'accès au fichier de données CSV de destination de type chaîne
-4.  Pilote de destination pour spécifier le format de sortie. Définissez-le sur Drivers.Csv
+1. Un chemin d'accès au fichier source SHP de type chaîne
+2. Pilote source pour informer l'API du format d'entrée. Définissez-le sur `Drivers.Shapefile`
+3. Le chemin d'accès au fichier de données CSV de destination de type chaîne
+4. Pilote de destination pour spécifier le format de sortie. Définissez-le sur `Drivers.Csv`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,7 +69,6 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -113,9 +110,7 @@ Les fichiers avec l'extension CSV (Comma Separated Values) représentent des fic
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Valeurs séparées par des virgules" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="Échange GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ description: Essayez nos API sur site pour convertir TopoJSON en Shapefile sur .
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct TopoJSON vers Shapefile" sectionDescription="Convertissez TopoJSON en Shapefile dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/topojson-to-shapefile). La démo en direct présente les avantages suivants" >}}
@@ -113,9 +110,7 @@ SHP est l'extension de fichier pour l'un des principaux types de fichiers utilis
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Langage de balisage des mots clés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="Shapefile ESRI" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/agp/faq-item >}}
+{{< /blocks/products/pf/main-container >}}

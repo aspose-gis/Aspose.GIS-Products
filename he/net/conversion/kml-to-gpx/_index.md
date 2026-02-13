@@ -1,7 +1,7 @@
 ---
 title: המרת KML לנתוני GIS של GPX באמצעות .NET או C#
 weight: 120
-url: /he/net/conversion/kml-to-gpx/ 
+url: /he/net/conversion/kml-to-gpx/
 description: נסה את ה-API שלנו באתר כדי להמיר KML ל-GPX ב-.NET Framework, ‎.NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר כדי להמיר KML ל-GPX �
 {{% blocks/products/pf/agp/code-block title="פקודה" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -96,7 +94,7 @@ KML (Keyhole Markup Language) מכיל מידע גיאוגרפי בסימון XM
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המכיל נתוני GPS, כלומר נקודות ציון, מסלולים ומסלולים שניתן לייבא ולקרוא על ידי תוכניות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
+הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המ_contains נתוני GPS, כלומר נקודות ציון, מסלולים ומסלולים שניתן לייבא ולקרוא על ידי תוכניות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,9 +114,8 @@ KML (Keyhole Markup Language) מכיל מידע גיאוגרפי בסימון XM
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

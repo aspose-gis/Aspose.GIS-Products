@@ -75,7 +75,6 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct de MIF à SHX" sectionDescription="Convertissez MIF en SHX dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/mif-to-shx). La démo en direct présente les avantages suivants" >}}
@@ -119,6 +118,6 @@ Lire la suite
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

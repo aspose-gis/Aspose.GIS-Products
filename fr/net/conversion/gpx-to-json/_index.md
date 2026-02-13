@@ -13,20 +13,18 @@ description: Essayez nos API sur site pour convertir GPX en JSON sur .NET Framew
 
 {{% blocks/products/pf/agp/content h2="Comment convertir GPX en JSON à l'aide de C#" %}}
 
- Afin de convertir GPX en JSON, nous utiliserons
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API qui est une API GIS riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- gestionnaire de paquets, recherchez
- **Aspose.GIS** 
- et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
+Afin de convertir GPX en JSON, nous utiliserons
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API qui est une API GIS riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+gestionnaire de paquets, recherchez
+**Aspose.GIS** 
+et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,9 +37,9 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
- *VectorLayer.Convert* 
- . Elle prend 4 paramètres comme détaillé ci-dessous.
+La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
+*VectorLayer.Convert* 
+Elle prend 4 paramètres comme détaillé ci-dessous.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
+Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -83,8 +80,7 @@ PM> Install-Package Aspose.GIS
 
     {{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
 
- Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend en charge pleinement la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, GPS Exchange Format, Formats MapInfo et OpenStreetMap. C'est une API autonome basée sur .NET qui ne nécessite aucun logiciel GIS tel qu'ArcGIS / ArcMap, QGIS etc. 
-
+Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend en charge pleinement la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, GPS Exchange Format, Formats MapInfo et OpenStreetMap. C'est une API autonome basée sur .NET qui ne nécessite aucun logiciel GIS tel qu'ArcGIS / ArcMap, QGIS etc. 
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -108,7 +104,7 @@ Format basé sur JSON conçu pour représenter les entités géographiques avec 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir GPX vers de nombreux autres formats de fichiers, y compris quelques-uns répertoriés ci-dessous." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir GPX vers de nombreux autres formats de fichiers, incluant quelques-uns répertoriés ci-dessous." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
@@ -118,9 +114,8 @@ Format basé sur JSON conçu pour représenter les entités géographiques avec 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,5 +1,5 @@
 ---
-title: המרת לדרגה דקה עשרונית (DDM) - ממשקי API עבור .NET
+title: המרת לדרגה דקה עשרונית (DDM) - ממשכי API עבור .NET
 weight: 40
 url: /he/net/coordinates/convert-to-ddm
 description: המרה לדרגה דקה עשרונית (DDM) באמצעות ספרייה שתוכננה במיוחד למפתחי .NET. ממשקי API להמרת קואורדינטות עבור DD, DMS, DDM, GeoRef ומבנים אחרים.
@@ -263,7 +263,7 @@ description: המרה לדרגה דקה עשרונית (DDM) באמצעות ספ
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}

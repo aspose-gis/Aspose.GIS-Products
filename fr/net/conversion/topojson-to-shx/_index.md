@@ -13,22 +13,18 @@ description: Essayez nos API On-Premise pour votre conversion de données SIG su
 
 {{% blocks/products/pf/agp/content h2="Comment convertir TOPOJSON en SHX à l'aide de C#" %}}
 
- Afin de convertir TOPOJSON en SHX, nous utiliserons
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- gestionnaire de paquets, recherchez
- **Aspose.GIS** 
- et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
+Afin de convertir TOPOJSON en SHX, nous utiliserons
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API qui est une API SIG riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrez
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+gestionnaire de paquets, recherchez
+**Aspose.GIS** 
+et installez-le. Vous pouvez également utiliser la commande suivante depuis la console du Gestionnaire de Paquets.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +34,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Étapes pour convertir TOPOJSON en SHX en C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
- *VectorLayer.Convert* 
- . Elle prend 4 paramètres comme détaillé ci-dessous.
-
+La conversion peut être effectuée avec une seule ligne de code lors de l'utilisation de la méthode
+*VectorLayer.Convert* 
+. Elle prend 4 paramètres comme détaillé ci-dessous.
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Un chemin d'accès au fichier source TOPOJSON de type chaîne de caractères
@@ -55,59 +49,52 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
-
+Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploitation principaux. Avant d'exécuter le code ci-dessous, assurez-vous que vous avez les prérequis suivants sur votre système.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Enregistrer TOPOJSON en tant que SHX - C#" offSpacer="" %}}
-
 ```cs
 // Convertir les données SIG TOPOJSON en données SHX
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct TOPOJSON vers SHX" sectionDescription="Convertissez TOPOJSON en SHX dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/topojson-to-shx). La démo en direct présente les avantages suivants" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger l'API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sélectionnez simplement SHX comme format de sortie et." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez votre fichier TOPOJSON, il sera instantanément converti en SHX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Vous obtiendrez le lien de téléchargement." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger l'API Aspose GIS." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sélectionnez simplement SHX comme format de sortie et." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez votre fichier TOPOJSON, il sera instantanément converti en SHX." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Vous obtiendrez le lien de téléchargement." >}}
 
-    {{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
 
- Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend en charge pleinement la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats et OpenStreetMap. C'est une API autonome basée sur .NET et ne nécessite aucun logiciel SIG tel qu'ArcGIS / ArcMap, QGIS etc. 
+Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend en charge pleinement la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats et OpenStreetMap. C'est une API autonome basée sur .NET et ne nécessite aucun logiciel SIG tel qu'ArcGIS / ArcMap, QGIS etc. 
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
 
 TopoJSON est une extension de GeoJSON qui encode la topologie. Au lieu de représenter les géométries discrètement, les géométries dans les fichiers TopoJSON sont cousues à partir de segments de ligne partagés appelés arcs.
 Lire plus
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
 Format d'index de forme, un index positionnel de la géométrie des entités pour permettre une recherche rapide vers l'avant et vers l'arrière
 Lire plus
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -121,6 +108,6 @@ Lire plus
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
