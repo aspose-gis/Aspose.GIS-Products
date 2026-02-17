@@ -121,6 +121,5 @@ Ekstensi GPX mewakili format Pertukaran GPS untuk pertukaran data GPS antara apl
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

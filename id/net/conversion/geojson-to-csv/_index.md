@@ -1,11 +1,11 @@
 ---
 title: Konversi GeoJSON ke Data GIS CSV melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/geojson-to-csv/ 
+url: /id/net/conversion/geojson-to-csv/
 description: Coba API On-Premise kami untuk mengonversi GeoJSON ke CSV pada .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konversi GeoJSON ke CSV di C#" h2="Ekspor GeoJSON ke CSV menggunakan API sisi server, tanpa memerlukan perangkat lunak seperti ArcGIS, ArcMap, QGIS atau Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GeoJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk mengonversi GeoJSON ke CSV pada .NET
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -98,7 +96,7 @@ GeoJSON adalah format berbasis JSON yang dirancang untuk mewakili fitur geografi
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-File dengan ekstensi CSV (Comma Separated Values) mewakili file teks biasa yang berisi catatan data dengan nilai dipisahkan koma. Setiap baris dalam file CSV adalah catatan baru dari kumpulan catatan yang terkandung dalam file tersebut. File seperti itu dibuat ketika transfer data dimaksudkan dari satu sistem penyimpanan ke sistem lainnya. Karena semua aplikasi mengenali catatan yang dipisahkan oleh koma, impor file tersebut ke database dilakukan dengan sangat mudah.
+File dengan extensi CSV (Comma Separated Values) mewakili file teks biasa yang berisi catatan data dengan nilai dipisahkan koma. Setiap baris dalam file CSV adalah catatan baru dari kumpulan catatan yang terkandung dalam file tersebut. File seperti itu dibuat ketika transfer data dimaksudkan dari satu sistem penyimpanan ke sistem lainnya. Karena semua aplikasi mengenali catatan yang dipisahkan oleh koma, impor file tersebut ke database dilakukan dengan sangat mudah.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,9 +113,9 @@ File dengan ekstensi CSV (Comma Separated Values) mewakili file teks biasa yang 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GEOJSON KE SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GEOJSON KE GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
     
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk konversi data GIS Anda pada .NET Fra
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,11 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Konversi data GIS SHX ke data JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +115,5 @@ Baca Lebih Lanjut
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

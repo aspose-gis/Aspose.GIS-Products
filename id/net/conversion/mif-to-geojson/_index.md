@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk konversi data GIS Anda pada .NET Fra
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,14 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Konversi data GIS MIF ke data GEOJSON
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -121,5 +119,6 @@ Baca Lebih Lanjut
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -4,7 +4,7 @@ linkTitle: Penampil ASCII ArcGIS
 weight: 10
 url: /id/gis-products/net/viewer/esri-ascii/
 description: Penampil ASCII ArcGIS memungkinkan Anda melihat dan menganalisis data ASCII dalam lingkungan GIS.
-[source]: /en/gis-products/net/viewer/esri-ascii/
+source: /en/gis-products/net/viewer/esri-ascii/
 ---
 
 ## Pengantar
@@ -57,4 +57,3 @@ Jika Anda mengalami masalah dengan Penampil ASCII ArcGIS, coba langkah-langkah p
 ## Dukungan
 
 Untuk informasi lebih lanjut tentang Penampil ASCII ArcGIS, kunjungi situs web Esri atau hubungi dukungan teknis Esri.
----

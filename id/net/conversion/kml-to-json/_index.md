@@ -1,7 +1,7 @@
 ---
 title: Konversi KML ke Data GIS GeoJSON melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/kml-to-json/ 
+url: /id/net/conversion/kml-to-json/
 description: Coba API On-Premise kami untuk mengonversi KML ke GeoJSON pada .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk mengonversi KML ke GeoJSON pada .NET
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +119,5 @@ GeoJSON adalah format berbasis JSON yang dirancang untuk mewakili fitur geografi
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

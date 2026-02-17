@@ -1,7 +1,7 @@
 ---
 title: Konversi MapInfo-TAB ke Data GIS GPX melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/mapinfo-tab-to-gpx/ 
+url: /id/net/conversion/mapinfo-tab-to-gpx/
 description: Coba API On-Premise kami untuk mengonversi MapInfo-TAB ke GPX pada .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk mengonversi MapInfo-TAB ke GPX pada 
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -105,13 +103,10 @@ Ekstensi GPX mewakili format Pertukaran GPS untuk pertukaran data GPS antara apl
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi Lain yang Didukung" subTitle="Anda juga dapat mengonversi MapInfo-TAB ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+### Konversi Lain yang Didukung
+Anda juga dapat mengonversi MapInfo-TAB ke banyak format file lain termasuk beberapa yang tercantum di bawah ini.
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB TO GPX" description="GPS Exchange" >}}
+- **[MapInfo-TAB TO GPX](https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx)** – GPS Exchange
 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

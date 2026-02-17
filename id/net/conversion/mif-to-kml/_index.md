@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk konversi data GIS Anda di .NET Frame
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,59 +65,49 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Konversi data GIS MIF ke data KML
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung MIF ke KML" sectionDescription="Konversi MIF ke KML sekarang juga dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/gis/conversion/mif-to-kml). Demo langsung memiliki manfaat berikut" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih KML sebagai format output dan." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file MIF Anda, itu akan langsung dikonversi ke KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih KML sebagai format output dan." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file MIF Anda, itu akan langsung dikonversi ke KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
 
     {{% blocks/products/pf/agp/content h2="Pustaka GIS .NET" %}}
 
- Aspose.GIS untuk .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
-
+    Aspose.GIS untuk .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 {{mif}}
 Baca Lebih Lanjut
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="" >}}
-
 KML, (Keyhole Markup Language berisi) informasi geospasial dalam notasi XML. File yang disimpan sebagai KML dapat dibuka di aplikasi Geographic Information System (GIS) asalkan mendukungnya. Banyak aplikasi telah mulai memberikan dukungan untuk format file KML setelah diadopsi sebagai standar internasional. KML menggunakan struktur berbasis tag dengan elemen dan atribut bersarang. Semua tag peka huruf besar/kecil dan urutan tag ini, sesuai Referensi KML, penting untuk diikuti.
 Baca Lebih Lanjut
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi Lain yang Didukung" subTitle="Anda juga dapat mengonversi MIF ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-geojson" name="MIF KE GEOJSON" description="Format Berbasis JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-shx" name="MIF KE SHX" description="Ekstensi File Shapefile" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-geojson" name="MIF KE GEOJSON" description="Format Berbasis JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-shx" name="MIF KE SHX" description="Ekstensi File Shapefile" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

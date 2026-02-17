@@ -24,13 +24,10 @@ description: Coba API On-Premise kami untuk mengonversi GPX ke KML pada .NET Fra
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -38,40 +35,34 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Langkah untuk mengonversi GPX ke KML di C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
  *VectorLayer.Convert* 
  metode. Metode ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Jenis string jalur file ke file GPX sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Gpx
-1.  Jenis string jalur file ke file data KML tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Kml
+2.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Gpx
+3.  Jenis string jalur file ke file data KML tujuan
+4.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Kml
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Sistem" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Simpan GPX sebagai KML - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -82,34 +73,23 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
 
     {{% blocks/products/pf/agp/content h2="Pustaka GIS .NET" %}}
-
  Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
 Ekstensi GPX mewakili format Pertukaran GPS untuk pertukaran data GPS antara aplikasi dan layanan web di internet. Ini adalah format XML ringan yang berisi data GPS i.e. titik jalan, rute, dan trek untuk diimpor dan dibaca oleh banyak program. GPX bersifat terbuka dan didukung oleh berbagai aplikasi dan perangkat GPS.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML (Keyhole Markup Language) berisi informasi geospasial dalam notasi XML. KML dapat dibuka di aplikasi Geographic Information System (GIS) asalkan mendukungnya. Banyak aplikasi telah mulai memberikan dukungan untuk format KML setelah diadopsi sebagai standar internasional.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi Lain yang Didukung" subTitle="Anda juga dapat mengonversi GPX ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX KE JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX KE SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX KE GeoJSON" description="GeoJSON" >}}
@@ -117,10 +97,6 @@ KML (Keyhole Markup Language) berisi informasi geospasial dalam notasi XML. KML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX KE Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX KE TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX KE CSV" description="Comma Separated Values" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

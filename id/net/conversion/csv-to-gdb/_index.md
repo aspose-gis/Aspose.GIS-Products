@@ -1,7 +1,7 @@
 ---
 title: Konversi CSV ke Data GIS GDB melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/csv-to-gdb/ 
+url: /id/net/conversion/csv-to-gdb/
 description: Coba API On-Premise kami untuk mengonversi CSV ke GDB pada .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk mengonversi CSV ke GDB pada .NET Fra
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Jenis string jalur file ke file CSV sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Csv
-1.  Jenis string jalur file ke file data GDB tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.FileGdb
+1. Jenis string jalur file ke file CSV sumber  
+2. Driver sumber untuk memberi tahu API tentang format input. Atur ke `Drivers.Csv`  
+3. Jenis string jalur file ke file data GDB tujuan  
+4. Driver tujuan untuk menentukan format output. Atur ke `Drivers.FileGdb`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,22 +67,20 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung CSV ke GDB" sectionDescription="Konversi CSV ke GDB sekarang juga dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/gis/conversion/csv-to-gdb). Demo langsung memiliki manfaat berikut" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih GDB sebagai format output dan." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file CSV Anda, itu akan langsung dikonversi ke GDB." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih GDB sebagai format output dan." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file CSV Anda, itu akan langsung dikonversi ke GDB." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
 
     {{% blocks/products/pf/agp/content h2="Pustaka GIS .NET" %}}
 
  Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -116,9 +112,7 @@ GDB adalah format yang digunakan oleh platform Esri ArcGIS. Ini adalah folder ya
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV KE SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV KE GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

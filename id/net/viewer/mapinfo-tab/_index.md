@@ -4,7 +4,7 @@ linkTitle: Tab MapInfo
 weight: 10
 url: /id/net/viewer/mapinfo-tab/
 aliases: [mapinfo, tab]
-[source](https://github.com/NetMapStudio/net.viewer/blob/master/src/net/viewer/mapinfo-tab.cpp)
+source: https://github.com/NetMapStudio/net.viewer/blob/master/src/net/viewer/mapinfo-tab.cpp
 ---
 
 ## MapInfo Tab
@@ -48,4 +48,3 @@ Setelah mengimpor data, Anda dapat bekerja dengannya seperti halnya data lainnya
 *   File `.tab` biasanya sangat besar, jadi impor mungkin membutuhkan waktu beberapa saat.
 *   Pastikan Anda memiliki cukup memori untuk memuat file `.tab`.
 *   Jika Anda mengalami masalah saat mengimpor data, coba gunakan encoding karakter yang berbeda.
-
