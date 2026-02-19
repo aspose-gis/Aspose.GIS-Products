@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -87,7 +85,7 @@ Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESR
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="MapInfo-TAB" readMoreLink="" >}}
 
-MapInfo TAB 形式は、MapInfo ソフトウェア用のベクトルデータ形式です。これは MapInfo Corporation によって開発および管理されているプロプライアティ形式です。
+MapInfo TAB 形式は、MapInfo ソフトウェア用のベクトルデータ形式です。これは MapInfo Corporation によって開発および管理されているプロプライエタリ形式です。
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -107,9 +105,7 @@ GPX 拡張機能は、GPS データとアプリケーションおよびインタ
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

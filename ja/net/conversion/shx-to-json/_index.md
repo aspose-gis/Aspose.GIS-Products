@@ -13,20 +13,18 @@ description: .NET Framework、.NET Core のオンプレミス API を使用し�
 
 {{% blocks/products/pf/agp/content h2="C# を使用して SHX を JSON に変換する方法" %}}
 
-SHX を JSON に変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
+SHX を JSON に変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis)  
+パッケージマネージャーを開き、  
+**Aspose.GIS**  
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,15 +37,15 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-*VectorLayer.Convert* 
+*VectorLayer.Convert*  
 メソッドを使用すると、コードを 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース SHX ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるためのソースドライバー。Shapefile に設定します。
-3.  宛先の JSON データファイルへの文字列型のファイルパス
-4.  出力形式を指定するための宛先ドライバー。TopoJson に設定します。
+1. ソース SHX ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるためのソースドライバー。Shapefile に設定します。  
+3. 宛先の JSON データファイルへの文字列型のファイルパス  
+4. 出力形式を指定するための宛先ドライバー。TopoJson に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,46 +64,44 @@ PM> Install-Package Aspose.GIS
 ```cs
 // SHX GIS データを JSON データに変換します。
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHX to JSON ライブデモ" sectionDescription="[Live Demos ウェブサイト](https://products.aspose.app/gis/conversion/shx-to-json) にアクセスして、今すぐ SHX を JSON に変換してください。ライブデモには以下の利点があります。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" JSON を出力形式として選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" SHX ファイルをアップロードすると、すぐに JSON に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" JSON を出力形式として選択するだけです。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" SHX ファイルをアップロードすると、すぐに JSON に変換されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。有名な GIS データ形式 (ESRI Shapefile、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap など) の読み取り、書き込み、変換を完全にサポートしています。スタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-フィーチャジオメトリの位置インデックスであり、高速に前方および後方にシークできるようにするシェープインデックス形式
+フィーチャジオメトリの位置インデックスであり、高速に前方および後方にシークできるようにするシェープインデックス形式  
 詳細はこちら
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
 
-JSON (JavaScript Object Notation) は、人間が判読可能なテキストを使用してデータを保存および送信するデータ共有のためのオープンスタンダードファイル形式です。JSON ファイルは .json 拡張子で保存されます。JSON は書式設定が少なく、XML の優れた代替手段です。JSON は JavaScript から派生していますが、言語に依存しないデータ形式です。多くの最新プログラミング言語で JSON の生成と解析をサポートしています。application/json は JSON に使用されるメディアタイプです。
+JSON (JavaScript Object Notation) は、人間が判読可能なテキストを使用してデータを保存および送信するデータ共有のためのオープンスタンダードファイル形式です。JSON ファイルは .json 拡張子で保存されます。JSON は書式設定が少なく、XML の優れた代替手段です。JSON は JavaScript から派生していますが、言語に依存しないデータ形式です。多くの最新プログラミング言語で JSON の生成と解析をサポートしています。application/json は JSON に使用されるメディアタイプです。  
 詳細はこちら
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -118,6 +114,5 @@ JSON (JavaScript Object Notation) は、人間が判読可能なテキストを�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

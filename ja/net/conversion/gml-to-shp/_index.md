@@ -1,4 +1,3 @@
-
 ---
 title: .NET または C# を使用して GML から SHP GIS データに変換する
 weight: 120
@@ -14,20 +13,18 @@ description: オンプレミス API を使用して、.NET Framework、.NET Core
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GML を SHP に変換する方法" %}}
 
-GML から SHP に変換するには、
+GML から SHP に変換するには，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -75,27 +72,29 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" SHP を出力形式として選択するだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" GML ファイルをアップロードすると、すぐに SHP に変換されます。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。有名な GIS データ形式 (ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap など) の読み取り、書き込み、変換を完全にサポートしています。スタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 
 Geographic Markup Language (GML) は、GIS で使用される XML ベースの形式です。GML は、インターネット上の地理的トランザクションのためのオープンな交換形式です。この形式はデータと構造を指向しています。
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 Shapefile は、マルチファイル形式 (ESRI Shapefile とも呼ばれます)。メインのものは SHP 拡張子を持っています。Shapefile は一般的なベクター地理ファイル形式です。Esri 製品およびその他のプログラム間の互換性のために Esri によって開発および維持されています。
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

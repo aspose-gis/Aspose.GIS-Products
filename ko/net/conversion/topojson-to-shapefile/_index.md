@@ -44,7 +44,7 @@ PM> Install-Package Aspose.GIS
 1. 소스 TopoJSON 파일의 문자열 형식 파일 경로
 2. 소스 드라이버를 설정하여 API에 입력 형식을 알립니다. Drivers.TopoJson으로 설정합니다.
 3. 대상 Shapefile 데이터 파일의 문자열 형식 파일 경로
-4. 출력 형식을 지정하는 대상 드라이버입니다. Drivers.Shapefile로 설정합니다.
+4. 출력 형식을 지정하는 대상 드라이버입니다. Drivers.Shapefile으로 설정합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -113,6 +113,6 @@ SHP는 ESRI Shapefile의 기본 파일 유형 중 하나에 대한 파일 확장
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

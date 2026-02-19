@@ -13,20 +13,18 @@ description: オンプレミス API を使用して、.NET Framework、.NET Core
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GeoJSON を CSV に変換する方法" %}}
 
-GeoJSON を CSV に変換するには、
+GeoJSON を CSV に変換するには，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +67,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -113,8 +110,9 @@ GeoJSON は、地理的フィーチャとその非空間属性を表すように
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

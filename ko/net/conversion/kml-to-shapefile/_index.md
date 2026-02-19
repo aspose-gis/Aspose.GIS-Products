@@ -65,7 +65,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML을 Shapefile로 변환하는 라이브 데모" sectionDescription="[라이브 데모 웹사이트](https://products.aspose.app/gis/conversion/kml-to-shapefile)를 방문하여 KML을 Shapefile로 즉시 변환해 보세요. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
@@ -112,9 +111,7 @@ SHP는 ESRI Shapefile의 주요 파일 유형 중 하나에 대한 파일 확장
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

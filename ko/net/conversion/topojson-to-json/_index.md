@@ -19,9 +19,7 @@ TOPOJSON을 JSON으로 변환하려면 C# 플랫폼용 강력하고 사용하기
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -68,7 +66,6 @@ VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.js
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TOPOJSON을 JSON으로 실시간 데모" sectionDescription="[실시간 데모 웹사이트](https://products.aspose.app/gis/conversion/topojson-to-json)를 방문하여 TOPOJSON을 즉시 JSON으로 변환하십시오. 실시간 데모에는 다음과 같은 이점이 있습니다." >}}
@@ -113,6 +110,5 @@ JSON (JavaScript Object Notation)은 사람이 읽을 수 있는 텍스트를 �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

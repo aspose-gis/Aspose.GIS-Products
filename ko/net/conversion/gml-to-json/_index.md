@@ -1,11 +1,12 @@
 ---
 title: .NET 또는 C#을 사용하여 GML을 JSON GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/gml-to-json/ 
+url: /ko/net/conversion/gml-to-json/
 description: On-Premise API를 사용하여 .NET Framework, .NET Core, C#에서 GML을 JSON으로 변환해 보세요.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="C#에서 GML을 JSON으로 변환" h2="ArcGIS, ArcMap, QGIS 또는 Google Earth와 같은 소프트웨어가 필요 없이 서버 측 API를 사용하여 GML을 JSON으로 내보내세요." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +25,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용 기능이 풍부하고 강력
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -68,40 +67,37 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GML을 JSON으로 실시간 데모" sectionDescription="[실시간 데모 웹사이트](https://products.aspose.app/gis/conversion/gml-to-json)를 방문하여 GML을 JSON으로 지금 바로 변환하세요. 실시간 데모는 다음과 같은 이점을 제공합니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 JSON을 선택하기만 하면 됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GML 파일을 업로드하면 즉시 JSON으로 변환됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 JSON을 선택하기만 하면 됩니다." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="GML 파일을 업로드하면 즉시 JSON으로 변환됩니다." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. ArcGIS / ArcMap, QGIS 등과 같은 GIS 기반 소프트웨어 없이도 작동하는 독립 실행형 .NET 기반 API입니다. 
 
+{{% /blocks/products/pf/agp/content %}}
 
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 
 지리적 마크업 언어(GML)는 GIS에서 사용되는 XML 기반 형식입니다. GML은 인터넷을 통한 지리적 거래를 위한 개방형 교환 형식입니다. 이 형식은 데이터 및 구조 중심적입니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-지리적 특징과 비 공간 속성을 나타내도록 설계된 JSON 기반 형식입니다. 이 형식은 다양한 JSON(JavaScript Object Notation) 개체와 결합 방식을 정의합니다. JSON은 지리적 특징, 공간 범위 및 속성에 대한 집합적인 정보를 나타냅니다.
+지리적 특징과 비 공간 속성을 나타내도록 설계된 JSON 기반 형식입니다. 이 형식은 다양한 JSON(JavaScript Object Notation) 객체와 결합 방식을 정의합니다. JSON은 지리적 특징, 공간 범위 및 속성에 대한 집합적인 정보를 나타냅니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -115,7 +111,6 @@ Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapef
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-json" name="GML TO JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS 교환" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

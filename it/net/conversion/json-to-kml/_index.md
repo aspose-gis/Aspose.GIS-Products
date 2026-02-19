@@ -1,7 +1,7 @@
 ---
 title: Converti JSON in dati GIS KML tramite .NET o C#
 weight: 120
-url: /it/net/conversion/json-to-kml/ 
+url: /it/net/conversion/json-to-kml/
 description: Prova le nostre API On-Premise per convertire JSON in KML su .NET Framework, .NET Core, C#.
 ---
 
@@ -117,6 +117,5 @@ KML (Keyhole Markup Language) contiene informazioni geospaziali in notazione XML
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

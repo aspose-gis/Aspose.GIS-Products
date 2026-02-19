@@ -6,6 +6,7 @@ description: Prova le nostre API On-Premise per convertire KML in GPX su .NET Fr
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+
 {{< blocks/products/pf/upper-banner h1="Converti KML in GPX in C#" h2="Esporta KML in GPX utilizzando API lato server, senza la necessità di software come ArcGIS, ArcMap, QGIS o Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="per .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="KML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="per .NET" >}}
@@ -24,9 +25,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +70,7 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -92,7 +91,7 @@ Aspose.GIS for .NET è un'API per la manipolazione e la conversione dei dati GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) contiene informazioni geospaziali in notazione XML. KML può essere aperto in applicazioni di sistemi informativi geografici (GIS) purché le supportino. Molte applicazioni hanno iniziato a fornire supporto per il formato KML dopo che è stato adottato come standard internazionale.
+KML (Keyhole Markup Language) contiene informazioni geospazionali in notazione XML. KML può essere aperto in applicazioni di sistemi informativi geografici (GIS) purché le supportino. Molte applicazioni hanno iniziato a fornire supporto per il formato KML dopo che è stato adottato come standard internazionale.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +117,6 @@ L'estensione GPX rappresenta il formato di scambio GPS per lo scambio di dati GP
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

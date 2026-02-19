@@ -1,7 +1,7 @@
 ---
 title: KML converteren naar GeoJSON GIS Data via .NET of C#
 weight: 120
-url: /nl/net/conversion/kml-to-json/ 
+url: /nl/net/conversion/kml-to-json/
 description: Probeer onze On-Premise API's om KML naar GeoJSON te converteren op .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Probeer onze On-Premise API's om KML naar GeoJSON te converteren op
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +119,6 @@ GeoJSON is een JSON gebaseerd formaat dat ontworpen is om de geografische kenmer
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

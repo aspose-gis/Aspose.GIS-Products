@@ -24,9 +24,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용 기능이 풍부하고 강력
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,7 +64,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // GPX GIS 데이터를 SHX 데이터로 변환합니다.
 VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -74,6 +71,7 @@ VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Driver
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,8 +84,6 @@ VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Driver
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. ArcGIS / ArcMap, QGIS 등 GIS 기반 소프트웨어 없이도 사용할 수 있는 독립 실행형 .NET 기반 API입니다. 
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -122,5 +118,5 @@ GPX 확장명을 가진 파일은 인터넷의 애플리케이션 및 웹 서비
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

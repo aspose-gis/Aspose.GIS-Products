@@ -72,7 +72,6 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile do TopoJSON - demonstracje na żywo" sectionDescription="Przekonwertuj Shapefile na TopoJSON już teraz, odwiedzając naszą [stronę z demonstracjami na żywo](https://products.aspose.app/gis/conversion/shapefile-to-topojson). Demonstracja na żywo ma następujące korzyści" >}}
@@ -98,7 +97,7 @@ SHP to rozszerzenie pliku dla jednego z głównych typów plików używanych do 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSON zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Ten format definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. Format JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrzennym oraz właściwościach.
+TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSON zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Ten format definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. Format JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrzennego oraz właściwościach.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,9 +114,7 @@ TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSO
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile DO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile DO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

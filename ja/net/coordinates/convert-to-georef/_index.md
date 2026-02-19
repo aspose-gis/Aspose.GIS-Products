@@ -3,8 +3,10 @@ title: 地理参照系への変換
 linkTitle: 地理参照系への変換
 weight: 10
 url: /ja/net/coordinates/convert-to-georef/
-aliases: [coordinate conversion, georeferencing]
-[source](https://github.com/your-repo/your-project/blob/main/en/net/coordinates/convert-to-georef/_index.md)
+aliases:
+  - coordinate conversion
+  - georeferencing
+source: https://github.com/your-repo/your-project/blob/main/en/net/coordinates/convert-to-georef/_index.md
 ---
 
 ## Converting Coordinates to Georeferences

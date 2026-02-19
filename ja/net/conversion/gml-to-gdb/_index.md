@@ -1,4 +1,3 @@
-
 ---
 title: .NET を使用して GML を GDB GIS データに変換する
 weight: 290
@@ -25,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +64,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // GIS データ GML を GIS データ GDB に変換します。
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -119,6 +115,6 @@ GML は、Open Geospatial Consortium (OGC) によって開発された XML 仕�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

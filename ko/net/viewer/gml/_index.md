@@ -5,7 +5,7 @@ weight: 10
 description: GML 뷰어에 대한 정보입니다.
 url: /ko/net/viewer/gml/
 aliases: [GML, Geography Markup Language]
-[source](https://en.wikipedia.org/wiki/Geography_Markup_Language)
+source: https://en.wikipedia.org/wiki/Geography_Markup_Language
 ---
 
 ## 개요
@@ -43,4 +43,3 @@ GML 뷰어는 GML 파일을 시각적으로 표시하고 분석할 수 있는 �
 
 *   [OGC GML Reference](https://www.ogc.org/standards/gml/)
 *   [Wikipedia - Geography Markup Language](https://en.wikipedia.org/wiki/Geography_Markup_Language)
----

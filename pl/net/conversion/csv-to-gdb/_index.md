@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -74,7 +72,7 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="CSV do GDB Live Demos" sectionDescription="Przekonwertuj CSV na GDB już teraz, odwiedzając naszą stronę [Live Demos](https://products.aspose.app/gis/conversion/csv-to-gdb). Demo online ma następujące korzyści" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="CSV do GDB Live Demos" sectionDescription="Przekonwertuj CSV na GDB już teraz, odwiedzając naszą stronę [Live Demos](httpshttps://products.aspose.app/gis/conversion/csv-to-gdb). Demo online ma następujące korzyści" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać API Aspose GIS." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Po prostu wybierz GDB jako format wyjściowy i." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Prześlij plik CSV, zostanie natychmiast przekonwertowany na GDB." >}}
@@ -115,9 +113,7 @@ GDB to format używany przez platformę Esri ArcGIS. Jest to folder zawierający
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV DO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV DO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

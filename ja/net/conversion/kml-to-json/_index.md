@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して KML を GeoJSON GIS データに変換する
 weight: 120
-url: /ja/net/conversion/kml-to-json/ 
+url: /ja/net/conversion/kml-to-json/
 description: 当社のオンプレミス API を使用して、.NET Framework、.NET Core、C# で KML を GeoJSON に変換します。
 ---
 
@@ -13,22 +13,18 @@ description: 当社のオンプレミス API を使用して、.NET Framework、
 
 {{% blocks/products/pf/agp/content h2="C# を使用して KML を GeoJSON に変換する方法" %}}
 
-KML を GeoJSON に変換するには、
+KML を GeoJSON に変換するには、  
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き、  
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,78 +32,58 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="C# で KML を GeoJSON に変換する手順" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 *VectorLayer.Convert* 
 メソッドを使用すると、ワンラインのコードで変換できます。以下に示すように 4 つのパラメータを受け取ります。
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース KML ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Kml に設定します。
-3.  宛先 GeoJSON データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。GeoJson に設定します。
-
+1. ソース KML ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Kml に設定します。  
+3. 宛先 GeoJSON データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。GeoJson に設定します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムでサポートされています。以下のコードを実行する前に、システムに必要な前提条件が揃っていることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="KML を GeoJSON に保存 - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-json.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML to GeoJSON Live Demos" sectionDescription="当社の [Live Demos website](https://products.aspose.app/gis/conversion/kml-to-json) にアクセスして、今すぐ KML を GeoJSON に変換してください。ライブデモには以下の利点があります。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として GeoJSON を選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" KML ファイルをアップロードすると、すぐに GeoJSON に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として GeoJSON を選択するだけです。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" KML ファイルをアップロードすると、すぐに GeoJSON に変換されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
-
+{{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap など、有名な GIS データ形式の読み取り、書き込み、変換を完全にサポートしています。これはスタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 KML (Keyhole Markup Language) には、XML 表記の地理空間情報が含まれています。KML は、それをサポートする GIS アプリケーションで開くことができます。多くのアプリケーションでは、国際標準として採用された後、KML 形式のサポートを開始しました。
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 GeoJSON は、地理的フィーチャとその非空間属性を表すように設計された JSON ベースの形式です。この形式では、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON は、地理的フィーチャ、その空間範囲、およびプロパティに関する集合的な情報を示します。
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="KML を他の多くのファイル形式に変換することもできます。以下はその一部です。" >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML TO GeoJSON" description="GeoJSON" >}}
@@ -115,10 +91,6 @@ GeoJSON は、地理的フィーチャとその非空間属性を表すように
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

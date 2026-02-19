@@ -117,6 +117,6 @@ Pliki z rozszerzeniem CSV (Comma Separated Values) reprezentują zwykłe pliki t
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

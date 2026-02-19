@@ -19,9 +19,7 @@ GEOJSON을 JSON으로 변환하려면 [Aspose.GIS for .NET](https://products.asp
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,16 +64,15 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GEOJSON을 JSON으로 실시간 데모" sectionDescription="[라이브 데모 웹사이트](https://products.aspose.app/gis/conversion/geojson-to-json)를 방문하여 GEOJSON을 바로 JSON으로 변환해 보세요. 라이브 데모는 다음과 같은 이점을 제공합니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 JSON을 선택하기만 하면 됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GEOJSON 파일을 업로드하면 즉시 JSON으로 변환됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 JSON을 선택하기만 하면 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GEOJSON 파일을 업로드하면 즉시 JSON으로 변환됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
@@ -113,6 +110,9 @@ JSON (JavaScript Object Notation)은 데이터를 공유하기 위한 개방형 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
+{{< /blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

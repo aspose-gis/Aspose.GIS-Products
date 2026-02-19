@@ -1,7 +1,7 @@
 ---
 title: Converti OSM in GPX Dati GIS tramite .NET o C#
 weight: 120
-url: /it/net/conversion/osm-to-gpx/ 
+url: /it/net/conversion/osm-to-gpx/
 description: Prova le nostre API On-Premise per convertire OSM in GPX su .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -115,9 +113,8 @@ L'estensione GPX rappresenta il formato GPS Exchange per l'interscambio di dati 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

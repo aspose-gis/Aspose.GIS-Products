@@ -19,9 +19,7 @@ GeoJSON을 SHP로 변환하려면 [Aspose.GIS for .NET](https://products.aspose.
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -93,4 +91,7 @@ Shapefile은 다중 파일 형식 (ESRI Shapefile로 알려짐)입니다. 주요
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,28 +65,25 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 ```cs
 // Konwertuj dane GIS SHX na dane KML
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHX do KML Live Demos" sectionDescription="Konwertuj SHX na KML już teraz, odwiedzając naszą [stronę z demonstracjami na żywo](https://products.aspose.app/gis/conversion/shx-to-kml). Demonstracja na żywo ma następujące korzyści" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Po prostu wybierz KML jako format wyjściowy i." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Prześlij plik SHX, zostanie natychmiast przekonwertowany na KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz pobierać API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Po prostu wybierz KML jako format wyjściowy i." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Prześlij plik SHX, zostanie natychmiast przekonwertowany na KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
 Aspose.GIS for .NET to API do manipulacji i konwersji danych GIS. W pełni obsługuje odczyt, zapis i konwertowanie znanych formatów danych GIS, takich jak pliki ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats i OpenStreetMap. Jest to samodzielne API oparte na .NET i nie wymaga żadnego oprogramowania GIS takiego jak ArcGIS / ArcMap, QGIS itp.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -121,6 +116,5 @@ Przeczytaj więcej
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

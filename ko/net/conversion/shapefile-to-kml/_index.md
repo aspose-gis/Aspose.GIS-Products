@@ -1,7 +1,7 @@
 ---
 title: Shapefile을 KML GIS 데이터로 .NET 또는 C#으로 변환
 weight: 120
-url: /ko/net/conversion/shapefile-to-kml/ 
+url: /ko/net/conversion/shapefile-to-kml/
 description: On-Premise API를 사용하여 .NET Framework, .NET Core, C#에서 Shapefile을 KML로 변환해 보세요.
 ---
 
@@ -19,9 +19,7 @@ Shapefile을 KML로 변환하려면 [Aspose.GIS for .NET](https://products.aspos
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -62,12 +60,12 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
+
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile을 KML로 변환하는 라이브 데모" sectionDescription="[라이브 데모 웹사이트](https://products.aspose.app/gis/conversion/shapefile-to-kml)를 방문하여 Shapefile을 즉시 KML로 변환해 보세요. 라이브 데모는 다음과 같은 이점을 제공합니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API 다운로드 필요 없음." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 KML을 선택하기만 하면 됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Shapefile 파일을 업로드하면 즉시 KML로 변환됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API 다운로드 필요 없음." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 KML을 선택하기만 하면 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Shapefile 파일을 업로드하면 즉시 KML로 변환됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
@@ -91,4 +89,7 @@ KML(Keyhole Markup Language)은 XML 표기법으로 지리 공간 정보를 포�
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -4,7 +4,7 @@ linkTitle: MapInfo MIF
 weight: 10
 url: /it/net/viewer/mapinfo-mif/
 aliases: [mapinfo, mif, mapinfo viewer]
-[source](https://github.com/NetMapStudio/net.viewer/blob/master/src/MapInfoMIF.cpp)
+source: https://github.com/NetMapStudio/net.viewer/blob/master/src/MapInfoMIF.cpp
 ---
 
 ## Cos'è il formato MapInfo MIF?
@@ -28,16 +28,14 @@ Per caricare un file MIF nel visualizzatore di mappe, segui questi passaggi:
 
 Il visualizzatore di mappe offre diverse funzionalità aggiuntive per lavorare con i file MapInfo MIF, tra cui:
 
-*   **Zoom e Pan:** Puoi ingrandire e spostare la mappa per esplorare i dati geografici in dettaglio.
-*   **Identificazione:** Puoi fare clic su un elemento sulla mappa per visualizzare le sue informazioni sugli attributi.
-*   **Ricerca:** Puoi cercare elementi specifici nella mappa in base ai loro attributi.
-*   **Stilizzazione:** Puoi modificare l'aspetto dei dati geografici, come il colore, la dimensione e lo stile delle linee.
-*   **Esportazione:** Puoi esportare i dati geografici in vari formati, come Shapefile, GeoJSON e KML.
+* **Zoom e Pan:** Puoi ingrandire e spostare la mappa per esplorare i dati geografici in dettaglio.
+* **Identificazione:** Puoi fare clic su un elemento sulla mappa per visualizzare le sue informazioni sugli attributi.
+* **Ricerca:** Puoi cercare elementi specifici nella mappa in base ai loro attributi.
+* **Stilizzazione:** Puoi modificare l'aspetto dei dati geografici, come il colore, la dimensione e lo stile delle linee.
+* **Esportazione:** Puoi esportare i dati geografici in vari formati, come Shapefile, GeoJSON e KML.
 
 ## Note Aggiuntive
 
-*   Il file BIN associato al file MIF deve trovarsi nella stessa directory del file MIF o specificato nel percorso del file MIF.
-*   Il visualizzatore di mappe supporta i file MIF con codifiche diverse. Se il tuo file MIF non viene visualizzato correttamente, prova a cambiare la codifica nelle impostazioni del visualizzatore.
-*   Per informazioni più dettagliate sul formato MapInfo MIF, consulta la documentazione ufficiale di MapInfo.
-
----
+* Il file BIN associato al file MIF deve trovarsi nella stessa directory del file MIF o specificato nel percorso del file MIF.
+* Il visualizzatore di mappe supporta i file MIF con codifiche diverse. Se il tuo file MIF non viene visualizzato correttamente, prova a cambiare la codifica nelle impostazioni del visualizzatore.
+* Per informazioni più dettagliate sul formato MapInfo MIF, consulta la documentazione ufficiale di MapInfo.

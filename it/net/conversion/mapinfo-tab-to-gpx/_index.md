@@ -112,9 +112,11 @@ L'estensione GPX rappresenta il formato GPS Exchange per lo scambio di dati GPS 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MAPINFO-TAB TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
+{{< /blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

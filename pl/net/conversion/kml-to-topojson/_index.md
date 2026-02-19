@@ -1,7 +1,7 @@
 ---
 title: Konwertuj KML do TopoJSON GIS Data za pomocą .NET lub C#
 weight: 120
-url: /pl/net/conversion/kml-to-topojson/ 
+url: /pl/net/conversion/kml-to-topojson/
 description: Wypróbuj nasze API On-Premise, aby konwertować KML do TopoJSON na platformie .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -116,9 +114,8 @@ TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSO
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML DO CSV" description="Wartości rozdzielone przecinkami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML DO GPX" description="Wymiana GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

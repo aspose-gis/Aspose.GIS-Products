@@ -120,4 +120,5 @@ GeoJSON is een JSON gebaseerd formaat dat ontworpen is om de geografische kenmer
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

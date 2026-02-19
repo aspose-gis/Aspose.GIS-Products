@@ -5,7 +5,8 @@ url: /it/net/conversion/gml-to-gdb/
 description: Prova le nostre API On-Premise per la conversione dei tuoi dati GIS su .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="Converti GML in GDB in C#" h2="Esporta GML in GDB utilizzando API lato server, senza la necessità di software come ArcGIS, ArcMap, QGIS o Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GDB" pfName="Aspose.GIS" subTitlepfName="per .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="per .NET" >}}
@@ -22,13 +23,9 @@ description: Prova le nostre API On-Premise per la conversione dei tuoi dati GIS
  e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,43 +35,32 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Passaggi per la conversione da GML a GDB in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- La conversione può essere eseguita con una sola riga di codice utilizzando
- *VectorLayer.Convert* 
- metodo. Richiede 4 parametri come descritto di seguito.
-
+ La conversione può essere eseguita con una sola riga di codice utilizzando *VectorLayer.Convert* metodo. Richiede 4 parametri come descritto di seguito.
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Un percorso file di tipo stringa per il file GML di origine
-2.  Driver di origine per far sapere all'API del formato di input. Imposta su Drivers.Gml
-3.  Il percorso file di tipo stringa per il file dati GDB di destinazione
-4.  Driver di destinazione per specificare il formato di output. Imposta su Drivers.FileGdb
+1.  Un percorso file di tipo stringa per il file GML di origine  
+2.  Driver di origine per far sapere all'API del formato di input. Imposta su `Drivers.Gml`  
+3.  Il percorso file di tipo stringa per il file dati GDB di destinazione  
+4.  Driver di destinazione per specificare il formato di output. Imposta su `Drivers.FileGdb`  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Le nostre API sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice sottostante, assicurati di avere i seguenti prerequisiti sul tuo sistema.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Salva GML come GDB - C#" offSpacer="" %}}
-
 ```cs
 // Converti i dati GIS GML in dati GDB
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -85,30 +71,20 @@ VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Driver
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Riceverai il link di download." >}}
 
     {{% blocks/products/pf/agp/content h2="Libreria GIS .NET" %}}
-
  Aspose.GIS for .NET è un'API per la manipolazione e la conversione dei dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come Shapefile ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato di scambio GPS, Formati MapInfo e OpenStreetMap. È un'API autonoma basata su .NET e non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="https://docs.fileformat.com/gis/gml/" >}}
-
 GML sta per Geography Markup Language basato su specifiche XML sviluppate dall'Open Geospatial Consortium (OGC). Il formato viene utilizzato per archiviare le funzionalità dei dati geografici per l'interscambio tra diversi formati di file. Serve come linguaggio di modellazione per i sistemi geografici e come formato di scambio aperto per le transazioni geografiche su Internet.
 Leggi di più
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GDB" readMoreLink="" >}}
-
 {{gdb}}
 Leggi di più
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -116,9 +92,8 @@ Leggi di più
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire GML in molti altri formati di file, tra cui alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="" name="" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section-item >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -19,9 +19,7 @@ GEOJSON을 TOPOJSON으로 변환하려면 [Aspose.GIS for .NET](https://products
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -60,7 +58,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // GIS 데이터 GEOJSON을 TOPOJSON 데이터로 변환합니다.
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topojson", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -109,6 +106,5 @@ TopoJSON은 위상 구조를 인코딩하는 GeoJSON의 확장입니다. TopoJSO
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -264,7 +264,6 @@ description: Konwertuj do stopni dziesiętnych (DD) za pomocą biblioteki przezn
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Materiały do nauki" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,3 +287,5 @@ description: Konwertuj do stopni dziesiętnych (DD) za pomocą biblioteki przezn
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

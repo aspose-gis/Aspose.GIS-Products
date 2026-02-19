@@ -98,7 +98,7 @@ KML (Keyhole Markup Language) zawiera informacje geograficzne w notacji XML. KML
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Format ten definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrzennym oraz właściwościach.
+GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Format ten definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrennym oraz właściwościach.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +121,6 @@ GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograf
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

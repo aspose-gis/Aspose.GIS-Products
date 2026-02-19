@@ -118,6 +118,6 @@ KML (Keyhole Markup Language) contiene informazioni geospaziali in notazione XML
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

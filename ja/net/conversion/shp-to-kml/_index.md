@@ -13,20 +13,18 @@ description: 当社のオンプレミス API を使用して、.NET Framework、
 
 {{% blocks/products/pf/agp/content h2="C# を使用して SHP を KML に変換する方法" %}}
 
-SHP から KML へと変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
+SHP から KML へと変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis)  
+パッケージマネージャーを開き、  
+**Aspose.GIS**  
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,15 +37,15 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-*VectorLayer.Convert* 
+*VectorLayer.Convert*  
 メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース SHP ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Drivers.Shapefile を設定します。
-3.  宛先 KML データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。Drivers.Kml を設定します。
+1. ソース SHP ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Drivers.Shapefile を設定します。  
+3. 宛先 KML データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。Drivers.Kml を設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,8 +67,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -112,9 +109,7 @@ KML (Keyhole Markup Language) には、XML 表記で地理空間情報が含ま�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して GeoJSON を GPX GIS データに変換する
 weight: 120
-url: /ja/net/conversion/geojson-to-gpx/ 
+url: /ja/net/conversion/geojson-to-gpx/
 description: .NET Framework、.NET Core、C# で On-Premise API を使用して GeoJSON を GPX に変換してみてください。
 ---
 
@@ -13,20 +13,18 @@ description: .NET Framework、.NET Core、C# で On-Premise API を使用して 
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GeoJSON を GPX に変換する方法" %}}
 
-GeoJSON から GPX へ変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
+GeoJSON から GPX へ変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis)  
+パッケージマネージャーを開き、  
+**Aspose.GIS**  
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,15 +37,15 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-*VectorLayer.Convert* 
+*VectorLayer.Convert*  
 メソッドを使用すると、コードの 1 行で変換できます。以下のように 4 つのパラメータを受け取ります。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース GeoJSON ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Drivers.GeoJson に設定します。
-3.  宛先 GPX データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。Drivers.Gpx に設定します。
+1. ソース GeoJSON ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Drivers.GeoJson に設定します。  
+3. 宛先 GPX データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。Drivers.Gpx に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,9 +66,8 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -96,7 +93,7 @@ GeoJSON は、地理的フィーチャとその非空間属性を表すように
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-GPX 拡張は、インターネット上のアプリケーションおよび Web サービス間で GPS データと交換するための GPS Exchange 形式を表します。これは軽量の XML 形式であり、ウェイポイント、ルート、トラックなどの GPS データを格納し、複数のプログラムによってインポートおよび読み取ることができます。GPX はオープンであり、さまざまなアプリケーションや GPS デバイスでサポートされています。
+GPX 拡張は、インターネット上のアプリケーションおよび Web サービス間で GPS データと交換するための GPS Exchange 形式を表します。これは軽量の XML 形式であり、ウェイポイント、ルート、トラックなどの GPS データを格納し、�数のプログラムによってインポートおよび読み取ることができます。GPX はオープンであり、さまざまなアプリケーションや GPS デバイスでサポートされています。
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,9 +110,7 @@ GPX 拡張は、インターネット上のアプリケーションおよび Web
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -120,6 +120,6 @@ Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapef
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

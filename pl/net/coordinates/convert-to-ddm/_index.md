@@ -264,6 +264,7 @@ description: Konwertuj do Stopni Minut Dziesiętnych (DDM) za pomocą biblioteki
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Materiały do nauki" tabId="resources" >}}

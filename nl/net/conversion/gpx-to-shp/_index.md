@@ -1,7 +1,7 @@
 ---
 title: GPX naar SHP GIS Data converteren via .NET of C#
 weight: 120
-url: /nl/net/conversion/gpx-to-shp/ 
+url: /nl/net/conversion/gpx-to-shp/
 description: Probeer onze On-Premise API's om GPX naar SHP te converteren op .NET Framework, .NET Core, C#.
 ---
 
@@ -118,8 +118,7 @@ De GPX extensie vertegenwoordigt GPS Exchange formaat voor de uitwisseling van G
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX NAAR TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX NAAR CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -114,6 +114,5 @@ GeoJSON은 지리적 특징과 비 공간 속성을 나타내도록 설계된 JS
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

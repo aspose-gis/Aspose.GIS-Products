@@ -1,11 +1,11 @@
 ---
 title: .NET 또는 C#을 사용하여 GPX를 Shapefile GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/gpx-to-shapefile/ 
+url: /ko/net/conversion/gpx-to-shapefile/
 description: On-Premise API를 사용하여 .NET Framework, .NET Core, C#에서 GPX를 Shapefile로 변환해 보세요.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C#에서 GPX를 Shapefile로 변환" h2="ArcGIS, ArcMap, QGIS 또는 Google Earth와 같은 소프트웨어가 필요 없이 서버 측 API를 사용하여 GPX를 Shapefile로 내보내기." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="Shapefile" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -21,9 +21,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용으로 기능이 풍부하고 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,27 +69,29 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 Shapefile을 선택하기만 하면 됩니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GPX 파일을 업로드하면 즉시 Shapefile로 변환됩니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefile, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo 형식 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
 GPX 확장명은 인터넷의 애플리케이션 및 웹 서비스 간 GPS 데이터 교환을 위한 GPS Exchange 형식을 나타냅니다. 여러 프로그램에서 가져오고 읽을 수 있는 GPS 데이터(예: 웨이포인트, 경로 및 트랙)를 포함하는 경량 XML 형식입니다. GPX는 개방되어 있으며 다양한 애플리케이션과 GPS 장치에서 지원됩니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 SHP는 ESRI Shapefile의 주요 파일 형식 중 하나에 대한 파일 확장명입니다. 벡터 데이터를 사용하여 지리 공간 정보를 표현하며 GIS(지리 정보 시스템) 애플리케이션에서 사용됩니다. 이 형식은 ESRI 및 기타 소프트웨어 제품 간의 상호 운용성을 용이하게 하기 위해 개방형 사양으로 개발되었습니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

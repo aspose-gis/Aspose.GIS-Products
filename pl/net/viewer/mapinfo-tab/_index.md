@@ -1,10 +1,12 @@
 ---
-title: MapInfo Tab
-linkTitle: Zakładka MapInfo
+title: "MapInfo Tab"
+linkTitle: "Zakładka MapInfo"
 weight: 10
-url: /pl/net/viewer/mapinfo-tab/
-aliases: [mapinfo, map info]
-[Source](https://github.com/Esri/arcgis-js-api-samples/blob/master/4.x/webmaps/MapInfoTab/)
+url: "/pl/net/viewer/mapinfo-tab/"
+aliases:
+  - "mapinfo"
+  - "map info"
+source: "https://github.com/Esri/arcgis-js-api-samples/blob/master/4.x/webmaps/MapInfoTab/"
 ---
 
 ## MapInfo Tab
@@ -19,15 +21,15 @@ Zakładka MapInfo zapewnia dostęp do widoku tabeli MapInfo w przeglądarce.
 
 Aby wyświetlić tabelę, należy najpierw załadować ją do przeglądarki. Można to zrobić na kilka sposobów:
 
-*   Using the `addTable` method of the `MapInfo` class.
-*   Using the `openTable` method of the `MapInfo` class.
-*   By dragging a table file onto the viewer canvas.
+* Using the `addTable` method of the `MapInfo` class.
+* Using the `openTable` method of the `MapInfo` class.
+* By dragging a table file onto the viewer canvas.
 
 Aby wyświetlić tabelę, należy najpierw załadować ją do przeglądarki. Można to zrobić na kilka sposobów:
 
-*   Używając metody `addTable` klasy `MapInfo`.
-*   Używając metody `openTable` klasy `MapInfo`.
-*   Przeciągając plik tabeli na płótno przeglądarki.
+* Używając metody `addTable` klasy `MapInfo`.
+* Używając metody `openTable` klasy `MapInfo`.
+* Przeciągając plik tabeli na płótno przeglądarki.
 
 ### Table View
 
@@ -52,4 +54,3 @@ Użytkownik może edytować obiekty w widoku tabeli, klikając dwukrotnie w wier
 The user can export data from the table view to a CSV file.
 
 Użytkownik może eksportować dane z widoku tabeli do pliku CSV.
-

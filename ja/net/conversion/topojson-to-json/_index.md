@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,10 +36,8 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C# で TOPOJSON を JSON に変換する手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 *VectorLayer.Convert* 
 メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  ソース TOPOJSON ファイルへの文字列型のファイルパス
@@ -54,9 +50,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムをすべてサポートしています。以下のコードを実行する前に、システムに次の前提条件があることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,13 +60,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // TOPOJSON GIS データを JSON データに変換します。
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 
 <!-- aboutfile Starts -->
@@ -92,17 +85,13 @@ Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESR
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
-
 TopoJSON はトポロジをエンコードした GeoJSON の拡張です。TopoJSON ファイル内のジオメトリは、個別に表現するのではなく、アークと呼ばれる共有線分から縫い合わされます。
 詳細はこちら
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
 JSON (JavaScript Object Notation) は、人間が判読可能なテキストを使用してデータを保存および送信するデータ共有のためのオープンスタンダードファイル形式です。JSON ファイルは .json 拡張子で保存されます。JSON は書式設定が少なく、XML の優れた代替手段です。JSON は JavaScript から派生していますが、言語に依存しないデータ形式です。JSON の生成と解析は、多くの最新のプログラミング言語によってサポートされています。application/json は JSON に使用されるメディアタイプです。
 詳細はこちら
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -119,6 +108,5 @@ JSON (JavaScript Object Notation) は、人間が判読可能なテキストを�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

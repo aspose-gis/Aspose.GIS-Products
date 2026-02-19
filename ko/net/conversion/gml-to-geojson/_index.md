@@ -1,7 +1,7 @@
 ---
 title: .NET 또는 C#을(를) 사용하여 GML을 GeoJSON GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/gml-to-geojson/ 
+url: /ko/net/conversion/gml-to-geojson/
 description: .NET Framework, .NET Core, C#에서 On-Premise API를 사용하여 GML을 GeoJSON으로 변환해 보세요.
 ---
 
@@ -19,9 +19,7 @@ GML을 GeoJSON으로 변환하려면 [Aspose.GIS for .NET](https://products.aspo
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -73,25 +71,23 @@ PM> Install-Package Aspose.GIS
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. ArcGIS / ArcMap, QGIS 등과 같은 GIS 기반 소프트웨어 없이도 독립적으로 실행되는 .NET 기반 API입니다. 
 
+{{% /blocks/products/pf/agp/content %}}
 
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 
 지리적 마크업 언어(GML)는 GIS에서 사용되는 XML 기반 형식입니다. GML은 인터넷을 통한 지리적 거래를 위한 개방형 교환 형식입니다. 이 형식은 데이터 및 구조 중심적입니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 GeoJSON은 지리적 특징과 비공간 속성을 나타내도록 설계된 JSON 기반 형식입니다. 이 형식은 다양한 JSON(JavaScript Object Notation) 객체와 결합 방식을 정의합니다. JSON은 지리적 특징, 공간 범위 및 속성에 대한 집합적인 정보를 나타냅니다.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -109,4 +105,5 @@ GeoJSON은 지리적 특징과 비공간 속성을 나타내도록 설계된 JSO
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

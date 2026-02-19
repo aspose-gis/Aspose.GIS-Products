@@ -1,7 +1,7 @@
 ---
 title: KML converteren naar Shapefile GIS Data via .NET of C#
 weight: 120
-url: /nl/net/conversion/kml-to-shapefile/ 
+url: /nl/net/conversion/kml-to-shapefile/
 description: Probeer onze On-Premise API's om KML naar Shapefile te converteren op .NET Framework, .NET Core, C#.
 ---
 
@@ -121,5 +121,5 @@ SHP is de bestandsextensie voor een van de belangrijkste bestandstypen die worde
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

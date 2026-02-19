@@ -5,7 +5,7 @@ url: /nl/net/conversion/shx-to-kml/
 description: Probeer onze On-Premise API's voor uw GIS data conversie op .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="SHX naar KML converteren in C#" h2="Exporteer SHX naar KML met behulp van server side API's, zonder software zoals ArcGIS, ArcMap, QGIS of Google Earth nodig te hebben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="voor .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="SHX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="voor .NET" >}}
@@ -24,9 +24,7 @@ description: Probeer onze On-Premise API's voor uw GIS data conversie op .NET Fr
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Converteer SHX GIS data naar KML data
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -75,7 +72,7 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -121,6 +118,4 @@ Lees Meer
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

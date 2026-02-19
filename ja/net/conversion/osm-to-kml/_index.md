@@ -1,4 +1,3 @@
-
 ---
 title: Convert OSM to KML GIS Data via .NET or C#
 weight: 120
@@ -14,7 +13,7 @@ description: Try our On-Premise APIs to convert OSM to KML on .NET Framework, .N
 
 {{% blocks/products/pf/agp/content h2="C# を使用して OSM を KML に変換する方法" %}}
 
-OSM から KML へ変換するには、
+OSM から KML へ変換するには，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net)
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis)
@@ -116,6 +115,6 @@ KML (Keyhole Markup Language) には、XML 表記のジオ空間情報が含ま�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

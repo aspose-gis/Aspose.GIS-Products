@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Package 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ metodo. Richiede 4 parametri come descritto di seguito.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Un percorso file di tipo stringa per il file SHP di origine
-2.  Driver di origine per far sapere all'API del formato di input. Imposta su Drivers.Shapefile
-3.  Il percorso file di tipo stringa per il file dei dati CSV di destinazione
-4.  Driver di destinazione per specificare il formato di output. Imposta su Drivers.Csv
+1.  Un percorso file di tipo stringa per il file SHP di origine  
+2.  Driver di origine per far sapere all'API del formato di input. Imposta su `Drivers.Shapefile`  
+3.  Il percorso file di tipo stringa per il file dei dati CSV di destinazione  
+4.  Driver di destinazione per specificare il formato di output. Imposta su `Drivers.Csv`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,26 +68,23 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHP to CSV Live Demos" sectionDescription="Converti SHP in CSV subito visitando il nostro [sito web di demo live](https://products.aspose.app/gis/conversion/shp-to-csv). La demo dal vivo ha i seguenti vantaggi" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare l'API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Seleziona semplicemente CSV come formato di output e." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica il tuo file SHP, verrà convertito istantaneamente in CSV." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Riceverai il link di download." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare l'API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Seleziona semplicemente CSV come formato di output e." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica il tuo file SHP, verrà convertito istantaneamente in CSV." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Riceverai il link di download." >}}
 
     {{% blocks/products/pf/agp/content h2="Libreria GIS .NET" %}}
 
 Aspose.GIS for .NET è un'API per la manipolazione e la conversione dei dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. È un'API .NET autonoma che non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc.
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha l'estensione SHP. Shapefile è un popolare formato di file geografico vettoriale. Sviluppato e mantenuto da ESRI per la compatibilità tra i prodotti Esri e altri programmi.
@@ -101,7 +96,6 @@ Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha 
 I file con estensione CSV (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgola. Ogni riga in un file CSV è un nuovo record dell'insieme di record contenuto nel file. Tali file vengono generati quando il trasferimento dei dati è destinato da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati in un database viene eseguita molto comodamente.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -116,7 +110,5 @@ I file con estensione CSV (Comma Separated Values) rappresentano file di testo s
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

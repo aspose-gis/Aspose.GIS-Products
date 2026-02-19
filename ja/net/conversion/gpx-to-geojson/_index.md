@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用した GPX から GeoJSON GIS データへの変換
 weight: 120
-url: /ja/net/conversion/gpx-to-geojson/ 
+url: /ja/net/conversion/gpx-to-geojson/
 description: .NET Framework、.NET Core、C# で On-Premise API を使用して GPX を GeoJSON に変換してみてください。ArcGIS、ArcMap、QGIS、または Google Earth のようなソフトウェアは必要ありません。
 ---
 
@@ -13,20 +13,18 @@ description: .NET Framework、.NET Core、C# で On-Premise API を使用して 
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GPX を GeoJSON に変換する方法" %}}
 
-GPX から GeoJSON への変換には、
+GPX から GeoJSON への変換には，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -99,20 +97,6 @@ GeoJSON は、その非空間属性を持つ地理的フィーチャを表すよ
 
 {{< /blocks/products/pf/agp/demobox >}}
 
-<!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="GPX を他の多くのファイル形式に変換することもできます。以下はその一部です。" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +119,6 @@ TopoJSON è un'estensione di GeoJSON che codifica la topologia. Formato basato s
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

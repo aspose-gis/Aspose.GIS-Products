@@ -1,11 +1,11 @@
 ---
 title: Convert CSV to GDB GIS Data via .NET or C#
 weight: 120
-url: /ja/net/conversion/csv-to-gdb/ 
+url: /ja/net/conversion/csv-to-gdb/
 description: Try our On-Premise APIs to convert CSV to GDB on .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C# で CSV を GDB に変換" h2="ArcGIS、ArcMap、QGIS、Google Earth などのソフトウェアを必要とせずに、サーバーサイド API を使用して CSV から GDB へエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GDB" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -13,22 +13,18 @@ description: Try our On-Premise APIs to convert CSV to GDB on .NET Framework, .N
 
 {{% blocks/products/pf/agp/content h2="C# を使用して CSV を GDB に変換する方法" %}}
 
-CSV から GDB へ変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
+CSV から GDB へ変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis)  
+パッケージマネージャーを開き、  
+**Aspose.GIS**  
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,64 +34,55 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C# で CSV を GDB に変換する手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
-*VectorLayer.Convert* 
+*VectorLayer.Convert*  
 メソッドを使用すると、コードを 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース CSV ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Csv に設定します。
-3.  宛先 GDB データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。FileGdb に設定します。
+1. ソース CSV ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Csv に設定します。  
+3. 宛先 GDB データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。FileGdb に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムをすべてサポートしています。以下のコードを実行する前に、システムに次の前提条件があることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Save CSV as GDB - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-csv-to-gdb.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/demobox sectionTitle="CSV to GDB Live Demos" sectionDescription="[Live Demos website](https://products.aspose.app/gis/conversion/csv-to-gdb) にアクセスして、今すぐ CSV を GDB に変換してください。ライブデモには以下の利点があります。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として GDB を選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" CSV ファイルをアップロードすると、即座に GDB に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
+{{< blocks/products/pf/agp/demobox sectionTitle="CSV to GDB Live Demos" sectionDescription="[Live Demos website](https://products.aspose.app/gis/conversion/csv-to-gdb) にアクセスして、今すぐ CSV を GDB に変換してください。ライブデモには以下の利点があります。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として GDB を選択するだけです。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" CSV ファイルをアップ��ドすると、即座に GDB に変換されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap などの有名な GIS データ形式の読み取り、書き込み、変換を完全にサポートしています。これはスタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
+拡張子 CSV (Comma Separated Values) を持つファイルは、カンマで区切られた値を持つレコードのデータを含むプレーンテキストファイルです。CSV ファイル内の各行は、ファイルに含まれる一連のレコードからの新しいレコードです。このようなファイルは、あるストレージシステムから別のストレージシステムにデータを転送することを目的として生成されます。すべてのアプリケーションがカンメで区切られたレコードを認識するため、データベースへのデータのインポートは非常に便利に行われます。
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-拡張子 CSV (Comma Separated Values) を持つファイルは、カンマで区切られた値を持つレコードのデータを含むプレーンテキストファイルです。CSV ファイル内の各行は、ファイルに含まれる一連のレコードからの新しいレコードです。このようなファイルは、あるストレージシステムから別のストレージシステムにデータを転送することを目的として生成されます。すべてのアプリケーションがカンマで区切られたレコードを認識するため、データベースへのデータのインポートは非常に便利に行われます。
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GDB" readMoreLink="" >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="GDB" readMoreLink="" >}}
 GDB は、Esri ArcGIS プラットフォームで使用される形式です。これは、.gdbtable、.gdbtablx、.gdbindexes、.atx、.spx、および .freelist ファイルなどのコレクションを含むフォルダーです。
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

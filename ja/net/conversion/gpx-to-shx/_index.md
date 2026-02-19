@@ -13,22 +13,16 @@ description: .NET Framework、.NET Core で GIS データの変換を行うた�
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GPX を SHX に変換する方法" %}}
 
-GPX を SHX に変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
-を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
+GPX を SHX に変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis) パッケージマネージャーを開き、  
+**Aspose.GIS** を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,37 +32,29 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C# で GPX を SHX に変換する手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
-*VectorLayer.Convert* 
-メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します。
-
+*VectorLayer.Convert* メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します。
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース GPX ファイルへの文字列型のファイルパス
-2.  入力形式を知るためのソースドライバー。Gpx に設定します。
-3.  宛先 SHX データファイルへの文字列型のファイルパス
-4.  出力形式を指定するための宛先ドライバー。Shapefile に設定します。
+1. ソース GPX ファイルへの文字列型のファイルパス  
+2. 入力形式を知るためのソースドライバー。Gpx に設定します。  
+3. 宛先 SHX データファイルへの文字列型のファイルパス  
+4. 出力形式を指定するための宛先ドライバー。Shapefile に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムでサポートされています。以下のコードを実行する前に、システムに次の前提条件があることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="GPX を SHX として保存する - C#" offSpacer="" %}}
-
 ```cs
 // GPX GIS データを SHX データに変換します。
 VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Drivers.Shapefile);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,14 +79,14 @@ Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESR
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-GPX 拡張子を持つファイルは、インターネット上のアプリケーションおよび Web サービス間で GPS データと交換するための GPS Exchange フォーマットを表します。ウェイポイント、ルート、トラックなどの GPS データを含む軽量の XML ファイル形式で、複数のプログラムによってインポートおよび読み取ることができます。GPX ファイル形式はオープンであり、さまざまなアプリケーションや GPS デバイスでサポートされています。このようなファイルからの GPS データは、地理空間目的のためにマッピングアプリケーションにロードできます。
+GPX 拡張子を持つファイルは、インターネット上のアプリケーションおよび Web サービス間で GPS データと交換するための GPS Exchange フォーマットを表します。ウェイポイント、ルート、トラックなどの GPS データを含む軽量の XML ファイル形式で、複数のプログラムによってインポートおよび読み取ることができます。GPX ファイル形式はオープンであり、さまざまなアプリケーションや GPS デバイスでサポートされています。このようなファイルからの GPS データは、地理空間目的のためにマッピングアプリケーションにロードできます。  
 詳細はこちら
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-フィーチャジオメトリの位置インデックスである Shape インデックス形式で、前方および後方をすばやく検索できます。
+フィーチャジオメトリの位置インデックスである Shape インデックス形式で、前方および後方をすばやく検索できます。  
 詳細はこちら
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -119,6 +105,6 @@ GPX 拡張子を持つファイルは、インターネット上のアプリケ�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

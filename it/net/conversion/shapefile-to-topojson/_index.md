@@ -1,7 +1,7 @@
 ---
 title: Converti Shapefile in TopoJSON GIS Data tramite .NET o C#
 weight: 120
-url: /it/conversion/shapefile-to-topojson/ 
+url: /it/conversion/shapefile-to-topojson/
 description: Prova le nostre API On-Premise per convertire Shapefile in TopoJSON su .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -75,31 +73,33 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Seleziona semplicemente TopoJSON come formato di output e." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file Shapefile, verrà convertito istantaneamente in TopoJSON." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Riceverai il link di download." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="Libreria .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Libreria .NET GIS" %}}
 
 Aspose.GIS for .NET è una API per la manipolazione e la conversione dei dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. È una API autonoma basata su .NET e non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc. 
 
-<!-- aboutfile Starts -->
-    {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 SHP è l'estensione del file per uno dei tipi di file principali utilizzati per la rappresentazione di ESRI Shapefile. Rappresenta informazioni geospaziali sotto forma di dati vettoriali da utilizzare con applicazioni GIS (Geographic Information Systems). Il formato è stato sviluppato come specifiche aperte al fine di facilitare l'interoperabilità tra ESRI e altri prodotti software.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 TopoJSON è un'estensione di GeoJSON che codifica la topologia. Formato basato su JSON progettato per rappresentare le caratteristiche geografiche con i loro attributi non spaziali. Questo formato definisce diversi oggetti JSON (JavaScript Object Notation) e il loro modo di collegamento. Il formato JSON rappresenta informazioni collettive sulle caratteristiche geografiche, le loro estensioni spaziali e proprietà.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
-<!-- aboutfile Ends -->
+{{< /blocks/products/pf/agp/about-file-section >}}
+
+{{% /blocks/products/pf/agp/content %}}   <!-- close .NET GIS Library -->
+
+{{% /blocks/products/pf/agp/content %}}   <!-- close Libreria .NET GIS -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire Shapefile in molti altri formati di file, tra cui alcuni elencati di seguito." >}}
 
@@ -110,6 +110,6 @@ TopoJSON è un'estensione di GeoJSON che codifica la topologia. Formato basato s
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

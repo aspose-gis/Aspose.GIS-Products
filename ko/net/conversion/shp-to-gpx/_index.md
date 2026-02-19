@@ -1,7 +1,7 @@
 ---
 title: SHP에서 GPX GIS 데이터로 변환 .NET 또는 C#
 weight: 120
-url: /ko/net/conversion/shp-to-gpx/ 
+url: /ko/net/conversion/shp-to-gpx/
 description: .NET Framework, .NET Core, C#에서 On-Premise API를 사용하여 SHP를 GPX로 변환해 보세요.
 ---
 
@@ -21,9 +21,7 @@ API를 사용합니다.
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,8 +64,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -80,8 +77,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefile, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo 형식 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS 등과 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -111,9 +106,7 @@ GPX 확장자는 인터넷의 애플리케이션 및 웹 서비스 간에 GPS �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="쉼표로 구분된 값" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS 교환" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

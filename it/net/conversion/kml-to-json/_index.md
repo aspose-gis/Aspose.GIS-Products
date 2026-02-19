@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -42,7 +40,6 @@ PM> Install-Package Aspose.GIS
 La conversione può essere eseguita con una sola riga di codice utilizzando
 *VectorLayer.Convert* 
 metodo. Richiede 4 parametri come descritto di seguito.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Un percorso file di tipo stringa per il file KML di origine
@@ -121,6 +118,5 @@ GeoJSON è un formato basato su JSON progettato per rappresentare le caratterist
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

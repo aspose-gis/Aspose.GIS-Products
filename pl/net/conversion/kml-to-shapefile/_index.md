@@ -121,6 +121,5 @@ SHP to rozszerzenie pliku dla jednego z głównych typów plików używanych do 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

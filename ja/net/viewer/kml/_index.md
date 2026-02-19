@@ -3,8 +3,9 @@ title: KML Viewer
 linkTitle: KMLビューア
 weight: 10
 url: /ja/viewer/kml/
-aliases: [KML閲覧ツール]
-[source](https://github.com/net-viewer/net-viewer)
+aliases:
+  - KML閲覧ツール
+source: https://github.com/net-viewer/net-viewer
 ---
 
 ## Overview
@@ -57,5 +58,3 @@ The KML viewer supports a wide range of KML features, including:
 ## Further Assistance
 
 For additional support or questions, please consult the Net Viewer documentation or contact our support team.
-
----

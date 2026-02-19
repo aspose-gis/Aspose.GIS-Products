@@ -1,7 +1,7 @@
 ---
 title: .NET 또는 C#을 사용하여 TopoJSON을 GeoJSON GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/topojson-to-geojson/ 
+url: /ko/net/conversion/topojson-to-geojson/
 description: .NET Framework, .NET Core, C#에서 온프레미스 API를 사용하여 TopoJSON을 GeoJSON으로 변환해 보세요.
 ---
 
@@ -19,9 +19,7 @@ TopoJSON을 GeoJSON으로 변환하려면 [Aspose.GIS for .NET](https://products
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -63,8 +61,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -77,7 +74,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
-
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -108,9 +104,7 @@ GeoJSON은 비공간 속성과 함께 지리적 특징을 나타내도록 설계
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{</blocks/products/pf/main-container>}}
 {{< /blocks/products/pf/main-wrap-class >}}
