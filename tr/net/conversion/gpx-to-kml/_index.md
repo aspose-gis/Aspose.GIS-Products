@@ -1,7 +1,7 @@
 ---
 title: .NET veya C# ile GPX'den KML GIS Verisine Dönüştürme
 weight: 120
-url: /tr/net/conversion/gpx-to-kml/ 
+url: /tr/net/conversion/gpx-to-kml/
 description: GPX'i .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla KML'ye dönüştürmeyi deneyin.
 ---
 
@@ -18,89 +18,60 @@ GPX'i KML'ye dönüştürmek için, C# platformu için güçlü ve kullanımı k
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="C#'de GPX'i KML'ye Dönüştürme Adımları" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Dönüşüm, sadece bir kod satırıyla *VectorLayer.Convert* metodu kullanılarak yapılabilir. Aşağıda ayrıntılı olarak belirtilen 4 parametre alır.
-
 {{% /blocks/products/pf/agp/text %}}
-
-1.  Kaynak GPX dosyasına ait string tipinde dosya yolu
-2.  Giriş formatı hakkında API'ye bilgi vermek için kaynak sürücüsü. Gpx Sürücüleri olarak ayarlayın.
-3.  Hedef KML verisine ait string tipinde dosya yolu
-4.  Çıkış formatını belirtmek için hedef sürücüsü. Kml Sürücüleri olarak ayarlayın.
-
+1.  Kaynak GPX dosyasına ait string tipinde dosya yolu  
+2.  Giriş formatı hakkında API'ye bilgi vermek için kaynak sürücüsü. Gpx Sürücüleri olarak ayarlayın.  
+3.  Hedef KML verisine ait string tipinde dosya yolu  
+4.  Çıkış formatını belirtmek için hedef sürücüsü. Kml Sürücüleri olarak ayarlayın.  
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Sistem Gereksinimleri" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşağıdaki kodu yürütmeden önce, sisteminizde aşağıdaki önkoşulların olduğundan emin olun.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="GPX'i KML olarak Kaydet - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
-
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX'ten KML'ye Canlı Demolar" sectionDescription="[Canlı Demo web sitemizi](https://products.aspose.app/gis/conversion/gpx-to-kml) ziyaret ederek GPX'i şimdi KML'ye dönüştürün. Canlı demoda aşağıdaki avantajlar vardır" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece KML'yi çıktı formatı olarak seçin ve." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GPX dosyanızı yükleyin, anında KML'ye dönüştürülecektir." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece KML'yi çıktı formatı olarak seçin ve." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GPX dosyanızı yükleyin, anında KML'ye dönüştürülecektir." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
-
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
 GPX uzantısı, internetteki uygulamalar ve web hizmetleri arasında GPS verilerini değiştirmek için kullanılan GPS Değişim formatını temsil eder. Birden çok program tarafından içe aktarılabilen ve okunabilen GPS verileri (örneğin, işaret noktaları, rotalar ve parçalar) içeren hafif bir XML formatıdır. GPX açık kaynaklıdır ve çeşitli uygulamalar ve GPS cihazları tarafından desteklenir.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML (Keyhole Markup Language), coğrafi bilgileri XML gösteriminde içerir. KML, destekleyen Coğrafi Bilgi Sistemleri (CBS) uygulamalarında açılabilir. Birçok uygulama, uluslararası bir standart olarak benimsenmesinden sonra KML formatını desteklemeye başlamıştır.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Dönüşümler" subTitle="Ayrıca GPX'i aşağıda listelenen birçok farklı dosya formatına dönüştürebilirsiniz." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX'TEN JSON'A" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX'TEN SHP'YE" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX'TEN GEOJSON'A" description="GeoJSON" >}}
@@ -108,10 +79,7 @@ KML (Keyhole Markup Language), coğrafi bilgileri XML gösteriminde içerir. KML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX'TEN Şekil Dosyasına" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX'TEN TopoJSON'A" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX'TEN CSV'YE" description="Virgülle Ayrılmış Değerler" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

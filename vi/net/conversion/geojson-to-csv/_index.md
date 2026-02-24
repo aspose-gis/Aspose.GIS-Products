@@ -1,11 +1,11 @@
 ---
 title: Chuyển đổi GeoJSON thành Dữ liệu GIS CSV qua .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/geojson-to-csv/ 
+url: /vi/net/conversion/geojson-to-csv/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi GeoJSON sang CSV trên .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi GeoJSON thành CSV trong C#" h2="Xuất GeoJSON sang CSV bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GeoJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -97,6 +95,8 @@ Các tệp có phần mở rộng CSV (Giá trị phân tách bằng dấu phẩ
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
+
+{{< /blocks/products/pf/agp/demobox >}}
 
 {{< /blocks/products/pf/main-container >}}
     

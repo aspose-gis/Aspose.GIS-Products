@@ -13,20 +13,18 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง GeoJSON เป็น GPX โดยใช้ C#" %}}
 
- เพื่อที่จะแปลง GeoJSON เป็น GPX เราจะใช้
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net)
- API ซึ่งเป็น GIS API ที่มีคุณสมบัติครบถ้วน มีประสิทธิภาพ และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด
- [NuGet](https://www.nuget.org/packages/aspose.gis)
- package manager, ค้นหา
- **Aspose.GIS**
- และติดตั้ง คุณยังสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+เพื่อที่จะแปลง GeoJSON เป็น GPX เราจะใช้
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)
+API ซึ่งเป็น GIS API ที่มีคุณสมบัติครบถ้วน มีประสิทธิภาพ และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด
+[NuGet](https://www.nuget.org/packages/aspose.gis)
+package manager, ค้นหา
+**Aspose.GIS**
+และติดตั้ง คุณยังสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,16 +37,16 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- การแปลงสามารถทำได้ด้วยโค้ดเพียงบรรทัดเดียวขณะใช้
- *VectorLayer.Convert*
- method มันรับพารามิเตอร์ 4 รายละเอียดดังต่อไปนี้
+การแปลงสามารถทำได้ด้วยโค้ดเพียงบรรทัดเดียวขณะใช้
+*VectorLayer.Convert*
+method มันรับพารามิเตอร์ 4 รายละเอียดดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  เส้นทางไฟล์ประเภทสตริงไปยังไฟล์ GeoJSON ต้นฉบับ
-2.  แหล่งที่มาของไดรเวอร์เพื่อให้ API ทราบเกี่ยวกับรูปแบบอินพุต ตั้งค่าเป็น Drivers.GeoJson
-3.  เส้นทางไฟล์ประเภทสตริงไปยังไฟล์ข้อมูล GPX ปลายทาง
-4.  ปลายทางของไดรเวอร์เพื่อระบุรูปแบบเอาต์พุต ตั้งค่าเป็น Drivers.Gpx
+1. เส้นทางไฟล์ประเภทสตริงไปยังไฟล์ GeoJSON ต้นฉบับ
+2. แหล่งที่มาของไดรเวอร์เพื่อให้ API ทราบเกี่ยวกับรูปแบบอินพุต ตั้งค่าเป็น Drivers.GeoJson
+3. เส้นทางไฟล์ประเภทสตริงไปยังไฟล์ข้อมูล GPX ปลายทาง
+4. ปลายทางของไดรเวอร์เพื่อระบุรูปแบบเอาต์พุต ตั้งค่าเป็น Drivers.Gpx
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- APIs ของเราสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะดำเนินการกับโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+APIs ของเราสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะดำเนินการกับโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,39 +68,37 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="การสาธิตสด GeoJSON ถึง GPX" sectionDescription="แปลง GeoJSON เป็น GPX ได้ทันทีโดยไปที่เว็บไซต์ [การสาธิตสด](https://products.aspose.app/gis/conversion/geojson-to-gpx) การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" เพียงเลือก GPX เป็นรูปแบบเอาต์พุตและ." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" อัปโหลดไฟล์ GeoJSON ของคุณ จะถูกแปลงเป็น GPX ทันที" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" คุณจะได้รับลิงก์ดาวน์โหลด." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose GIS API." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" เพียงเลือก GPX เป็นรูปแบบเอาต์พุตและ." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" อัปโหลดไฟล์ GeoJSON ของคุณ จะถูกแปลงเป็น GPX ทันที" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" คุณจะได้รับลิงก์ดาวน์โหลด." >}}
 
-    {{% blocks/products/pf/agp/content h2="GIS Library .NET" %}}
+{{% blocks/products/pf/agp/content h2="GIS Library .NET" %}}
 
- Aspose.GIS for .NET เป็น API สำหรับจัดการและแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
+Aspose.GIS for .NET เป็น API สำหรับจัดการและแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจกต์ JSON ต่างๆ และวิธีการเชื่อมต่อกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
 ส่วนขยาย GPX แสดงถึงรูปแบบ GPS Exchange สำหรับการแลกเปลี่ยนข้อมูล GPS ระหว่างแอปพลิเคชันและบริการบนเว็บทางอินเทอร์เน็ต เป็นรูปแบบ XML ที่มีน้ำหนักเบาซึ่งมีข้อมูล GPS เช่น จุดอ้างอิง เส้นทาง และแทร็ก เพื่อนำเข้าและอ่านโดยโปรแกรมต่างๆ GPX เปิดและได้รับการสนับสนุนจากแอปพลิเคชันและอุปกรณ์ GPS หลากหลาย
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -115,9 +111,7 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

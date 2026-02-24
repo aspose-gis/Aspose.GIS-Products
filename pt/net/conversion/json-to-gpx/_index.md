@@ -118,6 +118,5 @@ A extensão GPX representa o formato de troca GPS para a troca de dados GPS entr
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

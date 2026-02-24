@@ -47,7 +47,7 @@ PM> Install-Package Aspose.GIS
 
 1.  สตริงประเภทของเส้นทางไฟล์ไปยัง Shapefile ต้นฉบับ
 2.  Source driver เพื่อให้ API ทราบเกี่ยวกับรูปแบบอินพุต ตั้งค่าเป็น Drivers.Shapefile
-3.  สตริงประเภทของเส้นทางไฟล์ไปยังไฟล์ข้อมูล JSON ปลายทาง
+3.  สตริงประเภทของเส้นทางไฟล์ไปถึงไฟล์ข้อมูล JSON ปลายทาง
 4.  Destination driver เพื่อระบุรูปแบบเอาต์พุต ตั้งค่าเป็น Drivers.GeoJson
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -114,9 +114,7 @@ SHP คือส่วนขยายไฟล์สำหรับหนึ่�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

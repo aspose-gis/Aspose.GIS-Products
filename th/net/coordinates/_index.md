@@ -1,4 +1,3 @@
-
 ---
 title: APIs สำหรับแปลงพิกัดสำหรับ .NET - Aspose 
 weight: 40
@@ -19,7 +18,7 @@ description: พัฒนาตัวแปลงพิกัดผ่านไ�
 </p>
 
 <p>
- Aspose.GIS for .NET ได้รับการออกแบบโดยคำนึงถึงความเรียบง่าย ประสิทธิภาพ ความสามารถในการใช้งาน และความยืดหยุ่น มี API ที่ใช้กับแพลตฟอร์ม .NET Framework &amp; .NET Core ทำให้คุณสร้างแอปพลิเคชันข้ามแพลตฟอร์มได้อย่างง่ายดาย
+ Aspose.GIS for .NET ได้รับการออกแบบโดยคำนึงถึงความเรียบง่าย ประสิทธิภาพ ความสามารถในการใช้งานและความยืดหยุ่น มี API ที่ใช้กับแพลตฟอร์ม .NET Framework &amp; .NET Core ทำให้คุณสร้างแอปพลิเคชันข้ามแพลตฟอร์มได้อย่างง่ายดาย
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -192,7 +191,7 @@ description: พัฒนาตัวแปลงพิกัดผ่านไ�
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"></em>
     <p class="col-lg-10">
-     แปลงละติจูดและลองจิจูดเป็นหน่วยตามองศา
+     แปลงละติจูดและลองจิตศได้เป็นหน่วยตามองศา
     </p>
    </div>
    <div class="col-lg-4">
@@ -204,7 +203,7 @@ description: พัฒนาตัวแปลงพิกัดผ่านไ�
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2"></em>
     <p class="col-lg-10">
-     ตรวจจับหน่วยโดยอัตโนมัติเมื่อแยกละติจูดและลองจิจูดจากข้อความ
+     ตรวจจับหน่วยโดยอัตโนมัติเมื่อแยกละติจูดและลองจิตศจากข้อความ
     </p>
    </div>
 
@@ -258,7 +257,6 @@ description: พัฒนาตัวแปลงพิกัดผ่านไ�
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งข้อมูลการเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสารประกอบ" href="https://docs.aspose.com/gis/net/" >}}
@@ -282,3 +280,5 @@ description: พัฒนาตัวแปลงพิกัดผ่านไ�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

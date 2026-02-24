@@ -5,7 +5,7 @@ url: /vi/net/conversion/geojson-to-json/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi dữ liệu GIS trên .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi GEOJSON thành JSON trong C#" h2="Xuất GEOJSON sang JSON bằng API phía máy chủ, mà không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="Aspose.GIS" subTitlepfName="cho .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GEOJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="cho .NET" >}}
@@ -22,13 +22,9 @@ trình quản lý gói, tìm kiếm
 và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +34,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Các bước chuyển đổi GEOJSON thành JSON trong C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Chuyển đổi có thể được thực hiện chỉ với một dòng mã khi sử dụng
 *VectorLayer.Convert*
 phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Một đường dẫn tệp kiểu chuỗi đến tệp GEOJSON nguồn
@@ -55,27 +49,22 @@ phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu hệ thống" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Các API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã dưới đây, vui lòng đảm bảo rằng bạn có các yêu cầu tiên quyết sau trên hệ thống của mình.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lưu GEOJSON dưới dạng JSON - C#" offSpacer="" %}}
-
 ```cs
 // Chuyển đổi dữ liệu GIS GEOJSON thành dữ liệu JSON
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,27 +75,19 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Thư viện GIS .NET" %}}
-
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp Shapefile ESRI, GeoJSON, TopoJSON, Cơ sở dữ liệu địa lý ESRI, Ngôn ngữ đánh dấu Địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v.
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
 GeoJSON là định dạng dựa trên JSON được thiết kế để biểu diễn các đối tượng địa lý với các thuộc tính phi gian của chúng. Định dạng này xác định các đối tượng JSON khác nhau và cách kết hợp của chúng. Định dạng JSON đại diện cho một thông tin tập thể về các đặc điểm Địa lý, phạm vi không gian của chúng và các thuộc tính. Một đối tượng của tệp này có thể chỉ ra hình học (Điểm, LineString, Polygon), một đặc trưng hoặc bộ sưu tập các đặc trưng. Các đặc trưng phản ánh địa chỉ và vị trí dưới dạng điểm, đường phố chính và biên giới dưới dạng chuỗi dòng và quốc gia, tỉnh và vùng đất dưới dạng đa giác. Sử dụng GeoJSON, các ứng dụng định tuyến và điều hướng di động khác nhau có thể cho biết phạm vi dịch vụ của chúng. Một phần mở rộng của GeoJSON là TopoJSON nhỏ hơn về kích thước và mã hóa cấu trúc địa lý.
 Đọc thêm
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
 JSON (JavaScript Object Notation) là định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu sử dụng văn bản dễ đọc của con người để lưu trữ và truyền tải dữ liệu. Các tệp JSON được lưu trữ bằng phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là một lựa chọn tốt cho XML. JSON bắt nguồn từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. application/json là loại phương tiện được sử dụng cho JSON.
 Đọc thêm
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -114,13 +95,9 @@ JSON (JavaScript Object Notation) là định dạng tệp tiêu chuẩn mở đ
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi GEOJSON thành nhiều định dạng tệp khác, bao gồm một số danh sách dưới đây." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GEOJSON TO KML" description="Ngôn ngữ đánh dấu chính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shx" name="GEOJSON TO SHX" description="Phần mở rộng tệp Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-topojson" name="GEOJSON TO TOPOJSON" description="TopoJSON" >}}
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

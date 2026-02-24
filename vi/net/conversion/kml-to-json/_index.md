@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi Dữ liệu GIS KML sang GeoJSON bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/kml-to-json/ 
+url: /vi/net/conversion/kml-to-json/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi KML thành GeoJSON trên .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -117,9 +115,7 @@ GeoJSON là định dạng dựa trên JSON được thiết kế để biểu d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

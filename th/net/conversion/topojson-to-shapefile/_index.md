@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  พาธไฟล์ประเภทสตริงไปยังไฟล์ TopoJSON ต้นฉบับ
-2.  ไดรเวอร์ต้นทางเพื่อให้ API ทราบเกี่ยวกับรูปแบบอินพุต ตั้งค่าเป็น Drivers.TopoJson
-3.  พาธไฟล์ประเภทสตริงไปยังไฟล์ข้อมูล Shapefile ปลายทาง
-4.  ไดรเวอร์ปลายทางเพื่อระบุรูปแบบเอาต์พุต ตั้งค่าเป็น Drivers.Shapefile
+1.  พาธไฟล์ประเภทสตริงไปยังไฟล์ TopoJSON ต้นฉบับ  
+2.  ไดรเวอร์ต้นทางเพื่อให้ API ทราบเกี่ยวกับรูปแบบอินพุต ตั้งค่าเป็น Drivers.TopoJson  
+3.  พาธไฟล์ประเภทสตริงไปยังไฟล์ข้อมูล Shapefile ปลายทาง  
+4.  ไดรเวอร์ปลายทางเพื่อระบุรูปแบบเอาต์พุต ตั้งค่าเป็น Drivers.Shapefile  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -113,9 +110,7 @@ SHP เป็นนามสกุลไฟล์สำหรับหนึ่�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,7 +5,8 @@ url: /vi/net/conversion/mif-to-geojson/
 description: Thử nghiệm các API On-Premise của chúng tôi để chuyển đổi dữ liệu GIS trên .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi MIF sang GEOJSON trong C#" h2="Xuất MIF sang GEOJSON bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GEOJSON" pfName="Aspose.GIS" subTitlepfName="cho .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MIF" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="cho .NET" >}}
@@ -24,9 +25,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,14 +65,13 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 ```cs
 // Chuyển đổi dữ liệu GIS MIF thành dữ liệu GEOJSON
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,7 +84,6 @@ Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab
     {{% blocks/products/pf/agp/content h2="Thư viện GIS .NET" %}}
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như Shapefile ESRI, GeoJSON, TopoJSON, Cơ sở dữ liệu địa lý ESRI, Ngôn ngữ đánh dấu Địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -119,6 +116,4 @@ GeoJSON là định dạng dựa trên JSON được thiết kế để biểu d
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

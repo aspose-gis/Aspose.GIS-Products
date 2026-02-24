@@ -1,7 +1,7 @@
 ---
 title: Converter KML para CSV Dados GIS via .NET ou C#
 weight: 120
-url: /pt/conversion/kml-to-csv/ 
+url: /pt/conversion/kml-to-csv/
 description: Experimente nossas APIs On-Premise para converter KML para CSV no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter KML para CSV no .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ Arquivos com extensão CSV (Comma Separated Values) representam arquivos de text
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML PARA CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML PARA GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

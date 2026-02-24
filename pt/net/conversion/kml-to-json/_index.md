@@ -121,6 +121,6 @@ GeoJSON é um formato baseado em JSON projetado para representar os recursos geo
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

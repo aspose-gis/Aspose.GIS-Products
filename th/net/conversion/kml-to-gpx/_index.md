@@ -97,7 +97,7 @@ KML (Keyhole Markup Language) ประกอบด้วยข้อมูล�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-ส่วนขยาย GPX แสดงถึงรูปแบบ GPS Exchange สำหรับการแลกเปลี่ยนข้อมูล GPS ระหว่างแอปพลิเคชันและบริการบนเว็บทางอินเทอร์เน็ต เป็นรูปแบบ XML ที่มีน้ำหนักเบาซึ่งมีข้อมูล GPS เช่น waypoints, routes และ tracks เพื่อนำเข้าและอ่านโดยโปรแกรมต่างๆ GPX เปิดและได้รับการสนับสนุนจากแอปพลิเคชันและอุปกรณ์ GPS หลากหลาย
+ส่วนขยาย GPX แสดงถึงรูปแบบ GPS Exchange สำหรับการแลกเปลี่ยนข้อมูล GPS ระหว่างแอปพลิเคชันและบริการบนเว็บทางอินเทอร์เน็ตเป็นรูปแบบ XML ที่มีน้ำหนักเบาซึ่งมีข้อมูล GPS เช่น waypoints, routes และ tracks เพื่อนำเข้าและอ่านโดยโปรแกรมต่างๆ GPX เปิดและได้รับการสนับสนุนจากแอปพลิเคชันและอุปกรณ์ GPS หลากหลาย
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +119,5 @@ KML (Keyhole Markup Language) ประกอบด้วยข้อมูล�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

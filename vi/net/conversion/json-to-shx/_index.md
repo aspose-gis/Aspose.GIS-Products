@@ -120,6 +120,5 @@ JSON (JavaScript Object Notation) là một định dạng tệp tiêu chuẩn m
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

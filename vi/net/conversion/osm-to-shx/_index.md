@@ -5,7 +5,7 @@ url: /vi/net/conversion/osm-to-shx/
 description: Hãy thử các API On-Premise của chúng tôi để chuyển đổi dữ liệu GIS trên .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi OSM thành SHX trong C#" h2="Xuất OSM sang SHX bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHX" pfName="Aspose.GIS" subTitlepfName="cho .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="OSM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="cho .NET" >}}
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,13 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 ```cs
 // Chuyển đổi dữ liệu GIS OSM thành dữ liệu SHX
 VectorLayer.Convert(dir + "example.osm", Drivers.OsmXml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -88,15 +85,13 @@ VectorLayer.Convert(dir + "example.osm", Drivers.OsmXml, dir + "output.shx", Dri
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đây là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào dựa trên ArcGIS / ArcMap, QGIS, v.v.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="https://docs.fileformat.com/gis/osm/" >}}
 
-OpenStreetMap (OSM) là một bộ sưu tập khổng lồ thông tin địa lý tự nguyện được lưu trữ trong các loại tệp khác nhau, sử dụng các lược đồ mã hóa khác nhau để chuyển đổi dữ liệu này thành bit và byte. OSM là một nỗ lực hợp tác hướng tới việc tạo ra bản đồ có thể chỉnh sửa miễn phí trên thế giới. Đầu ra chính của nỗ lực hợp tác này là dữ liệu địa lý hơn là bản đồ đó. Các ràng buộc về việc sử dụng hoặc khả năng tiếp cận thông tin địa lý trên phần lớn thế giới kích hoạt nhu cầu tạo OSM. Dữ liệu có sẵn từ OSM đã sẵn sàng để thay thế Google Maps cho các ứng dụng cổ điển (Facebook, Craigslist, v.v.) và dữ liệu mặc định cho các ứng dụng bộ thu GPS. Mặc dù chất lượng dữ liệu khác nhau trên toàn thế giới nhưng dữ liệu OpenStreetMap có thể được so sánh một cách thuận tiện với dữ liệu bằng sáng chế.
+OpenStreetMap (OSM) là một bộ sưu tập khổng lồ thông tin địa lý tự nguyện được lưu trữ trong các loại tệp khác nhau, sử dụng các lược đồ mã hóa khác nhau để chuyển đổi dữ liệu này thành bit và byte. OSM là một nỗ lực hợp tác hướng tới việc tạo ra bản đồ có thể chỉnh sửa miễn phí trên thế giới. Đầu ra chính của nỗ lực hợp tác này là dữ liệu địa lý hơn là bản đồ đó. Các ràng buộc về việc sử dụng hoặc khả năng tiếp cận thông tin địa lý trên phần lớn thế giới kích hoạt nhu cầu tạo OSM. Dữ liệu có sẵn từ OSM đã sẵn sàng để thay thế Google Maps cho các ứng dụng cổ điển (Facebook, Craigslist, v.t.) và dữ liệu mặc định cho các ứng dụng bộ thu GPS. Mặc dù chất lượng dữ liệu khác nhau trên toàn thế giới nhưng dữ liệu OpenStreetMap có thể được so sánh một cách thuận tiện với dữ liệu bằng sáng chế.
 Đọc thêm
 
         {{< /blocks/products/pf/agp/about-file-text >}}

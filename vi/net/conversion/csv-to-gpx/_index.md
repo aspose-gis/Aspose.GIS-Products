@@ -1,11 +1,11 @@
 ---
 title: Chuyển đổi CSV thành Dữ liệu GIS GPX bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/csv-to-gpx/ 
+url: /vi/net/conversion/csv-to-gpx/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi CSV sang GPX trên .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi CSV thành GPX trong C#" h2="Xuất CSV sang GPX bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -22,13 +22,9 @@ description: Thử các API On-Premise của chúng tôi để chuyển đổi C
  và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,67 +32,51 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Các bước chuyển đổi CSV thành GPX trong C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  Chuyển đổi có thể được thực hiện chỉ với một dòng mã khi sử dụng
  *VectorLayer.Convert* 
  phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Một đường dẫn tệp kiểu chuỗi đến tệp CSV nguồn
 2.  Trình điều khiển nguồn để API biết về định dạng đầu vào. Đặt thành Drivers.Csv
 3.  Đường dẫn tệp kiểu chuỗi đến tệp dữ liệu GPX đích
 4.  Trình điều khiển đích để chỉ định định dạng đầu ra. Đặt thành Drivers.Gpx
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu hệ thống" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  Các API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các yêu cầu tiên quyết sau đây trên hệ thống của mình.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lưu CSV dưới dạng GPX - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-csv-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
+
 {{< blocks/products/pf/agp/demobox sectionTitle="CSV to GPX Live Demos" sectionDescription="Chuyển đổi CSV thành GPX ngay bây giờ bằng cách truy cập [trang web trình diễn trực tiếp](https://products.aspose.app/gis/conversion/csv-to-gpx). Bản demo trực tiếp có những lợi ích sau" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Chỉ chọn GPX làm định dạng đầu ra và." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Tải lên tệp CSV của bạn, nó sẽ được chuyển đổi ngay lập tức sang GPX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bạn sẽ nhận được liên kết tải xuống." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Chỉ chọn GPX làm định dạng đầu ra và." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Tải lên tệp CSV của bạn, nó sẽ được chuyển đổi ngay lập tức sang GPX." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bạn sẽ nhận được liên kết tải xuống." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
-
+{{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
  Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp Shapefile ESRI, GeoJSON, TopoJSON, Cơ sở dữ liệu địa lý ESRI, Ngôn ngữ đánh dấu địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v. 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 Các tệp có phần mở rộng CSV (Comma Separated Values) đại diện cho các tệp văn bản thuần túy chứa các bản ghi dữ liệu với các giá trị được phân tách bằng dấu phẩy. Mỗi dòng trong một tệp CSV là một bản ghi mới từ tập hợp các bản ghi có trong tệp. Các tệp này được tạo khi dự định chuyển dữ liệu từ một hệ thống lưu trữ sang hệ thống khác. Vì tất cả các ứng dụng đều nhận ra các bản ghi được phân tách bằng dấu phẩy, nên việc nhập các tệp như vậy vào cơ sở dữ liệu rất dễ dàng.
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 Phần mở rộng GPX đại diện cho định dạng trao đổi GPS để trao đổi dữ liệu GPS giữa các ứng dụng và dịch vụ web trên internet. Nó là một định dạng XML nhẹ chứa dữ liệu GPS, tức là điểm đường đi, tuyến đường và bản nhạc để nhập và đọc bởi nhiều chương trình. GPX là mã nguồn mở và được hỗ trợ bởi nhiều ứng dụng và thiết bị GPS.
+    {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}

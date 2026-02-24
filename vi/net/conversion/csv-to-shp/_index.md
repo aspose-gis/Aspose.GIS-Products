@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi Dữ liệu GIS từ CSV sang SHP bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/csv-to-shp/ 
+url: /vi/net/conversion/csv-to-shp/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi CSV sang SHP trên .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -115,9 +113,7 @@ Shapefile là định dạng đa tệp (được gọi là ESRI Shapefile). Cái
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,7 +5,6 @@ url: /vi/net/coordinates/convert-to-ddm
 description: Chuyển đổi sang Độ Phút Decimal (DDM) thông qua thư viện được thiết kế dành riêng cho các nhà phát triển .NET. API chuyển đổi tọa độ cho DD, DMS, DDM, GeoRef và các định dạng khác.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs để chuyển đổi Độ Phút Decimal (DDM) cho GIS" h2="Phát triển chuyển đổi DDM với API được thiết kế dành riêng cho các nhà phát triển .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -263,7 +262,6 @@ description: Chuyển đổi sang Độ Phút Decimal (DDM) thông qua thư vi�
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài liệu học tập" tabId="resources" >}}

@@ -24,9 +24,7 @@ e instale. Você também pode usar o seguinte comando do Console do Gerenciador 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,10 +36,8 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Etapas para converter MIF para SHX em C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 A conversão pode ser feita com apenas uma linha de código ao usar o método
 *VectorLayer.Convert*. Ele recebe 4 parâmetros conforme detalhado abaixo.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Um caminho de arquivo do tipo string para o arquivo MIF de origem
@@ -54,9 +50,7 @@ A conversão pode ser feita com apenas uma linha de código ao usar o método
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos do Sistema" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de que você tem os seguintes pré-requisitos no seu sistema.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,58 +60,43 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 ```cs
 // Converter dados GIS MIF para dados SHX
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao Vivo de MIF para SHX" sectionDescription="Converter MIF para SHX agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/mif-to-shx). A demonstração ao vivo tem os seguintes benefícios" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Não precisa baixar a API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Apenas Selecione SHX como formato de saída e." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carregue seu arquivo MIF, ele será convertido instantaneamente para SHX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Você receberá o link de download." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Não precisa baixar a API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Apenas Selecione SHX como formato de saída e." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carregue seu arquivo MIF, ele será convertido instantaneamente para SHX." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Você receberá o link de download." >}}
 
     {{% blocks/products/pf/agp/content h2="Biblioteca GIS .NET" %}}
-
 Aspose.GIS para .NET é uma API de manipulação e conversão de dados GIS. Ele suporta totalmente a leitura, escrita e conversão de formatos de dados GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. É uma API baseada em .NET independente e não requer nenhum software baseado em GIS como ArcGIS / ArcMap, QGIS etc.
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
 Leia Mais
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
-
 Formato de índice de forma, um índice posicional da geometria do recurso para permitir a busca rápida para frente e para trás
 Leia Mais
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras Conversões Suportadas" subTitle="Você também pode converter MIF em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-geojson" name="MIF PARA GEOJSON" description="Formato baseado em JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-kml" name="MIF PARA KML" description="Linguagem de Marcação Keyhole" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-geojson" name="MIF PARA GEOJSON" description="Formato baseado em JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mif-to-kml" name="MIF PARA KML" description="Linguagem de Marcação Keyhole" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

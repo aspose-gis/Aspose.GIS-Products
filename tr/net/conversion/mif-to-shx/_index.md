@@ -59,7 +59,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 ```cs
 // MIF GIS verisini SHX verisine dönüştürün
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -113,6 +112,6 @@ Daha Fazlası
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

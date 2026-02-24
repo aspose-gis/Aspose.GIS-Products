@@ -1,7 +1,7 @@
 ---
 title: Converter Shapefile para JSON Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/shapefile-to-json/ 
+url: /pt/net/conversion/shapefile-to-json/
 description: Experimente nossas APIs On-Premise para converter Shapefile para JSON no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter Shapefile para JS
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile para JSON Demonstrações ao Vivo" sectionDescription="Converter Shapefile para JSON agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/shapefile-to-json). A demonstração ao vivo tem os seguintes benefícios" >}}
@@ -115,9 +112,7 @@ Formato baseado em JSON projetado para representar os recursos geográficos com 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

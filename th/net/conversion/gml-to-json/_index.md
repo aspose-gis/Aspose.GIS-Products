@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -97,7 +95,7 @@ Geographic Markup Language (หรือที่เรียกว่า GML) �
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-รูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON ต่างๆ และวิธีการเชื่อมต่อกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
+รูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON ต่างๆ และวิธีการเชื่อมต่อกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่และคุณสมบัติ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,6 +116,6 @@ Geographic Markup Language (หรือที่เรียกว่า GML) �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

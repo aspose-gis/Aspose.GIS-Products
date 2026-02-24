@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,12 +68,11 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Shapefile to GeoJSON Live Demos" sectionDescription="แปลง Shapefile เป็น GeoJSON ได้ทันทีโดยไปที่ [เว็บไซต์สาธิตสด](https://products.aspose.app/gis/conversion/shapefile-to-geojson) สาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Shapefile to GeoJSON Live Demos" sectionDescription="แปลง Shapefile เป็น GeoJSON ได้ทันทีโดยไปที่ [เว็บไซต์สาธิสด](https://products.aspose.app/gis/conversion/shapefile-to-geojson) สาธิสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose GIS API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" เพียงเลือก GeoJSON เป็นรูปแบบเอาต์พุตและ." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" อัปโหลดไฟล์ Shapefile ของคุณ จะถูกแปลงเป็น GeoJSON ทันที" >}}
@@ -97,7 +94,7 @@ SHP คือนามสกุลไฟล์สำหรับหนึ่ง�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON ต่างๆ และวิธีการเข้าร่วมกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
+GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON ต่างๆ และวิธีการเข้าร่วมกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่และคุณสมบัติ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -107,16 +104,9 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่นๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง Shapefile เป็นรูปแบบไฟล์อื่น ๆ อีกมากมาย รวมถึงรายการด้านล่าง" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-geojson" name="Shapefile TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-json" name="Shapefile TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

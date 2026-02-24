@@ -4,7 +4,7 @@ linkTitle: MapInfo MIF Görüntüleyici
 weight: 10
 url: /tr/net/viewer/mapinfo-mif/
 aliases: [mif, mapinfo, viewer]
-[Source](https://github.com/NetMapStudio/net.viewer/blob/master/src/MapInfoMIF.cs)
+source: https://github.com/NetMapStudio/net.viewer/blob/master/src/MapInfoMIF.cs
 ---
 
 ## MapInfo MIF Viewer
@@ -55,4 +55,3 @@ We welcome contributions from the community to enhance the MapInfo MIF Viewer. P
 ## License
 
 The MapInfo MIF Viewer is licensed under the MIT License - see the [LICENSE](https://github.com/NetMapStudio/net.viewer/blob/master/LICENSE) file for details.
----

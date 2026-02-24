@@ -1,7 +1,7 @@
 ---
 title: Converter OSM para SHP Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/osm-to-shp/ 
+url: /pt/net/conversion/osm-to-shp/
 description: Experimente nossas APIs On-Premise para converter OSM para SHP no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter OSM para SHP no .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -114,9 +112,7 @@ O formato OSM é específico para OpenStreetMap. O projeto OpenStreetMap mantém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM PARA KML" description="Linguagem de Marcação de Palavras-Chave" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

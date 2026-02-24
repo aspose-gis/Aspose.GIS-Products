@@ -1,7 +1,7 @@
 ---
 title: Converter Shapefile para TopoJSON Dados GIS via .NET ou C#
 weight: 120
-url: /pt/conversion/shapefile-to-topojson/ 
+url: /pt/conversion/shapefile-to-topojson/
 description: Experimente nossas APIs On-Premise para converter Shapefile para TopoJSON no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter Shapefile para To
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -110,9 +108,7 @@ TopoJSON é uma extensão GeoJSON que codifica a topologia. Formato baseado em J
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

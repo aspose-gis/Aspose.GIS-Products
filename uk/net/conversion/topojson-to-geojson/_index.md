@@ -91,13 +91,13 @@ Aspose.GIS for .NET - це API для маніпулювання та перет
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON є розширенням GeoJSON, яке кодує топологію. Формат на основі JSON призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об'єкти JSON (JavaScript Object Notation) та спосіб їх з'єднання. Формат JSON представляє колективну інформацію про Географічні об'єкти, їх просторові межі та властивості.
+TopoJSON є розширенням GeoJSON, яке кодує топологію. Формат на основі JSON призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. Формат JSON представляє колективну інформацію про Географічні об’єкти, їх просторові межі та властивості.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON є форматом на основі JSON, призначеним для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об'єкти JSON (JavaScript Object Notation) та спосіб їх з'єднання. JSON представляє колективну інформацію про Географічні об'єкти, їх просторові межі та властивості.
+GeoJSON є форматом на основі JSON, призначеним для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. JSON представляє колективну інформацію про Географічні об’єкти, їх просторові межі та властивості.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,9 +113,7 @@ GeoJSON є форматом на основі JSON, призначеним дл�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

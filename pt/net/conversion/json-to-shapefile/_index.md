@@ -1,7 +1,7 @@
 ---
 title: Converter JSON para Shapefile Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/json-to-shapefile/ 
+url: /pt/net/conversion/json-to-shapefile/
 description: Experimente nossas APIs On-Premise para converter JSON para Shapefile no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter JSON para Shapefi
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="JSON para Shapefile Demonstrações ao Vivo" sectionDescription="Converter JSON para Shapefile agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/json-to-shapefile). A demonstração ao vivo tem os seguintes benefícios" >}}
@@ -115,9 +112,7 @@ SHP é a extensão de arquivo para um dos principais tipos de arquivos usados pa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON PARA Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON PARA GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

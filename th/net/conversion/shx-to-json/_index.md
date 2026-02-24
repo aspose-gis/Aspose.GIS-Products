@@ -5,7 +5,7 @@ url: /th/net/conversion/shx-to-json/
 description: ลองใช้ On-Premise APIs ของเราสำหรับการแปลงข้อมูล GIS ของคุณบน .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="แปลง SHX เป็น JSON ใน C#" h2="ส่งออก SHX เป็น JSON โดยใช้ APIs ด้านเซิร์ฟเวอร์ โดยไม่ต้องใช้ซอฟต์แวร์เช่น ArcGIS, ArcMap, QGIS หรือ Google Earth" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="Aspose.GIS" subTitlepfName="สำหรับ .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="SHX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="สำหรับ .NET" >}}
@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราสำหร�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // แปลงข้อมูล GIS SHX เป็นข้อมูล JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,7 +83,7 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json",
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET เป็น API สำหรับการจัดการและการแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap อย่างเต็มที่ เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
+ Aspose.GIS for .NET เป็น API สำหรับการจัดการและการแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap อย่างเต็มที่เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
  
 
     {{% /blocks/products/pf/agp/content %}}
@@ -121,5 +118,5 @@ JSON (JavaScript Object Notation) เป็นรูปแบบไฟล์ม�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

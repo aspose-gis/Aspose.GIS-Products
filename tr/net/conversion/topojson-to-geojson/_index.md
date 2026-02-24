@@ -1,7 +1,7 @@
 ---
 title: .NET veya C# ile TopoJSON'u GeoJSON GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/topojson-to-geojson/ 
+url: /tr/net/conversion/topojson-to-geojson/
 description: TopoJSON'u .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla GeoJSON'a dönüştürmeyi deneyin.
 ---
 
@@ -18,9 +18,7 @@ TopoJSON'u GeoJSON'a dönüştürmek için, C# platformu için özellik zengini,
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -105,8 +103,8 @@ GeoJSON, coğrafi özellikleri ve mekansal olmayan özelliklerini temsil etmek i
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

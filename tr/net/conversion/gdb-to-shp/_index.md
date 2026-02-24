@@ -1,7 +1,7 @@
 ---
 title: GDB'yi SHP GIS Verisine .NET veya C# ile Dönüştürme
 weight: 120
-url: /tr/net/conversion/gdb-to-shp/ 
+url: /tr/net/conversion/gdb-to-shp/
 description: GDB'yi .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla SHP'ye dönüştürmeyi deneyin.
 ---
 
@@ -18,9 +18,7 @@ GDB'yi SHP'ye dönüştürmek için [Aspose.GIS for .NET](https://products.aspos
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,10 +35,10 @@ Dönüşüm, sadece bir kod satırıyla *VectorLayer.Convert* metodu kullanılar
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Kaynak GDB dosyasına ait dosya yolu dize tipinde
-2.  Giriş formatı hakkında API'ye bilgi vermek için kaynak sürücüsü. Giriş değeri Drivers.FileGdb olmalıdır
-3.  Hedef SHP veri dosyasına ait dosya yolu dize tipinde
-4.  Çıkış formatını belirtmek için hedef sürücü. Çıkış değeri Drivers.Shapefile olmalıdır
+1.  Kaynak GDB dosyasına ait dosya yolu dize tipinde  
+2.  Giriş formatı hakkında API'ye bilgi vermek için kaynak sürücüsü. Giriş değeri `Drivers.FileGdb` olmalıdır  
+3.  Hedef SHP veri dosyasına ait dosya yolu dize tipinde  
+4.  Çıkış formatını belirtmek için hedef sürücü. Çıkış değeri `Drivers.Shapefile` olmalıdır
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,39 +59,32 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GDB'den SHP'ye Canlı Demolar" sectionDescription="[Canlı Demo](https://products.aspose.app/gis/conversion/gdb-to-shp) web sitemizi ziyaret ederek GDB'yi şimdi SHP'ye dönüştürün. Canlı demoda aşağıdaki avantajlar bulunmaktadır" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece SHP'yi çıkış formatı olarak seçin ve." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="GDB dosyanızı yükleyin, anında SHP'ye dönüştürülecektir." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece SHP'yi çıkış formatı olarak seçin ve." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="GDB dosyanızı yükleyin, anında SHP'ye dönüştürülecektir." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
- Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap gibi) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS vb. GIS tabanlı yazılımlara ihtiyaç duymaz. 
+Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap gibi) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS vb. GIS tabanlı yazılımlara ihtiyaç duymaz.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GDB" readMoreLink="" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GDB" readMoreLink="" >}}
 GDB, Esri ArcGIS platformu tarafından kullanılan formattır. Bu, .gdbtable, .gdbtablx, .gdbindexes, .atx, .spx ve benzeri dosyaları içeren klasördür.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
- Shapefile çoklu dosya formatıdır (ESRI Shapefile olarak bilinir). Ana olanı SHP uzantısına sahiptir. Shapefile, popüler bir vektör coğrafi dosya formatıdır. Esri tarafından uyumluluk için geliştirilmiş ve sürdürülmektedir.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+Shapefile çoklu dosya formatıdır (ESRI Shapefile olarak bilinir). Ana olanı SHP uzantısına sahiptir. Shapefile, popüler bir vektör coğrafi dosya formatıdır. Esri tarafından uyumluluk için geliştirilmiş ve sürdürülmektedir.
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -106,8 +97,7 @@ GDB, Esri ArcGIS platformu tarafından kullanılan formattır. Bu, .gdbtable, .g
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-shp" name="GDB'DEN SHP'YE" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-gpx" name="GDB'DEN GPX'E" description="GPS Değişimi" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

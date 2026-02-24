@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi Dữ liệu GIS KML sang Shapefile bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/kml-to-shapefile/ 
+url: /vi/net/conversion/kml-to-shapefile/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi KML sang Shapefile trên .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,9 +67,9 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -119,6 +117,4 @@ SHP là phần mở rộng tệp cho một trong các loại tệp chính đư�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

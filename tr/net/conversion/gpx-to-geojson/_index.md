@@ -1,7 +1,7 @@
 ---
 title: .NET veya C# ile GPX'i GeoJSON GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/gpx-to-geojson/ 
+url: /tr/net/conversion/gpx-to-geojson/
 description: GPX'i .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla GeoJSON'a dönüştürmeyi deneyin.
 ---
 
@@ -16,13 +16,9 @@ description: GPX'i .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimi
 GPX'i GeoJSON'a dönüştürmek için, C# platformu için güçlü ve kullanımı kolay bir GIS API'si olan [Aspose.GIS for .NET](https://products.aspose.com/gis/net) kullanacağız. [NuGet](https://www.nuget.org/packages/aspose.gis) paket yöneticisini açın, **Aspose.GIS** arayın ve kurun. Ayrıca Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,9 +28,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C#'ta GPX'i GeoJSON'a Dönüştürme Adımları" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Dönüşüm, sadece bir kod satırıyla *VectorLayer.Convert* metodu kullanılarak yapılabilir. Aşağıda ayrıntılı olarak belirtilen 4 parametre alır.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Kaynak GPX dosyasına ait string tipinde dosya yolu
@@ -47,23 +41,18 @@ Dönüşüm, sadece bir kod satırıyla *VectorLayer.Convert* metodu kullanılar
 {{% blocks/products/pf/agp/feature-section-col title="Sistem Gereksinimleri" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşağıdaki kodu yürütmeden önce, sisteminizde aşağıdaki önkoşulların olduğundan emin olun.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="GPX'i GeoJSON olarak Kaydetme - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-geojson.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -77,22 +66,16 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 
 Aspose.GIS for .NET, GIS verilerini manipüle etmek ve dönüştürmek için bir API'dir. Ünlü GIS veri formatlarının (ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap) okunması, yazılması ve dönüştürülmesi işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
-GPX uzantısı, GPS verilerinin uygulamalar ve internet üzerindeki web hizmetleri arasında değiştirilmesi için GPS Exchange formatını temsil eder. Birden çok program tarafından içe aktarılabilen ve okunabilen GPS verilerini (örneğin işaret noktaları, rotalar ve izler) içeren hafif bir XML biçimidir. GPX açık kaynaklıdır ve çeşitli uygulamalar ve GPS cihazları tarafından desteklenmektedir.
-
+GPX uzantısı, GPS verilerinin uygulamalar ve internet üzerindeki web hizmetleri arasında değiştirilmesi için GPS Exchange formatını temsil eder. Birden çok program tarafından içe aktarılabilen ve okunabilen GPS verilerini (örnek işaret noktaları, rotalar ve izler) içeren hafif bir XML biçimidir. GPX açık kaynaklıdır ve çeşitli uygulamalar ve GPS cihazları tarafından desteklenmektedir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
 GeoJSON, coğrafi özellikleri ve ilişkili olmayan uzamsal özelliklerini temsil etmek için tasarlanmış JSON tabanlı bir formattır. Bu format, farklı JSON (JavaScript Object Notation) nesnelerini ve bunların nasıl birleştirileceğini tanımlar. JSON, coğrafi özellikler, uzamsal kapsamları ve özellikleri hakkında toplu bilgi içerir.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -111,9 +94,7 @@ GeoJSON, coğrafi özellikleri ve ilişkili olmayan uzamsal özelliklerini temsi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX İÇİN TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX İÇİN CSV" description="Virgülle Ayrılmış Değerler" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

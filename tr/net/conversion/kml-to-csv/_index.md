@@ -1,7 +1,7 @@
 ---
 title: .NET veya C# ile KML'yi CSV GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/kml-to-csv/ 
+url: /tr/net/conversion/kml-to-csv/
 description: KML'yi .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla CSV'ye dönüştürmeyi deneyin.
 ---
 
@@ -18,9 +18,7 @@ KML'yi CSV'ye dönüştürmek için, C# platformu için özellik zengini, güçl
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -62,7 +60,7 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -109,8 +107,6 @@ CSV (Virgülle Ayrılmış Değerler) uzantılı dosyalar, virgülle ayrılmış
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราสำหร�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // แปลงข้อมูล GIS KML เป็นข้อมูล SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -95,7 +92,7 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) ประกอบด้วยข้อมูลเชิงพื้นที่ในรูปแบบ XML ไฟล์ที่บันทึกเป็น KML สามารถเปิดได้ในแอปพลิเคชัน Geographic Information System (GIS) หากรองรับ หลังจากมีการนำมาใช้เป็นมาตรฐานสากล แอปพลิเคชันจำนวนมากเริ่มให้การสนับสนุนรูปแบบไฟล์ KML KML ใช้โครงสร้างตามแท็กที่มีองค์ประกอบและคุณสมบัติซ้อนกัน แท็กทั้งหมดมีความไวต่อตัวพิมพ์เล็ก-ใหญ่ และลำดับของแท็กเหล่านี้ ตามข้อมูลอ้างอิง KML นั้นสำคัญที่ต้องปฏิบัติตาม
+KML (Keyhole Markup Language) ประกอบด้วยข้อมูลเชิงพื้นที่ในรูปแบบ XML ไฟล์ที่บันทึกเป็น KML สามารถเปิดได้ในแอปพลิเคชัน Geographic Information System (GIS) หากรองรับ หลังจากมีการนำมาใช้เป็นมาตรฐานสากล แอปพลิเคชันจำนวนมากเริ่มให้การสนับสนุนรูปแบบไฟล์ KML KML ใช้โครงสร้างตามแท็กที่มีองค์ประกอบและคุณสมบัติซ้อนกัน แท็กทั้งหมดมีความไวต่อการพิมพ์เล็ก-ใหญ่ และลำดับของแท็กเหล่านี้ ตามข้อมูลอ้างอิง KML นั้นสำคัญที่ต้องปฏิบัติตาม
 อ่านเพิ่มเติม
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -120,6 +117,5 @@ KML (Keyhole Markup Language) ประกอบด้วยข้อมูล�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

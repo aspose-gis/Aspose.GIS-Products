@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter MapInfo-TAB para 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
 
  Aspose.GIS para .NET é uma API de manipulação e conversão de dados GIS. Ele suporta totalmente a leitura, gravação e conversão de formatos de dados GIS famosos como ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. É uma API baseada em .NET independente e não requer nenhum software baseado em GIS como ArcGIS / ArcMap, QGIS etc. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -112,9 +108,7 @@ A extensão GPX representa o formato de troca GPS para a troca de dados GPS entr
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

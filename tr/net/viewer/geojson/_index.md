@@ -4,7 +4,7 @@ linkTitle: GeoJSON Görüntüleyici
 weight: 10
 url: /tr/net/viewer/geojson/
 aliases: [geojson viewer, geojson görüntüleyici]
-[source](https://github.com/netgfx/ngvx)
+source: "https://github.com/netgfx/ngvx"
 ---
 
 ## Introduction
@@ -23,12 +23,12 @@ Bu uygulama, harita üzerinde GeoJSON verilerini görüntülemenize ve etkileşi
 *   Support for various GeoJSON formats
 *   Customizable appearance
 
-Harita üzerinde GeoJSON verilerini görüntüleme
-Haritayı yakınlaştırma ve kaydırma
-Özellikler hakkında bilgi içeren açılır pencereleri görüntüleme
-Özniteliklere göre özellikleri filtreleme
-Özniteliklere göre özelliklerin stilini ayarlama
-Çeşitli GeoJSON formatlarını destekleme
+Harita üzerinde GeoJSON verilerini görüntüleme  
+Haritayı yakınlaştırma ve kaydırma  
+Özellikler hakkında bilgi içeren açılır pencereleri görüntüleme  
+Özniteliklere göre özellikleri filtreleme  
+Özniteliklere göre özelliklerin stilini ayarlama  
+Çeşitli GeoJSON formatlarını destekleme  
 Özelleştirilebilir görünüm
 
 ## Usage
@@ -37,8 +37,8 @@ Haritayı yakınlaştırma ve kaydırma
 2.  Load a GeoJSON file using the "File" menu
 3.  The GeoJSON data will be displayed on the map
 
-Uygulamayı açın
-"Dosya" menüsünü kullanarak bir GeoJSON dosyası yükleyin
+Uygulamayı açın  
+"Dosya" menüsünü kullanarak bir GeoJSON dosyası yükleyin  
 GeoJSON verileri harita üzerinde görüntülenecektir
 
 ## Supported Formats
@@ -47,8 +47,8 @@ GeoJSON verileri harita üzerinde görüntülenecektir
 *   KML
 *   GPX
 
-GeoJSON
-KML
+GeoJSON  
+KML  
 GPX
 
 ## Customization
@@ -62,4 +62,3 @@ Uygulama, yapılandırma dosyasını değiştirerek özelleştirilebilir. Yapıl
 If you encounter any problems, please consult the troubleshooting guide or contact the developers.
 
 Herhangi bir sorunla karşılaşırsanız lütfen sorun giderme kılavuzuna bakın veya geliştiricilerle iletişime geçin.
----

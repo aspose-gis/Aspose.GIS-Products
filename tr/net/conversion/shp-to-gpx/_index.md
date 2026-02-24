@@ -18,9 +18,7 @@ SHP'yi GPX'e dönüştürmek için, C# platformu için özellik zengini, güçl�
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -63,7 +61,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHP'yi GPX'e Canlı Demolar" sectionDescription="[Canlı Demolar web sitemizi](https://products.aspose.com/gis/conversion/shp-to-gpx) ziyaret ederek SHP'yi şimdi GPX'e dönüştürün. Canlı demoda aşağıdaki avantajlar vardır" >}}
@@ -75,7 +72,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Shapefile, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -105,8 +101,8 @@ GPX uzantısı, internetteki uygulamalar ve web hizmetleri arasında GPS veriler
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Virgülle Ayrılmış Değerler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS Değişimi" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

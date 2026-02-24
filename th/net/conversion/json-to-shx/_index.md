@@ -120,6 +120,6 @@ JSON (JavaScript Object Notation) เป็นรูปแบบไฟล์ม�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -118,6 +118,6 @@ Các tệp có phần mở rộng CSV (Giá trị phân tách bằng dấu phẩ
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

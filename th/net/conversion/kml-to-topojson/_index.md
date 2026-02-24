@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -97,7 +95,7 @@ KML (Keyhole Markup Language) ประกอบด้วยข้อมูล�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON เป็นส่วนขยายของ GeoJSON ที่เข้ารหัสโทโพโลยี รูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON (JavaScript Object Notation) ที่แตกต่างกันและวิธีการเชื่อมต่อกัน รูปแบบ JSON แสดงข้อมูลรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
+TopoJSON เป็นส่วนขยายของ GeoJSON ที่เข้ารหัสโทโพโลยี รูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่เป็นเชิงพื้นที่ รูปแบบนี้กำหนดออบเจ็กต์ JSON (JavaScript Object Notation) ที่แตกต่างกันและวิธีการเชื่อมต่อกัน รูปแบบ JSON แสดงข้อมูลรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -117,9 +115,7 @@ TopoJSON เป็นส่วนขยายของ GeoJSON ที่เข�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -13,20 +13,18 @@ description: ลองใช้ On-Premise APIs ของเราสำหร�
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง MIF เป็น SHX โดยใช้ C#" %}}
 
- เพื่อที่จะแปลง MIF เป็น SHX เราจะใช้
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API ซึ่งเป็น GIS API ที่มีคุณสมบัติครบถ้วน, ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- package manager, ค้นหา
- **Aspose.GIS** 
- และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นกัน
+เพื่อที่จะแปลง MIF เป็น SHX เราจะใช้
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API ซึ่งเป็น GIS API ที่มีคุณสมบัติครบถ้วน, ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+package manager, ค้นหา
+**Aspose.GIS** 
+และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นกัน
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,9 +37,9 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- การแปลงสามารถทำได้ด้วยบรรทัดเดียวของโค้ดขณะใช้
- *VectorLayer.Convert* 
- method มันรับพารามิเตอร์ 4 ตัวตามรายละเอียดด้านล่าง
+การแปลงสามารถทำได้ด้วยบรรทัดเดียวของโค้ดขณะใช้
+*VectorLayer.Convert* 
+method มันรับพารามิเตอร์ 4 ตัวตามรายละเอียดด้านล่าง
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- APIs ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะดำเนินการกับโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+APIs ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะดำเนินการกับโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // แปลงข้อมูล GIS MIF เป็นข้อมูล SHX
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -86,8 +82,7 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
- Aspose.GIS for .NET เป็น API สำหรับการจัดการและการแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap อย่างเต็มที่ เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
-
+Aspose.GIS for .NET เป็น API สำหรับการจัดการและการแปลงข้อมูล GIS รองรับการอ่าน เขียน และแปลงรูปแบบข้อมูล GIS ที่มีชื่อเสียง เช่น ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats และ OpenStreetMap อย่างเต็มที่ เป็น API ที่ใช้ .NET แบบสแตนด์อโลนและไม่ต้องการซอฟต์แวร์ GIS ใดๆ เช่น ArcGIS / ArcMap, QGIS ฯลฯ
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -120,6 +115,5 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

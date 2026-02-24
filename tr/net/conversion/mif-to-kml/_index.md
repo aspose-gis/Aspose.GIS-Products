@@ -18,9 +18,7 @@ MIF'yi KML'ye dönüştürmek için, C# platformu için özellik zengini, güçl
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -65,8 +63,8 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -79,7 +77,6 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
  Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Şekil Dosyaları, GeoJSON, TopoJSON, ESRI Geodatabase, Coğrafya İşaretleme Dili, Google Earth, GPS Değişim Formatı, MapInfo Formatları ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -113,5 +110,5 @@ Daha Fazla Bilgi Edinin
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

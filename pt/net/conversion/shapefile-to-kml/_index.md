@@ -1,7 +1,7 @@
 ---
 title: Converter Shapefile para KML Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/shapefile-to-kml/ 
+url: /pt/net/conversion/shapefile-to-kml/
 description: Experimente nossas APIs On-Premise para converter Shapefile para KML no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter Shapefile para KM
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -99,4 +97,7 @@ KML (Keyhole Markup Language) contém informações geoespaciais na notação XM
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

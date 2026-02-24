@@ -4,7 +4,7 @@ linkTitle: KML Görüntüleyici
 weight: 10
 url: /tr/viewer/kml/
 aliases: [KML, Keyhole Markup Language]
-[source](https://github.com/nasa/worldwind/blob/master/src/org/apache/commons/net/ftp/FTPClient.java)
+source: https://github.com/nasa/worldwind/blob/master/src/org/apache/commons/net/ftp/FTPClient.java
 ---
 
 ## KML Nedir?
@@ -19,23 +19,22 @@ KML Görüntüleyici, KML dosyalarını görüntülemek ve etkileşimli haritala
 
 KML Görüntüleyici aşağıdaki özellikleri sunar:
 
-*   KML dosyalarını destekleme
-*   Farklı katmanlar arasında gezinme
-*   Özellikleri yakınlaştırma ve uzaklaştırma
-*   Coğrafi verilerin çeşitli özelliklerini inceleme
-*   Harita üzerinde ölçümler yapma
-*   Verileri diğer formatlara dışa aktarma
+* KML dosyalarını destekleme
+* Farklı katmanlar arasında gezinme
+* Özellikleri yakınlaştırma ve uzaklaştırma
+* Coğrafi verilerin çeşitli özelliklerini inceleme
+* Harita üzerinde ölçümler yapma
+* Verileri diğer formatlara dışa aktarma
 
 ## Kullanım
 
 KML Görüntüleyici'yi kullanmak için aşağıdaki adımları izleyin:
 
-1.  Görüntüleyici uygulamasını açın.
-2.  "Dosya" menüsünden "Aç"ı seçin ve görüntülemek istediğiniz KML dosyasını bulun.
-3.  KML dosyası görüntülendiğinde, harita üzerinde gezinmek ve özellikleri incelemek için fareyi ve klavyeyi kullanabilirsiniz.
+1. Görüntüleyici uygulamasını açın.
+2. "Dosya" menüsünden "Aç"ı seçin ve görüntülemek istediğiniz KML dosyasını bulun.
+3. KML dosyası görüntülendiğinde, harita üzerinde gezinmek ve özellikleri incelemek için fareyi ve klavyeyi kullanabilirsiniz.
 
 ## Ek Bilgiler
 
-*   [KML Referans](https://developers.google.com/kml/documentation/kml_reference)
-*   [KML Öğreticisi](https://developers.google.com/kml/tutorials/)
----
+* [KML Referans](https://developers.google.com/kml/documentation/kml_reference)
+* [KML Öğreticisi](https://developers.google.com/kml/tutorials/)

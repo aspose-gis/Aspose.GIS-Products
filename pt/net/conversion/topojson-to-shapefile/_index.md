@@ -1,7 +1,7 @@
 ---
 title: Converter TopoJSON para Shapefile Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/topojson-to-shapefile/ 
+url: /pt/net/conversion/topojson-to-shapefile/
 description: Experimente nossas APIs On-Premise para converter TopoJSON para Shapefile no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter TopoJSON para Sha
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -114,9 +112,7 @@ SHP é a extensão de arquivo para um dos tipos de arquivo primários usados par
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON PARA KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON PARA Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,19 +24,15 @@ description: Experimente nossas APIs On-Premise para converter OSM para KML no .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Etapas para converter OSM para KML em C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
 
  A conversão pode ser feita com apenas uma linha de código ao usar o
@@ -53,19 +49,15 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos do Sistema" %}}
-
 {{% blocks/products/pf/agp/text %}}
 
  Nossas APIs são suportadas em todas as principais plataformas e Sistemas Operacionais. Antes de executar o código abaixo, certifique-se de que você tem os seguintes pré-requisitos no seu sistema.
 
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Salvar OSM como KML - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-osm-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -115,9 +107,7 @@ KML (Keyhole Markup Language) contém informações geoespaciais na notação XM
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM PARA KML" description="Linguagem de Marcação de Palavras-Chave" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

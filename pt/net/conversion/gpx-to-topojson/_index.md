@@ -121,6 +121,6 @@ TopoJSON é uma extensão GeoJSON que codifica a topologia. Formato baseado em J
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

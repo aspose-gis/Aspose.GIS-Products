@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним та
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -96,7 +94,7 @@ Geographic Markup Language (відомий як GML) - це формат на о
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-Файли з розширенням CSV (Comma Separated Values) представляють собою файли простого тексту, які містять записи даних зі значеннями, розділеними комами. Кожен рядок у CSV-файлі є новим записом із набору записів, що містяться у файлі. Такі файли створюються при передачі даних з однієї системи зберігання в іншу. Оскільки всі програми можуть розпізнавати записи, розділені комами, імпорт таких файлів даних до бази даних відбувається дуже зручно.
+Файли з розширенням CSV (Comma Separated Values) представляють собою файли простого тексту, які містять записи даних зі значеннями, розділеними комами. Кожен рядок у CSV-файлі є новим записом із набору записів, що містяться у файлі. Такі файли створюються при передачі даних з одної системи зберігання в іншу. Оскільки всі програми можуть розпізнавати записи, розділені комами, імпорт таких файлів даних до бази даних відбувається дуже зручно.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -105,6 +103,8 @@ Geographic Markup Language (відомий як GML) - це формат на о
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< /blocks/products/pf/agp/faq-item >}}
 
 {{< blocks/products/pf/agp/other-supported-section title="Інші підтримувані конвертації" subTitle="Ви також можете конвертувати GML в багато інших форматів файлів, включаючи декілька перелічених нижче." >}}
 
@@ -115,9 +115,6 @@ Geographic Markup Language (відомий як GML) - це формат на о
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

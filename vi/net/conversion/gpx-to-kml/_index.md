@@ -1,11 +1,10 @@
 ---
 title: Chuyển đổi Dữ liệu GIS GPX sang KML bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/gpx-to-kml/ 
+url: /vi/net/conversion/gpx-to-kml/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi GPX sang KML trên .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi GPX sang KML trong C#" h2="Xuất GPX sang KML bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -22,13 +21,9 @@ trình quản lý gói, tìm kiếm
 và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,91 +31,64 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Các bước chuyển đổi GPX sang KML trong C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Chuyển đổi có thể được thực hiện chỉ với một dòng mã khi sử dụng
 *VectorLayer.Convert* 
 phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Một đường dẫn tệp kiểu chuỗi đến tệp GPX nguồn
 2.  Trình điều khiển nguồn để cho API biết về định dạng đầu vào. Đặt thành Drivers.Gpx
 3.  Đường dẫn tệp kiểu chuỗi đến tệp dữ liệu KML đích
 4.  Trình điều khiển đích để chỉ định định dạng đầu ra. Đặt thành Drivers.Kml
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu Hệ thống" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Các API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các yêu cầu tiên quyết sau đây trên hệ thống của mình.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lưu GPX dưới dạng KML - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX to KML Live Demos" sectionDescription="Chuyển đổi GPX sang KML ngay bây giờ bằng cách truy cập [trang web trình diễn trực tiếp](https://products.aspose.app/gis/conversion/gpx-to-kml). Bản demo trực tiếp có những lợi ích sau" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn KML làm định dạng đầu ra và." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp GPX của bạn, nó sẽ được chuyển đổi ngay lập tức sang KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn KML làm định dạng đầu ra và." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp GPX của bạn, nó sẽ được chuyển đổi ngay lập tức sang KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
-
-Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp ESRI Shapefiles, GeoJSON, TopoJSON, Cơ sở dữ liệu ESRI Geodatabase, Ngôn ngữ đánh dấu địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v. 
-
-
+    Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp ESRI Shapefiles, GeoJSON, TopoJSON, Cơ sở dữ liệu ESRI Geodatabase, Ngôn ngữ đánh dấu địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
-Phần mở rộng GPX đại diện cho định dạng trao đổi GPS để trao đổi dữ liệu GPS giữa các ứng dụng và dịch vụ web trên internet. Nó là một định dạng XML nhẹ chứa dữ liệu GPS, tức là điểm đường đi, tuyến đường và bản nhạc để nhập và đọc bởi nhiều chương trình. GPX là mã nguồn mở và được hỗ trợ bởi nhiều ứng dụng và thiết bị GPS.
-
+        Phần mở rộng GPX đại diện cho định dạng trao đổi GPS để trao đổi dữ liệu GPS giữa các ứng dụng và dịch vụ web trên internet. Nó là một định dạng XML nhẹ chứa dữ liệu GPS, tức là điểm đường đi, tuyến đường và bản nhạc để nhập và đọc bởi nhiều chương trình. GPX là mã nguồn mở và được hỗ trợ bởi nhiều ứng dụng và thiết bị GPS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
-KML (Ngôn ngữ đánh dấu khóa) chứa thông tin địa không gian ở định dạng XML. KML có thể được mở trong các ứng dụng Hệ thống Thông tin Địa lý (GIS) nếu chúng hỗ trợ nó. Nhiều ứng dụng đã bắt đầu hỗ trợ định dạng KML sau khi nó được chấp nhận là tiêu chuẩn quốc tế.
-
+        KML (Ngôn ngữ đánh dấu khóa) chứa thông tin địa không gian ở định dạng XML. KML có thể được mở trong các ứng dụng Hệ thống Thông tin Địa lý (GIS) nếu chúng hỗ trợ nó. Nhiều ứng dụng đã bắt đầu hỗ trợ định dạng KML sau khi nó được chấp nhận là tiêu chuẩn quốc tế.
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi GPX sang nhiều định dạng tệp khác, bao gồm một số danh sách dưới đây." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
-
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}

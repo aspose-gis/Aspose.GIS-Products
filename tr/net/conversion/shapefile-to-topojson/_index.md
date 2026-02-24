@@ -1,7 +1,7 @@
 ---
 title: Shapefile'ı .NET veya C# aracılığıyla TopoJSON GIS Verisine Dönüştürme
 weight: 120
-url: /tr/net/conversion/shapefile-to-topojson/ 
+url: /tr/net/conversion/shapefile-to-topojson/
 description: Şekil Dosyasını (.NET Framework, .NET Core, C#) üzerinde On-Premise API'lerimiz aracılığıyla TopoJSON'a dönüştürmeyi deneyin.
 ---
 
@@ -20,9 +20,7 @@ paket yöneticisi, **Aspose.GIS** arayın ve kurun. Ayrıca Paket Yöneticisi Ko
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,9 +37,9 @@ Dönüşüm, yalnızca *VectorLayer.Convert* yöntemini kullanarak tek bir kod s
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Kaynak Şekil Dosyası dosyasına yönelik dize türünde dosya yolu
-2. Giriş biçimini API'ye bildirmek için kaynak sürücüsü. Bunu Drivers.Shapefile olarak ayarlayın
-3. Hedef TopoJSON veri dosyasına yönelik dize türünde dosya yolu
+1. Kaynak Şekil Dosyası dosyasına yönelik dize türünde dosya yolu  
+2. Giriş biçimini API'ye bildirmek için kaynak sürücüsü. Bunu Drivers.Shapefile olarak ayarlayın  
+3. Hedef TopoJSON veri dosyasına yönelik dize türünde dosya yolu  
 4. Çıktı biçimini belirtmek için hedef sürücü. Bunu Drivers.TopoJson olarak ayarlayın
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,22 +61,19 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile'dan TopoJSON'a Canlı Demolar" sectionDescription="[Canlı Demolar web sitemizi](https://products.aspose.app/gis/conversion/shapefile-to-topojson) ziyaret ederek Shapefile'ı şimdi TopoJSON'a dönüştürün. Canlı demoda aşağıdaki avantajlar vardır" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece TopoJSON'u çıktı formatı olarak seçin ve." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Şekil Dosyası dosyanızı yükleyin, anında TopoJSON'a dönüştürülecektir." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API'sini indirmeye gerek yok." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sadece TopoJSON'u çıktı formatı olarak seçin ve." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Şekil Dosyası dosyanızı yükleyin, anında TopoJSON'a dönüştürülecektir." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="İndirme bağlantısını alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Şekil Dosyaları, GeoJSON, TopoJSON, ESRI Jeoveritabanı, Coğrafya İşaretleme Dili, Google Earth, GPS Değişim Formatı, MapInfo Formatları ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -109,8 +104,7 @@ TopoJSON, topolojiyi kodlayan bir GeoJSON uzantısıdır. Coğrafi özelliklerin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Şekil Dosyası -> TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Şekil Dosyası -> KML" description="Anahtar Kelime İşaretleme Dili" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

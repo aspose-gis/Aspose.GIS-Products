@@ -1,11 +1,12 @@
 ---
 title: Converter KML para TopoJSON Dados GIS via .NET ou C#
 weight: 120
-url: /pt/conversion/kml-to-topojson/ 
+url: /pt/conversion/kml-to-topojson/
 description: Experimente nossas APIs On-Premise para converter KML para TopoJSON no .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="Converter KML para TopoJSON em C#" h2="Exportar KML para TopoJSON usando APIs do lado do servidor, sem a necessidade de softwares como ArcGIS, ArcMap, QGIS ou Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TopoJSON" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="KML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="para .NET" >}}
@@ -24,9 +25,7 @@ description: Experimente nossas APIs On-Premise para converter KML para TopoJSON
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +71,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML para TopoJSON Demonstrações ao Vivo" sectionDescription="Converter KML para TopoJSON agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/kml-to-topojson). A demonstração ao vivo tem os seguintes benefícios" >}}
@@ -92,7 +90,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) contém informações geoespaciais na notação XML. KML pode ser aberto em aplicativos de Sistema de Informações Geográficas (GIS), desde que eles o suportem. Muitos aplicativos começaram a fornecer suporte ao formato KML depois que ele foi adotado como padrão internacional.
+KML (Keyhole Markup Language) contém informações geoespaciais na notação XML. KML pode ser aberto em aplicativos de Sistema de Informações Geográficas (GIS), desde que eles o suportem. Muitos aplicativos começaram a fornecer suporte ao formato KML depois que foi adotado como padrão internacional.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +116,8 @@ TopoJSON é uma extensão GeoJSON que codifica a topologia. Formato baseado em J
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML PARA CSV" description="Valores Separados por Vírgula" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/agp/faq-item >}}
+
+{{< /blocks/products/pf/main-container >}}
