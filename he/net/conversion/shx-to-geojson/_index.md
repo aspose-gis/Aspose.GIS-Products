@@ -75,7 +75,6 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojso
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="הדגמות חיות של SHX ל-GEOJSON" sectionDescription="המירו SHX ל-GEOJSON עכשיו על ידי ביקור באתר [ההדגמה החיה שלנו](https://products.aspose.com/gis/conversion/shx-to-geojson). להדגמה החיה יש את היתרונות הבאים" >}}
@@ -102,7 +101,8 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojso
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. פורמט JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפיהן המרחביים והמאפיינים שלהן. אובייקט של קובץ זה עשוי לציין גיאומטריה (נקודה, מחרוזת קו, מצולע), תכונה או אוסף של תכונות. התכונות משקפות כתובות ומקומות כנקודות, רחובות ודרכים ראשיות כמחרוזות קו ומדינות, מחוזות ואזורי קרקע כמצולעים. שימוש ב-GeoJSON מאפשר ליישומי ניווט ותכנון מסלולים ניידים שונים לציין את הכיסוי של השירותים שלהם. הרחבה של GeoJSON היא TopoJSON שהיא קטנה יותר בגודלה ומקודדת טופולוגיה גיאוגרפית.
+GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. פורמט JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפיהן המרחביים והמאפיינים שלהן. אובייקט של קובץ זה עשוי לציין גיאומטריה (נקודה, מחרוזת קו, מצולע), תכונה או אוסף של תכונות. התכונות משקפות כתובות ומקומות כנקודות, רחובות ודרכים ראשיות כמחרוזות קו ומדינות, מחוזות ואזורי קרקע כמצולעים. שימוש ב-GeoJSON מאפשר ליישומי ניווט ותכנון מסלולים ניידים שונים לציין את הכיסוי של השירותים שלהם. הרחבה של GeoJSON היא TopoJSON שהיא קטנה יותר בגודלה ומקודדת טופול
+
 קרא עוד
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -121,4 +121,5 @@ GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות ג�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

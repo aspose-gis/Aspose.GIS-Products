@@ -264,6 +264,7 @@ description: Konvertieren Sie mit der speziell für .NET-Entwickler entwickelten
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}

@@ -1,7 +1,7 @@
 ---
 title: Конвертація GML в GeoJSON GIS дані за допомогою .NET або C#
 weight: 120
-url: /uk/net/conversion/gml-to-geojson/ 
+url: /uk/net/conversion/gml-to-geojson/
 description: Спробуйте наші On-Premise API для конвертації GML в GeoJSON на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним та
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,7 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -118,6 +116,4 @@ GeoJSON - це формат на основі JSON, призначений дл�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

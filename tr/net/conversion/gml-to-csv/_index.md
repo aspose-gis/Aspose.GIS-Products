@@ -18,9 +18,7 @@ GML'yi CSV'ye dönüştürmek için, C# platformu için özellik zengini, güçl
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -40,7 +38,7 @@ Dönüşüm, yalnızca *VectorLayer.Convert* yöntemini kullanarak tek bir kod s
 1.  Kaynak GML dosyasına işaret eden dize türünde dosya yolu
 2.  Giriş biçimini API'ye bildirmek için kaynak sürücüsü. Giriş için Drivers.Gml olarak ayarlayın
 3.  Hedef CSV veri dosyasına işaret eden dize türünde dosya yolu
-4.  Çıkış biçimini belirtmek için hedef sürücü. Çıkış için Drivers.Csv olarak ayarlayın
+4.  Çıkış biçimini belirtmek için hedef sürücü. Çıktı için Drivers.Csv olarak ayarlayın
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,8 +59,8 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}} 
 
 <!-- aboutfile Starts -->
 
@@ -89,7 +87,7 @@ Coğrafi İşaretleme Dili (GML olarak bilinir), GIS'de kullanılan XML tabanlı
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-CSV (Virgülle Ayrılmış Değerler) uzantısına sahip dosyalar, virgülle ayrılmış değerlere sahip veri kayıtlarını içeren düz metin dosyalarını temsil eder. Bir CSV dosyasındaki her satır, dosyada bulunan kayıt kümesinden yeni bir kayıttır. Bu tür dosyalar, verilerin bir depolama sisteminden diğerine aktarılması amaçlandığında oluşturulur. Virgülle ayrılmış kayıtların tüm uygulamalar tarafından tanınması nedeniyle, bu tür veri dosyalarının veritabanına aktarılması çok kolay yapılır.
+CSV (Virgülle Ayrılmış Değerler) uzantısına sahip dosyalar, virgülle ayrılmış değerlere sahip veri kayıtlarını içeren düz metin doslarını temsil eder. Bir CSV dosyasındaki her satır, dosyada bulunan kayıt kümesinden yeni bir kayıttır. Bu tür dosyalar, verilerin bir depolama sisteminden diğerine aktarılması amaçlandığında oluşturulur. Virgülle ayrılmış kayıtların tüm uygulamalar tarafından tanınması nedeniyle, bu tür veri dosyalarının veritabanına aktarılması çok kolay yapılır.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -107,7 +105,6 @@ CSV (Virgülle Ayrılmış Değerler) uzantısına sahip dosyalar, virgülle ayr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-json" name="GML TO JSON" description="JavaScript Nesne Gösterimi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="GPS Değişimi" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

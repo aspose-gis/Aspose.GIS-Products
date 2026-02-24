@@ -340,7 +340,7 @@ description: توسعه‌ی MapInfo-TAB viewer از طریق کتابخانه�
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}

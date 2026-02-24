@@ -18,9 +18,7 @@ MIF'yi GEOJSON'a dönüştürmek için, C# platformu için güçlü ve kullanım
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -64,8 +62,8 @@ Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -78,7 +76,6 @@ Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. Ünlü GIS veri formatlarını (ESRI Shapefile'lar, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formatları ve OpenStreetMap gibi) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS vb. GIS tabanlı yazılımlara ihtiyaç duymaz.
-
 
     {{% /blocks/products/pf/agp/content %}}
 

@@ -72,7 +72,6 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo live da TopoJSON a Shapefile" sectionDescription="Converti TopoJSON in Shapefile subito visitando il nostro [sito web di demo live](https://products.aspose.app/gis/conversion/topojson-to-shapefile). La demo live ha i seguenti vantaggi" >}}
@@ -114,9 +113,7 @@ SHP è l'estensione del file per uno dei tipi di file principali utilizzati per 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

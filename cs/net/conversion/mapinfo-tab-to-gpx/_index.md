@@ -1,11 +1,10 @@
 ---
 title: Převod MapInfo-TAB do GIS dat GPX pomocí .NET nebo C#
 weight: 120
-url: /cs/net/conversion/mapinfo-tab-to-gpx/ 
+url: /cs/net/conversion/mapinfo-tab-to-gpx/
 description: Vyzkoušejte naše On-Premise API pro převod MapInfo-TAB do GPX na .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Převod MapInfo-TAB do GPX v C#" h2="Exportujte MapInfo-TAB do GPX pomocí serverových API, bez nutnosti softwaru jako ArcGIS, ArcMap, QGIS nebo Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MapInfo-TAB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="pro .NET" >}}
@@ -24,9 +23,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +66,8 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -111,9 +108,4 @@ GPX rozšíření představuje GPS Exchange formát pro výměnu GPS dat mezi ap
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}

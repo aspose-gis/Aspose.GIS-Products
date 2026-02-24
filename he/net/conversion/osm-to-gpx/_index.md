@@ -1,11 +1,11 @@
 ---
 title: המרת OSM לנתוני GIS של GPX באמצעות .NET או C#
 weight: 120
-url: /he/net/conversion/osm-to-gpx/ 
-description: נסה את ה-API שלנו באתר כדי להמיר מ-OSM ל-GPX ב-.NET Framework, ‎.NET Core, C#.
+url: /he/net/conversion/osm-to-gpx/
+description: נסה את ה-API שלנו באתר כדי להמיר מ-OSM ל-GPX ב-.NET Framework, ‎.NET Core, C#
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="המרת OSM ל-GPX ב-C#" h2="ייצוא מ-OSM ל-GPX באמצעות ממשקי API בצד השרת, מבלי צורך בתוכנות כמו ArcGIS, ArcMap, QGIS או Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="עבור .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="OSM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="עבור .NET" >}}
@@ -22,13 +22,9 @@ description: נסה את ה-API שלנו באתר כדי להמיר מ-OSM ל-GP
  והתקן. ניתן גם להשתמש בפקודה הבאה ממסוף Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,42 +32,32 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="שלבים להמרת OSM ל-GPX ב-C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  ניתן לבצע המרה עם שורה אחת בלבד של קוד תוך שימוש ב
  *VectorLayer.Convert* 
  שיטה. היא לוקחת 4 פרמטרים כפי שמפורט להלן.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  נתיב קובץ מחרוזת למקור OSM file
 2.  מנהל התקן מקור כדי ליידע את ה-API על פורמט הקלט. הגדר אותו ל-Drivers.OsmXml
 3.  נתיב קובץ מחרוזת ליעד נתוני GPX file
 4.  מנהל התקן יעד לציין פורמט פלט. הגדר אותו ל-Drivers.Gpx
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="דרישות מערכת" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  ה-API שלנו נתמך בכל הפלטפורמות ומערכות ההפעלה העיקריות. לפני ביצוע הקוד שלהלן, אנא ודא שיש לך את הדרישות המוקדמות הבאות במערכת שלך.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="שמור OSM כ-GPX - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-osm-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -82,42 +68,27 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" תקבל קישור להורדה." >}}
 
     {{% blocks/products/pf/agp/content h2="ספריית .NET GIS" %}}
-
  Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="" >}}
-
 פורמט OSM הוא ספציפי ל-OpenStreetMap. פרויקט OpenStreetMap מתחזק מסד נתונים חופשי של הרחובות בעולם.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
-הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המכיל נתוני GPS כלומר נקודות ציון, מסלולים ומסלולים לייבוא וקריאה על ידי תוכניות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
-
+הרחבת GPX מייצגת פורמט החלפת GPS להחלפת נתוני GPS בין יישומים ושירותי אינטרנט באינטרנט. זהו פורמט XML קל משקל המ包含 נתוני GPS כגון נקודות ציון, מסלולים ונתיבי טיסה לייבוא וקריאה על ידי תוכנות מרובות. GPX הוא פתוח ונתמך על ידי מגוון יישומים והתקני GPS.
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="המרות נתמכות אחרות" subTitle="ניתן גם להמיר OSM לפורמטים קבצים רבים אחרים כולל כמה המופיעים להלן." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-csv" name="OSM TO CSV" description="ערכים מופרדים בפסיקים" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-shp" name="OSM TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="שפת סימון מילות מפתח" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="החלפת GPS" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

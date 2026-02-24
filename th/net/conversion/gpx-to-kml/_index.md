@@ -91,7 +91,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-ส่วนขยาย GPX แทนรูปแบบ GPS Exchange สำหรับการแลกเปลี่ยนข้อมูล GPS ระหว่างแอปพลิเคชันและบริการเว็บบนอินเทอร์เน็ต เป็นรูปแบบ XML ที่มีน้ำหนักเบาซึ่งมีข้อมูล GPS เช่น จุดอ้างอิง เส้นทาง และแทร็กที่จะนำเข้าและอ่านโดยโปรแกรมต่างๆ GPX เปิดและได้รับการสนับสนุนจากแอปพลิเคชันและอุปกรณ์ GPS หลากหลาย
+ส่วนขยาย GPX แทนรูปแบบ GPS Exchange สำหรับการแลกเปลี่ยนข้อมูล GPS ระหว่างแอปพลิเคชันและบริการเว็บบนอินเทอร์เน็ตเป็นรูปแบบ XML ที่มีน้ำหนักเบาซึ่งมีข้อมูล GPS เช่น จุดอ้างอิง เส้นทาง และแทร็กที่จะนำเข้าและอ่านโดยโปรแกรมต่างๆ GPX เปิดและได้รับการสนับสนุนจากแอปพลิเคชันและอุปกรณ์ GPS หลากหลาย
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -117,9 +117,8 @@ KML (Keyhole Markup Language) มีข้อมูลเชิงพื้น�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

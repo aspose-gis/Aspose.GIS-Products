@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,14 +64,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // JSON GIS データを SHX データに変換します。
 VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -118,6 +115,4 @@ JSON (JavaScript Object Notation) は、人間が判読可能なテキストを�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

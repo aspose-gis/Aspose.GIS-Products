@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して KML を Shapefile GIS データに変換する
 weight: 120
-url: /ja/net/conversion/kml-to-shapefile/ 
+url: /ja/net/conversion/kml-to-shapefile/
 description: 当社のオンプレミス API を使用して、.NET Framework、.NET Core、C# で KML を Shapefile に変換します。
 ---
 
@@ -13,22 +13,18 @@ description: 当社のオンプレミス API を使用して、.NET Framework、
 
 {{% blocks/products/pf/agp/content h2="C# を使用して KML を Shapefile に変換する方法" %}}
 
-KML を Shapefile に変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
+KML を Shapefile に変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis)  
+パッケージマネージャーを開き、  
+**Aspose.GIS**  
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,39 +34,32 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C# で KML を Shapefile に変換する手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
-*VectorLayer.Convert* 
+*VectorLayer.Convert*  
 メソッドを使用すると、コードの 1 行で変換できます。以下に示すように 4 つのパラメータを受け取ります。
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース KML ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Kml に設定します。
-3.  宛先 Shapefile データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。Shapefile に設定します。
+1. ソース KML ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Kml に設定します。  
+3. 宛先 Shapefile データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。Shapefile に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムをすべてサポートしています。以下のコードを実行する前に、システムに次の前提条件があることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="KML を Shapefile に保存する - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-shapefile.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -116,9 +105,8 @@ SHP は、ESRI Shapefile の主要なファイルタイプの 1 つで使用さ�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

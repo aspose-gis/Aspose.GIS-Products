@@ -5,7 +5,7 @@ url: /pl/net/conversion/shx-to-json/
 description: Wypróbuj nasze API On-Premise do konwersji danych GIS w .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konwertuj SHX na JSON w C#" h2="Eksportuj SHX do JSON używając API po stronie serwera, bez konieczności oprogramowania takiego jak ArcGIS, ArcMap, QGIS lub Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="Aspose.GIS" subTitlepfName="dla .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="SHX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="dla .NET" >}}
@@ -22,13 +22,9 @@ menedżer pakietów, wyszukaj
 i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Menedżera Pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,45 +32,36 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Kroki konwersji SHX na JSON w C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Konwersja może być wykonana za pomocą jednej linii kodu, używając
 *VectorLayer.Convert* 
 metody. Przyjmuje ona 4 parametry, jak opisano poniżej.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Łańcuch typu ścieżki pliku do źródłowego pliku SHX
-2.  Źródłowy sterownik, aby poinformować API o formacie wejściowym. Ustaw go na Drivers.Shapefile
-3.  Łańcuch typu ścieżki pliku do docelowego pliku danych JSON
-4.  Docelowy sterownik określający format wyjściowy. Ustaw go na Drivers.TopoJson
+1.  Łańcuch typu ścieżki pliku do źródłowego pliku SHX  
+2.  Źródłowy sterownik, aby poinformować API o formacie wejściowym. Ustaw go na Drivers.Shapefile  
+3.  Łańcuch typu ścieżki pliku do docelowego pliku danych JSON  
+4.  Docelowy sterownik określający format wyjściowy. Ustaw go na Drivers.TopoJson  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania systemowe" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Nasze API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że masz następujące wymagania wstępne w swoim systemie.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zapisz SHX jako JSON - C#" offSpacer="" %}}
-
 ```cs
 // Konwertuj dane GIS SHX na dane JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -85,41 +72,27 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json",
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
-
 Aspose.GIS for .NET to API do manipulacji i konwersji danych GIS. W pełni obsługuje odczyt, zapis i konwertowanie znanych formatów danych GIS, takich jak pliki ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats i OpenStreetMap. Jest to samodzielne API oparte na .NET i nie wymaga żadnego oprogramowania GIS takiego jak ArcGIS / ArcMap, QGIS itp. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-Format indeksu kształtu, pozycyjny indeks geometrii cech, aby umożliwić szybkie wyszukiwanie do przodu i do tyłu
+Format indeksu kształtu, pozycyjny indeks geometrii cech, aby umożliwić szybkie wyszukiwanie do przodu i do tyłu  
 Przeczytaj więcej
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON (JavaScript Object Notation) to otwarty standard formatu plików do udostępniania danych, który wykorzystuje czytelny dla człowieka tekst do przechowywania i przesyłania danych. Pliki JSON są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z JavaScript, ale jest formatem danych niezależnym od języka. Generowanie i parsowanie JSON jest obsługiwane przez wiele nowoczesnych języków programowania. application/json to typ medium używany dla JSON.
+JSON (JavaScript Object Notation) to otwarty standard formatu plików do udostępniania danych, który wykorzystuje czytelny dla człowieka tekst do przechowywania i przesyłania danych. Pliki JSON są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z JavaScript, ale jest formatem danych niezależnym od języka. Generowanie i parsowanie JSON jest obsługiwane przez wiele nowoczesnych języków programowania. application/json to typ medium używany dla JSON.  
 Przeczytaj więcej
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz również przekonwertować SHX na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-geojson" name="SHX DO GEOJSON" description="Format oparty na JSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-kml" name="SHX DO KML" description="Język znaczników Keyhole" >}}
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

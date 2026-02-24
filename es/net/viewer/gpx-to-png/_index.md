@@ -362,8 +362,7 @@ description: Convertir desde GPX a PNG a través de una biblioteca diseñada esp
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}

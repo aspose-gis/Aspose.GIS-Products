@@ -1,7 +1,7 @@
 ---
 title: Converter GDB para CSV GIS Data via .NET ou C#
 weight: 120
-url: /pt/net/conversion/gdb-to-csv/ 
+url: /pt/net/conversion/gdb-to-csv/
 description: Experimente nossas APIs On-Premise para converter GDB para CSV no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter GDB para CSV no .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -115,9 +113,7 @@ Arquivos com extensão CSV (Comma Separated Values) representam arquivos de text
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-shp" name="GDB PARA SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-gpx" name="GDB PARA GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

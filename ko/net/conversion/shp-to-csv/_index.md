@@ -1,7 +1,7 @@
 ---
 title: .NET 또는 C#을 사용하여 SHP를 CSV GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/shp-to-csv/ 
+url: /ko/net/conversion/shp-to-csv/
 description: .NET Framework, .NET Core, C#에서 On-Premise API를 사용하여 SHP를 CSV로 변환해 보세요.
 ---
 
@@ -19,9 +19,7 @@ SHP를 CSV로 변환하려면 [Aspose.GIS for .NET](https://products.aspose.com/
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -62,54 +60,35 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
-
-<!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="SHP를 CSV로 변환하는 실시간 데모" sectionDescription="[실시간 데모 웹사이트](https://products.aspose.app/gis/conversion/shp-to-csv)를 방문하여 SHP를 즉시 CSV로 변환해 보세요. 실시간 데모는 다음과 같은 이점을 제공합니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 CSV를 선택하기만 하면 됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="SHP 파일을 업로드하면 즉시 CSV로 변환됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 CSV를 선택하기만 하면 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="SHP 파일을 업로드하면 즉시 CSV로 변환됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefile, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo 형식 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
 Shapefile은 다중 파일 형식(ESRI Shapefile로 알려짐)입니다. 기본 파일에는 SHP 확장자가 있습니다. Shapefile은 인기 있는 벡터 지리 파일 형식입니다. ESRI에서 호환성을 위해 개발 및 유지 관리합니다.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
 CSV(Comma Separated Values) 확장자를 가진 파일은 쉼표로 구분된 값으로 구성된 레코드를 포함하는 일반 텍스트 파일입니다. CSV 파일의 각 줄은 파일에 포함된 레코드 세트에서 새 레코드입니다. 이러한 파일은 데이터를 한 저장 시스템에서 다른 저장 시스템으로 전송할 때 생성됩니다. 모든 응용 프로그램이 쉼표로 구분된 레코드를 인식하기 때문에 데이터베이스로 가져오는 것이 매우 편리합니다.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
-<!-- aboutfile Ends -->
-
 {{< blocks/products/pf/agp/other-supported-section title="지원되는 다른 변환" subTitle="SHP를 다음과 같은 많은 다른 파일 형식으로도 변환할 수 있습니다." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-kml" name="SHP TO KML" description="키워드 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="쉼표로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS 교환" >}}
-
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-kml" name="SHP TO KML" description="키워드 마크업 언어" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="쉼표로 구분된 값" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS 교환" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{</ blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

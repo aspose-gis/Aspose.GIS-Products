@@ -1,7 +1,7 @@
 ---
 title: Конвертація GPX в GeoJSON GIS дані за допомогою .NET або C#
 weight: 120
-url: /uk/net/conversion/gpx-to-geojson/ 
+url: /uk/net/conversion/gpx-to-geojson/
 description: Спробуйте наші On-Premise API для конвертації GPX в GeoJSON на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним і �
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX to GeoJSON Live Demos" sectionDescription="Конвертуйте GPX в GeoJSON прямо зараз, відвідавши наш [Live Demos website](https://products.aspose.app/gis/conversion/gpx-to-geojson). Жива демонстрація має наступні переваги" >}}
@@ -85,20 +82,19 @@ PM> Install-Package Aspose.GIS
 
 Aspose.GIS for .NET — це API для обробки та перетворення географічних даних. Він повністю підтримує читання, запис і перетворення відомих форматів географічних даних, таких як ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats та OpenStreetMap. Це автономний .NET API і не потребує будь-якого GIS програмного забезпечення, такого як ArcGIS / ArcMap, QGIS тощо. 
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-Розширення GPX представляє формат GPS Exchange для обміну даними GPS між додатками та веб-сервісами в Інтернеті. Це легкий XML-формат, який містить дані GPS, тобто маршрутні точки, маршрути та треки, які можна імпортувати та читати кількома програмами. GPX є відкритим і підтримується різними додатками та GPS-пристроями.
+Розширення GPX представляє формат GPS Exchange для обміну даними GPS між додатками та веб-сервісами в Інтернеті. Це легкий XML-формат, який містить дані GPS, тобто маршрутні точки, маршрути та треки, які можна імпортувати та читати кількома програмами. GPX є відкритим і підтримується різними додатками та GPS-пристроїми.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON — це формат на основі JSON, призначений для представлення географічних об’єктів з їхніми не просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. JSON представляє сукупну інформацію про географічні об'єкти, їх просторові межі та властивості.
+GeoJSON — це формат на основі JSON, призначений для представлення географічних об’єктів з їхніми не просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. JSON представляє сукупну інформацію про географічні об’єкти, їх просторові межі та властивості.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +114,7 @@ GeoJSON — це формат на основі JSON, призначений д�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

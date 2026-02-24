@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,7 +68,6 @@ Nuestras API son compatibles con todas las plataformas y sistemas operativos pri
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -117,9 +114,8 @@ KML (Keyhole Markup Language) contiene información geoespacial en notación XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Valores separados por comas" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

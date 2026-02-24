@@ -87,7 +87,7 @@ VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", 
 
     {{% blocks/products/pf/agp/content h2="کتابخانه .NET GIS" %}}
 
- Aspose.GIS for .NET یک API دستکاری و تبدیل داده های GIS است. این به طور کامل از خواندن، نوشتن و تبدیل فرمت‌های معروف داده‌های GIS مانند Shapefileهای ESRI، GeoJSON، TopoJSON، پایگاه داده Geodatabase ESRI، زبان نشانه گذاری جغرافیا، Google Earth، فرمت تبادل GPS، فرمت های MapInfo و OpenStreetMap پشتیبانی می کند. این یک API مستقل مبتنی بر .NET است و به هیچ نرم افزار GIS مانند ArcGIS / ArcMap، QGIS و غیره نیاز ندارد. 
+ Aspose.GIS for .NET یک API دستکاری و تبدیل داده های GIS است. این به طور کامل از خواندن، نوشتن و تبدیل فرمت‌های معروف داده‌های GIS مانند Shapefileهای ESRI، GeoJSON، TopoJSON، پایگاه داده Geodatabase ESRI، زبان نشانه گذاری جغرافیا، Google Earth، فرمت تبادل GPS، فرمت های MapInfo و OpenStreetMap پشتیبانی می‌کند. این یک API مستقل مبتنی بر .NET است و به هیچ نرم افزار GIS مانند ArcGIS / ArcMap، QGIS و غیره نیاز ندارد. 
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -121,6 +121,5 @@ JSON (JavaScript Object Notation) یک فرمت فایل استاندارد با
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

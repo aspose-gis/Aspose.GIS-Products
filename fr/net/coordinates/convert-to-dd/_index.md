@@ -5,7 +5,7 @@ url: /fr/net/coordinates/convert-to-dd
 description: Convertir en Degrés Décimaux (DD) grâce à une bibliothèque conçue spécifiquement pour les développeurs .NET. API de conversion de coordonnées pour DD, DMS, DDM, GeoRef et d'autres formats.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pour convertir les Degrés Décimaux (DD) pour SIG" h2="Développer la conversion DD avec une API conçue spécifiquement pour les développeurs .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pour .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pour .NET" >}}

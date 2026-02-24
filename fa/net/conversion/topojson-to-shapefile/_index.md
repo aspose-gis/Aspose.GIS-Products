@@ -5,7 +5,6 @@ url: /fa/net/conversion/topojson-to-shapefile/
 description: API های On-Premise ما را امتحان کنید تا TopoJSON را به Shapefile در .NET Framework، .NET Core، C# تبدیل کنید.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="تبدیل TopoJSON به Shapefile در C#" h2="خروجی گرفتن TopoJSON به Shapefile با استفاده از API های سمت سرور، بدون نیاز به نرم افزارهایی مانند ArcGIS، ArcMap، QGIS یا Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="Shapefile" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TopoJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -25,9 +24,7 @@ description: API های On-Premise ما را امتحان کنید تا TopoJSON
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +68,7 @@ API های ما از تمام پلتفرم‌ها و سیستم‌عامل‌ه�
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ API های ما از تمام پلتفرم‌ها و سیستم‌عامل‌ه�
     {{% blocks/products/pf/agp/content h2="کتابخانه .NET GIS" %}}
 
  Aspose.GIS for .NET یک API دستکاری و تبدیل داده‌های GIS است. این از خواندن، نوشتن و تبدیل فرمت‌های معروف داده‌های GIS مانند Shapefile های ESRI، GeoJSON، TopoJSON، پایگاه داده Geodatabase ESRI، زبان نشانه گذاری جغرافیا، Google Earth، فرمت تبادل GPS، فرمت‌های MapInfo و OpenStreetMap به طور کامل پشتیبانی می‌کند. این یک API مستقل مبتنی بر .NET است و نیازی به نرم‌افزارهای GIS مانند ArcGIS / ArcMap، QGIS و غیره ندارد.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -114,9 +110,4 @@ SHP پسوند فایل یکی از انواع اصلی فایل مورد است
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}

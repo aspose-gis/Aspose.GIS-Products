@@ -1,7 +1,7 @@
 ---
 title: تبدیل GPX به داده‌های GIS TopoJSON از طریق .NET یا C#
 weight: 120
-url: /fa/net/conversion/gpx-to-topojson/ 
+url: /fa/net/conversion/gpx-to-topojson/
 description: API های On-Premise ما را امتحان کنید تا GPX را به TopoJSON در .NET Framework، .NET Core، C# تبدیل کنید.
 ---
 
@@ -120,6 +120,6 @@ TopoJSON یک توسعه GeoJSON است که توپولوژی را رمزگذا�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

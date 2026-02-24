@@ -1,7 +1,7 @@
 ---
 title: Converti SHP in GPX Dati GIS tramite .NET o C#
 weight: 120
-url: /it/net/conversion/shp-to-gpx/ 
+url: /it/net/conversion/shp-to-gpx/
 description: Prova le nostre API On-Premise per convertire da SHP a GPX su .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Package Manager Cons
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -85,20 +82,19 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 Aspose.GIS for .NET è una API per la manipolazione e la conversione di dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come ESRI Shapefile, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. È una API autonoma basata su .NET e non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc.
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
-Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha l'estensione SHP. Shapefile è un popolare formato di file geografico vettoriale. Sviluppato e mantenuto da ESRI per la compatibilità tra i prodotti Esri e altri programmi.
+Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha l'estensione SHP. Shapefile è un formato popolare per dati geospaziali vettoriali, sviluppato e mantenuto da ESRI per garantire la compatibilità tra i prodotti Esri e altri software.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-L'estensione GPX rappresenta il formato GPS Exchange per l'interscambio di dati GPS tra applicazioni e servizi web su Internet. È un formato XML leggero che contiene dati GPS, ovvero punti di riferimento, rotte e tracce da importare e leggere da più programmi. GPX è aperto ed è supportato da una varietà di applicazioni e dispositivi GPS.
+L'estensione GPX rappresenta il formato GPS Exchange per l'interscambio di dati GPS tra applicazioni e servizi web su Internet. È un formato XML leggero che contiene punti di riferimento, rotte e tracce da importare e leggere da più programmi. GPX è aperto ed è supportato da una varietà di applicazioni e dispositivi GPS.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,9 +110,7 @@ L'estensione GPX rappresenta il formato GPS Exchange per l'interscambio di dati 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Comma Separated Values">}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS Exchange">}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

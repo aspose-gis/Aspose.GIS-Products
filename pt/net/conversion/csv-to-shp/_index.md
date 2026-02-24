@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter CSV para SHP no .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="CSV para SHP Demonstrações ao Vivo" sectionDescription="Converter CSV para SHP agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/csv-to-shp). A demonstração ao vivo tem os seguintes benefícios" >}}
@@ -116,8 +113,8 @@ Arquivos com extensão CSV (Comma Separated Values) representam arquivos de text
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV PARA SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV PARA GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

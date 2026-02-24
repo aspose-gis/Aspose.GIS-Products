@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -117,8 +115,8 @@ Shapefile je více souborový formát (známý jako ESRI Shapefile). Hlavní má
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML NA CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML NA GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

@@ -1,3 +1,4 @@
+
 ---
 title: تحويل CSV إلى بيانات GIS KML عبر .NET أو C#
 weight: 120
@@ -43,12 +44,12 @@ PM> Install-Package Aspose.GIS
  *VectorLayer.Convert* 
  الطريقة. تأخذ 4 معلمات كما هو مفصل أدناه.
 
-{{% /blocks/products/pf/agp/text %}}
-
 1.  مسار ملف سلسلة إلى ملف CSV المصدر
 2.  السائق المصدر لإعلام واجهة برمجة التطبيقات (API) بتنسيق الإدخال. اضبطه على Drivers.Csv
 3.  مسار ملف سلسلة إلى ملف بيانات KML الوجهة
 4.  سائق الوجهة لتحديد تنسيق الإخراج. اضبطه على Drivers.Kml
+
+{{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -118,6 +119,6 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

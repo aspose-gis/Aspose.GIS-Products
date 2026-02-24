@@ -114,9 +114,7 @@ A extensão GPX representa o formato de troca GPS para intercâmbio de dados GPS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP PARA CSV" description="Valores Separados por Vírgula" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ Die GPX-Erweiterung stellt das GPS Exchange Format für den Austausch von GPS-Da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML zu CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML zu GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

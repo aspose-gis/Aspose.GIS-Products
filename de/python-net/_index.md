@@ -122,7 +122,7 @@ description: Erstellen, lesen, konvertieren und verarbeiten Sie GIS-Daten einsch
     <li>
      SRID-Lookup
     </li>
-   </ul>
+    </ul>
   </div>
   <!--/right-->
  </div>
@@ -790,6 +790,7 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 <!--Feature-section Ende-->
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}
@@ -814,4 +815,3 @@ print(point.as_text(WktVariant.EXTENDED_POST_GIS))  # SRID=4326;POINTM (23.5732,
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/python-net" >}}
----

@@ -114,13 +114,13 @@ GeoJSON هو تنسيق قائم على JSON مصمم لتمثيل الميزا�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل SHX إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل SHX إلى العديد من تنسيقات الملفات الأخرى بما في شامل بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-json" name="SHX TO JSON" description="تنسيق ترميز كائن جافاسكربت" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-kml" name="SHX TO KML" description="لغة ترميز Keyhole" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

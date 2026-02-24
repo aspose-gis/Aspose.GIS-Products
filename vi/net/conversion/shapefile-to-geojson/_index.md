@@ -22,13 +22,9 @@ trình quản lý gói, tìm kiếm
 và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -75,14 +71,15 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ cần Chọn GeoJSON làm định dạng đầu ra và." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp Shapefile của bạn, nó sẽ được chuyển đổi ngay lập tức thành GeoJSON." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào dựa trên ArcGIS / ArcMap, QGIS, v.v.
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
@@ -96,6 +93,7 @@ GeoJSON là định dạng dựa trên JSON được thiết kế để biểu d
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

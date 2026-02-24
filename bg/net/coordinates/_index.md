@@ -222,7 +222,7 @@ description: Разработете координатен конвертор ч
     <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      Поддръжка на Военна Мрежова Референтна Система (MGRS) Формат
+      Поддръжка на Военна Мрежова Референтна Система (MGRs) Формат
     </p>
    </div>
    <div class="col-lg-4">
@@ -264,7 +264,6 @@ description: Разработете координатен конвертор ч
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучителни Ресурси" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,3 +287,5 @@ description: Разработете координатен конвертор ч
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

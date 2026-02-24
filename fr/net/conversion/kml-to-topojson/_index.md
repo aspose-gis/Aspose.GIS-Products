@@ -1,7 +1,7 @@
 ---
 title: Convertir KML en données SIG TopoJSON via .NET ou C#
 weight: 120
-url: /fr/net/conversion/kml-to-topojson/ 
+url: /fr/net/conversion/kml-to-topojson/
 description: Essayez nos API sur site pour convertir KML en TopoJSON sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Essayez nos API sur site pour convertir KML en TopoJSON sur .NET Fr
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ TopoJSON est une extension de GeoJSON qui encode la topologie. Format basé sur 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

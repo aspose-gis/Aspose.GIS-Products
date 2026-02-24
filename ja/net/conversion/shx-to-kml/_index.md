@@ -13,20 +13,18 @@ description: .NET Framework、.NET CoreでGISデータの変換を行うため�
 
 {{% blocks/products/pf/agp/content h2="C#を使用してSHXをKMLに変換する方法" %}}
 
-SHXからKMLへの変換には、
+SHXからKMLへの変換には，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
 APIを使用します。これは、C#プラットフォーム向けの機能豊富で強力かつ使いやすいGIS APIです。
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Consoleから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -44,9 +42,9 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソースSHXファイルへの文字列型のファイルパス
-2.  入力形式をAPIに知らせるためのソースドライバー。Shapefileに設定します。
-3.  宛先KMLデータファイルへの文字列型のファイルパス
+1.  ソースSHXファイルへの文字列型のファイルパス  
+2.  入力形式をAPIに知らせるためのソースドライバー。Shapefileに設定します。  
+3.  宛先KMLデータファイルへの文字列型のファイルパス  
 4.  出力形式を指定するための宛先ドライバー。Kmlに設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,7 +64,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // SHX GISデータをKMLデータに変換します。
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,6 +115,5 @@ Aspose.GIS for .NETは、GISデータの操作および変換APIです。ESRI Sh
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

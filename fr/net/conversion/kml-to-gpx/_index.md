@@ -1,7 +1,7 @@
 ---
-title: Convertir KML en GPX : Données SIG via .NET ou C#
+title: "Convertir KML en GPX : Données SIG via .NET ou C#"
 weight: 120
-url: /fr/net/conversion/kml-to-gpx/ 
+url: /fr/net/conversion/kml-to-gpx/
 description: Essayez nos API sur site pour convertir de KML à GPX sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Essayez nos API sur site pour convertir de KML à GPX sur .NET Fram
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -117,7 +115,6 @@ L'extension GPX représente le format d'échange GPS pour l'interchange de donn�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

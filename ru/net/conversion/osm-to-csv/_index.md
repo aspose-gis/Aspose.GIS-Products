@@ -1,7 +1,7 @@
 ---
 title: Преобразование OSM в CSV GIS данные через .NET или C#
 weight: 120
-url: /ru/net/conversion/osm-to-csv/ 
+url: /ru/net/conversion/osm-to-csv/
 description: Попробуйте наши локальные API для преобразования OSM в CSV на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +67,8 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -106,16 +104,13 @@ Aspose.GIS for .NET — это API для манипулирования и пр
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете преобразовать OSM во многие другие форматы файлов, включая несколько перечисленных ниже." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразения" subTitle="Вы также можете преобразовать OSM во многие другие форматы файлов, включая несколько перечисленных ниже." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-csv" name="OSM TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-shp" name="OSM TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

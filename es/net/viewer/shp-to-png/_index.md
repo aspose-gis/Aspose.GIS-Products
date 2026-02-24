@@ -341,6 +341,7 @@ description: Convertir desde SHP a PNG a través de una biblioteca diseñada esp
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
@@ -365,4 +366,3 @@ description: Convertir desde SHP a PNG a través de una biblioteca diseñada esp
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

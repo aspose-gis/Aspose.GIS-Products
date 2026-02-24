@@ -19,9 +19,7 @@ GeoJSON을 GPX로 변환하려면 [Aspose.GIS for .NET](https://products.aspose.
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -78,8 +76,6 @@ PM> Install-Package Aspose.GIS
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -90,7 +86,7 @@ GeoJSON은 지리적 특징과 비 공간 속성을 표현하도록 설계된 JS
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GPG" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
 GPX 확장 기능은 인터넷의 애플리케이션 및 웹 서비스 간에 GPS 데이터를 교환하기 위한 GPS Exchange 형식입니다. 여러 프로그램에서 가져오고 읽을 수 있는 GPS 데이터(예: 웨이포인트, 경로 및 트랙)를 포함하는 경량 XML 형식입니다. GPX는 개방되어 있으며 다양한 애플리케이션과 GPS 장치에서 지원됩니다.
 
@@ -109,9 +105,7 @@ GPX 확장 기능은 인터넷의 애플리케이션 및 웹 서비스 간에 GP
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

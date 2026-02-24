@@ -18,9 +18,7 @@ CSV'yi GDB'ye dönüştürmek için, C# platformu için özellik zengini, güçl
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -83,7 +81,7 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-CSV (Virgülle Ayrılmış Değerler) uzantısına sahip dosyalar, virgülle ayrılmış değerlere sahip veri kayıtlarını içeren düz metin dosyalarını temsil eder. CSV dosyasındaki her satır, dosyada bulunan kayıtlardan yeni bir kayıttır. Bu tür dosyalar, verilerin bir depolama sisteminden diğerine aktarılması amaçlandığında oluşturulur. Virgülle ayrılmış kayıtlar tüm uygulamalar tarafından tanındığından, bu tür veri dosyalarının veritabanına aktarılması çok kolaydır.
+CSV (Virgülle Ayrılmış Değerler) uzantısına sahip dosyalar, virgülle ayrılmış değerlere sahip veri kayıtlarını içeren düz metin doslarını temsil eder. CSV dosyasındaki her satır, dosyada bulunan kayıtlardan yeni bir kayıttır. Bu tür dosyalar, verilerin bir depolama sisteminden diğerine aktarılması amaçlandığında oluşturulur. Virgülle ayrılmış kayıtlar tüm uygulamalar tarafından tanındığından, bu tür veri dosyalarının veritabanına aktarılması çok kolaydır.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -107,9 +105,7 @@ GDB, Esri ArcGIS platformu tarafından kullanılan formattır. .gdbtable, .gdbta
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

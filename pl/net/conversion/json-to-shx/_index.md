@@ -22,13 +22,9 @@ description: Wypróbuj nasze API On-Premise do konwersji danych GIS w .NET Frame
  i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Menedżera Pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +34,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Kroki konwersji JSON do SHX w C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Konwersja może być wykonana za pomocą jednej linii kodu, używając
  *VectorLayer.Convert* 
  metody. Przyjmuje ona 4 parametry, jak opisano poniżej.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Ścieżka do pliku źródłowego JSON jako ciąg znaków
@@ -55,26 +49,20 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania systemowe" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Nasze API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że masz następujące wymagania wstępne w swoim systemie.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zapisz JSON jako SHX - C#" offSpacer="" %}}
-
 ```cs
 // Konwertuj dane GIS JSON na dane SHX
 VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -94,17 +82,13 @@ VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
 JSON (JavaScript Object Notation) to otwarty standardowy format pliku do udostępniania danych, który wykorzystuje czytelny dla człowieka tekst do przechowywania i przesyłania danych. Pliki JSON są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z JavaScriptu, ale jest formatem danych niezależnym od języka. Generowanie i parsowanie JSON jest obsługiwane przez wiele nowoczesnych języków programowania. application/json to typ medium używany dla JSON.
 Przeczytaj więcej
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
 Format indeksu kształtu, pozycyjny indeks geometrii cech umożliwiający szybkie wyszukiwanie do przodu i do tyłu
 Przeczytaj więcej
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -120,6 +104,6 @@ Przeczytaj więcej
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

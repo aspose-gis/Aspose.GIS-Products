@@ -1,11 +1,11 @@
 ---
 title: Convertir GML a KML Datos GIS vía .NET o C#
 weight: 120
-url: /es/net/conversion/gml-to-kml/ 
+url: /es/net/conversion/gml-to-kml/
 description: Pruebe nuestras APIs On-Premise para convertir GML a KML en .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{% blocks/products/pf/main-wrap-class isAutogenPage="true" %}}
 {{< blocks/products/pf/upper-banner h1="Convertir GML a KML en C#" h2="Exportar GML a KML usando APIs del lado del servidor, sin necesidad de softwares como ArcGIS, ArcMap, QGIS o Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="para .NET" >}}
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ método. Toma 4 parámetros como se detalla a continuación.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Una ruta de archivo de tipo string al archivo GML fuente
-2.  Controlador fuente para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.Gml
-3.  La ruta de archivo de tipo string al archivo de datos KML de destino
-4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.Kml
+1.  Una ruta de archivo de tipo string al archivo GML fuente  
+2.  Controlador fuente para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.Gml  
+3.  La ruta de archivo de tipo string al archivo de datos KML de destino  
+4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.Kml  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,39 +67,35 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GML a KML Live Demos" sectionDescription="Convierta GML a KML ahora mismo visitando nuestro [sitio web de demostraciones en vivo](https://products.aspose.app/gis/conversion/gml-to-kml). La demostración en vivo tiene los siguientes beneficios" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No necesita descargar la API de Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione KML como formato de salida y." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo GML, se convertirá instantáneamente a KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No necesita descargar la API de Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione KML como formato de salida y." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo GML, se convertirá instantáneamente a KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
 
     {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
 
-Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software basado en GIS como ArcGIS / ArcMap, QGIS, etc. 
-
+    Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software basado en GIS como ArcGIS / ArcMap, QGIS, etc. 
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 
-Geographic Markup Language (conocido como GML) es un formato basado en XML utilizado en GIS. GML es un formato de intercambio abierto para transacciones geográficas en Internet. Este formato está orientado a datos y estructura.
+        Geographic Markup Language (conocido como GML) es un formato basado en XML utilizado en GIS. GML es un formato de intercambio abierto para transacciones geográficas en Internet. Este formato está orientado a datos y estructura.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) contiene información geoespacial en notación XML. KML se puede abrir en aplicaciones de Sistemas de Información Geográfica (GIS) siempre que lo admitan. Muchas aplicaciones han comenzado a proporcionar soporte para el formato KML después de que se adoptó como estándar internacional.
+        KML (Keyhole Markup Language) contiene información geoespacial en notación XML. KML se puede abrir en aplicaciones de Sistemas de Información Geográfica (GIS) siempre que lo admitan. Muchas aplicaciones han comenzado a proporcionar soporte para el formato KML después de que se adoptó como estándar internacional.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -117,9 +111,6 @@ KML (Keyhole Markup Language) contiene información geoespacial en notación XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-geojson" name="GML TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gml-to-gpx" name="GML TO GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

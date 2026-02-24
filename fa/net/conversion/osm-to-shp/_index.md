@@ -20,14 +20,12 @@ API استفاده خواهیم کرد که یک API GIS قدرتمند، غنی
 را باز کنید
 package manager، جستجو کنید
 **Aspose.GIS** 
-و نصب کنید. شما همچنین می توانید از دستور زیر از Package Manager Console استفاده کنید.
+و نصب کنید. شما همچنین می‌توانید از دستور زیر از Package Manager Console استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -46,9 +44,9 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  یک مسیر فایل رشته ای به فایل منبع OSM
+1.  یک مسیر فایل رشته‌ای به فایل منبع OSM
 2.  درایور منبع برای اطلاع API از فرمت ورودی. آن را روی Drivers.OsmXml تنظیم کنید
-3.  مسیر فایل رشته ای به فایل داده مقصد SHP
+3.  مسیر فایل رشته‌ای به فایل داده مقصد SHP
 4.  درایور مقصد برای تعیین فرمت خروجی. آن را روی Drivers.Shapefile تنظیم کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -57,7 +55,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-API های ما از تمام پلتفرم ها و سیستم عامل های اصلی پشتیبانی می کنند. قبل از اجرای کد زیر، لطفاً اطمینان حاصل کنید که پیش نیازهای زیر را در سیستم خود دارید.
+API های ما از تمام پلتفرم‌ها و سیستم عامل‌های اصلی پشتیبانی می‌کنند. قبل از اجرای کد زیر، لطفاً اطمینان حاصل کنید که پیش‌نیازهای زیر را در سیستم خود دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,7 +81,7 @@ API های ما از تمام پلتفرم ها و سیستم عامل های ا
 
     {{% blocks/products/pf/agp/content h2="کتابخانه .NET GIS" %}}
 
-Aspose.GIS for .NET یک API دستکاری و تبدیل داده های GIS است. این به طور کامل از خواندن، نوشتن و تبدیل فرمت های جغرافیایی معروف مانند Shapefileهای ESRI، GeoJSON، TopoJSON، پایگاه داده ESRI، زبان نشانه گذاری جغرافیا، Google Earth، فرمت تبادل GPS، فرمت های MapInfo و OpenStreetMap پشتیبانی می کند. این یک API مستقل مبتنی بر .NET است و به هیچ نرم افزار GIS مانند ArcGIS / ArcMap، QGIS و غیره نیاز ندارد. 
+Aspose.GIS for .NET یک API دستکاری و تبدیل داده‌های GIS است. این به طور کامل از خواندن، نوشتن و تبدیل فرمت‌های جغرافیایی معروف مانند Shapefileهای ESRI، GeoJSON، TopoJSON، پایگاه داده ESRI، زبان نشانه‌گذاری جغرافیا، Google Earth، فرمت تبادل GPS، فرمت‌های MapInfo و OpenStreetMap پشتیبانی می‌کند. این یک API مستقل مبتنی بر .NET است و به هیچ نرم‌افزار GIS مانند ArcGIS / ArcMap، QGIS و غیره نیاز ندارد. 
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -92,13 +90,13 @@ Aspose.GIS for .NET یک API دستکاری و تبدیل داده های GIS ا
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="" >}}
 
-فرمت OSM خاص OpenStreetMap است. پروژه OpenStreetMap یک پایگاه داده رایگان از خیابان های جهان را حفظ می کند.
+فرمت OSM خاص OpenStreetMap است. پروژه OpenStreetMap یک پایگاه داده رایگان از خیابان‌های جهان را حفظ می‌کند.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
-Shapefile یک فرمت چندگانه (که به عنوان ESRI Shapefile شناخته می شود) است. اصلی آن دارای پسوند SHP است. Shapefile یک فرمت وکتور جغرافیایی محبوب است. توسط ESRI توسعه یافته و نگهداری شده است تا سازگاری بین محصولات Esri و سایر برنامه ها را تضمین کند.
+Shapefile یک فرمت چندگانه (که به عنوان ESRI Shapefile شناخته می‌شود) است. اصلی آن دارای پسوند SHP است. Shapefile یک فرمت وکتور جغرافیایی محبوب است. توسط ESRI توسعه یافته و نگهداری شده است تا سازگاری بین محصولات Esri و سایر برنامه‌ها را تضمین کند.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -108,16 +106,14 @@ Shapefile یک فرمت چندگانه (که به عنوان ESRI Shapefile شن
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تبدیل های پشتیبانی شده دیگر" subTitle="شما همچنین می توانید OSM را به فرمت های فایل دیگری از جمله موارد ذکر شده در زیر تبدیل کنید." >}}
+{{< blocks/products/pf/agp/other-supported-section title="تبدیل‌های پشتیبانی شده دیگر" subTitle="شما همچنین می‌توانید OSM را به فرمت‌های فایل دیگری از جمله موارد ذکر شده در زیر تبدیل کنید." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-csv" name="OSM TO CSV" description="مقادیر جداگانه با کاما" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-shp" name="OSM TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="زبان نشانه گذاری کلیدواژه" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="زبان نشانه‌گذاری کلیدواژه" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="تبادل GPS" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

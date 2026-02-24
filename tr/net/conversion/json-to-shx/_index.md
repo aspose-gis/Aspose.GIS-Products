@@ -18,9 +18,7 @@ JSON'ı SHX'e dönüştürmek için, C# platformu için özellik zengini, güçl
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -32,9 +30,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C#'ta JSON'ı SHX'e Dönüştürme Adımları" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 *VectorLayer.Convert* metoduyla dönüşüm sadece bir kod satırıyla yapılabilir. Aşağıda ayrıntılı olarak belirtilen 4 parametre alır.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Kaynak JSON dosyasına dosya yolu dize türünde
@@ -47,9 +43,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Sistem Gereksinimleri" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşağıdaki kodu yürütmeden önce, sisteminizde aşağıdaki önkoşulların olduğundan emin olun.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -59,7 +53,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 ```cs
 // JSON GIS verisini SHX verisine dönüştürün
 VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -112,6 +105,5 @@ Daha Fazlasını Oku
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

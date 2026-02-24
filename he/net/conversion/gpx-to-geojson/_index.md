@@ -5,7 +5,7 @@ url: /he/net/conversion/gpx-to-geojson/
 description: נסה את ה-API שלנו באתר כדי להמיר GPX ל-GeoJSON ב-.NET Framework, ‎.NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="המרת GPX ל-GeoJSON ב-C#" h2="ייצוא GPX ל-GeoJSON באמצעות ממשקי API בצד השרת, ללא צורך בתוכנות כמו ArcGIS, ArcMap, QGIS או Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GeoJSON" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר כדי להמיר GPX ל-GeoJS
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}} 
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +116,6 @@ GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות ג�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -19,7 +19,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
  [NuGet](https://www.nuget.org/packages/aspose.gis)
  package manager, ค้นหา
  **Aspose.GIS**
- และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นกัน
+ และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นเดียวกัน
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -119,4 +119,5 @@ KML (Keyhole Markup Language) มี geospatial information ในรูปแ�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

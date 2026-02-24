@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,44 +64,42 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Convert MIF GIS data to SHX data
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="MIF to SHX Live Demos" sectionDescription="Convert MIF to SHX right now by visiting our [Live Demos website](https://products.aspose.app/gis/conversion/mif-to-shx). The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として SHX を選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" MIF ファイルをアップロードすると、すぐに SHX に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として SHX を選択するだけです。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" MIF ファイルをアップロードすると、すぐに SHX に変換されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap などの有名な GIS データ形式の読み取り、書き込み、変換を完全にサポートしています。スタンドアロンの .NET ベースの API であり、ArcGIS / ArcMap、QGIS などの GIS ベースのソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
 MIF
 詳細はこちら
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
 
 Shape index format, a positional index of the feature geometry to allow seeking forwards and backwards quickly
 詳細はこちら
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -116,6 +112,5 @@ Shape index format, a positional index of the feature geometry to allow seeking 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

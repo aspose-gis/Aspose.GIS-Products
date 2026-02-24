@@ -5,7 +5,7 @@ url: /id/net/conversion/kml-to-topojson/
 description: Coba API On-Premise kami untuk mengonversi KML ke TopoJSON pada .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konversi KML ke TopoJSON di C#" h2="Ekspor KML ke TopoJSON menggunakan API sisi server, tanpa memerlukan perangkat lunak seperti ArcGIS, ArcMap, QGIS atau Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TopoJSON" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="KML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk mengonversi KML ke TopoJSON pada .NE
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Jenis string jalur file ke file KML sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Kml
-1.  Jenis string jalur file ke file data TopoJSON tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.TopoJson
+1.  Jenis string jalur file ke file KML sumber  
+1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Kml  
+1.  Jenis string jalur file ke file data TopoJSON tujuan  
+1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.TopoJson  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,8 +67,8 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -83,7 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2="Pustaka GIS .NET" %}}
 
  Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -117,8 +114,6 @@ TopoJSON adalah ekstensi GeoJSON yang menyandikan topologi. Format berbasis JSON
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML KE CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML KE GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}

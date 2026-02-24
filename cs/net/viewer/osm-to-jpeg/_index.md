@@ -363,7 +363,6 @@ description: Převeďte data z OSM do JPEG pomocí knihovny navržené speciáln
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/gis/net/" >}}
@@ -386,5 +385,6 @@ description: Převeďte data z OSM do JPEG pomocí knihovny navržené speciáln
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

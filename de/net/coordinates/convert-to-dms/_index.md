@@ -5,7 +5,7 @@ url: /de/net/coordinates/convert-to-dms
 description: Konvertieren Sie in Grad Minuten Sekunden (DMS) mit einer Bibliothek, die speziell für .NET-Entwickler entwickelt wurde. Koordinatenkonverter-APIs für DD, DMS, DDM, GeoRef und andere Formate.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs zum Konvertieren von Grad Minuten Sekunden (DMS) für GIS" h2="Entwickeln Sie DMS-Konvertierung mit einer API, die speziell für .NET / C#-Entwickler entwickelt wurde." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="für .NET" >}}
@@ -244,7 +244,7 @@ description: Konvertieren Sie in Grad Minuten Sekunden (DMS) mit einer Bibliothe
 
       <div class="row">
         <div class="col-md-4">{{< figure src="convert-to-dms.png" link="https://products.aspose.app/gis/coordinates/convert-to-dms" title="Konvertieren in DMS" alt="Konvertieren in DMS" class="img-fluid" width="100%" >}} </div>
-        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="GeoRef parsen" alt="GeoRef parsen" class="img-fluid" width="100%">}} </div>
+        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="GeoRef parsen" alt="GeoRef parsen" class="img-fluid" width="100%" >}} </div>
       </div>
    </div>
 

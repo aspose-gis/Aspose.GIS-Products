@@ -1,7 +1,7 @@
 ---
 title: Преобразуване на KML в SHP GIS данни чрез .NET или C#
 weight: 120
-url: /bg/net/conversion/kml-to-shp/ 
+url: /bg/net/conversion/kml-to-shp/
 description: Опитайте нашите On-Premise API за преобразуване на KML в SHP на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Опитайте нашите On-Premise API за преобраз�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,15 +68,15 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML към SHP на живо демонстрации" sectionDescription="Преобразувайте KML в SHP точно сега, като посетите нашия [уебсайт за живи демонстрации](https://products.aspose.app/gis/conversion/kml-to-shp). Живата демонстрация има следните предимства" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Няма нужда да изтегляте Aspose GIS API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Просто изберете SHP като изходен формат и." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете своя KML файл, той ще бъде незабавно преобразуван в SHP." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Качете свой KML файл, той ще бъде незабавно преобразуван в SHP." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ще получите връзката за изтегляне." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
@@ -118,9 +116,6 @@ KML (Keyhole Markup Language) съдържа геопространствена 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

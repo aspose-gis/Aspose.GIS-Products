@@ -98,7 +98,7 @@ GeoJSON е формат, базиран на JSON, предназначен за
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-Файловете с разширение CSV (Comma Separated Values) представляват обикновени текстови файлове, които съдържат записи на данни със стойности, разделени със запетаи. Всеки ред в CSV файл е нов запис от набора записи, съдържащи се във файла. Такива файлове се генерират при прехвърляне на данни от една система за съхранение в друга. Тъй като всички приложения могат да разпознават записи, разделени със запетаи, импортирането на такива файлове с данни в база данни става много удобно.
+Файловете с разширение CSV (Comma Separated Values) представляват обикновени текстови файлове, които съдържат записи на данни със стойности, разделени със запетаи. Всеки ред в CSV файл е нов запис от набора записи, съдържащи се във файла. Такави файлове се генерират при прехвърляне на данни от една система за съхранение в друга. Тъй като всички приложения могат да разпознават записи, разделени със запетаи, импортирането на такива файлове с данни в база данни става много удобно.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,9 +115,8 @@ GeoJSON е формат, базиран на JSON, предназначен за
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

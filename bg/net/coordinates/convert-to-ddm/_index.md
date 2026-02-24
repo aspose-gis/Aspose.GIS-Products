@@ -215,21 +215,21 @@ description: Преобразувайте в Десетични Градуси �
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      Поддръжка на Световна Географска Референтна Система (GEOREF) Формат
+      Поддрърка на Световна Географска Референтна Система (GEOREF) Формат
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      Поддръжка на Военна Референтна Система на Мрежата (MGRS) Формат
+      Поддрърка на Военна Референтна Система на Мрежата (MGRS) Формат
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-circle-o-notch ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддръжка на Национална Решетка на Съединените Щати (USNG) Формат
+     Поддрърка на Национална Решетка на Съединените Щати (USNG) Формат
     </p>
    </div>
 
@@ -263,7 +263,7 @@ description: Преобразувайте в Десетични Градуси �
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучителни Ресурси" tabId="resources" >}}

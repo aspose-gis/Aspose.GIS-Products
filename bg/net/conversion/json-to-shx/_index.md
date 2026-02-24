@@ -74,8 +74,7 @@ VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -121,6 +120,6 @@ JSON (JavaScript Object Notation) е отворен стандартен фай�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

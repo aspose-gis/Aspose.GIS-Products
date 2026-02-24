@@ -19,14 +19,12 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
  [NuGet](https://www.nuget.org/packages/aspose.gis)
  package manager, ค้นหา
  **Aspose.GIS**
- และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นกัน
+ และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console ได้เช่นเดียวกัน
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="CSV to GeoJSON Live Demos" sectionDescription="แปลง CSV เป็น GeoJSON ได้ทันทีโดยไปที่ [เว็บไซต์สาธิตสด](https://products.aspose.app/gis/conversion/csv-to-geojson) การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
@@ -97,7 +94,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจกต์ JSON ต่างๆ และวิธีการเข้าร่วมกัน JSON แสดงถึงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
+GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจกต์ JSON ต่างๆ และวิธีการเข้าร่วมกัน JSON แสดงถึงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่และคุณสมบัติ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,5 +115,6 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---

@@ -1,4 +1,3 @@
-
 ---
 title: .NET 用の座標変換 API - Aspose
 weight: 40
@@ -288,3 +287,5 @@ description: .NET 開発者向けに設計されたライブラリを使用し�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -363,28 +363,6 @@ description: Vyvíjejte prohlížeč GPX pomocí knihovny navržené speciálně
 
 {{< /blocks/products/pf/main-container >}}
 
-
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/gis/net/" >}}
-{{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-gis/Aspose.GIS-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Referenční API" href="https://apireference.aspose.com/gis/net" >}}
-{{< blocks/products/pf/slr-element name="Videa s návody" href="https://www.youtube.com/user/asposevideo" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/gis" >}}
-{{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/gis/" >}}
-{{< blocks/products/pf/slr-element name="Záznamy o vydání" href="https://docs.aspose.com/gis/net/release-notes/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.GIS pro .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěchů" href="https://company.aspose.com/customers/success-stories/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

@@ -5,7 +5,7 @@ url: /nl/net/conversion/kml-to-csv/
 description: Probeer onze On-Premise API's om KML naar CSV te converteren op .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="KML naar CSV converteren in C#" h2="Exporteer KML naar CSV met behulp van server side API's, zonder software zoals ArcGIS, ArcMap, QGIS of Google Earth nodig te hebben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.GIS" subTitlepfName="voor .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="KML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="voor .NET" >}}
@@ -24,9 +24,7 @@ description: Probeer onze On-Premise API's om KML naar CSV te converteren op .NE
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de code hieronder uitvoert, moet u ervoor zorgen dat u de volgende vereisten op uw systeem heeft.
+ Onze API's worden ondersteund op alle belangrijkste platforms en besturingssystemen. Voordat u de code hieronder uitvoert, moet u ervoor zorgen dat u de volgende vereisten op uw systeem heeft.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -71,7 +69,7 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +116,6 @@ Bestanden met de extensie CSV (Comma Separated Values) vertegenwoordigen platte 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML NAAR CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML NAAR GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -1,11 +1,11 @@
 ---
 title: Конвертація KML в GeoJSON GIS дані за допомогою .NET або C#
 weight: 120
-url: /uk/net/conversion/kml-to-geojson/ 
+url: /uk/net/conversion/kml-to-geojson/
 description: Спробуйте наші On-Premise API для конвертації KML в GeoJSON на .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Конвертувати KML в GeoJSON у C#" h2="Експортуйте KML в GeoJSON, використовуючи серверні API, без необхідності програмного забезпечення, такого як ArcGIS, ArcMap, QGIS або Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GeoJSON" pfName="Aspose.GIS" subTitlepfName="для .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="KML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="для .NET" >}}
@@ -22,13 +22,9 @@ API, який є багатофункціональним, потужним і �
 і встановіть його. Ви також можете використовувати наступну команду з консолі диспетчера пакетів.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,70 +34,55 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Етапи конвертації KML в GeoJSON у C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Конвертацію можна виконати лише однією лінією коду, використовуючи
 *VectorLayer.Convert* 
 метод. Він приймає 4 параметри, як детально описано нижче.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Рядок типу файлового шляху до вихідного KML-файлу
-2.  Вихідний драйвер для повідомлення API про формат вводу. Встановіть його на Drivers.Kml
-3.  Рядок типу файлового шляху до цільового GeoJSON-файлу даних
-4.  Цільовий драйвер для визначення формату виведення. Встановіть його на Drivers.GeoJson
+1.  Рядок типу файлового шляху до вихідного KML-файлу  
+2.  Вихідний драйвер для повідомлення API про формат вводу. Встановіть його на Drivers.Kml  
+3.  Рядок типу файлового шляху до цільового GeoJSON-файлу даних  
+4.  Цільовий драйвер для визначення формату виведення. Встановіть його на Drivers.GeoJson  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системні вимоги" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Наші API підтримуються на всіх основних платформах та операційних системах. Перед виконанням коду нижче, переконайтеся, що у вашій системі є такі попередні умови.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Зберегти KML як GeoJSON - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-geojson.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML to GeoJSON Live Demos" sectionDescription="Конвертуйте KML в GeoJSON прямо зараз, відвідавши наш [Live Demos веб-сайт](https://products.aspose.app/gis/conversion/kml-to-geojson). Жива демонстрація має наступні переваги" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно завантажувати Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Просто виберіть GeoJSON як формат виводу та." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Завантажте свій KML файл, він миттєво буде перетворений на GeoJSON." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Ви отримаєте посилання для завантаження." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно завантажувати Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Просто виберіть GeoJSON як формат виводу та." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Завантажте свій KML файл, він миттєво буде перетворений на GeoJSON." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Ви отримаєте посилання для завантаження." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Бібліотека" %}}
-
-Aspose.GIS for .NET — це API для маніпулювання та перетворення географічних даних. Він повністю підтримує читання, запис і перетворення відомих форматів географічних даних, таких як ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats та OpenStreetMap. Це автономний .NET API і не потребує жодного програмного забезпечення GIS, такого як ArcGIS / ArcMap, QGIS тощо. 
-
-
+    Aspose.GIS for .NET — це API для маніпулювання та перетворення географічних даних. Він повністю підтримує читання, запис і перетворення відомих форматів географічних даних, таких як ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats та OpenStreetMap. Це автономний .NET API і не потребує жодного програмного забезпечення GIS, такого як ArcGIS / ArcMap, QGIS тощо.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
-KML (Keyhole Markup Language) містить геопросторову інформацію у форматі XML. KML можна відкривати в програмах Geographic Information System (GIS), якщо вони його підтримують. Багато додатків почали надавати підтримку формату KML після того, як він був прийнятий як міжнародний стандарт.
-
+        KML (Keyhole Markup Language) містить геопросторову інформацію у форматі XML. KML можна відкривати в програмах Geographic Information System (GIS), якщо вони його підтримують. Багато додатків почали надавати підтримку формату KML після того, як він був прийнятий як міжнародний стандарт.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
-GeoJSON — це формат на основі JSON, призначений для представлення географічних об’єктів з їхніми негеопросторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. JSON представляє колективну інформацію про географічні об'єкти, їх просторові межі та властивості.
-
+        GeoJSON — це формат на основі JSON, призначений для представлення географічних об’єктів з їхніми негеопросторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. JSON представляє колективну інформацію про географічні об’єкти, їх просторові межі та властивості.
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -109,18 +90,13 @@ GeoJSON — це формат на основі JSON, призначений д�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Інші підтримувані перетворення" subTitle="Ви також можете конвертувати KML в багато інших форматів файлів, включаючи декілька перелічених нижче." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shp" name="KML TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
-
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML TO GeoJSON" description="GeoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML TO TopoJSON" description="TopoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML TO GeoJSON" description="GeoJSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shp" name="KML TO SHP" description="ESRI SHP" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML TO Shapefile" description="ESRI Shapefile" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -272,7 +272,7 @@ description: פתחו צופה מפות באמצעות ספרייה שתוכננ
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      צרו תוויות וטקסט. החילו סגנונות לטקסט ואתר אוטומטית מקומות במפה.
+      צרו תוויות וטקסט. החילו סגנונות לטקסט ואתर אוטומטית מקומות במפה.
     </p>
    </div>
    <div class="col-lg-4">
@@ -341,6 +341,7 @@ description: פתחו צופה מפות באמצעות ספרייה שתוכננ
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}
@@ -365,4 +366,3 @@ description: פתחו צופה מפות באמצעות ספרייה שתוכננ
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

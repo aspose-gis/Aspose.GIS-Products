@@ -1,11 +1,12 @@
 ---
 title: CSV'yi .NET veya C# ile GPX GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/csv-to-gpx/ 
+url: /tr/net/conversion/csv-to-gpx/
 description: CSV'yi .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla GPX'e dönüştürmeyi deneyin.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="C#'ta CSV'yi GPX'e Dönüştürün" h2="ArcGIS, ArcMap, QGIS veya Google Earth gibi yazılımlara ihtiyaç duymadan sunucu tarafı API'leri kullanarak CSV'yi GPX'e aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -16,13 +17,9 @@ description: CSV'yi .NET Framework, .NET Core, C# üzerinde On-Premise API'lerim
 CSV'yi GPX'e dönüştürmek için, C# platformu için özellik zengini, güçlü ve kullanımı kolay bir GIS API'si olan [Aspose.GIS for .NET](https://products.aspose.com/gis/net) API'sini kullanacağız. [NuGet](https://www.nuget.org/packages/aspose.gis) paket yöneticisini açın, **Aspose.GIS** arayın ve kurun. Ayrıca Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +29,12 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C#'ta CSV'yi GPX'e Dönüştürme Adımları" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Dönüşüm, yalnızca *VectorLayer.Convert* yöntemini kullanarak tek bir kod satırıyla yapılabilir. Aşağıda ayrıntılı olarak belirtilen 4 parametre alır.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Kaynak CSV dosyasına dosya yolu dize türünde
-2.  Giriş biçimini API'ye bildirmek için kaynak sürücüsü. Giriş için Drivers.Csv olarak ayarlayın
-3.  Hedef GPX verisine dosya yolu dize türünde
+1.  Kaynak CSV dosyasına dosya yolu dize türünde  
+2.  Giriş biçimini API'ye bildirmek için kaynak sürücüsü. Giriş için Drivers.Csv olarak ayarlayın  
+3.  Hedef GPX verisine dosya yolu dize türünde  
 4.  Çıkış biçimini belirtmek için hedef sürücü. Çıkış için Drivers.Gpx olarak ayarlayın
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,22 +42,18 @@ Dönüşüm, yalnızca *VectorLayer.Convert* yöntemini kullanarak tek bir kod s
 {{% blocks/products/pf/agp/feature-section-col title="Sistem Gereksinimleri" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşağıdaki kodu yürütmeden önce sisteminizde aşağıdaki önkoşulların olduğundan emin olun.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="CSV'yi GPX olarak Kaydet - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-csv-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -75,7 +66,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. ESRI Şekil Dosyaları, GeoJSON, TopoJSON, ESRI Jeoveritabanı, Coğrafya İşaretleme Dili, Google Earth, GPS Değişim Formatı, MapInfo Formatları ve OpenStreetMap gibi ünlü GIS veri formatlarını okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS vb. gibi herhangi bir GIS tabanlı yazılım gerektirmez.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -107,8 +97,6 @@ GPX uzantısı, internetteki uygulamalar ve web hizmetleri arasında GPS veriler
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Jeoveritabanı" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

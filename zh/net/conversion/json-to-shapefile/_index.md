@@ -70,8 +70,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -114,10 +114,6 @@ SHP 是 ESRI Shapefile 的主要文件类型之一的文件扩展名。它以矢
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
+{{< /blocks/products/pf/main-container >}}

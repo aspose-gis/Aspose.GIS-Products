@@ -1,7 +1,7 @@
 ---
 title: Převod CSV do GIS dat GeoJSON pomocí .NET nebo C#
 weight: 120
-url: /cs/net/conversion/csv-to-geojson/ 
+url: /cs/net/conversion/csv-to-geojson/
 description: Vyzkoušejte naše On-Premise API pro převod CSV do GeoJSON na .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -116,6 +114,5 @@ GeoJSON je formát založený na JSON, který je navržen tak, aby reprezentoval
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

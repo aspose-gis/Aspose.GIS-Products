@@ -1,11 +1,11 @@
 ---
 title: GPX zu SHP GIS-Daten via .NET oder C# konvertieren
 weight: 120
-url: /de/net/conversion/gpx-to-shp/ 
+url: /de/net/conversion/gpx-to-shp/
 description: Probieren Sie unsere On-Premise APIs aus, um GPX in SHP auf .NET Framework, .NET Core, C# zu konvertieren.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="GPX in C# konvertieren" h2="GPX in SHP mit serverseitigen APIs exportieren, ohne Software wie ArcGIS, ArcMap, QGIS oder Google Earth zu benötigen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHP" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="für .NET" >}}
@@ -24,9 +24,7 @@ und installieren Sie es. Sie können auch den folgenden Befehl von der Paket-Man
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ Methode verwenden. Es nimmt 4 Parameter entgegen, wie unten detailliert beschrie
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Ein String-Typ-Dateipfad zur Quell-GPX-Datei
-2.  Quelltreiber, um der API mitzuteilen, welches Eingabeformat vorliegt. Setzen Sie ihn auf Drivers.Gpx
-3.  Der String-Typ-Dateipfad zur Ziel-SHP-Datendatei
-4.  Zieltreiber zum Angeben des Ausgabeformats. Setzen Sie ihn auf Drivers.Shapefile
+1. Ein String‑Typ‑Dateipfad zur Quell‑GPX‑Datei  
+2. Quelltreiber, um der API mitzuteilen, welches Eingabeformat vorliegt. Setzen Sie ihn auf `Drivers.Gpx`  
+3. Der String‑Typ‑Dateipfad zur Ziel‑SHP‑Datendatei  
+4. Zieltreiber zum Angeben des Ausgabeformats. Setzen Sie ihn auf `Drivers.Shapefile`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,40 +67,38 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX zu SHP Live Demos" sectionDescription="Konvertieren Sie GPX jetzt in SHP, indem Sie unsere [Live Demos Website](https://products.aspose.app/gis/conversion/gpx-to-shp) besuchen. Die Live-Demo hat die folgenden Vorteile" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach SHP als Ausgabeformat aus und." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre GPX-Datei hoch, sie wird sofort in SHP konvertiert." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen Aspose GIS API nicht herunterladen." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Wählen Sie einfach SHP als Ausgabeformat aus und." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie Ihre GPX-Datei hoch, sie wird sofort in SHP konvertiert." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS Bibliothek" %}}
 
- Aspose.GIS für .NET ist eine GIS-Datenmanipulations- und -konvertierungs-API. Es unterstützt vollständig das Lesen, Schreiben und Konvertieren berühmter GIS-Datenformate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats und OpenStreetMap. Es ist eine eigenständige .NET-basierte API und erfordert keine GIS-basierten Software wie ArcGIS / ArcMap, QGIS usw. 
+Aspose.GIS für .NET ist eine GIS‑Datenmanipulations‑ und ‑konvertierungs‑API. Sie unterstützt das Lesen, Schreiben und Konvertieren bekannter GIS‑Formate wie ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, GML, KML, GPX, MapInfo und OpenStreetMap. Sie ist eine eigenständige .NET‑basierte API und erfordert keine GIS‑Software wie ArcGIS, QGIS usw.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
+Die GPX‑Erweiterung steht für GPS Exchange Format zum Austausch von GPS‑Daten zwischen Anwendungen und Web‑diensten. Es ist ein leichtgewichtiges XML‑Format, das Wegpunkte, Routen und Tracks enthält.
 
-Die GPX-Erweiterung steht für GPS Exchange Format zum Austausch von GPS-Daten zwischen Anwendungen und Webdiensten im Internet. Es ist ein leichtgewichtiges XML-Format, das GPS-Daten enthält, d. h. Wegpunkte, Routen und Tracks, die von mehreren Programmen importiert und gelesen werden können. GPX ist offen und wird von einer Vielzahl von Anwendungen und GPS-Geräten unterstützt.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+Shapefile ist ein Multi‑Datei‑Format (bekannt als ESRI Shapefile). Die Hauptdatei hat die Erweiterung SHP. Es ist ein weit verbreitetes Vektor‑Geodatenformat.
 
-Shapefile ist ein Multi-Datei-Format (bekannt als ESRI Shapefile). Die Hauptdatei hat die Erweiterung SHP. Shapefile ist ein beliebtes Vektor-Geografiedateiformat. Entwickelt und gepflegt von ESRI für die Kompatibilität zwischen Esri-Produkten und anderen Programmen.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -118,8 +114,8 @@ Shapefile ist ein Multi-Datei-Format (bekannt als ESRI Shapefile). Die Hauptdate
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX NACH TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX NACH CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

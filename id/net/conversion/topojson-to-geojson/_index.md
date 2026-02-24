@@ -72,6 +72,7 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -114,9 +115,6 @@ GeoJSON adalah format berbasis JSON yang dirancang untuk mewakili fitur geografi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON KE KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON KE Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -18,9 +18,7 @@ GPX'i TopoJSON'a dönüştürmek için, C# platformu için özellik zengini, gü
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -76,8 +74,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 
 Aspose.GIS for .NET, GIS verilerini manipüle etmek ve dönüştürmek için bir API'dir. Ünlü GIS veri formatlarını (ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -110,8 +106,7 @@ TopoJSON, topolojiyi kodlayan bir GeoJSON uzantısıdır. Coğrafi özelliklerin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

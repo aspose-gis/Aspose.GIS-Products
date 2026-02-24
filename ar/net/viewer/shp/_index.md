@@ -5,7 +5,7 @@ url: /ar/net/viewer/shp
 description: قم بتطوير عارض SHP من خلال مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لرسم الخرائط لأنواع ملفات Kml و GeoJson Gpx و Kml وغيرها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs لعرض SHP" h2="قم بتطوير عارض SHP باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -55,7 +55,7 @@ description: قم بتطوير عارض SHP من خلال مكتبة مصممة 
    </ul>
   </div>
   <!--/left-->
-  <div class="d1-col d1-right">
+  <div class="d1-col d2-right">
    <header>
     <i class="fa fa-random">
     </i>

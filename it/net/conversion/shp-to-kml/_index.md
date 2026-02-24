@@ -19,7 +19,7 @@ API che è una GIS API ricca di funzionalità, potente e facile da usare per la 
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
 package manager, cerca
 **Aspose.GIS** 
-e installa. Puoi anche utilizzare il seguente comando dalla Package Manager Console.
+e installa. Puoi anche utilizzare il seguito comando dalla Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -117,6 +117,6 @@ KML (Keyhole Markup Language) contiene informazioni geospaziali in notazione XML
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

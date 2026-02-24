@@ -24,9 +24,7 @@ description: Prova le nostre API On-Premise per la conversione dei tuoi dati GIS
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Converti i dati GIS KML in dati SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +117,4 @@ Leggi di più
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

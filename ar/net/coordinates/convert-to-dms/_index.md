@@ -5,7 +5,7 @@ url: /ar/net/coordinates/convert-to-dms
 description: التحويل إلى الدرجة والدقيقة والثانية (DMS) من خلال مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لتحويل الإحداثيات لـ DD و DMS و DDM و GeoRef، وتنسيقات أخرى.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs للتحويل إلى الدرجة والدقيقة والثانية (DMS) لأنظمة المعلومات الجغرافية" h2="طور تحويلاً لـ DMS باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

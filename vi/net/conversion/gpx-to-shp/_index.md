@@ -122,6 +122,6 @@ Shapefile là định dạng nhiều tệp (được gọi là ESRI Shapefile). 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

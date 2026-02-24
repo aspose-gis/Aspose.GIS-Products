@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="الأمر" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة لتحويل OSM إلى KML" sectionDescription="حوّل OSM إلى KML الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/osm-to-kml). تتمتع النسخة التجريبية المباشرة بالفوائد التالية" >}}
@@ -109,16 +106,16 @@ PM> Install-Package Aspose.GIS
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل OSM إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل OSM إلى العديد من تنسيقات الملفات الأخرى بما تشمل بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-csv" name="OSM TO CSV" description="قيم مفصولة بفواصل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-shp" name="OSM TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="لغة توصيف الكلمات الرئيسية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="تبادل نظام تحديد المواقع العالمي (GPS)" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---

@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר כדי להמיר SHP ל-GPX �
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="הדגמות חיות של SHP ל-GPX" sectionDescription="המרת SHP ל-GPX עכשיו על ידי ביקור באתר [הדגמות החיות שלנו](https://products.aspose.app/gis/conversion/shp-to-gpx). להדגמה החיה יש את היתרונות הבאים" >}}
@@ -114,9 +111,7 @@ GPX extension מייצג פורמט החלפת GPS להחלפת נתוני GPS �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="ערכים מופרדים בפסיקים" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="החלפת GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

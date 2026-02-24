@@ -1,7 +1,7 @@
 ---
 title: Převod GPX na JSON GIS data pomocí .NET nebo C#
 weight: 120
-url: /cs/net/conversion/gpx-to-json/ 
+url: /cs/net/conversion/gpx-to-json/
 description: Vyzkoušejte naše On-Premise API pro převod GPX na JSON v .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,9 +67,8 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +115,7 @@ Formát založený na JSON navržený pro reprezentaci geografických prvků s j
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

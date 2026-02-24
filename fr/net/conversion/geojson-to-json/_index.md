@@ -24,9 +24,7 @@ description: Essayez nos API On-Premise pour votre conversion de données SIG su
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Convertir les données SIG GEOJSON en données JSON
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -120,6 +117,5 @@ Lire la suite
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

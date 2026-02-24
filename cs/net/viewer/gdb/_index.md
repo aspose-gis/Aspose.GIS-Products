@@ -5,7 +5,7 @@ url: /cs/viewer/gdb
 description: Vyvíjejte prohlížeč GDB pomocí knihovny navržené speciálně pro vývojáře .NET. API pro vykreslování map Kml, GeoJson Gpx, Kml a dalších souborů.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pro prohlížeč GDB" h2="Vyvíjejte prohlížeč GDB pomocí API navrženého speciálně pro vývojáře .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pro .NET" >}}
@@ -387,4 +387,3 @@ description: Vyvíjejte prohlížeč GDB pomocí knihovny navržené speciálně
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

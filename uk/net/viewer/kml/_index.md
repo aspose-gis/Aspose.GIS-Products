@@ -3,8 +3,10 @@ title: KML Viewer
 linkTitle: Переглядач KML
 weight: 10
 url: /uk/net/viewer/kml/
-aliases: [KML, Keyhole Markup Language]
-[Source](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
+aliases:
+  - KML
+  - Keyhole Markup Language
+source: https://en.wikipedia.org/wiki/Keyhole_Markup_Language
 ---
 
 ## Overview
@@ -60,5 +62,3 @@ The KML Viewer supports a wide range of KML elements, including:
 
 *   [KML Reference](https://developers.google.com/kml/documentation/)
 *   [Google Earth Help](https://support.google.com/earth/?hl=en#topic=4786139)
-
----

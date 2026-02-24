@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="الأمر" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -85,8 +82,6 @@ PM> Install-Package Aspose.GIS
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات GIS. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ESRI Shapefiles و GeoJSON و TopoJSON و ESRI Geodatabase و Geography Markup Language و Google Earth و GPS Exchange Format وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -99,7 +94,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
- Shapefile هو تنسيق متعدد الملفات (يُعرف باسم ESRI Shapefile). يحتوي الرئيسي على امتداد SHP. Shapefile هو تنسيق ملف متجه شائع جغرافيا. تم تطويره وصيانته بواسطة ESRI للتوافق بين منتجات Esri والبرامج الأخرى.
+ Shapefile هو تنسيق متعدد الملفات (يُعرف باسم ESRI Shapefile). يحتوي الرئيسي على امتداد SHP. Shapefile هو تنسيق ملف متجه شائع جغرافياً. تم تطويره وصيانته بواسطة ESRI للتوافق بين منتجات Esri والبرامج الأخرى.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,9 +111,10 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="لغة توصيف الكلمات الرئيسية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="تبادل نظام تحديد المواقع العالمي (GPS)" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---

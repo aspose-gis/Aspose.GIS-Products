@@ -337,7 +337,7 @@ description: قم بتطوير عارض MapInfo-MIF باستخدام مكتبة 
      معرض الخرائط
     </h2>
       <p>
-         مجموعة من الخرائط التي تم إنشاؤها باستخدام مكتبتنا.
+         مجموعة من الخرائط التي تم إنشائها باستخدام مكتبتنا.
       </p>
       <div class="row">
         <div class="col-md-4">{{< figure src="city-quarter.png" title="خريطة حي المدينة" alt="خريطة حي المدينة" class="img-fluid" width="100%">}} </div>
@@ -362,7 +362,7 @@ description: قم بتطوير عارض MapInfo-MIF باستخدام مكتبة 
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}

@@ -1,7 +1,7 @@
 ---
 title: Convertir SHP en KML des données SIG via .NET ou C#
 weight: 120
-url: /fr/net/conversion/shp-to-kml/ 
+url: /fr/net/conversion/shp-to-kml/
 description: Essayez nos API sur site pour convertir SHP en KML sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -113,9 +111,7 @@ KML (Keyhole Markup Language) contient des informations géospatiales en notatio
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Valeurs séparées par des virgules" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="Échange GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

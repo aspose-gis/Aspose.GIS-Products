@@ -25,9 +25,7 @@ description: APIs اختصاصی ما را برای تبدیل داده‌های
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -68,7 +66,6 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
 ```cs
 // تبدیل داده‌های GIS MIF به داده‌های SHX
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,6 +115,5 @@ Read More
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

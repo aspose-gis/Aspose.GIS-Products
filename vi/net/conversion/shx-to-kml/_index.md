@@ -120,6 +120,5 @@ KML, (Ngôn ngữ đánh dấu khóa chứa) thông tin địa không gian ở �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

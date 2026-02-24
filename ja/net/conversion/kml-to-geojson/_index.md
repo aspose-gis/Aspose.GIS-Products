@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して KML を GeoJSON GIS データに変換する
 weight: 120
-url: /ja/net/conversion/kml-to-geojson/ 
+url: /ja/net/conversion/kml-to-geojson/
 description: 当社のオンプレミス API を使用して、.NET Framework、.NET Core、C# で KML を GeoJSON に変換します。
 ---
 
@@ -13,20 +13,16 @@ description: 当社のオンプレミス API を使用して、.NET Framework、
 
 {{% blocks/products/pf/agp/content h2="C# を使用して KML を GeoJSON に変換する方法" %}}
 
-KML から GeoJSON へ変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
-を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
+KML から GeoJSON へ変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis) パッケージマネージャーを開き、  
+**Aspose.GIS** を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,15 +35,14 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-*VectorLayer.Convert* 
-メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
+*VectorLayer.Convert* メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース KML ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Kml に設定します。
-3.  宛先 GeoJSON データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。GeoJson に設定します。
+1. ソース KML ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Kml に設定します。  
+3. 宛先 GeoJSON データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。GeoJson に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -117,6 +112,6 @@ GeoJSON は、地理的フィーチャとその非空間属性を表すように
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

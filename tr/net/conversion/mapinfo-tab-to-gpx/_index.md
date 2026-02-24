@@ -18,9 +18,7 @@ MapInfo-TAB'ı GPX'e dönüştürmek için, C# platformu için özellik zengini,
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -61,8 +59,8 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -103,9 +101,8 @@ GPX uzantısı, GPS verilerini internetteki uygulamalar ve web hizmetleri arası
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB TO GPX" description="GPS Değişimi" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

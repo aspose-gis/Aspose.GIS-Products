@@ -4,7 +4,7 @@ linkTitle: แปลง KML เป็น PNG
 weight: 10
 url: /th/net/viewer/kml-to-png/
 aliases: [KML to PNG, KML to image]
-[source](https://github.com/GIS-PRODUCTS/NetViewer/blob/main/src/NetViewer/KmlToPngConverter.cs)
+source: https://github.com/GIS-PRODUCTS/NetViewer/blob/main/src/NetViewer/KmlToPngConverter.cs
 ---
 
 ## Overview
@@ -48,5 +48,3 @@ KmlToPngConverter.exe -i my_location.kml -o output.png -s 1024 -r 240
 ## Support
 
 For any questions or issues, please contact us at [support@gis-products.com](mailto:support@gis-products.com).
-
----

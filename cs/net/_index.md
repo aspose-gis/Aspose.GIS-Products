@@ -638,9 +638,9 @@ description: Vytvořte, čtěte, převádějte, zpracovávejte data GIS a vykres
      <li>
       Najděte těžiště geometrie
      </li>
-     <li>
-      Najděte konvexní obálku geometrie
-     </li>
+      <li>
+      Najděte konvexní obálku geometriky
+      </li>
      <li>
       Vypočítejte ohraničující rozsah
      </li>
@@ -655,6 +655,8 @@ description: Vytvořte, čtěte, převádějte, zpracovávejte data GIS a vykres
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
@@ -679,4 +681,3 @@ description: Vytvořte, čtěte, převádějte, zpracovávejte data GIS a vykres
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

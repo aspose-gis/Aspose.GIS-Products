@@ -6,7 +6,7 @@ description: Разработвайте GeoTIFF прегледник чрез б
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs за GeoTIFF Прегледник" h2="Разработвайте GeoTIFF прегледник с API, предназначен специално за разработчици на .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs za GeoTIFF Прегледник" h2="Разработвайте GeoTIFF прегледник с API, предназначен специално за разработчици на .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="за .NET" >}}
 
@@ -362,7 +362,7 @@ description: Разработвайте GeoTIFF прегледник чрез б
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучителни ресурси" tabId="resources" >}}
@@ -387,4 +387,3 @@ description: Разработвайте GeoTIFF прегледник чрез б
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

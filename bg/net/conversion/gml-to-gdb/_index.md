@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Преобразувайте GIS данни от GML в данни от GDB
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -95,7 +91,9 @@ VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Driver
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="https://docs.fileformat.com/gis/gml/" >}}
 
-GML е съкращение от Geography Markup Language, което се основава на XML спецификации, разработени от Open Geospatial Consortium (OGC). Форматът се използва за съхранение на географски данни за обмен между различни файлови формати. Той служи като моделен език за географски системи, както и като отворен формат за обмен на географски транзакции в интернет.
+GML е съкращение от Geography Markup Language, което се основава на XML спецификации, разработени от Open Geospatial Consortium (OGC). Форматът се използва за съхранение на географски данни за обмен между различни файлови формати. Той служи като модел
+
+ен език за географски системи, както и като отворен формат за обмен на географски транзакции в интернет.
 Прочетете повече
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -119,6 +117,5 @@ GML е съкращение от Geography Markup Language, което се ос
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

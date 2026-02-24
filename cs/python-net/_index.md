@@ -5,7 +5,7 @@ url: /python-net/cs/
 description: Vytvářejte, čtěte, převádějte a zpracovávejte data GIS včetně formátů GeoPackage, Shapefile a rastrů. Renderujte mapy s vysoce výkonnou .NET API pro Python na Windows, macOS (Intel & ARM).
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1="Kompletní Python API přes .NET pro čtení, zápis a převod formátů souborů GIS jako Shapefile, GeoJSON, KML, GML, GeoPackage." h2="Manipulujte, převádějte a vizualizujte data GIS včetně KML, OpenStreetMap, GeoPackage, Shapefile, GeoJSON a World Raster Images, dlaždic. Plná podpora pro Python na macOS (Intel a Apple Silicon), Linux a Windows." logoImageSrc="aspose_gis-for-python-via-net.svg" pfName="Aspose.GIS" subTitlepfName="přes .NET" downloadUrl="https://downloads.aspose.com/gis/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="přes .NET" >}}

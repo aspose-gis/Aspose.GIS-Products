@@ -22,13 +22,9 @@ API, который является многофункциональным, м�
 и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +34,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Этапы преобразования JSON в GPX в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Преобразование можно выполнить всего за одну строку кода при использовании
 *VectorLayer.Convert* 
 метода. Он принимает 4 параметра, как подробно описано ниже.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Строковый тип пути к исходному JSON файлу
@@ -55,23 +49,18 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Системные требования" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять код ниже, убедитесь, что у вас есть следующие предварительные условия в вашей системе.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Сохранить JSON как GPX - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-json-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -90,15 +79,11 @@ Aspose.GIS for .NET — это API для манипулирования и пр
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
 Формат на основе JSON, предназначенный для представления географических объектов с их не пространственными атрибутами. Этот формат определяет различные объекты JSON и способ их соединения. JSON представляет собой коллективную информацию о географических объектах, их пространственных пределах и свойствах.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
 Расширение GPX представляет формат обмена GPS для обмена данными GPS между приложениями и веб-сервисами в Интернете. Это легковесный XML-формат, содержащий данные GPS, то есть маршрутные точки, маршруты и треки, которые можно импортировать и считывать несколькими программами. GPX является открытым и поддерживается различными приложениями и GPS-устройствами.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -116,6 +101,5 @@ Aspose.GIS for .NET — это API для манипулирования и пр
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

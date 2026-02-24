@@ -114,7 +114,7 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่นๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง GEOJSON เป็นรูปแบบไฟล์อื่น ๆ ได้อีกมากมาย รวมถึงรายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่นๆที่รองรับ" subTitle="คุณยังสามารถแปลง GEOJSON เป็นรูปแบบไฟล์อื่น ๆ ได้อีกมากมาย รวมถึงรายการด้านล่าง" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-json" name="GEOJSON TO JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GEOJSON TO KML" description="Keyhole Markup Language" >}}
@@ -122,6 +122,5 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

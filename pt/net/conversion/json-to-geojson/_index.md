@@ -1,11 +1,11 @@
 ---
 title: Converter JSON para GeoJSON Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/json-to-geojson/ 
+url: /pt/net/conversion/json-to-geojson/
 description: Experimente nossas APIs On-Premise para converter JSON para GeoJSON no .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Converter JSON para GeoJSON em C#" h2="Exportar JSON para GeoJSON usando APIs do lado do servidor, sem a necessidade de softwares como ArcGIS, ArcMap, QGIS ou Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GeoJSON" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="JSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="para .NET" >}}
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter JSON para GeoJSON
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -115,9 +113,6 @@ GeoJSON é um formato baseado em JSON projetado para representar os recursos geo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON PARA Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON PARA GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -89,7 +87,7 @@ Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESR
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 
-拡張子 CSV (Comma Separated Values) を持つファイルは、カンマで区切られた値を持つレコードのデータを含むプレーンテキストファイルです。CSV ファイル内の各行は、ファイルに含まれる一連のレコードからの新しいレコードです。このようなファイルは、あるストレージシステムから別のストレージシステムにデータを転送する際に生成されます。すべてのアプリケーションがカンマで区切られたレコードを認識するため、そのようなデータファイルをデータベースにインポートすることは非常に便利に行われます。
+拡張子 CSV (Comma Separated Values) を持つファイルは、カンマで区切られた値を持つレコードのデータを含むプレーンテキストファイルです。CSV ファイル内の各行は、ファイルに含まれる一連のレコードからの新しいレコードです。このようなファイルは、あるストレージシステムから別のストレージシステムにデータを転送する際に生成されます。すべてのアプリケーションがカンカ区切られたレコードを認識するため、そのようなデータファイルをデータベースにインポートすることは非常に便利に行われます。
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,6 +113,6 @@ GeoJSON は、地理的フィーチャとその非空間属性を表すように
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

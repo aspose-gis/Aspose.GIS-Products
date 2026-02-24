@@ -2,7 +2,7 @@
 title: แปลง TOPOJSON เป็น JSON GIS Data ผ่าน .NET
 weight: 160
 url: /th/net/conversion/topojson-to-json/
-description: ลองใช้ On-Premise APIs ของเราสำหรับการแปลงข้อมูล GIS ของคุณบน .NET Framework, .NET Core
+description: ลองใช้ On-Premise APIs ของเราสำสำหรับการแปลงข้อมูล GIS ของคุณบน .NET Framework, .NET Core
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -121,6 +121,6 @@ JSON (JavaScript Object Notation) เป็นรูปแบบไฟล์ม�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

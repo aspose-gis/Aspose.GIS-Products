@@ -1,11 +1,11 @@
 ---
 title: 将 JSON 转换为 GPX GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/json-to-gpx/ 
+url: /zh/net/conversion/json-to-gpx/
 description: 使用我们的本地 API 将 JSON 转换为 GPX，在 .NET Framework、.NET Core 和 C# 上进行操作。
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="将 JSON 在 C# 中转换为 GPX" h2="使用服务器端 API 将 JSON 导出到 GPX，无需像 ArcGIS、ArcMap、QGIS 或 Google Earth 这样的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GPX" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="JSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 JSON 转换为 GPX，在 .NET Framewo
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +67,9 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -114,9 +113,6 @@ GPX 扩展名代表 GPS Exchange 格式，用于在互联网上的应用程序�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

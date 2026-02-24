@@ -5,7 +5,7 @@ url: /de/coordinates/convert-to-georef
 description: Konvertieren Sie in das Weltgeographische Referenzsystem (GeoRef) mit einer Bibliothek, die speziell für .NET-Entwickler entwickelt wurde. Koordinatenkonverter-APIs für DD, DMS, DDM, GeoRef und andere Formate.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs zur Konvertierung des Weltgeographischen Referenzsystems (GeoRef) für GIS" h2="Entwickeln Sie GeoRef-Konvertierungen mit einer API, die speziell für .NET / C#-Entwickler entwickelt wurde." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="für .NET" >}}
@@ -264,7 +264,6 @@ description: Konvertieren Sie in das Weltgeographische Referenzsystem (GeoRef) m
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,4 +287,3 @@ description: Konvertieren Sie in das Weltgeographische Referenzsystem (GeoRef) m
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

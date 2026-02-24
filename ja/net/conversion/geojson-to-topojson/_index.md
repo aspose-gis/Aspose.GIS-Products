@@ -13,20 +13,18 @@ description: .NET Framework、.NET Core での GIS データ変換に当社の�
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GEOJSON を TOPOJSON に変換する方法" %}}
 
-GEOJSON から TOPOJSON への変換には、
+GEOJSON から TOPOJSON への変換には，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net)
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis)
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS**
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -44,10 +42,10 @@ PM> Install-Package Aspose.GIS
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース GEOJSON ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Drivers.GeoJson に設定します。
-3.  宛先 TOPOJSON データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。Drivers.TopoJson に設定します。
+1. ソース GEOJSON ファイルへの文字列型のファイルパス
+2. 入力形式を API に知らせるソースドライバー。Drivers.GeoJson に設定します。
+3. 宛先 TOPOJSON データファイルへの文字列型のファイルパス
+4. 出力形式を指定する宛先ドライバー。Drivers.TopoJson に設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,47 +64,41 @@ PM> Install-Package Aspose.GIS
 ```cs
 // GEOJSON GIS データを TOPOJSON データに変換します。
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topojson", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GEOJSON から TOPOJSON へのライブデモ" sectionDescription="[ライブデモ](https://products.aspose.app/gis/conversion/geojson-to-topojson) Web サイトにアクセスして、今すぐ GEOJSON を TOPOJSON に変換してください。ライブデモには次の利点があります。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として TOPOJSON を選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" GEOJSON ファイルをアップロードすると、すぐに TOPOJSON に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
+  {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+  {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として TOPOJSON を選択するだけです。" >}}
+  {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" GEOJSON ファイルをアップロードすると、すぐに TOPOJSON に変換されます。" >}}
+  {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+  {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESRI Shapefile、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap などの有名な GIS データ形式の読み取り、書き込み、変換を完全にサポートしています。スタンドアロンの .NET ベースの API であり、ArcGIS / ArcMap、QGIS などの GIS ベースのソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+  {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+  {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+GeoJSON は、地理的フィーチャとその非空間属性を表すように設計された JSON ベースの形式です。この形式は、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON 形式は、地理的フィーチャ、その空間範囲、およびプロパティに関する集合的な情報を示します。このファイルのオブジェクトは、ジオメトリ (点、線文字列、ポリゴン)、フィーチャ、またはフィーチャのコレクションを示す場合があります。フィーチャは、住所や場所を点で表し、道路や主要な道路を線文字列で表し、国、州、および土地地域をポリゴンとして表します。GeoJSON を使用すると、さまざまなモバイルルーティングおよびナビゲーションアプリケーションは、サービスの範囲を示すことができます。拡張機能である TopoJSON はサイズが小さく、地理空間トポロジをエンコードします。詳細はこちら
 
-GeoJSON は、地理的フィーチャとその非空間属性を表すように設計された JSON ベースの形式です。この形式は、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON 形式は、地理的フィーチャ、その空間範囲、およびプロパティに関する集合的な情報を示します。このファイルのオブジェクトは、ジオメトリ (点、線文字列、ポリゴン)、フィーチャ、またはフィーチャのコレクションを示す場合があります。フィーチャは、住所や場所を点で表し、道路や主要な道路を線文字列で表し、国、州、および土地地域をポリゴンとして表します。GeoJSON を使用すると、さまざまなモバイルルーティングおよびナビゲーションアプリケーションは、サービスの範囲を示すことができます。拡張機能である TopoJSON はサイズが小さく、地理空間トポロジをエンコードします。
-詳細はこちら
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
+TopoJSON は、トポロジをエンコードする GeoJSON の拡張機能です。TopoJSON ファイル内のジオメトリは、個別に表現されるのではなく、共有線分と呼ばれるアークから縫い合わされます。詳細はこちら
 
-TopoJSON は、トポロジをエンコードする GeoJSON の拡張機能です。TopoJSON ファイル内のジオメトリは、個別に表現されるのではなく、共有線分と呼ばれるアークから縫い合わされます。
-詳細はこちら
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
+  {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -121,4 +113,3 @@ TopoJSON は、トポロジをエンコードする GeoJSON の拡張機能で�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

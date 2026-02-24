@@ -24,9 +24,7 @@ description: Опитайте нашите On-Premise API за конверти�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертиране на GIS данни от MIF в GEOJSON данни
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -120,6 +117,5 @@ GeoJSON е формат, базиран на JSON, предназначен за
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Konversi GeoJSON ke Data GIS SHP melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/geojson-to-shp/ 
+url: /id/net/conversion/geojson-to-shp/
 description: Coba API On-Premise kami untuk mengonversi GeoJSON ke SHP pada .NET Framework, .NET Core, C#.
 ---
 
@@ -13,24 +13,19 @@ description: Coba API On-Premise kami untuk mengonversi GeoJSON ke SHP pada .NET
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi GeoJSON ke SHP Menggunakan C#" %}}
 
- Untuk mengonversi GeoJSON ke SHP, kita akan menggunakan
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API yang merupakan GIS API untuk platform C# yang kaya fitur, kuat, dan mudah digunakan. Buka
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- package manager, cari
- **Aspose.GIS** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi GeoJSON ke SHP, kita akan menggunakan
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API yang merupakan GIS API untuk platform C# yang kaya fitur, kuat, dan mudah digunakan. Buka
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+package manager, cari
+**Aspose.GIS** 
+dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -38,26 +33,22 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Langkah untuk mengonversi GeoJSON ke SHP di C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
- *VectorLayer.Convert* 
- metode. Metode ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
-
+Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
+*VectorLayer.Convert* 
+metode. Metode ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Jenis string jalur file ke file GeoJSON sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.GeoJson
-1.  Jenis string jalur file ke file data SHP tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Shapefile
+1. Jenis string jalur file ke file GeoJSON sumber  
+2. Driver sumber untuk memberi tahu API tentang format input. Atur ke `Drivers.GeoJson`  
+3. Jenis string jalur file ke file data SHP tujuan  
+4. Driver tujuan untuk menentukan format output. Atur ke `Drivers.Shapefile`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Sistem" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
- API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut pada sistem Anda.
-
+API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut pada sistem Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,44 +56,34 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/code-block title="Simpan GeoJSON sebagai SHP - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-geojson-to-shp.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung GeoJSON ke SHP" sectionDescription="Konversi GeoJSON ke SHP sekarang dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/gis/conversion/geojson-to-shp). Demo langsung memiliki manfaat berikut" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih SHP sebagai format output dan." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file GeoJSON Anda, itu akan langsung dikonversi ke SHP." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose GIS API." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih SHP sebagai format output dan." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file GeoJSON Anda, itu akan langsung dikonversi ke SHP." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
 
-    {{% blocks/products/pf/agp/content h2="Perpustakaan GIS .NET" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan GIS .NET" %}}
 
- Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
+Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 GeoJSON adalah format berbasis JSON yang dirancang untuk mewakili fitur geografis dengan atribut non-spasialnya. Format ini mendefinisikan berbagai objek JSON (JavaScript Object Notation) dan cara penyambungannya. JSON mewakili informasi kolektif tentang fitur Geografis, luas spasialnya, dan propertinya.
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
- Shapefile adalah format multi file (dikenal sebagai ESRI Shapefile). Yang utama memiliki ekstensi SHP. Shapefile adalah format file vektor geografis yang populer. Dikembangkan dan dipelihara oleh ESRI untuk kompatibilitas antara produk Esri dan program lain.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+Shapefile adalah format multi file (dikenal sebagai ESRI Shapefile). Yang utama memiliki ekstensi SHP. Shapefile adalah format file vektor geografis yang populer. Dikembangkan dan dipelihara oleh ESRI untuk kompatibilitas antara produk Esri dan program lain.
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -114,9 +95,7 @@ GeoJSON adalah format berbasis JSON yang dirancang untuk mewakili fitur geografi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

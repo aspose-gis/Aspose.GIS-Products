@@ -5,7 +5,7 @@ url: /fa/net/
 description: ایجاد، خواندن، تبدیل، پردازش داده‌های GIS و رندر نقشه‌ها از طریق کتابخانه‌ای که به‌طور خاص برای توسعه‌دهندگان .NET طراحی شده است.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs for GIS Data Manipulation" h2="ایجاد، خواندن، تبدیل، پردازش داده‌های GIS و رندر نقشه‌ها با API طراحی شده به‌طور خاص برای توسعه‌دهندگان .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/headers/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -686,4 +686,3 @@ description: ایجاد، خواندن، تبدیل، پردازش داده‌ه
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

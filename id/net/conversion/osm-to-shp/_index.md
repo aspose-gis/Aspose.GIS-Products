@@ -1,7 +1,7 @@
 ---
 title: Konversi OSM ke SHP Data GIS melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/osm-to-shp/ 
+url: /id/net/conversion/osm-to-shp/
 description: Coba API On-Premise kami untuk mengonversi OSM ke SHP pada .NET Framework, .NET Core, C#.
 ---
 
@@ -22,13 +22,9 @@ description: Coba API On-Premise kami untuk mengonversi OSM ke SHP pada .NET Fra
  dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,13 +32,10 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Langkah untuk mengonversi OSM ke SHP di C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
  *VectorLayer.Convert* 
  metode. Metode ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Jenis string jalur file ke file OSM sumber
@@ -53,25 +46,19 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Sistem" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut pada sistem Anda.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Simpan OSM sebagai SHP - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-osm-to-shp.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -82,42 +69,27 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
 
     {{% blocks/products/pf/agp/content h2="Perpustakaan GIS .NET" %}}
-
  Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="" >}}
-
 Format OSM khusus untuk OpenStreetMap. Proyek OpenStreetMap memelihara database gratis dari jalanan dunia.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
  Shapefile adalah format multi file (dikenal sebagai ESRI Shapefile). Yang utama memiliki ekstensi SHP. Shapefile adalah format file geografis vektor populer. Dikembangkan dan dipelihara oleh ESRI untuk kompatibilitas antara produk Esri dan program lain.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi Lain yang Didukung" subTitle="Anda juga dapat mengonversi OSM ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-csv" name="OSM KE CSV" description="Nilai yang Dipisahkan Koma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-shp" name="OSM KE SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM KE KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM KE GPX" description="GPS Exchange" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

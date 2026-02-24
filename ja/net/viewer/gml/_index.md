@@ -1,11 +1,12 @@
 ---
-title: GMLビューア
-linkTitle: GMLビューア
+title: "GMLビューア"
+linkTitle: "GMLビューア"
 weight: 10
-description: GMLビューアに関するドキュメント。
-url: /ja/viewer/gml/
-aliases: [GMLビューア]
-[source](https://github.com/opengeospatial/net-gml-viewer)
+description: "GMLビューアに関するドキュメント。"
+url: "/ja/viewer/gml/"
+aliases:
+  - "GMLビューア"
+source: "https://github.com/opengeospatial/net-gml-viewer"
 ---
 
 ## はじめに
@@ -44,4 +45,3 @@ GMLビューアへの貢献は歓迎されます。バグの報告や機能の�
 ## ライセンス
 
 GMLビューアは、MITライセンスに基づいて配布されています。詳細については、[LICENSE](https://github.com/opengeospatial/net-gml-viewer/blob/master/LICENSE)ファイルを参照してください。
----

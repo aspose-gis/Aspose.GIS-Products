@@ -120,6 +120,5 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

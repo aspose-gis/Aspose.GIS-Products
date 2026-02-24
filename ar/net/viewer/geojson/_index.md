@@ -5,7 +5,7 @@ url: /ar/net/viewer/geojson
 description: قم بتطوير عارض GeoJSON من خلال مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لرسم الخرائط لأنواع ملفات Kml و GeoJson Gpx و Kml وغيرها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs لعرض GeoJSON" h2="قم بتطوير عارض GeoJSON باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

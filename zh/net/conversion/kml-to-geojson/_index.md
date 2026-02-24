@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 KML 转换为 GeoJSON 在 .NET Framew
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -119,6 +117,5 @@ GeoJSON 是一种基于 JSON 的格式，旨在表示具有非空间属性的地
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

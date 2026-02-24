@@ -1,7 +1,7 @@
 ---
 title: Convertir TopoJSON a Shapefile GIS Data vía .NET o C#
 weight: 120
-url: /es/net/conversion/topojson-to-shapefile/ 
+url: /es/net/conversion/topojson-to-shapefile/
 description: Pruebe nuestras APIs On-Premise para convertir TopoJSON a Shapefile en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ método. Toma 4 parámetros como se detalla a continuación.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Una ruta de archivo de tipo cadena para el archivo TopoJSON fuente
-2.  Controlador de origen para que la API sepa sobre el formato de entrada. Establézcalo en Drivers.TopoJson
-3.  La ruta de archivo de tipo cadena para el archivo de datos Shapefile de destino
-4.  Controlador de destino para especificar el formato de salida. Establézcalo en Drivers.Shapefile
+1.  Una ruta de archivo de tipo cadena para el archivo TopoJSON fuente  
+2.  Controlador de origen para que la API sepa sobre el formato de entrada. Establézcalo en **Drivers.TopoJson**  
+3.  La ruta de archivo de tipo cadena para el archivo de datos Shapefile de destino  
+4.  Controlador de destino para especificar el formato de salida. Establézcalo en **Drivers.Shapefile**
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,39 +67,29 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo en vivo de TopoJSON a Shapefile" sectionDescription="Convierta TopoJSON a Shapefile ahora mismo visitando nuestro [sitio web de demostraciones en vivo](https://products.aspose.app/gis/conversion/topojson-to-shapefile). La demo en vivo tiene los siguientes beneficios" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar la API de Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione Shapefile como formato de salida y." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo TopoJSON, se convertirá instantáneamente a Shapefile." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar la API de Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Simplemente seleccione Shapefile como formato de salida y." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cargue su archivo TopoJSON, se convertirá instantáneamente a Shapefile." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtendrá el enlace de descarga." >}}
 
     {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
-
-Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software GIS basado como ArcGIS / ArcMap, QGIS, etc. 
-
-
+    Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software GIS basado como ArcGIS / ArcMap, QGIS, etc.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
-TopoJSON es una extensión de GeoJSON que codifica la topología. Formato basado en JSON diseñado para representar las características geográficas con sus atributos no espaciales. Este formato define diferentes objetos JSON (Notación de Objetos JavaScript) y su forma de unión. El formato JSON representa información colectiva sobre las características geográficas, sus extensiones espaciales y propiedades.
-
+        TopoJSON es una extensión de GeoJSON que codifica la topología. Formato basado en JSON diseñado para representar las características geográficas con sus atributos no espaciales. Este formato define diferentes objetos JSON (Notación de Objetos JavaScript) y su forma de unión. El formato JSON representa información colectiva sobre las características geográficas, sus extensiones espaciales y propiedades.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
-SHP es la extensión de archivo para uno de los tipos de archivos principales utilizados para la representación de información geoespacial en forma de datos vectoriales a ser utilizados por aplicaciones de Sistemas de Información Geográfica (GIS). El formato se ha desarrollado como especificaciones abiertas con el fin de facilitar la interoperabilidad entre ESRI y otros productos de software.
-
+        SHP es la extensión de archivo para uno de los tipos de archivos principales utilizados para la representación de información geoespacial en forma de datos vectoriales a ser utilizados por aplicaciones de Sistemas de Información Geográfica (GIS). El formato se ha desarrollado como especificaciones abiertas con el fin de facilitar la interoperabilidad entre ESRI y otros productos de software.
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -114,9 +102,7 @@ SHP es la extensión de archivo para uno de los tipos de archivos principales ut
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON A KML" description="Idioma de Marcado de Palabras Clave" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON A Shapefile" description="Shapefile ESRI" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

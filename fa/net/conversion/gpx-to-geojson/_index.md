@@ -1,7 +1,7 @@
 ---
 title: تبدیل GPX به داده‌های GIS GeoJSON از طریق .NET یا C#
 weight: 120
-url: /fa/net/conversion/gpx-to-geojson/ 
+url: /fa/net/conversion/gpx-to-geojson/
 description: API های On-Premise ما را امتحان کنید تا GPX را به GeoJSON در .NET Framework، .NET Core، C# تبدیل کنید.
 ---
 
@@ -24,9 +24,7 @@ description: API های On-Premise ما را امتحان کنید تا GPX را
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,9 +67,8 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -118,8 +115,8 @@ GeoJSON یک فرمت مبتنی بر JSON است که برای نمایش وی�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="مقادیر جداگانه با کاما" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

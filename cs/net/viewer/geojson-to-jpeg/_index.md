@@ -362,7 +362,7 @@ description: Převeďte data z GeoJSON do JPEG pomocí knihovny navržené speci
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}

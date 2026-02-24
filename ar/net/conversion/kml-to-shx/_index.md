@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="الأمر" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // تحويل بيانات GIS من نوع KML إلى بيانات SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -87,8 +83,6 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
     {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقواعد بيانات ESRI Geodatabase واللغة العالمية للجغرافيا (Geography Markup Language) وأرض جوجل وتنسيق تبادل GPS (GPS Exchange Format) وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -121,6 +115,5 @@ KML (تحتوي لغة Keyhole Markup) على معلومات جغرافية في
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

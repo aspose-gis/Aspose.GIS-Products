@@ -35,7 +35,7 @@ PM> Install-Package Aspose.GIS
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Этапы преобразования KML в TopoJSON в C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Этапы преобразования KML в TopоJSON в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -116,9 +116,7 @@ TopoJSON — это расширение GeoJSON, которое кодируе�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ description: ลองใช้ On-Premise APIs ของเราเพื่�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -91,7 +89,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
-SHP คือนามสกุลไฟล์สำหรับหนึ่งในประเภทไฟล์หลักที่ใช้สำหรับการแสดงข้อมูล ESRI Shapefile แสดงข้อมูลเชิงพื้นที่ในรูปแบบเวกเตอร์เพื่อใช้กับแอปพลิเคชัน Geographic Information Systems (GIS) รูปแบบได้รับการพัฒนาเป็นข้อกำหนดเปิดเพื่อให้เอื้อต่อการทำงานร่วมกันระหว่าง ESRI และผลิตภัณฑ์ซอฟต์แวร์อื่นๆ
+SHP คีนามสกุลไฟล์สำหรับหนึ่งในประเภทไฟล์หลักที่ใช้สำหรับการแสดงข้อมูล ESRI Shapefile แสดงข้อมูลเชิงพื้นที่ในรูปแบบเวกเตอร์เพื่อใช้กับแอปพลิเคชัน Geographic Information Systems (GIS) รูปแบบได้รับการพัฒนาเป็นข้อกำหนดเปิดเพื่อให้เอื้อต่อการทำงานร่วมกันระหว่าง ESRI และผลิตภัณฑ์ซอฟต์แวร์อื่นๆ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,9 +112,7 @@ KML (Keyhole Markup Language) มีข้อมูลเชิงพื้น�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: 将 CSV 转换为 GDB GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/csv-to-gdb/ 
+url: /zh/net/conversion/csv-to-gdb/
 description: 使用我们的本地 API 将 CSV 转换为 GDB 在 .NET Framework、.NET Core、C# 上。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 CSV 转换为 GDB 在 .NET Framework�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,8 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
 
  Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -117,10 +112,7 @@ GDB 是 Esri ArcGIS 平台使用的格式。这是包含 .gdbtable、.gdbtablx�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

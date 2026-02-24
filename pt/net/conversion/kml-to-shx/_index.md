@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para a conversão de seus dados 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +36,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Etapas para converter KML para SHX em C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  A conversão pode ser feita com apenas uma linha de código ao usar o
  *VectorLayer.Convert* 
  método. Ele recebe 4 parâmetros conforme detalhado abaixo.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Um caminho de arquivo do tipo string para o arquivo KML de origem
@@ -55,9 +51,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos do Sistema" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Nossas APIs são suportadas em todas as principais plataformas e Sistemas Operacionais. Antes de executar o código abaixo, certifique-se de que você tem os seguintes pré-requisitos no seu sistema.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,14 +61,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Converter dados GIS KML para dados SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,7 +79,7 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
 
     {{% blocks/products/pf/agp/content h2="Biblioteca GIS .NET" %}}
 
- Aspose.GIS para .NET é uma API de manipulação e conversão de dados GIS. Ele suporta totalmente a leitura, gravação e conversão de formatos de dados GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de Troca GPS, Formatos MapInfo e OpenStreetMap. É uma API baseada em .NET independente e não requer nenhum software baseado em GIS como ArcGIS / ArcMap, QGIS etc. 
+ Aspose.GIS para .NET é uma API de manipulação e conversão de dados GIS. Ele suporta totalmente a leitura, gravação e conversão de formatos de dados GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de Troca GPS, Formatos MapInfo e OpenStreetMap. É uma API baseada em .NET independente e não requer nenhum software baseado em GIS como ArcGIS / ArcMap, QGIS etc.  
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -120,6 +113,4 @@ Leia Mais
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

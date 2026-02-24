@@ -115,13 +115,13 @@ JSON (JavaScript Object Notation) هو تنسيق ملف قياسي مفتوح �
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل JSON إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل JSON إلى العديد من تنسيقات الملفات الأخرى بما فيCLUDE بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON TO GEOJSON" description="تنسيق قائم على JSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="لغة ترميم المفاتيح (Keyhole Markup Language)" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

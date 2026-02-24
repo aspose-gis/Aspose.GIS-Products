@@ -5,7 +5,7 @@ url: /it/net/conversion/csv-to-geojson/
 description: Prova le nostre API On-Premise per convertire da CSV a GeoJSON su .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Converti CSV in GeoJSON in C#" h2="Esporta CSV in GeoJSON utilizzando API lato server, senza la necessità di software come ArcGIS, ArcMap, QGIS o Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GeoJSON" pfName="Aspose.GIS" subTitlepfName="per .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="per .NET" >}}
@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Package 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,8 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -115,7 +113,6 @@ GeoJSON è un formato basato su JSON progettato per rappresentare le funzionalit
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-geojson" name="CSV TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

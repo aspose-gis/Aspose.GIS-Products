@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,60 +65,45 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Преобразовать GIS данные TOPOJSON в данные SHX
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TOPOJSON в SHX Live Demos" sectionDescription="Преобразуйте TOPOJSON в SHX прямо сейчас, посетив наш [Live Demos веб-сайт](https://products.aspose.app/gis/conversion/topojson-to-shx). Живая демонстрация имеет следующие преимущества" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно скачивать Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Просто выберите SHX в качестве выходного формата и." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Загрузите свой TOPOJSON файл, он будет мгновенно преобразован в SHX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Вы получите ссылку для скачивания." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно скачивать Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Просто выберите SHX в качестве выходного формата и." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Загрузите свой TOPOJSON файл, он будет мгновенно преобразован в SHX." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Вы получите ссылку для скачивания." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Библиотека" %}}
-
- Aspose.GIS for .NET — это API для манипулирования и преобразования GIS данных. Он полностью поддерживает чтение, запись и преобразование известных форматов GIS данных, таких как ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Это автономный .NET API и не требует никакого программного обеспечения GIS, такого как ArcGIS / ArcMap, QGIS и т. д. 
-
-
+        Aspose.GIS for .NET — это API для манипулирования и преобразования GIS данных. Он полностью поддерживает чтение, запись и преобразование известных форматов GIS данных, таких как ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Это автономный .NET API и не требует никакого программного обеспечения GIS, такого как ArcGIS / ArcMap, QGIS и т. д.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
-
-TopoJSON — это расширение GeoJSON, которое кодирует топологию. Вместо того чтобы представлять геометрии дискретно, геометрии в файлах TopoJSON сшиваются из общих линейных сегментов, называемых дугами.
-Подробнее
-
+            TopoJSON — это расширение GeoJSON, которое кодирует топологию. Вместо того чтобы представлять геометрии дискретно, геометрии в файлах TopoJSON сшиваются из общих линейных сегментов, называемых дугами.
+            Подробнее
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-Формат индекса фигур, позиционный индекс геометрии объекта для обеспечения быстрого поиска вперед и назад
-Подробнее
-
+            Формат индекса фигур, позиционный индекс геометрии объекта для обеспечения быстрого поиска вперед и назад
+            Подробнее
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете преобразовать TOPOJSON во многие другие форматы файлов, включая несколько перечисленных ниже." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-geojson" name="TOPOJSON В GEOJSON" description="Формат на основе JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-json" name="TOPOJSON В JSON" description="Нотация объектов JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TOPOJSON В KML" description="Язык разметки Keyhole" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-geojson" name="TOPOJSON В GEOJSON" description="Формат на основе JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-json" name="TOPOJSON В JSON" description="Нотация объектов JavaScript" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TOPOJSON В KML" description="Язык разметки Keyhole" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

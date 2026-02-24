@@ -24,104 +24,65 @@ description: 使用我们的本地 API 进行 GIS 数据转换，适用于 .NET 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-
 {{% blocks/products/pf/agp/feature-section-col title="将 JSON 转换为 SHX in C# 的步骤" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
- 使用
- *VectorLayer.Convert*
- 方法可以仅用一行代码完成转换。它接受四个参数，如下详细所述。
-
-{{% /blocks/products/pf/agp/text %}}
+ 使用 *VectorLayer.Convert* 方法可以仅用一行代码完成转换。它接受四个参数，如下详细所述。{{% /blocks/products/pf/agp/text %}}
 
 1.  指向源 JSON 文件的字符串类型文件路径
 2.  源驱动程序，让 API 了解输入格式。设置为 Drivers.TopoJson
 3.  指向目标 SHX 数据文件的字符串类型文件路径
 4.  目标驱动程序，用于指定输出格式。设置为 Drivers.Shapefile
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
- 我们的 API 支持所有主流平台和操作系统。在执行以下代码之前，请确保您的系统满足以下先决条件。
-
-{{% /blocks/products/pf/agp/text %}}
-
+ 我们的 API 支持所有主流平台和操作系统。在执行以下代码之前，请确保您的系统满足以下先决条件。{{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="将 JSON 保存为 SHX - C#" offSpacer="" %}}
-
 ```cs
 // 将 JSON GIS 数据转换为 SHX 数据
 VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
-
 {{< blocks/products/pf/agp/demobox sectionTitle="JSON to SHX 在线演示" sectionDescription="通过访问我们的 [在线演示网站](https://products.aspose.app/gis/conversion/json-to-shx) 立即将 JSON 转换为 SHX。在线演示具有以下优势" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose GIS API。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 仅选择 SHX 作为输出格式。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 上传您的 JSON 文件，它将立即转换为 SHX。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose GIS API。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 仅选择 SHX 作为输出格式。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 上传您的 JSON 文件，它将立即转换为 SHX。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
-
- Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
-
-
+    Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON（JavaScript 对象表示法）是一种开放标准的文件格式，用于共享数据，它使用人类可读的文本来存储和传输数据。JSON 文件存储在 .json 扩展名中。JSON 需要更少的格式化，并且是 XML 的一个很好的替代方案。JSON 源自 JavaScript，但是一种与语言无关的数据格式。许多现代编程语言都支持 JSON 的生成和解析。application/json 是用于 JSON 的媒体类型。
-了解更多
-
+        JSON（JavaScript 对象表示法）是一种开放标准的文件格式，用于共享数据，它使用人类可读的文本来存储和传输数据。JSON 文件存储在 .json 扩展名中。JSON 需要更少的格式化，并且是 XML 的一个很好的替代方案。JSON 源自 JavaScript，但是一种与语言无关的数据格式。许多现代编程语言都支持 JSON 的生成和解析。application/json 是用于 JSON 的媒体类型。了解更多
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-形状索引格式，是对要素几何体的定位索引，以便能够快速向前和向后查找
-了解更多
-
+        形状索引格式，是对要素几何体的定位索引，以便能够快速向前和向后查找了解更多
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 JSON 转换为许多其他文件格式，包括下面列出的几种。" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON TO GEOJSON" description="基于 JSON 的格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="Keyhole 标记语言" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON TO GEOJSON" description="基于 JSON 的格式" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="Keyhole 标记语言" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-

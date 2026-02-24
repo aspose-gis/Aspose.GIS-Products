@@ -5,7 +5,7 @@ url: /zh/net/conversion/mif-to-kml/
 description: 使用我们的本地 API 进行您的 GIS 数据转换，适用于 .NET Framework、.NET Core。
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="将 MIF 在 C# 中转换为 KML" h2="使用服务器端 API 将 MIF 导出到 KML，而无需像 ArcGIS、ArcMap、QGIS 或 Google Earth 这样的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MIF" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 进行您的 GIS 数据转换，适用于
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,9 +37,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- 使用
- *VectorLayer.Convert* 
- 方法可以仅用一行代码完成转换。它接受四个参数，如下详细所述。
+ 使用 *VectorLayer.Convert* 方法可以仅用一行代码完成转换。它接受四个参数，如下详细所述。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,14 +63,14 @@ PM> Install-Package Aspose.GIS
 ```cs
 // 将 MIF GIS 数据转换为 KML 数据
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +116,5 @@ KML（Keyhole Markup Language 包含）以 XML 表示形式存储地理空间信
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}
+

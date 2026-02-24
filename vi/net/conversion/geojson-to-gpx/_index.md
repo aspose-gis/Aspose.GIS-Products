@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -85,7 +83,6 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Ngôn ngữ đánh dấu Địa lý, Google Earth, Định dạng trao đổi GPS, Định dạng MapInfo và OpenStreetMap. Nó là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v. 
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -115,9 +112,7 @@ GeoJSON là định dạng dựa trên JSON được thiết kế để biểu d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="Trao đổi GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

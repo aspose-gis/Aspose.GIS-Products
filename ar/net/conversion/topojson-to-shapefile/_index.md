@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل TopoJSON إلى Shapefile" sectionDescription="حوّل TopoJSON إلى Shapefile الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/topojson-to-shapefile). تتمتع النسخة التجريبية المباشرة بالفوائد التالية" >}}
@@ -114,9 +111,7 @@ SHP هو امتداد الملف لأحد الأنواع الرئيسية للم
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

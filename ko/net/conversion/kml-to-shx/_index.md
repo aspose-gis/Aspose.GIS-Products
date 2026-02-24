@@ -19,9 +19,7 @@ KML을 SHX로 변환하려면 [Aspose.GIS for .NET](https://products.aspose.com/
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,8 +64,7 @@ VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Driver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -112,6 +109,5 @@ KML(Keyhole Markup Language)은 지리 공간 정보를 XML 표기법으로 포�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

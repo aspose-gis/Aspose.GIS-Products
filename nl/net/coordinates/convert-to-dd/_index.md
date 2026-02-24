@@ -5,7 +5,7 @@ url: /nl/net/coordinates/convert-to-dd
 description: Zet om naar Decimal Degrees (DD) via een bibliotheek die specifiek is ontworpen voor .NET ontwikkelaars. Coördinaten Converter API's voor DD, DMS, DDM, GeoRef en andere formaten.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class / >}}
 {{< blocks/products/pf/upper-banner h1=".NET API's om Decimal Degrees (DD) voor GIS om te zetten" h2="Ontwikkel DD conversie met een API die specifiek is ontworpen voor .NET / C# ontwikkelaars." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="voor .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="voor .NET" >}}
@@ -244,7 +244,7 @@ description: Zet om naar Decimal Degrees (DD) via een bibliotheek die specifiek 
 
       <div class="row">
         <div class="col-md-4">{{< figure src="convert-to-dms.png" link="https://products.aspose.app/gis/coordinates/convert-to-dms" title="Omzetten naar DMS" alt="Omzetten naar DMS" class="img-fluid" width="100%" >}} </div>
-        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="Parse GeoRef" alt="Parse Georef" class="img-fluid" width="100%">}} </div>
+        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="Parse GeoRef" alt="Parse Georef" class="img-fluid" width="100%" >}} </div>
       </div>
    </div>
 
@@ -263,7 +263,6 @@ description: Zet om naar Decimal Degrees (DD) via een bibliotheek die specifiek 
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Leerbronnen" tabId="resources" >}}

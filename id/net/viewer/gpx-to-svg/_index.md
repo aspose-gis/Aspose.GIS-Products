@@ -5,7 +5,7 @@ weight: 10
 description: Konversi berkas GPX menjadi gambar SVG.
 url: /id/gpx-to-svg/
 aliases: [GPX to SVG]
-[source](https://github.com/netviewer/gpx-to-svg)
+source: https://github.com/netviewer/gpx-to-svg
 ---
 
 ## Tentang
@@ -75,5 +75,3 @@ Dokumentasi lengkap untuk `gpx-to-svg` dapat ditemukan di [https://netviewer.git
 ## Kontribusi
 
 Kontribusi ke `gpx-to-svg` dipersilakan. Jika Anda menemukan bug atau memiliki saran untuk perbaikan, jangan ragu untuk membuka masalah di [GitHub](https://github.com/netviewer/gpx-to-svg).
-
----

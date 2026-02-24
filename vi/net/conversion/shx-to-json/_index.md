@@ -24,101 +24,74 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Các bước chuyển đổi SHX thành JSON trong C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Chuyển đổi có thể được thực hiện chỉ với một dòng mã khi sử dụng
 *VectorLayer.Convert*
 phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Một đường dẫn tệp kiểu chuỗi đến tệp SHX nguồn
 2.  Trình điều khiển nguồn để API biết về định dạng đầu vào. Đặt thành Drivers.Shapefile
 3.  Đường dẫn tệp kiểu chuỗi đến tệp dữ liệu JSON đích
 4.  Trình điều khiển đích để chỉ định định dạng đầu ra. Đặt thành Drivers.TopoJson
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu hệ thống" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Các API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các yêu cầu tiên quyết sau đây trên hệ thống của mình.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lưu SHX dưới dạng JSON - C#" offSpacer="" %}}
-
 ```cs
 // Chuyển đổi dữ liệu GIS SHX thành dữ liệu JSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Trình diễn trực tiếp SHX đến JSON" sectionDescription="Chuyển đổi SHX thành JSON ngay bây giờ bằng cách truy cập [trang web Trình diễn trực tiếp](https://products.aspose.app/gis/conversion/shx-to-json). Bản demo trực tiếp có những lợi ích sau" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn JSON làm định dạng đầu ra và." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp SHX của bạn, nó sẽ được chuyển đổi ngay lập tức thành JSON." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn JSON làm định dạng đầu ra và." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp SHX của bạn, nó sẽ được chuyển đổi ngay lập tức thành JSON." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
-
-Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đây là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào dựa trên ArcGIS / ArcMap, QGIS, v.v.
-
+    Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đây là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào dựa trên ArcGIS / ArcMap, QGIS, v.v.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-Định dạng chỉ mục hình dạng, một chỉ mục vị trí của hình học tính năng để cho phép tìm kiếm nhanh về phía trước và phía sau
-Đọc thêm
-
+        Định dạng chỉ mục hình dạng, một chỉ mục vị trí của hình học tính năng để cho phép tìm kiếm nhanh về phía trước và phía sau
+        Đọc thêm
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON (JavaScript Object Notation) là định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu, sử dụng văn bản dễ đọc của con người để lưu trữ và truyền tải dữ liệu. Các tệp JSON được lưu trữ bằng phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là một lựa chọn tốt cho XML. JSON bắt nguồn từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. application/json là loại phương tiện được sử dụng cho JSON.
-Đọc thêm
-
+        JSON (JavaScript Object Notation) là định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu, sử dụng văn bản dễ đọc của con người để lưu trữ và truyền tải dữ liệu. Các tệp JSON được lưu trữ bằng phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là một lựa chọn tốt cho XML. JSON bắt nguồn từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. application/json là loại phương tiện được sử dụng cho JSON.
+        Đọc thêm
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi SHX thành nhiều định dạng tệp khác, bao gồm một số danh sách dưới đây." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-geojson" name="SHX TO GEOJSON" description="Định dạng dựa trên JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-kml" name="SHX TO KML" description="Ngôn ngữ đánh dấu chính (Keyhole Markup Language)" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-geojson" name="SHX TO GEOJSON" description="Định dạng dựa trên JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shx-to-kml" name="SHX TO KML" description="Ngôn ngữ đánh dấu chính (Keyhole Markup Language)" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

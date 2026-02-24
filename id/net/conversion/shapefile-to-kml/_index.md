@@ -24,11 +24,8 @@ description: Coba API On-Premise kami untuk mengonversi Shapefile ke KML pada .N
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +35,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Langkah untuk mengonversi Shapefile ke KML di C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
  *VectorLayer.Convert* 
  metode. Metode ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Jenis string jalur file ke file Shapefile sumber
@@ -55,9 +50,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Sistem" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut pada sistem Anda.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -115,9 +108,7 @@ KML (Keyhole Markup Language) berisi informasi geospatial dalam notasi XML. KML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

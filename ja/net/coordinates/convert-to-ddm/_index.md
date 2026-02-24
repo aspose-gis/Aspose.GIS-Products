@@ -215,7 +215,7 @@ description: .NET 開発者向けに設計されたライブラリを使用し�
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      ワールドジオグラフィック参照システム (GEOREF) 形式をサポートします。
+      ワールドジオグラフ参照システム (GEOREF) 形式をサポートします。
     </p>
    </div>
    <div class="col-lg-4">
@@ -263,7 +263,7 @@ description: .NET 開発者向けに設計されたライブラリを使用し�
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}

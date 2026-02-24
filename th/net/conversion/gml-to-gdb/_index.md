@@ -24,11 +24,8 @@ description: ลองใช้ On-Premise APIs ของเราสำหร�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +35,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนสำหรับการแปลง GML เป็น GDB ใน C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  การแปลงสามารถทำได้ด้วยโค้ดเพียงบรรทัดเดียวขณะใช้
  *VectorLayer.Convert* 
  method มันรับพารามิเตอร์ 4 รายละเอียดดังต่อไปนี้
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  พาธไฟล์ประเภทสตริงไปยังไฟล์ GML ต้นฉบับ
@@ -55,9 +50,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดของระบบ" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  APIs ของเราสนับสนุนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะดำเนินการกับโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,9 +60,7 @@ PM> Install-Package Aspose.GIS
 ```cs
 // แปลงข้อมูล GIS แบบ GML เป็นข้อมูลแบบ GDB
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -119,6 +110,5 @@ GML ย่อมาจาก Geography Markup Language ซึ่งอิงต�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

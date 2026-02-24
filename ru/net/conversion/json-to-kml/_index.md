@@ -1,7 +1,7 @@
 ---
 title: Преобразование JSON в ГИС данные KML через .NET или C#
 weight: 120
-url: /ru/net/conversion/json-to-kml/ 
+url: /ru/net/conversion/json-to-kml/
 description: Попробуйте наши локальные API для преобразования JSON в KML на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -114,9 +112,7 @@ KML (Keyhole Markup Language) содержит геопространствен�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

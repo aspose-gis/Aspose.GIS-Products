@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним та
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,11 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертувати GIS дані GML до даних GDB
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -116,9 +111,8 @@ GML означає Geography Markup Language, яка базується на с�
 {{< blocks/products/pf/agp/other-supported-section title="Інші підтримувані конвертації" subTitle="Ви також можете конвертувати GML в багато інших форматів файлів, включаючи декілька перелічених нижче." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="" name="" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section-item >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

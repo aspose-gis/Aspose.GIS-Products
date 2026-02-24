@@ -41,7 +41,7 @@ description: Sviluppa un convertitore di coordinate tramite libreria progettata 
    </ul>
   </div>
   <!--/left-->
-  <div class="d1-col d1-right">
+  <div class="d1-col d2-right">
    <header>
     <i class="fa fa-random">
     </i>
@@ -288,3 +288,5 @@ description: Sviluppa un convertitore di coordinate tramite libreria progettata 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 ```cs
 // Převeďte GIS data SHX na data GEOJSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojson", Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -122,4 +119,5 @@ Přečtěte si více
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

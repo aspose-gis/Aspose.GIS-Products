@@ -5,7 +5,9 @@ url: /bg/net/conversion/shx-to-geojson/
 description: Опитайте нашите On-Premise API за конвертиране на вашите GIS данни на .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/upper-banner h1="Конвертиране на SHX в GEOJSON в C#" h2="Експортирайте SHX в GEOJSON, използвайки сървърни API, без да е необходимо да използвате софтуер като ArcGIS, ArcMap, QGIS или Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GEOJSON" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="SHX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="за .NET" >}}
@@ -24,9 +26,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,15 +67,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертирайте GIS данните от SHX в данни от GEOJSON
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojson", Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -88,7 +86,6 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.geojso
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
 Aspose.GIS for .NET е API за манипулиране и конвертиране на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни формати на GIS данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS базиран софтуер като ArcGIS / ArcMap, QGIS и т.н.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -103,7 +100,7 @@ Aspose.GIS for .NET е API за манипулиране и конвертира
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON е формат, базиран на JSON, предназначен за представяне на географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON форматът представлява колективна информация за Географските характеристики, техните пространствени граници и свойства. Обект на този файл може да показва геометрия (Точка, Линия, Полигон), характеристика или колекция от характеристики. Характеристиките отразяват адреси и места като точки, улици, основни пътища и граници като линии и държави, провинции и земни региони като полигони. Използвайки GeoJSON, различни мобилни приложения за маршрутизация и навигация могат да посочат обхвата на своите услуги. Разширение на GeoJSON е TopoJSON, което е по-малко по размер и кодира геопространствена топология.
+GeoJSON е формат, базиран на JSON, предназначен за представяне на географските характеристики с техните не-пространствени атрибути. Този формат определя различни JSON (JavaScript Object Notation) обекти и начина им на свързване. JSON форматът представлява колективна информация за Географските характеристики, техните пространствени граници и свойства. Обект на този файл може да показва геометрия (Точка, Линия, Полигон), характеристика или колекция от характеристики. Характеристиките отразяват адреси и места като точки, улици, основни пътища и граници като линии и държави, провинции и земни региони като полгони. Използвайки GeoJSON, различни мобилни приложения за маршрутизация и навигация могат да посочат обхвата на своите услуги. Разширение на GeoJSON е TopoJSON, което е по-малко по размер и кодира геопространствена топология.
 Прочетете повече
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -122,4 +119,3 @@ GeoJSON е формат, базиран на JSON, предназначен за
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

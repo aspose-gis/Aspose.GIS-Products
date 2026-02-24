@@ -1,7 +1,7 @@
 ---
 title: Преобразование данных GIS GPX в KML с помощью .NET или C#
 weight: 120
-url: /ru/net/conversion/gpx-to-kml/ 
+url: /ru/net/conversion/gpx-to-kml/
 description: Попробуйте наши локальные API для преобразования GPX в KML на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,13 +24,10 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -71,7 +68,7 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -92,7 +89,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-Расширение GPX представляет формат GPS Exchange для обмена данными GPS между приложениями и веб-сервисами в Интернете. Это легковесный XML-формат, содержащий данные GPS, то есть маршрутные точки, маршруты и треки, которые должны быть импортированы и прочитаны несколькими программами. GPX является открытым и поддерживается различными приложениями и GPS-устройствами.
+Расширение GPX представляет формат GPS Exchange для обмена данными GPS между приложениями и веб-сервисами в Интернете. Это легковесный XML-формат, содержащий данные GPS, то есть маршрутные точки, маршруты и треки, которые должны быть импортированы и прочитаны несколькими программами.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +115,6 @@ KML (Keyhole Markup Language) содержит геопространствен�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

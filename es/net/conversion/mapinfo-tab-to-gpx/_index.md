@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="MapInfo-TAB a GPX Live Demos" sectionDescription="Convierta MapInfo-TAB a GPX ahora mismo visitando nuestro [sitio web de demostraciones en vivo](https://products.aspose.app/gis/conversion/mapinfo-tab-to-gpx). La demostración en vivo tiene los siguientes beneficios" >}}
@@ -84,7 +81,6 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
     {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
 
 Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software GIS basado como ArcGIS / ArcMap, QGIS, etc. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -112,9 +108,8 @@ La extensión GPX representa el formato de intercambio GPS para el intercambio d
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/mapinfo-tab-to-gpx" name="MapInfo-TAB A GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: .NET veya C# ile KML'yi TopoJSON GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/kml-to-topojson/ 
+url: /tr/net/conversion/kml-to-topojson/
 description: KML'yi .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla TopoJSON'a dönüştürmeyi deneyin.
 ---
 
@@ -24,9 +24,7 @@ arayın ve yükleyin. Ayrıca Paket Yöneticisi Konsolundan aşağıdaki komutu 
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,26 +67,24 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML'yi TopoJSON'a Canlı Demolar" sectionDescription="[Canlı Demo web sitemizi](https://products.aspose.app/gis/conversion/kml-to-topojson) ziyaret ederek KML'yi şimdi TopoJSON'a dönüştürün. Canlı demoda aşağıdaki avantajlar bulunmaktadır" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API'sini indirmeye gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sadece Çıkış formatı olarak TopoJSON seçin ve." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" KML dosyanızı yükleyin, anında TopoJSON'a dönüştürülecektir." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" İndirme bağlantısını alacaksınız." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API'sini indirmeye gerek yok." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Sadece Çıkış formatı olarak TopoJSON seçin ve." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" KML dosyanızı yükleyin, anında TopoJSON'a dönüştürülecektir." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" İndirme bağlantısını alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
- Aspose.GIS for .NET, GIS verilerini işlemek ve dönüştürmek için bir API'dir. Ünlü GIS veri formatlarını (ESRI Şekil Dosyaları, GeoJSON, TopoJSON, ESRI Jeoveritabanı, Coğrafya İşaretleme Dili, Google Earth, GPS Değişim Formatı, Harita Bilgisi Formatları ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz. 
-
+    Aspose.GIS for .NET, GIS verilerini işlemek ve dönüştürmek için bir API'dir. Ünlü GIS veri formatlarını (ESRI Şekil Dosyaları, GeoJSON, TopoJSON, ESRI Jeoveritabanı, Coğrafya İşaretleme Dili, Google Earth, GPS Değişim Formatı, Harita Bilgisi Formatları ve OpenStreetMap) okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS gibi GIS tabanlı yazılımlara ihtiyaç duymaz. 
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
 KML (Keyhole Markup Language), coğrafi bilgileri XML gösteriminde içerir. KML, destekleyen Coğrafi Bilgi Sistemleri (CBS) uygulamalarında açılabilir. Birçok uygulama, uluslararası bir standart olarak benimsenmesinden sonra KML formatını desteklemeye başlamıştır.
@@ -100,9 +96,7 @@ KML (Keyhole Markup Language), coğrafi bilgileri XML gösteriminde içerir. KML
 TopoJSON, topolojiyi kodlayan bir GeoJSON uzantısıdır. Coğrafi özelliklerin ve mekansal olmayan özniteliklerinin temsil edilmesi için tasarlanmış JSON tabanlı bir formattır. Bu format, farklı JSON (JavaScript Object Notation) nesnelerini ve bunların nasıl birleştiğini tanımlar. JSON formatı, coğrafi özellikler, uzamsal kapsamları ve özellikleri hakkında toplu bilgi içerir.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -117,8 +111,7 @@ TopoJSON, topolojiyi kodlayan bir GeoJSON uzantısıdır. Coğrafi özelliklerin
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

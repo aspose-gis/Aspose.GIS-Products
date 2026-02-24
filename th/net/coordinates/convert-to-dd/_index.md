@@ -1,4 +1,3 @@
-
 ---
 title: แปลงเป็น องศาเดซิมาล (DD) - APIs สำหรับ .NET
 weight: 40
@@ -265,7 +264,6 @@ description: แปลงเป็น องศาเดซิมาล (DD) ผ
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งข้อมูลการเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสารประกอบ" href="https://docs.aspose.com/gis/net/" >}}
@@ -289,3 +287,5 @@ description: แปลงเป็น องศาเดซิมาล (DD) ผ
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

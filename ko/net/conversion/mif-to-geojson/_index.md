@@ -21,9 +21,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용 기능이 풍부하고 강력
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -63,48 +61,37 @@ PM> Install-Package Aspose.GIS
 ```cs
 // MIF GIS 데이터를 GEOJSON 데이터로 변환합니다.
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="MIF to GEOJSON 라이브 데모" sectionDescription="[라이브 데모 웹사이트](https://products.aspose.app/gis/conversion/mif-to-geojson)를 방문하여 MIF를 GEOJSON으로 즉시 변환하십시오. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 GEOJSON을 선택하기만 하면 됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="MIF 파일을 업로드하면 즉시 GEOJSON으로 변환됩니다." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose GIS API를 다운로드할 필요가 없습니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text="출력 형식으로 GEOJSON을 선택하기만 하면 됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text="MIF 파일을 업로드하면 즉시 GEOJSON으로 변환됩니다." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text="다운로드 링크를 받게 됩니다." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. ArcGIS / ArcMap, QGIS 등과 같은 GIS 기반 소프트웨어 없이도 독립적으로 실행되는 .NET 기반 API입니다. 
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
 Read More
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="" >}}
-
 GeoJSON은 지리적 특징과 비 공간 속성을 나타내도록 설계된 JSON 기반 형식입니다. 이 형식은 다양한 JSON (JavaScript Object Notation) 객체와 결합 방식을 정의합니다. JSON 형식은 지리적 특징, 공간 범위 및 속성에 대한 집합 정보를 나타냅니다. 이 파일의 개체는 기하 도형(점, 선 문자열, 다각형), 특징 또는 특징 모음을 나타낼 수 있습니다. 특징은 주소 및 장소를 점으로, 도로와 주요 경로는 선 문자열로, 국가, 지방 및 토지 지역은 다각형으로 반영합니다. GeoJSON을 사용하면 다양한 모바일 라우팅 및 탐색 애플리케이션에서 서비스 범위를 표시할 수 있습니다. TopoJSON은 크기가 더 작고 지리 공간 위상 관계를 인코딩하는 GeoJSON의 확장입니다.
 Read More
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -116,6 +103,5 @@ Read More
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

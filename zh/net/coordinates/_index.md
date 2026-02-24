@@ -264,27 +264,6 @@ description: 通过专门为 .NET 开发人员设计的库开发坐标转换器�
 
 {{< /blocks/products/pf/main-container >}}
 
-
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/gis/net/" >}}
-{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-gis/Aspose.GIS-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/gis/net" >}}
-{{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/gis" >}}
-{{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/gis/" >}}
-{{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/gis/net/release-notes/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.GIS for .NET？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客户列表" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功案例" href="https://company.aspose.com/customers/success-stories/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}

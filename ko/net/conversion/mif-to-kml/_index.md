@@ -24,9 +24,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용으로 기능이 풍부하고 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,14 +64,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // MIF GIS 데이터를 KML 데이터로 변환합니다.
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -86,8 +82,6 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -120,6 +114,5 @@ KML(Keyhole Markup Language)은 지리 공간 정보를 XML 표기법으로 포�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

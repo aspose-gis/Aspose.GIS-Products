@@ -244,7 +244,7 @@ description: Разработайте координатный конверте�
 
       <div class="row">
         <div class="col-md-4">{{< figure src="convert-to-dms.png" link="https://products.aspose.app/gis/coordinates/convert-to-dms" title="Convert to DMS" alt="Convert to DMS" class="img-fluid" width="100%" >}} </div>
-        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="Parse GeoRef" alt="Parse Georef" class="img-fluid" width="100%">}} </div>
+        <div class="col-md-4">{{< figure src="parse-georef.png" link="https://products.aspose.app/gis/coordinates/parse-from-georef" title="Parse GeoRef" alt="Parse Georef" class="img-fluid" width="100%" >}} </div>
       </div>
    </div>
 
@@ -263,7 +263,6 @@ description: Разработайте координатный конверте�
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Обучающие ресурсы" tabId="resources" >}}
@@ -288,3 +287,5 @@ description: Разработайте координатный конверте�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Convertir SHP a KML Datos GIS vía .NET o C#
 weight: 120
-url: /es/net/conversion/shp-to-kml/ 
+url: /es/net/conversion/shp-to-kml/
 description: Pruebe nuestras APIs On-Premise para convertir SHP a KML en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,13 +24,10 @@ e instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -69,9 +66,9 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ Nuestras APIs son compatibles con todas las plataformas y sistemas operativos pr
     {{% blocks/products/pf/agp/content h2="Biblioteca .NET GIS" %}}
 
 Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Base de datos ESRI, Lenguaje de marcado de geografía, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software basado en GIS como ArcGIS / ArcMap, QGIS, etc. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -114,9 +110,8 @@ KML (Keyhole Markup Language) contiene información geoespacial en notación XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP A CSV" description="Valores separados por comas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP A GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

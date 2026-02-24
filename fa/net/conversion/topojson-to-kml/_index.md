@@ -1,7 +1,7 @@
 ---
 title: تبدیل TopoJSON به داده‌های GIS KML از طریق .NET یا C#
 weight: 120
-url: /fa/net/conversion/topojson-to-kml/ 
+url: /fa/net/conversion/topojson-to-kml/
 description: API های On-Premise ما را امتحان کنید تا TopoJSON را به KML در .NET Framework، .NET Core، C# تبدیل کنید.
 ---
 
@@ -25,9 +25,7 @@ description: API های On-Premise ما را امتحان کنید تا TopoJSON
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="دموهای زنده TopoJSON به KML" sectionDescription="TopoJSON را همین حالا با مراجعه به [وب‌سایت دموهای زنده](https://products.aspose.app/gis/conversion/topojson-to-kml) به KML تبدیل کنید. دمو زنده دارای مزایای زیر است" >}}
@@ -114,9 +111,8 @@ KML (Keyhole Markup Language) حاوی اطلاعات جغرافیایی به ص
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

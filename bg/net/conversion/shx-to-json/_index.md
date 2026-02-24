@@ -5,7 +5,7 @@ url: /bg/net/conversion/shx-to-json/
 description: Опитайте нашите On-Premise API за конвертиране на вашите GIS данни на .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Конвертиране на SHX в JSON в C#" h2="Експортирайте SHX в JSON, използвайки сървърни API, без да е необходимо да използвате софтуер като ArcGIS, ArcMap, QGIS или Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="Aspose.GIS" subTitlepfName="за .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="SHX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="за .NET" >}}
@@ -67,14 +67,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертиране на GIS данни от SHX в JSON данни
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -102,7 +101,7 @@ VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json",
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
 
-JSON (JavaScript Object Notation) е отворен стандартен файлов формат за споделяне на данни, който използва лесен за четене текст за съхранение и предаване на данни. JSON файловете се съхраняват с разширение .json. JSON изисква по-малко форматиране и е добра алтернатива на XML. JSON произлиза от JavaScript, но е езиково независим формат на данни. Генерирането и анализирането на JSON се поддържа от много съвременни програмни езици. application/json е медийният тип, използван за JSON.
+JSON (JavaScript Object Notation) е отворен стандартен файлов формат за споделяне на данни, който използва лесен за четене текст за съхранение и предаване на данни. JSON файловете се съхраняват с разширение .json. JSON изисква по-малко форматиране и е добра алтернатива на XML. JSON произлиза от JavaScript, но е езиково независим формат на данни. Генерирането и анализирането на JSON се поддържа от много съвременни програмни езици. application/json е медият тип, използван за JSON.
 Прочетете повече
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -120,6 +119,4 @@ JSON (JavaScript Object Notation) е отворен стандартен фай�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

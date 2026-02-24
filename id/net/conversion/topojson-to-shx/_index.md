@@ -24,9 +24,7 @@ description: Coba API On-Premise kami untuk konversi data GIS Anda pada .NET Fra
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -46,9 +44,9 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Jenis string jalur file ke file TOPOJSON sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.TopoJson
-1.  Jenis string jalur file ke file data SHX tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Shapefile
+2.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.TopoJson
+3.  Jenis string jalur file ke file data SHX tujuan
+4.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Shapefile
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,14 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Konversi data GIS TOPOJSON ke data SHX
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -121,6 +118,4 @@ Baca Lebih Lanjut
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

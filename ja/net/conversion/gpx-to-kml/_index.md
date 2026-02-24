@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用した GPX から KML GIS データへの変換
 weight: 120
-url: /ja/net/conversion/gpx-to-kml/ 
+url: /ja/net/conversion/gpx-to-kml/
 description: .NET Framework、.NET Core、C# で On-Premise API を使用して GPX を KML に変換してみてください。ArcGIS、ArcMap、QGIS、または Google Earth のようなソフトウェアを必要としません。
 ---
 
@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -74,14 +72,13 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 出力形式として KML を選択するだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" GPX ファイルをアップロードすると、瞬時に KML に変換されます。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが提供されます。" >}}
-
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap など、有名な GIS データ形式の読み取り、書き込み、変換を完全にサポートしています。これはスタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
@@ -95,7 +92,9 @@ KML (Keyhole Markup Language) は、XML 表記で地理空間情報を含みま�
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

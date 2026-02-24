@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して TopoJSON を Shapefile GIS データに変換する
 weight: 120
-url: /ja/net/conversion/topojson-to-shapefile/ 
+url: /ja/net/conversion/topojson-to-shapefile/
 description: オンプレミス API を使用して、.NET Framework、.NET Core、C# で TopoJSON を Shapefile に変換します。
 ---
 
@@ -24,9 +24,7 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TopoJSON から Shapefile へのライブデモ" sectionDescription="[ライブデモ](https://products.aspose.app/gis/conversion/topojson-to-shapefile) ウェブサイトにアクセスして、今すぐ TopoJSON を Shapefile に変換してください。ライブデモには次の利点があります。" >}}
@@ -112,9 +109,7 @@ SHP は、ESRI Shapefile の主要なファイルタイプの 1 つで使用さ�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

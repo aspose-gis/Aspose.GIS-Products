@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,46 +65,43 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 ```cs
 // Chuyển đổi dữ liệu GIS GPX sang dữ liệu SHX
 VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX to SHX Live Demos" sectionDescription="Chuyển đổi GPX sang SHX ngay bây giờ bằng cách truy cập [trang web trình diễn trực tiếp](https://products.aspose.app/gis/conversion/gpx-to-shx). Bản demo trực tiếp có những lợi ích sau" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn SHX làm định dạng đầu ra và." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp GPX của bạn, nó sẽ được chuyển đổi ngay lập tức sang SHX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống Aspose GIS API." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn SHX làm định dạng đầu ra và." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp GPX của bạn, nó sẽ được chuyển đổi ngay lập tức sang SHX." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
 
-    {{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đây là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào dựa trên ArcGIS / ArcMap, QGIS, v.v.
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
+{{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
 Các tệp có phần mở rộng GPX đại diện cho định dạng trao đổi GPS để trao đổi dữ liệu GPS giữa các ứng dụng và dịch vụ web trên internet. Nó là một định dạng XML nhẹ chứa dữ liệu GPS, tức là điểm đường đi, tuyến đường và bản nhạc để nhập và đọc bởi nhiều chương trình. Định dạng tệp GPX là mã nguồn mở và được hỗ trợ bởi nhiều ứng dụng và thiết bị GPS. Dữ liệu GPS từ các tệp như vậy có thể được tải để hiển thị trên các ứng dụng lập bản đồ cho mục đích địa không gian.
 Đọc thêm
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
 Định dạng chỉ mục hình dạng, một chỉ mục vị trí của hình học tính năng để cho phép tìm kiếm nhanh về phía trước và phía sau
 Đọc thêm
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -120,6 +115,5 @@ Các tệp có phần mở rộng GPX đại diện cho định dạng trao đ�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -13,20 +13,16 @@ description: 当社のオンプレミス API を使用して、.NET Framework、
 
 {{% blocks/products/pf/agp/content h2="C# を使用して Shapefile を JSON に変換する方法" %}}
 
-Shapefile を JSON に変換するには、
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
-API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
-[NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
-**Aspose.GIS** 
-を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
+Shapefile を JSON に変換するには、  
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net)  
+API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。  
+[NuGet](https://www.nuget.org/packages/aspose.gis) パッケージマネージャーを開き、  
+**Aspose.GIS** を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,15 +35,14 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
-*VectorLayer.Convert* 
-メソッドを使用すると、コードの 1 行で変換できます。以下に示すように、4 つのパラメーターを受け取ります。
+*VectorLayer.Convert* メソッドを使用すると、コードの 1 行で変換できます。以下に示すように、4 つのパラメーターを受け取ります。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ソース Shapefile ファイルへの文字列型のファイルパス
-2.  入力形式を API に知らせるソースドライバー。Drivers.Shapefile を設定します。
-3.  宛先 JSON データファイルへの文字列型のファイルパス
-4.  出力形式を指定する宛先ドライバー。Drivers.GeoJson を設定します。
+1. ソース Shapefile ファイルへの文字列型のファイルパス  
+2. 入力形式を API に知らせるソースドライバー。Drivers.Shapefile を設定します。  
+3. 宛先 JSON データファイルへの文字列型のファイルパス  
+4. 出力形式を指定する宛先ドライバー。Drivers.GeoJson を設定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,38 +63,39 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile to JSON ライブデモ" sectionDescription="[ライブデモ](https://products.aspose.app/gis/conversion/shapefile-to-json) ウェブサイトにアクセスして、今すぐ Shapefile を JSON に変換してください。ライブデモには次の利点があります。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" JSON を出力形式として選択するだけです。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Shapefile ファイルをアップロードすると、すぐに JSON に変換されます。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose GIS API のダウンロードは不要です。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text=" JSON を出力形式として選択するだけです。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Shapefile ファイルをアップロードすると、すぐに JSON に変換されます。" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text=" ダウンロードリンクが取得できます。" >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
+{{% blocks/products/pf/agp/content h2=".NET GIS ライブラリ" %}}
 
 Aspose.GIS for .NET は、GIS データの操作および変換 API です。有名な GIS データ形式 (ESRI Shapefile、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats、OpenStreetMap など) の読み取り、書き込み、変換を完全にサポートしています。スタンドアロンの .NET ベース API であり、ArcGIS / ArcMap、QGIS などの GIS ベースソフトウェアは必要ありません。
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="Shapefile" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
 SHP は、ESRI Shapefile の主要なファイルタイプの 1 つの拡張子です。ベクトルデータ形式で地理空間情報を表現します。これは GIS (地理情報システム) アプリケーションで使用されます。この形式は、ESRI と他のソフトウェア製品間の相互運用性を促進するために、オープン仕様として開発されました。
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 地理的特徴とその非空間属性を表すように設計された JSON ベースの形式です。この形式は、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON は、地理的特徴、その空間範囲、およびプロパティに関する集合的な情報を提供します。
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -112,9 +108,6 @@ SHP は、ESRI Shapefile の主要なファイルタイプの 1 つの拡張子�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

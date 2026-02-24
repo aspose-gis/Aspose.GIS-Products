@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним і �
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -96,7 +94,7 @@ KML (Keyhole Markup Language) містить геопросторову інфо
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON — це розширення GeoJSON, яке кодує топологію. Формат на основі JSON, призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об'єкти JSON (JavaScript Object Notation) та спосіб їх з'єднання. Формат JSON представляє сукупну інформацію про географічні об'єкти, їх просторові межі та властивості.
+TopoJSON — це розширення GeoJSON, яке кодує топологію. Формат на основі JSON, призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з'єднання. Формат JSON представляє сукупну інформацію про географічні об’єкти, їх просторові межі та властивості.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,9 +114,8 @@ TopoJSON — це розширення GeoJSON, яке кодує тополог
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

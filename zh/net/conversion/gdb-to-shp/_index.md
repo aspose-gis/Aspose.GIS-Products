@@ -5,7 +5,8 @@ url: /zh/net/conversion/gdb-to-shp/
 description: 使用我们的本地 API 将 GDB 转换为 SHP 在 .NET Framework、.NET Core、C# 上。
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/upper-banner h1="将 GDB 转换为 SHP 在 C#" h2="使用服务器端 API 将 GDB 导出到 SHP，无需像 ArcGIS、ArcMap、QGIS 或 Google Earth 这样的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHP" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GDB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +25,7 @@ description: 使用我们的本地 API 将 GDB 转换为 SHP 在 .NET Framework�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +37,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="将 GDB 转换为 SHP 在 C# 中的步骤" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  使用
  *VectorLayer.Convert* 
  方法可以仅用一行代码完成转换。它接受四个参数，如下所述。
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  指向源 GDB 文件的字符串类型文件路径
@@ -55,9 +52,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  我们的 API 支持所有主流平台和操作系统。在执行以下代码之前，请确保您的系统满足以下先决条件。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,8 +65,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -115,10 +110,6 @@ GDB 是 Esri ArcGIS 平台使用的格式。此文件夹包含一个集合 .gdbt
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-shp" name="GDB TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-gpx" name="GDB TO GPX" description="GPS 交换" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
-
+{{< /blocks/products/pf/main-container >}}

@@ -5,7 +5,7 @@ url: /fa/coordinates/convert-to-mgrs
 description: تبدیل به سیستم مرجع نظامی (MGRS) از طریق کتابخانه طراحی شده به طور خاص برای توسعه دهندگان .NET. API های مبدل مختصات برای DD، DMS، DDM، GeoRef و سایر فرمت ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs to convert Military Grid Reference System (MGRS) for GIS" h2="Develop MGRS conversion with an API designed specifically for .NET / C# developers." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -264,7 +264,6 @@ description: تبدیل به سیستم مرجع نظامی (MGRS) از طریق
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="مستندات" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,4 +287,3 @@ description: تبدیل به سیستم مرجع نظامی (MGRS) از طریق
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

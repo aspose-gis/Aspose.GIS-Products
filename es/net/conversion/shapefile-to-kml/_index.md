@@ -72,7 +72,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Shapefile a KML Live Demos" sectionDescription="Convierta Shapefile a KML ahora mismo visitando nuestro [sitio web de demostraciones en vivo](https://products.aspose.app/gis/conversion/shapefile-to-kml). La demostración en vivo tiene los siguientes beneficios" >}}
@@ -115,9 +114,8 @@ KML (Keyhole Markup Language) contiene información geoespacial en notación XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

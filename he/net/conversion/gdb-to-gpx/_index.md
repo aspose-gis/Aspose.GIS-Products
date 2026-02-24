@@ -1,7 +1,7 @@
 ---
 title: המרת GDB לנתוני GIS GPX באמצעות .NET או C#
 weight: 120
-url: /he/net/conversion/gdb-to-gpx/ 
+url: /he/net/conversion/gdb-to-gpx/
 description: נסה את ה-API שלנו באתר כדי להמיר מ-GDB ל-GPX ב-.NET Framework, ‎.NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר כדי להמיר מ-GDB ל-GP
 {{% blocks/products/pf/agp/code-block title="פקודה" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -86,6 +84,9 @@ PM> Install-Package Aspose.GIS
 
 <!-- aboutfile Ends -->
 
+{{% /blocks/products/pf/agp/content %}}
+{{< /blocks/products/pf/agp/demobox >}}
+
 {{< blocks/products/pf/agp/other-supported-section title="המרות נתמכות אחרות" subTitle="ניתן גם להמיר GDB לפורמטים קבצים רבים אחרים כולל כמה המופיעים להלן." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-csv" name="GDB TO CSV" description="ערכים מופרדים בפסיקים" >}}
@@ -95,6 +96,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
+{{< /blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

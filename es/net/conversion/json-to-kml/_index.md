@@ -1,7 +1,7 @@
 ---
 title: Convertir JSON a datos GIS KML vía .NET o C#
 weight: 120
-url: /es/net/conversion/json-to-kml/ 
+url: /es/net/conversion/json-to-kml/
 description: Pruebe nuestras API On-Premise para convertir JSON a KML en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,7 +67,8 @@ Nuestras API son compatibles con todas las plataformas y sistemas operativos pri
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 
 <!-- aboutfile Starts -->
@@ -83,7 +82,6 @@ Nuestras API son compatibles con todas las plataformas y sistemas operativos pri
     {{% blocks/products/pf/agp/content h2="Biblioteca GIS .NET" %}}
 
 Aspose.GIS para .NET es una API de manipulación y conversión de datos GIS. Admite completamente la lectura, escritura y conversión de formatos de datos GIS famosos como Shapefiles ESRI, GeoJSON, TopoJSON, Geodatabase ESRI, Geography Markup Language, Google Earth, Formato de intercambio GPS, Formatos MapInfo y OpenStreetMap. Es una API independiente basada en .NET y no requiere ningún software basado en GIS como ArcGIS / ArcMap, QGIS, etc. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -114,9 +112,9 @@ KML (Keyhole Markup Language) contiene información geoespacial en notación XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON A Shapefile" description="Shapefile ESRI" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON A GPX" description="Intercambio GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

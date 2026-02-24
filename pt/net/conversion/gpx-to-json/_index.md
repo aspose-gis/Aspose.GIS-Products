@@ -1,7 +1,7 @@
 ---
 title: Converter GPX para JSON GIS Data via .NET ou C#
 weight: 120
-url: /pt/net/conversion/gpx-to-json/ 
+url: /pt/net/conversion/gpx-to-json/
 description: Experimente nossas APIs On-Premise para converter GPX para JSON no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter GPX para JSON no 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,6 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +115,7 @@ Formato baseado em JSON projetado para representar os recursos geográficos com 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX PARA TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX PARA CSV" description="Valores Separados por Vírgula" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

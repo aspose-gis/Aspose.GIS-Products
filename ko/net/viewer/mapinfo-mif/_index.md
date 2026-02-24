@@ -4,8 +4,9 @@ linkTitle: MapInfo MIF
 weight: 10
 url: /ko/net/viewer/mapinfo-mif/
 aliases: [MIF, MapInfo MIF]
-[소스 보기](https://github.com/NetDevil/MapInfoViewer/blob/master/README.md)
 ---
+
+[소스 보기](https://github.com/NetDevil/MapInfoViewer/blob/master/README.md)
 
 ## MapInfo MIF 파일 형식이란 무엇입니까?
 
@@ -44,4 +45,3 @@ MIF 파일을 사용하려면 다음 단계를 따르세요.
 ## 결론
 
 MapInfo MIF 파일 형식은 지리 정보를 저장하고 관리하는 데 유용한 도구입니다. 이 파일 형식을 이해하면 다양한 GIS 소프트웨어에서 지리 데이터를 보다 효과적으로 작업할 수 있습니다.
----

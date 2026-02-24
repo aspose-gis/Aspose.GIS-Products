@@ -14,7 +14,7 @@ description: توسعه‌ی نمایشگر نقشه از طریق کتابخا�
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.GIS for .NET به شما این امکان را می‌دهد که یک نمایشگر نقشه برای فرمت‌های داده جغرافیایی برداری و رستری ایجاد کنید. داده‌ها تنها زمانی مفید هستند که کسی بتواند آن‌ها را ببیند. کتابخانه GIS .NET، به‌طور آسان و سریع، صادرات داده‌های GIS به تصاویر برداری یا رستری را امکان‌پذیر می‌کند و نمادگذاری غنی برای سناریوهای تجسم پیچیده ارائه می‌دهد. 
+ Aspose.GIS for .NET به شما این امکان را می‌دهد که یک نمایشگر نقشه برای فرمت‌های داده جغرافیایی برداری و رستری ایجاد کنید. داده‌ها تنها زمانی مفید هستند که کسی بتواند آن‌ها را ببیند. کتابخانه GIS .NET، به‌طور آسان و سريع، صادرات داده‌های GIS به تصاویر برداری یا رستری را امکان‌پذیر می‌کند و نمادگذاری غنی برای سناریوهای تجسم پیچیده ارائه می‌دهد. 
 </p>
 
 <p>
@@ -308,7 +308,7 @@ description: توسعه‌ی نمایشگر نقشه از طریق کتابخا�
     <em class="fa fa-map-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استفاده از رندرینگ پیشرفته: ترکیب نمادگردهای، تولید کننده هندسه، هندسه ترکیبی.
+     استفاده از رندرینگ پیشرفته: ترکیب نمادگردهای، تولید کننده هندزه، هندزه ترکیبی.
     </p>
    </div>
 
@@ -341,6 +341,7 @@ description: توسعه‌ی نمایشگر نقشه از طریق کتابخا�
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}
@@ -365,4 +366,3 @@ description: توسعه‌ی نمایشگر نقشه از طریق کتابخا�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

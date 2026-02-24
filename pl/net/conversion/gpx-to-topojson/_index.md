@@ -5,7 +5,7 @@ url: /pl/net/conversion/gpx-to-topojson/
 description: Wypróbuj nasze API On-Premise, aby konwertować GPX do TopoJSON na .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konwertuj GPX do TopoJSON w C#" h2="Eksportuj GPX do TopoJSON używając API po stronie serwera, bez potrzeby oprogramowania takiego jak ArcGIS, ArcMap, QGIS lub Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TopoJSON" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,8 +67,9 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,8 +83,6 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 
 Aspose.GIS for .NET to API do manipulacji i konwersji danych GIS. W pełni obsługuje odczyt, zapis i konwersję popularnych formatów danych GIS, takich jak Pliki ESRI Shapefiles, GeoJSON, TopoJSON, Bazy Danych ESRI Geodatabase, Język Oznaczania Geografii, Google Earth, Format Wymiany GPS, Formaty MapInfo oraz OpenStreetMap. Jest to samodzielne API oparte na .NET i nie wymaga żadnego oprogramowania GIS takiego jak ArcGIS / ArcMap, QGIS itp. 
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -98,7 +95,7 @@ Rozszerzenie GPX reprezentuje format wymiany GPS do wymiany danych GPS między a
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSON zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Ten format definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. Format JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrzennym oraz właściwościach.
+TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSON zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Ten format definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. Format JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrennym oraz właściwościach.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,8 +115,6 @@ TopoJSON to rozszerzenie GeoJSON, które koduje topologię. Format oparty na JSO
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}

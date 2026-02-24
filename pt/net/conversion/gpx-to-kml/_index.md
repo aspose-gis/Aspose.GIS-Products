@@ -121,6 +121,5 @@ KML (Keyhole Markup Language) contém informações geoespaciais na notação XM
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним і �
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,7 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -91,7 +89,7 @@ Aspose.GIS for .NET – це API для маніпулювання та пере
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON є розширенням GeoJSON, яке кодує топологію. Формат на основі JSON призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об'єкти JSON (JavaScript Object Notation) та спосіб їх з'єднання. Формат JSON представляє сукупну інформацію про географічні об'єкти, їх просторовий обсяг і властивості.
+TopoJSON є розширенням GeoJSON, яке кодує топологію. Формат на основі JSON призначений для представлення географічних об’єктів з їхніми не-просторовими атрибутами. Цей формат визначає різні об’єкти JSON (JavaScript Object Notation) та спосіб їх з’єднання. Формат JSON представляє сукупну інформацію про географічні об’єкти, їх просторовий обсяг і властивості.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,9 +111,6 @@ KML (Keyhole Markup Language) містить геопросторову інфо
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

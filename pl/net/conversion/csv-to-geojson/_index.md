@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,7 +68,8 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}} 
 
 
 <!-- aboutfile Starts -->
@@ -98,7 +97,7 @@ Pliki z rozszerzeniem CSV (Comma Separated Values) reprezentują zwykłe pliki t
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Format ten definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrzennym oraz właściwościach.
+GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograficznych wraz z ich atrybutami nielokalizacyjnymi. Format ten definiuje różne obiekty JSON (JavaScript Object Notation) i sposób ich łączenia. JSON reprezentuje zbiorcze informacje o cechach geograficznych, ich zasięgu przestrennym oraz właściwościach.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,9 +115,6 @@ GeoJSON to format oparty na JSON, zaprojektowany do reprezentowania cech geograf
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

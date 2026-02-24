@@ -24,54 +24,38 @@ description: נסה את ה-API שלנו באתר כדי להמיר CSV ל-SHP �
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="שלבים להמרת CSV ל-SHP ב-C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  ניתן לבצע המרה עם שורה אחת בלבד של קוד תוך שימוש ב
  *VectorLayer.Convert* 
  שיטה. היא מקבלת 4 פרמטרים כפי שמפורט להלן.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  נתיב קובץ מסוג מחרוזת לקובץ ה-CSV המקור
 2.  מנהל התקנים של מקור כדי ליידע את ה-API על פורמט הקלט. הגדר אותו ל-Drivers.Csv
 3.  נתיב קובץ מסוג מחרוזת לקובץ נתוני SHP היעד
 4.  מנהל התקנים של יעד לציין פורמט פלט. הגדר אותו ל-Drivers.Shapefile
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="דרישות מערכת" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  ה-API שלנו נתמך בכל הפלטפורמות ומערכות ההפעלה העיקריות. לפני ביצוע הקוד שלהלן, אנא ודא שיש לך את הדרישות המוקדמות הבאות במערכת שלך.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="שמור CSV כ-SHP - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-csv-to-shp.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -82,43 +66,27 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" תקבל קישור להורדה." >}}
 
     {{% blocks/products/pf/agp/content h2="ספריית GIS של .NET" %}}
-
  Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, מסד נתונים ESRI Geodatabase, שפת סימון גיאוגרפיה, Google Earth, פורמט החלפה GPS, פורמטי MapInfo ו-OpenStreetMap. זהו API עצמאי מבוסס .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
 קבצים עם סיומת CSV (Comma Separated Values) מייצגים קבצי טקסט רגילים המכילים רשומות נתונים עם ערכים מופרדים בפסיקים. כל שורה בקובץ CSV היא רשומה חדשה מתוך סט הרשומות הכלול בקובץ. קבצים כאלה נוצרים כאשר העברת נתונים מיועדת ממערכת אחסון אחת לאחרת. מכיוון שכל היישומים יכולים לזהות רשומות המופרדות בפסיקים, ייבוא של קבצי נתונים כאלה למאגר נתונים נעשה בצורה נוחה מאוד.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
  Shapefile הוא פורמט מרובה קבצים (ידוע בשם ESRI Shapefile). העיקרי שבהם הוא בעל סיומת SHP. Shapefile הוא פורמט וקטורי גיאוגרפי פופולרי. פותח ומתוחזק על ידי ESRI לתאימות בין מוצרי Esri ותוכניות אחרות.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="המרות נתמכות אחרות" subTitle="ניתן להמיר גם CSV לפורמטים קבצים רבים אחרים כולל כמה המופיעים להלן." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gpx" name="CSV TO GPX" description="GPS Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-kml" name="CSV TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-geojson" name="CSV TO GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

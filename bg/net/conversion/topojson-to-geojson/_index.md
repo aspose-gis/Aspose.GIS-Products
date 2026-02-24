@@ -24,9 +24,7 @@ package manager, потърсете
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS библиотека" %}}
 
 Aspose.GIS for .NET е API за манипулиране и преобразуване на GIS данни. Той напълно поддържа четене, писане и преобразуване на известни формати на GIS данни като ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Това е самостоятелен .NET базиран API и не изисква никакъв GIS софтуер като ArcGIS / ArcMap, QGIS и т.н.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -114,8 +110,7 @@ GeoJSON е формат, базиран на JSON, предназначен да
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

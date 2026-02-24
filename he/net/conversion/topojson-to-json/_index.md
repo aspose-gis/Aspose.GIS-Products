@@ -24,9 +24,7 @@ description: נסו את ממשקי ה-API שלנו On-Premise להמרת נתו
 {{% blocks/products/pf/agp/code-block title="פקודה" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,47 +65,38 @@ PM> Install-Package Aspose.GIS
 ```cs
 // המרת נתוני GIS TOPOJSON לנתוני JSON
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="הדגמות חיות TOPOJSON ל-JSON" sectionDescription="המירו TOPOJSON ל-JSON עכשיו על ידי ביקור באתר [ההדגמה החיה שלנו](https://products.aspose.com/gis/conversion/topojson-to-json). להדגמה החיה יש את היתרונות הבאים" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" אין צורך להוריד את Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" פשוט בחרו JSON כפורמט הפלט ו." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" העלו את קובץ ה-TOPOJSON שלכם, הוא יומר באופן מיידי ל-JSON." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" תקבלו קישור להורדה." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" אין צורך להוריד את Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" פשוט בחרו JSON כפורמט הפלט ו." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" העלו את קובץ ה-TOPOJSON שלכם, הוא יומר באופן מיידי ל-JSON." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" תקבלו קישור להורדה." >}}
 
     {{% blocks/products/pf/agp/content h2="ספריית .NET GIS" %}}
 
- Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ו-OpenStreetMap. זהו API עצמאי המבוסס על .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
-
+    Aspose.GIS for .NET היא API לטיפול והמרת נתוני GIS. הוא תומך באופן מלא בקריאה, כתיבה והמרת פורמטים ידועים של נתוני GIS כמו קבצי ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ו-OpenStreetMap. זהו API עצמאי המבוסס על .NET ואינו דורש תוכנות GIS מבוססות כמו ArcGIS / ArcMap, QGIS וכו'.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
-
-TopoJSON הוא הרחבה של GeoJSON המקודדת טופולוגיה. במקום לייצג גיאומטריות באופן נפרד, גיאומטריות בקבצי TopoJSON נתפרות מקטעי קו משותפים הנקראים arcs.
-קרא עוד
-
+        TopoJSON הוא הרחבה של GeoJSON המקודדת טופולוגיה. במקום לייצג גיאומטריות באופן נפרד, גיאומטריות בקבצי TopoJSON נתפרות מקטעי קו משותפים הנקראים arcs.
+        קרא עוד
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON (JavaScript Object Notation) הוא פורמט קובץ סטנדרטי פתוח לשיתוף נתונים המשתמש בטקסט קריא לאדם כדי לאחסן ולהעביר נתונים. קבצי JSON מאוחסנים עם סיומת ‎.json‎. JSON דורש פחות עיצוב והוא אלטרנטיבה טובה ל-XML. JSON נגזר מ-JavaScript אך הוא פורמט נתונים עצמאי בשפה. יצירה וניתוח של JSON נתמכים על ידי שפות תכנות מודרניות רבות. application/json הוא סוג המדיה המשמש עבור JSON.
-קרא עוד
-
+        JSON (JavaScript Object Notation) הוא פורמט קובץ סטנדרטי פתוח לשיתוף נתונים המשתמש בטקסט קריא לאדם כדי לאחסן ולהעביר נתונים. קבצי JSON מאוחסנים עם סיומת ‎.json‎. JSON דורש פחות עיצוב והוא אלטרנטיבה טובה ל-XML. JSON נגזר מ-JavaScript אך הוא פורמט נתונים עצמאי בשפה. יצירה וניתוח של JSON נתמכים על ידי שפות תכנות מודרניות רבות. application/json הוא סוג המדיה המשמש עבור JSON.
+        קרא עוד
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -115,13 +104,10 @@ JSON (JavaScript Object Notation) הוא פורמט קובץ סטנדרטי פת
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="המרות נתמכות אחרות" subTitle="ניתן להמיר גם TOPOJSON לפורמטים קבצים רבים אחרים כולל כמה המופיעים להלן." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-geojson" name="TOPOJSON ל-GEOJSON" description="פורמט מבוסס JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TOPOJSON ל-KML" description="Keyhole Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shx" name="TOPOJSON ל-SHX" description="סיומת קובץ Shapefile" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-geojson" name="TOPOJSON ל-GEOJSON" description="פורמט מבוסס JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TOPOJSON ל-KML" description="Keyhole Markup Language" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shx" name="TOPOJSON ל-SHX" description="סיומת קובץ Shapefile" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

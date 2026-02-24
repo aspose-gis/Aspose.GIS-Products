@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним та
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,11 +69,11 @@ PM> Install-Package Aspose.GIS
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="SHP to CSV Live Demos" sectionDescription="Конвертуйте SHP в CSV прямо зараз, відвідавши наш [Live Demos вебсайт](https://products.aspose.app/gis/conversion/shp-to-csv). Жива демонстрація має наступні переваги" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="SHP to CSV Live Demos" sectionDescription="Конвертуйте SHP в CSV прямо зараз, відвідавши наш [Live Demos вебсайт](https://products.aspose.app/gis/conversion/shp-to-csv). Жива демо має наступні переваги" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно завантажувати Aspose GIS API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Просто виберіть CSV як вихідний формат та." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Завантажте свій SHP файл, він буде миттєво конвертований в CSV." >}}
@@ -114,9 +112,8 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

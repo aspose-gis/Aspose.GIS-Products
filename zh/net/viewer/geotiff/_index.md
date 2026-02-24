@@ -2,8 +2,8 @@
 title: GeoTIFF Viewer
 url: /zh/viewer/geotiff/
 weight: 10
-[previous]: /zh/viewer/
-[next]: /zh/viewer/raster-tile-source/
+previous: /zh/viewer/
+next: /zh/viewer/raster-tile-source/
 ---
 
 ## Overview

@@ -1,7 +1,7 @@
 ---
-title: Convertir SHP en GPX : Données SIG avec .NET ou C#
+title: "Convertir SHP en GPX : Données SIG avec .NET ou C#"
 weight: 120
-url: /fr/net/conversion/shp-to-gpx/ 
+url: /fr/net/conversion/shp-to-gpx/
 description: Essayez nos API sur site pour convertir SHP en GPX sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
     {{% blocks/products/pf/agp/content h2="Bibliothèque .NET GIS" %}}
 
 Aspose.GIS pour .NET est une API de manipulation et de conversion de données SIG. Elle prend en charge pleinement la lecture, l'écriture et la conversion de formats de données SIG célèbres tels que les Shapefiles ESRI, GeoJSON, TopoJSON, les bases de données ESRI Geodatabase, le langage de balisage géographique, Google Earth, le format d'échange GPS, les formats MapInfo et OpenStreetMap. C'est une API autonome basée sur .NET qui ne nécessite aucun logiciel SIG tel qu'ArcGIS / ArcMap, QGIS, etc. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -113,7 +109,6 @@ L'extension GPX représente le format d'échange GPS pour l'interchange de donn�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-kml" name="SHP TO KML" description="Langage de balisage clé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="Valeurs séparées par des virgules" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="Échange GPS" >}}
-
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

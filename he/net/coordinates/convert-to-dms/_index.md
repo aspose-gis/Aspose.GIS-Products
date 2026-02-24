@@ -5,7 +5,7 @@ url: /he/net/coordinates/convert-to-dms
 description: המרת מעלות דקות ושניות (DMS) באמצעות ספרייה שתוכננה במיוחד למפתחי .NET. ממשקי API להמרת קואורדינטות עבור DD, DMS, DDM, GeoRef ומבנים אחרים.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs להמרת מעלות דקות ושניות (DMS) עבור GIS" h2="פיתוח המרת DMS עם API שתוכנן במיוחד למפתחי .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

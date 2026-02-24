@@ -117,6 +117,5 @@ GPX پسوند نشان دهنده فرمت تبادل GPS برای تعویض �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

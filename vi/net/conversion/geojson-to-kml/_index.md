@@ -1,11 +1,11 @@
 ---
 title: Chuyển đổi dữ liệu GIS GeoJSON sang KML bằng .NET hoặc C#
 weight: 120
-url: /vi/net/conversion/geojson-to-kml/ 
+url: /vi/net/conversion/geojson-to-kml/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi GeoJSON sang KML trên .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi GeoJSON sang KML trong C#" h2="Xuất GeoJSON sang KML bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GeoJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -75,29 +73,30 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Chỉ chọn KML làm định dạng đầu ra và." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tải lên tệp GeoJSON của bạn, nó sẽ được chuyển đổi ngay lập tức sang KML." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Bạn sẽ nhận được liên kết tải xuống." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện .NET GIS" %}}
 
 Aspose.GIS for .NET là một API thao tác và chuyển đổi dữ liệu GIS. Nó hỗ trợ đầy đủ việc đọc, ghi và chuyển đổi các định dạng dữ liệu GIS nổi tiếng như tệp ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats và OpenStreetMap. Đây là một API độc lập dựa trên .NET và không yêu cầu bất kỳ phần mềm GIS nào như ArcGIS / ArcMap, QGIS, v.v.
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 GeoJSON là định dạng dựa trên JSON được thiết kế để biểu diễn các đối tượng địa lý với các thuộc tính phi không gian của chúng. Định dạng này xác định các đối tượng JSON khác nhau và cách kết hợp chúng. JSON đại diện cho một bộ thông tin tập thể về các đặc điểm địa lý, phạm vi không gian của chúng và các thuộc tính.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
 KML (Keyhole Markup Language) chứa thông tin địa không gian ở định dạng XML. KML có thể được mở trong các ứng dụng Hệ thống Thông tin Địa lý (GIS) nếu chúng hỗ trợ nó. Nhiều ứng dụng đã bắt đầu hỗ trợ định dạng KML sau khi nó được chấp nhận là tiêu chuẩn quốc tế.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -21,9 +21,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용 기능이 풍부하고 강력
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -109,6 +107,5 @@ TopoJSON은 토폴로지를 인코딩하는 GeoJSON 확장입니다. 지리적 �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,11 +24,8 @@ description: Опитайте нашите On-Premise API за конверти�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +35,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Стъпки за конвертиране на SHP в CSV в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Конвертирането може да се извърши само с един ред код, докато използвате
  *VectorLayer.Convert* 
  метод. Той приема 4 параметъра, както е описано по-долу.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Стрингов тип път към изходния SHP файл
@@ -55,9 +50,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Системни изисквания" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Нашите API се поддържат на всички основни платформи и операционни системи. Преди да изпълните кода по-долу, уверете се, че имате следните предварителни условия на вашата система.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -117,6 +110,5 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

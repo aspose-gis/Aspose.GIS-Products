@@ -18,9 +18,7 @@ KML'yi GPX'e dönüştürmek için, C# platformu için güçlü ve kullanımı k
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -61,8 +59,8 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -109,8 +107,6 @@ GPX uzantısı, internet üzerindeki uygulamalar ve web hizmetleri arasında GPS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML'DEN CSV'YE" description="Virgülle Ayrılmış Değerler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML'DEN GPX'E" description="GPS Değişimi" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

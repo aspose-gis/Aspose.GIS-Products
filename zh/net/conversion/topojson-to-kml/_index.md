@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 TopoJSON 转换为 KML 在 .NET Frame
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TopoJSON 到 KML 在线演示" sectionDescription="访问我们的 [在线演示网站](https://products.aspose.app/gis/conversion/topojson-to-kml) 立即将 TopoJSON 转换为 KML。在线演示具有以下优势" >}}
@@ -84,8 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
 
  Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -115,10 +110,7 @@ KML（Keyhole Markup Language）包含以 XML 符号表示的地理空间信息�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

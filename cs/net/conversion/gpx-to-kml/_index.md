@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GPX to KML Live Demos" sectionDescription="Převádějte GPX do KML hned teď návštěvou našich [Live Demos webových stránek](https://products.aspose.app/gis/conversion/gpx-to-kml). Živá ukázka má následující výhody" >}}
@@ -92,13 +89,13 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-Rozšíření GPX představuje formát GPS Exchange pro výměnu dat GPS mezi aplikacemi a webovými službami na internetu. Jedná se o lehký formát XML, který obsahuje data GPS, tj. body trasy a stopy, které mají být importovány a čteny mnoha programy. GPX je otevřený a podporován různými aplikacemi a GPS zařízeními.
+Rozšíření GPX představuje formát GPS Exchange pro výměnu dat GPS mezi aplikacemi a webovými službami na internetu. Jedná se o lehký formát XML, který obsahuje data GPS, tj. body trasy a stopy, které mají být importovány a čteny mnoha programy.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) obsahuje geografické informace v XML notaci. KML lze otevřít v aplikacích Geographic Information System (GIS), pokud jej podporují. Mnoho aplikací začalo podporovat formát KML poté, co byl přijat jako mezinárodní standard.
+KML (Keyhole Markup Language) obsahuje geografické informace v XML notaci. KML lze otevřít v aplikacích Geographic Information System (GIS), pokud jej podporují. Mnoho aplikací začalo podporovat formát KML poté, že byl přijat jako mezinárodní standard.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -118,9 +115,8 @@ KML (Keyhole Markup Language) obsahuje geografické informace v XML notaci. KML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

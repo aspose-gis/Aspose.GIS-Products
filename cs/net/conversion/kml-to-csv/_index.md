@@ -24,54 +24,37 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Postupy pro převod KML na CSV v C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
-Převod lze provést pomocí jediného řádku kódu při použití
-*VectorLayer.Convert* 
-metody. Ta přijímá 4 parametry, jak je uvedeno níže.
-
+Převod lze provést pomocí jediného řádku kódu při použití *VectorLayer.Convert* metody. Ta přijímá 4 parametry, jak je uvedeno níže.
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Řetězcový typ cesty k souboru zdrojového KML
-1.  Zdrojový ovladač, který API sdělí o vstupním formátu. Nastavte jej na Drivers.Kml
-1.  Řetězcový typ cesty k cílovému datovému souboru CSV
-1.  Cílový ovladač pro specifikaci výstupního formátu. Nastavte jej na Drivers.Csv
-
+1. Řetězcový typ cesty k souboru zdrojového KML
+2. Zdrojový ovladač, který API sdělí o vstupním formátu. Nastavte jej na Drivers.Kml
+3. Řetězcový typ cesty k cílovému datovému souboru CSV
+4. Cílový ovladač pro specifikaci výstupního formátu. Nastavte jej na Drivers.Csv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systémové požadavky" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Naše API jsou podporovány na všech hlavních platformách a operačních systémech. Před spuštěním následujícího kódu se ujistěte, že máte na svém systému následující požadavky.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Uložení KML jako CSV - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-csv.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -82,34 +65,22 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS knihovna" %}}
-
  Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML (Keyhole Markup Language) obsahuje geografické informace v XML notaci. KML lze otevřít v aplikacích Geographic Information System (GIS), pokud jej podporují. Mnoho aplikací začalo podporovat formát KML poté, co byl přijat jako mezinárodní standard.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
 Soubory s příponou CSV (Comma Separated Values) představují prosté textové soubory, které obsahují záznamy dat s hodnotami oddělenými čárkou. Každý řádek v CSV souboru je nový záznam z množiny záznamů obsažených v souboru. Takové soubory se generují při přenosu dat mezi různými úložnými systémy. Vzhledem k tomu, že všechny aplikace rozpoznávají záznamy oddělené čárkou, import takových datových souborů do databáze je velmi pohodlný.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované převody" subTitle="Můžete také převést KML do mnoha dalších formátů souborů, včetně několika uvedených níže." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-json" name="KML NA GeoJSON" description="GeoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-topojson" name="KML NA TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-geojson" name="KML NA GeoJSON" description="GeoJSON" >}}
@@ -117,10 +88,7 @@ Soubory s příponou CSV (Comma Separated Values) představují prosté textové
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-shapefile" name="KML NA Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML NA CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML NA GPX" description="GPS Exchange" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

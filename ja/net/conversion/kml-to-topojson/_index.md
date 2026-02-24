@@ -117,6 +117,6 @@ TopoJSON は、トポロジをエンコードする GeoJSON の拡張です。�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

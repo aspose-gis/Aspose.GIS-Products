@@ -22,13 +22,9 @@ správce balíčků, vyhledejte
 a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,92 +32,66 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Postupy pro převod JSON do SHX v C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Převod lze provést pomocí jediného řádku kódu při použití
 *VectorLayer.Convert*
 metody. Má 4 parametry, jak je uvedeno níže.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Řetězcový typ cesty k souboru zdrojového JSON
-2.  Zdrojový ovladač, který API sdělí o vstupním formátu. Nastavte jej na Drivers.TopoJson
-3.  Řetězcový typ cesty k cílovému datovému souboru SHX
-4.  Cílový ovladač pro specifikaci výstupního formátu. Nastavte jej na Drivers.Shapefile
-
+1. Řetězcový typ cesty k souboru zdrojového JSON  
+2. Zdrojový ovladač, který API sdělí o vstupním formátu. Nastavte jej na **Drivers.TopoJson**  
+3. Řetězcový typ cesty k cílovému datovému souboru SHX  
+4. Cílový ovladač pro specifikaci výstupního formátu. Nastavte jej na **Drivers.Shapefile**
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systémové požadavky" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
 Naše API jsou podporovány na všech hlavních platformách a operačních systémech. Před spuštěním následujícího kódu se ujistěte, že máte v systému následující předpoklady.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Uložte JSON jako SHX - C#" offSpacer="" %}}
-
 ```cs
 // Převeďte GIS data JSON na data SHX
 VectorLayer.Convert(dir + "example.json", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="JSON to SHX Live Demos" sectionDescription="Převádějte JSON na SHX hned teď návštěvou našich [Live Demos webových stránek](https://products.aspose.app/gis/conversion/json-to-shx). Živá ukázka má následující výhody" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat SHX jako výstupní formát a." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj JSON soubor, okamžitě se převede na SHX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat SHX jako výstupní formát a." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj JSON soubor, okamžitě se převede na SHX." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS knihovna" %}}
-
- Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
-
-
+    Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod slavných formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API a nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-
-JSON (JavaScript Object Notation) je otevřený standardní formát souboru pro sdílení dat, který používá text srozumitelný člověku k ukládání a přenosu dat. JSON soubory jsou uloženy s příponou .json. JSON vyžaduje méně formátování a je dobrou alternativou k XML. JSON je odvozen z JavaScriptu, ale jedná se o jazykově nezávislý formát dat. Generování a parsování JSON podporuje mnoho moderních programovacích jazyků. application/json je typ média používaný pro JSON.
-Přečtěte si více
-
+        JSON (JavaScript Object Notation) je otevřený standardní formát souboru pro sdílení dat, který používá text srozumitelný člověku k ukládání a přenosu dat. JSON soubory jsou uloženy s příponou .json. JSON vyžaduje méně formátování a je dobrou alternativou k XML. JSON je odvozen z JavaScriptu, ale jedná se o jazykově nezávislý formát dat. Generování a parsování JSON podporuje mnoho moderních programovacích jazyků. application/json je typ média používaný pro JSON.
+        Přečtěte si více
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
-
-Formát indexu tvarů, poziční index geometrie prvků pro rychlé dopředné a zpětné vyhledávání
-Přečtěte si více
-
+        Formát indexu tvarů, poziční index geometrie prvků pro rychlé dopředné a zpětné vyhledávání
+        Přečtěte si více
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované převody" subTitle="Můžete také převést JSON do mnoha dalších formátů souborů, včetně několika uvedených níže." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON TO GEOJSON" description="Formát založený na JSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="Jazyk značek klíčů" >}}
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-geojson" name="JSON TO GEOJSON" description="Formát založený na JSON" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-kml" name="JSON TO KML" description="Jazyk značek klíčů" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
+{{< /blocks/products/pf/main-container >}}

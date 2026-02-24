@@ -5,7 +5,7 @@ url: /it/net/conversion/geojson-to-topojson/
 description: Prova le nostre API On-Premise per la conversione dei tuoi dati GIS su .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{% blocks/products/pf/main-wrap-class isAutogenPage="true" %}}
 {{< blocks/products/pf/upper-banner h1="Converti GEOJSON in TOPOJSON in C#" h2="Esporta GEOJSON in TOPOJSON utilizzando API lato server, senza la necessità di software come ArcGIS, ArcMap, QGIS o Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TOPOJSON" pfName="Aspose.GIS" subTitlepfName="per .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GEOJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="per .NET" >}}
@@ -24,9 +24,7 @@ description: Prova le nostre API On-Premise per la conversione dei tuoi dati GIS
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Converti i dati GIS GEOJSON in dati TOPOJSON
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topojson", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -79,32 +76,33 @@ VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topo
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Seleziona semplicemente TOPOJSON come formato di output e." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file GEOJSON, verrà convertito istantaneamente in TOPOJSON." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Riceverai il link di download." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="Libreria GIS .NET" %}}
+{{% blocks/products/pf/agp/content h2="Libreria GIS .NET" %}}
 
  Aspose.GIS for .NET è un'API per la manipolazione e la conversione dei dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come Shapefile ESRI, GeoJSON, TopoJSON, Database Geografico ESRI, Linguaggio di marcatura della geografia, Google Earth, Formato di scambio GPS, Formati MapInfo e OpenStreetMap. È un'API .NET autonoma che non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc. 
 
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GEOJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
 GeoJSON è un formato basato su JSON progettato per rappresentare le caratteristiche geografiche con i loro attributi non spaziali. Questo formato definisce diversi oggetti JSON (JavaScript Object Notation) e il loro modo di unirsi. Il formato JSON rappresenta informazioni collettive sulle caratteristiche geografiche, le loro estensioni spaziali e le proprietà. Un oggetto di questo file può indicare una geometria (Punto, LineString, Poligono), una caratteristica o una raccolta di caratteristiche. Le caratteristiche riflettono indirizzi e luoghi come punti, strade principali e confini come linee stringa e paesi, province e regioni terrestri come poligoni. Utilizzando GeoJSON, diverse applicazioni di routing e navigazione mobile possono indicare la copertura dei loro servizi. Un'estensione di GeoJSON è TopoJSON che è più piccola nelle dimensioni e codifica la topologia geospaziale.
 Leggi altro
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
 
 TopoJSON è un'estensione di GeoJSON che codifica la topologia. Invece di rappresentare le geometrie in modo discreto, le geometrie nei file TopoJSON sono cucite insieme da segmenti di linea condivisi chiamati archi.
 Leggi altro
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
-{{< /blocks/products/pf/main-wrap-class >}}
+{{% /blocks/products/pf/main-wrap-class %}}

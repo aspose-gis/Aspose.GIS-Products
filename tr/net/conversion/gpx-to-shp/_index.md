@@ -1,11 +1,11 @@
 ---
 title: .NET veya C# ile GPX'i SHP GIS Verisine Dönüştürün
 weight: 120
-url: /tr/net/conversion/gpx-to-shp/ 
+url: /tr/net/conversion/gpx-to-shp/
 description: GPX'i .NET Framework, .NET Core, C# üzerinde On-Premise API'lerimiz aracılığıyla SHP'ye dönüştürmeyi deneyin.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C#'de GPX'i SHP'ye Dönüştürün" h2="GPX'i ArcGIS, ArcMap, QGIS veya Google Earth gibi yazılımlara ihtiyaç duymadan sunucu tarafı API'leri kullanarak SHP'ye aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHP" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -18,9 +18,7 @@ GPX'i SHP'ye dönüştürmek için, C# platformu için güçlü ve kullanımı k
 {{% blocks/products/pf/agp/code-block title="Komut" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -61,8 +59,8 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -75,8 +73,6 @@ API'lerimiz tüm büyük platformları ve İşletim Sistemlerini destekler. Aşa
     {{% blocks/products/pf/agp/content h2=".NET GIS Kütüphanesi" %}}
 
 Aspose.GIS for .NET, GIS veri manipülasyonu ve dönüşüm API'sidir. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats ve OpenStreetMap gibi ünlü GIS veri formatlarını okuma, yazma ve dönüştürme işlemlerini tam olarak destekler. Bağımsız bir .NET tabanlı API'dir ve ArcGIS / ArcMap, QGIS vb. gibi herhangi bir GIS tabanlı yazılım gerektirmez.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -110,9 +106,6 @@ Shapefile çoklu dosya formatıdır (ESRI Shapefile olarak bilinir). Ana olanı 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

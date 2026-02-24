@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Преобразовать GIS данные SHX в JSON данные
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -120,6 +117,5 @@ JSON (JavaScript Object Notation) — это открытый стандарт �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

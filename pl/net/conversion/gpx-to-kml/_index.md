@@ -1,11 +1,10 @@
 ---
 title: Konwertuj GPX do KML danych GIS za pomocą .NET lub C#
 weight: 120
-url: /pl/net/conversion/gpx-to-kml/ 
+url: /pl/net/conversion/gpx-to-kml/
 description: Wypróbuj nasze API On-Premise, aby konwertować GPX do KML na platformie .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Konwertuj GPX do KML w C#" h2="Eksportuj GPX do KML za pomocą API po stronie serwera, bez konieczności oprogramowania takiego jak ArcGIS, ArcMap, QGIS lub Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="dla .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GPX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="dla .NET" >}}
@@ -22,13 +21,9 @@ menedżer pakietów, wyszukaj
 i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Menedżera Pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +33,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Kroki konwersji GPX do KML w C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Konwersja może być wykonana za pomocą jednej linii kodu, używając
 *VectorLayer.Convert* 
 metody. Przyjmuje ona 4 parametry, jak opisano poniżej.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Ścieżka do pliku źródłowego GPX typu string
@@ -55,23 +48,19 @@ metody. Przyjmuje ona 4 parametry, jak opisano poniżej.
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania systemowe" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 Nasze API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że masz następujące wymagania wstępne w swoim systemie.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zapisz GPX jako KML - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gpx-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -82,34 +71,23 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
-
 Aspose.GIS dla .NET to API do manipulacji i konwersji danych GIS. W pełni obsługuje odczyt, zapis i konwersję znanych formatów danych GIS, takich jak pliki ESRI Shapefiles, GeoJSON, TopoJSON, baza danych ESRI Geodatabase, Język znaczników geografii (Geography Markup Language), Google Earth, Format wymiany GPS (GPS Exchange Format), Formaty MapInfo oraz OpenStreetMap. Jest to samodzielne API oparte na .NET i nie wymaga żadnego oprogramowania GIS takiego jak ArcGIS / ArcMap, QGIS itp. 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
 Rozszerzenie GPX reprezentuje format wymiany GPS do wymiany danych GPS między aplikacjami i usługami internetowymi. Jest to lekki format XML, który zawiera dane GPS, czyli punkty trasy, ścieżki i utwory, które mają być importowane i odczytywane przez wiele programów. GPX jest otwarty i obsługiwany przez różnorodne aplikacje i urządzenia GPS.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML (Keyhole Markup Language) zawiera informacje geograficzne w notacji XML. KML może być otwierany w aplikacjach Systemów Informacji Geograficznej (GIS), o ile je obsługują. Wiele aplikacji zaczęło wspierać format KML po jego przyjęciu jako standard międzynarodowy.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz również przekonwertować GPX do wielu innych formatów plików, w tym kilku wymienionych poniżej." >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
@@ -117,10 +95,4 @@ KML (Keyhole Markup Language) zawiera informacje geograficzne w notacji XML. KML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}

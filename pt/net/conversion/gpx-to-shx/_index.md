@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para a conversão de seus dados 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Converter dados GIS GPX para dados SHX
 VectorLayer.Convert(dir + "example.gpx", Drivers.Gpx, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +118,5 @@ Leia Mais
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

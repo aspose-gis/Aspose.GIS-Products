@@ -24,9 +24,7 @@ description: 使用我们的本地 API 进行 GIS 数据转换，在 .NET Framew
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,14 +65,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // 将 GML GIS 数据转换为 GDB 数据
 VectorLayer.Convert(dir + "example.gml", Drivers.Gml, dir + "output.gdb", Drivers.FileGdb);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -119,6 +115,6 @@ GML 是地理标记语言，基于 XML 规范，由开放地理空间联盟 (OGC
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

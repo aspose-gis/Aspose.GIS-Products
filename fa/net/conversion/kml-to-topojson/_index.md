@@ -24,9 +24,7 @@ description: API های On-Premise ما را برای تبدیل KML به TopoJS
 {{% blocks/products/pf/agp/code-block title="دستور" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -91,7 +89,7 @@ API های ما از تمام پلتفرم‌ها و سیستم عامل‌ها�
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
-KML (Keyhole Markup Language) حاوی اطلاعات جغرافیایی به صورت XML است. KML می‌تواند در برنامه‌های سیستم اطلاعات جغرافیایی (GIS) باز شود، به شرطی که از آن پشتیبانی کنند. بسیاری از برنامه ها پس از اینکه به عنوان استاندارد بین المللی پذیرفته شد، از فرمت KML پشتیبانی کردند.
+KML (Keyhole Markup Language) حاوی اطلاعات جغرافیایی به صورت XML است. KML می‌تواند در برنامه‌های سیستم اطلاعات جغرافیایی (GIS) باز شود، به شرطی که از آن پشتیبانی کنند. بسیاری از برنامه ها پس از اینکه به عنوان استاندارد بین المللی پذیرفته شد، از فرمٹ KML پشتیبانی کردند.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -117,9 +115,7 @@ TopoJSON یک توسعه GeoJSON است که توپولوژی را رمزگذا�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

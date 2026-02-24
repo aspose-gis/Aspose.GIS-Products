@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して JSON を GPX GIS データに変換する
 weight: 120
-url: /ja/net/conversion/json-to-gpx/ 
+url: /ja/net/conversion/json-to-gpx/
 description: .NET Framework、.NET Core、C# のオンプレミス API を使用して JSON を GPX に変換してみてください。
 ---
 
@@ -22,13 +22,9 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,10 +34,8 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="C# で JSON を GPX に変換する手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 *VectorLayer.Convert* 
 メソッドを使用すると、コード行を 1 行だけで変換できます。以下に詳細を示します 4 つのパラメータを入力として受け取ります。
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  ソース JSON ファイルへの文字列型のファイルパス
@@ -54,17 +48,13 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="システム要件" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
 当社の API は、主要なプラットフォームおよびオペレーティングシステムをすべてサポートしています。以下のコードを実行する前に、システムに次の前提条件があることを確認してください。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="JSON を GPX として保存 - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-json-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -90,7 +80,7 @@ Aspose.GIS for .NET は、GIS データの操作および変換 API です。ESR
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-地理的特徴とその非空間属性を表すように設計された JSON ベースの形式です。この形式では、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON は、地理的特徴、その空間範囲、およびプロパティに関する集合的な情報を示します。
+地理的特徴とその非空間属性を表すように設計された JSON ベースの形式です。この形式では、さまざまな JSON (JavaScript Object Notation) オブジェクトとそれらの結合方法を定義します。JSON は、地理的特徴、その空間範囲、プロパティに関する集合的な情報を示します。
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,9 +103,7 @@ GPX 拡張は、インターネット上のアプリケーションおよび Web
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

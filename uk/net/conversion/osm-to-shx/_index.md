@@ -24,9 +24,7 @@ API, який є багатофункціональним, потужним і �
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -47,7 +45,7 @@ PM> Install-Package Aspose.GIS
 
 1.  Рядок типу шляху до вихідного файлу OSM
 2.  Вихідний драйвер для повідомлення API про вхідний формат. Встановіть його на Drivers.OsmXml
-3.  Рядок типу шляху до цільового файлу даних SHX
+3..  Рядок типу шляху до цільового файлу даних SHX
 4.  Цільовий драйвер для визначення вихідного формату. Встановіть його на Drivers.Shapefile
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,15 +65,14 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертувати GIS дані OSM до даних SHX
 VectorLayer.Convert(dir + "example.osm", Drivers.OsmXml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{</ blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -95,14 +92,14 @@ Aspose.GIS for .NET — це API для маніпулювання та пере
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="https://docs.fileformat.com/gis/osm/" >}}
 
-OpenStreetMap (OSM) — це величезна колекція географічної інформації, наданої волонтерами, яка зберігається в різних типах файлів з використанням різних схем кодування для перетворення цих даних у біти та байти. OSM є спільними зусиллями щодо створення безкоштовної редагованої мапи світу. Основним результатом цих спільних зусиль є географічні дані, а не сама мапа. Обмеження на використання або доступність географічної інформації в усьому світі викликають необхідність створення OSM. Дані, доступні з OSM, готові замінити Google Maps для класичних додатків (Facebook, Craigslist тощо) та даних за замовчуванням для GPS приймачів. Хоча якість даних різниться в усьому світі, дані OpenStreetMap можна зручно порівнювати з запатентованими джерелами даних.
+OpenStreetMap (OSM) — це величезна колекція географічної інформації, наданої волонтерами, яка зберігається в різних типах файлів з використанням різних схем кодування для перетворення цих даних у біти та байти. OSM є спільними зусиллями щодо створення безкоштовної редагованої мапи світу. Основним результатом цих спільних зусиль є географічні дані, а не сама мапа. Обмеження на використання або доступність географічної інформації в усьому світі викликають необхідність створення OSM. Дані, доступні з OSM, готові замінити Google Maps для класичних додатків (Facebook, Craigslist тощо) та даних за замовчуванням для GPS приймачів. Хоча якість даних різниться в усьому світі, дані OpenStreetMap можна зручно порівняти з запатентованими джерелами даних.
 Читати більше
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
-Формат індексу фігур, позиційний індекс геометрії об'єкта для забезпечення швидкого переходу вперед і назад
+Формат індексу фігур, позиційний індекс геометрії об’єкта для забезпечення швидкого переходу вперед і назад
 Читати більше
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -120,4 +117,3 @@ OpenStreetMap (OSM) — це величезна колекція географ�
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

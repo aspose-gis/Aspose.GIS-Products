@@ -24,9 +24,7 @@ description: Опитайте нашите On-Premise API за конверти�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Конвертиране на GIS данни от SHX в KML данни
 VectorLayer.Convert(dir + "example.shx", Drivers.Shapefile, dir + "output.kml", Drivers.Kml);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -120,6 +117,5 @@ KML, (Keyhole Markup Language съдържа) геопространствена
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -363,7 +363,6 @@ description: Převeďte soubory z KML do JPEG pomocí knihovny navržené speci�
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/gis/net/" >}}
@@ -387,4 +386,5 @@ description: Převeďte soubory z KML do JPEG pomocí knihovny navržené speci�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

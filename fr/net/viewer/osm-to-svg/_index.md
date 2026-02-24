@@ -5,7 +5,7 @@ url: /fr/viewer/osm-to-svg
 description: Convertir à partir de OSM vers SVG grâce à une bibliothèque conçue spécifiquement pour les développeurs .NET. API de rendu de cartes pour Kml, GeoJson Gpx, Kml et autres fichiers.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pour la conversion OSM vers SVG" h2="Convertir OSM vers SVG avec une API conçue spécifiquement pour les développeurs .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pour .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pour .NET" >}}
@@ -341,7 +341,6 @@ description: Convertir à partir de OSM vers SVG grâce à une bibliothèque con
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'Apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/gis/net/" >}}
@@ -365,4 +364,3 @@ description: Convertir à partir de OSM vers SVG grâce à une bibliothèque con
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

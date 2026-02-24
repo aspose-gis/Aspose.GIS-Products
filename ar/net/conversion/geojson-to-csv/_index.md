@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +36,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="خطوات لتحويل GeoJSON إلى CSV في C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  يمكن إجراء التحويل بسطر واحد من التعليمات البرمجية فقط أثناء استخدام
  *VectorLayer.Convert* 
  الطريقة. تأخذ 4 معلمات كما هو مفصل أدناه.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  مسار ملف سلسلة إلى ملف GeoJSON المصدر
@@ -55,9 +51,7 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  واجهات برمجة التطبيقات (APIs) الخاصة بنا مدعومة على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من أن لديك المتطلبات الأساسية التالية على نظامك.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,54 +64,39 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل GeoJSON إلى CSV" sectionDescription="حوّل GeoJSON إلى CSV الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/geojson-to-csv). تتمتع النسخة التجريبية المباشرة بالفوائد التالية" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل واجهة برمجة التطبيقات (API) Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" حدد CSV فقط كتنسيق إخراج و." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" قم بتحميل ملف GeoJSON الخاص بك، وسيتم تحويله على الفور إلى CSV." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ستحصل على رابط التنزيل." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل واجهة برمجة التطبيقات (API) Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" حدد CSV فقط كتنسيق إخراج و." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" قم بتحميل ملف GeoJSON الخاص بك، وسيتم تحويله على الفور إلى CSV." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" ستحصل على رابط التنزيل." >}}
 
     {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
-
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات GIS. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقاعدة بيانات ESRI و Geography Markup Language و Google Earth وتنسيق GPS Exchange وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS تعتمد على GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
-
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
-
 GeoJSON هو تنسيق قائم على JSON مصمم لتمثيل الميزات الجغرافية بسماتها غير المكانية. يحدد هذا التنسيق كائنات JSON المختلفة وطريقة ربطها. يمثل JSON معلومات جماعية حول الميزات الجغرافية وامتداداتها المكانية وخصائصها.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
 الملفات ذات الامتداد CSV (Comma Separated Values) تمثل ملفات نصية بسيطة تحتوي على سجلات بيانات بقيم مفصولة بفواصل. كل سطر في ملف CSV هو سجل جديد من مجموعة السجلات الموجودة في الملف. يتم إنشاء مثل هذه الملفات عند القصد من نقل البيانات من نظام تخزين إلى آخر. نظرًا لأن جميع التطبيقات يمكنها التعرف على السجلات المفصولة بفواصل، فإن استيراد مثل هذه الملفات إلى قاعدة البيانات يتم بسهولة بالغة.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل GeoJSON إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-csv" name="GeoJSON TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GeoJSON TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
-
-
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-csv" name="GeoJSON TO CSV" description="Comma Separated Values" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-kml" name="GeoJSON TO KML" description="Keyword Markup Language" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
+    {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----

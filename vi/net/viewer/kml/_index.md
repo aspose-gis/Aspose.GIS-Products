@@ -1,12 +1,12 @@
 ---
-title: KML Viewer
-linkTitle: Trình xem KML
+title: "KML Viewer"
+linkTitle: "Trình xem KML"
 weight: 10
-url: /vi/net/viewer/kml/
-aliases: [KML, Keyhole Markup Language]
-description: The KML viewer allows you to view KML files in your browser.
-motto: Xem tệp KML trong trình duyệt của bạn.
-[source]: /en/net/viewer/kml/
+url: "/vi/net/viewer/kml/"
+aliases: "KML, Keyhole Markup Language"
+description: "The KML viewer allows you to view KML files in your browser."
+motto: "Xem tệp KML trong trình duyệt của bạn."
+source: "/en/net/viewer/kml/"
 ---
 
 ## What is KML?
@@ -68,5 +68,3 @@ linkTitle: Tài nguyên
 motto: [Tài liệu tham khảo KML](https://developers.google.com/kml/documentation/)
 *   [Keyhole Markup Language - Wikipedia](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
 motto: [Ngôn ngữ đánh dấu Keyhole - Wikipedia](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
-
----

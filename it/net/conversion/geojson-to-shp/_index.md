@@ -72,7 +72,6 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo live da GeoJSON a SHP" sectionDescription="Converti GeoJSON in SHP subito visitando il nostro [sito web di demo live](https://products.aspose.app/gis/conversion/geojson-to-shp). La demo live ha i seguenti vantaggi" >}}
@@ -98,7 +97,7 @@ GeoJSON è un formato basato su JSON progettato per rappresentare le caratterist
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
-Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha l'estensione SHP. Shapefile è un popolare formato di file vettoriale geografico. Sviluppato e mantenuto da ESRI per la compatibilità tra i prodotti Esri e altri programmi.
+Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha l'estensione SHP. Shapefile è un popolare formato di file vettoriale geografico. Sviluppato e mantenuto da ESRI per la compatibilità tra prodotti Esri e altri programmi.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,9 +114,7 @@ Shapefile è un formato multi file (noto come ESRI Shapefile). Il principale ha 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GEOJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GEOJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

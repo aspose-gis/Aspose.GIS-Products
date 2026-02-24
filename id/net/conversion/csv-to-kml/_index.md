@@ -119,6 +119,5 @@ KML (Keyhole Markup Language) berisi informasi geospasial dalam notasi XML. KML 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

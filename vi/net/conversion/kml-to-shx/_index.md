@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 ```cs
 // Chuyển đổi dữ liệu GIS KML sang dữ liệu SHX
 VectorLayer.Convert(dir + "example.kml", Drivers.Kml, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -119,6 +116,5 @@ KML, (Keyhole Markup Language chứa) thông tin địa không gian ở định 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

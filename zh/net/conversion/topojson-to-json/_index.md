@@ -24,13 +24,10 @@ description: 使用我们的本地 API 进行您的 GIS 数据转换，在 .NET 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -59,7 +56,6 @@ PM> Install-Package Aspose.GIS
  我们的 API 支持所有主流平台和操作系统。在执行以下代码之前，请确保您的系统满足以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="将 TOPOJSON 保存为 JSON - C#" offSpacer="" %}}
@@ -67,32 +63,28 @@ PM> Install-Package Aspose.GIS
 ```cs
 // 将 TOPOJSON GIS 数据转换为 JSON 数据
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.json", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TOPOJSON to JSON 在线演示" sectionDescription="访问我们的 [在线演示网站](https://products.aspose.app/gis/conversion/topojson-to-json) 立即将 TOPOJSON 转换为 JSON。在线演示具有以下优势" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose GIS API。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 只需选择 JSON 作为输出格式即可。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 上传您的 TOPOJSON 文件，它将立即转换为 JSON。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose GIS API。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 只需选择 JSON 作为输出格式即可。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 上传您的 TOPOJSON 文件，它将立即转换为 JSON。" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
 
  Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="TOPOJSON" readMoreLink="https://docs.fileformat.com/gis/topojson/" >}}
 
 TopoJSON 是 GeoJSON 的扩展，用于编码拓扑结构。 与单独表示几何图形不同，TopoJSON 文件中的几何图形通过称为弧线的共享线段拼接在一起。
@@ -106,9 +98,7 @@ JSON（JavaScript 对象表示法）是一种开放标准的文件格式，用�
 了解更多
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -121,6 +111,8 @@ JSON（JavaScript 对象表示法）是一种开放标准的文件格式，用�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
+{{< /blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

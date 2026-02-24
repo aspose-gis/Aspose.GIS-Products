@@ -5,7 +5,7 @@ url: /id/net/coordinates/convert-to-dd
 description: Konversi ke Derajat Desimal (DD) melalui library yang dirancang khusus untuk pengembang .NET. API Converter Koordinat untuk DD, DMS, DDM, GeoRef, dan format lainnya.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class / >}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs untuk mengonversi Derajat Desimal (DD) untuk GIS" h2="Kembangkan konversi DD dengan API yang dirancang khusus untuk pengembang .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -14,7 +14,7 @@ description: Konversi ke Derajat Desimal (DD) melalui library yang dirancang khu
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.GIS for .NET memungkinkan Anda untuk mengonversi Derajat Desimal (DD) untuk unit geospatial. Library kami memungkinkan Anda dengan mudah dan cepat mengonversi lintang dan bujur ke format unit yang diinginkan. Selain itu, library kami juga memiliki kemungkinan untuk mengekstrak lokasi ke titik dari teks.
+ Aspose.GIS for .NET memungkinkan Anda untuk mengonversi Derajat Desimal (DD) untuk unit geospatial. Library kami memungkinkan Anda dengan mudah dan cepat mengkonversi lintang dan bujur ke format unit yang diinginkan. Selain itu, library kami juga memiliki kemungkinan untuk mengekstrak lokasi ke titik dari teks.
 </p>
 
 <p>
@@ -263,7 +263,6 @@ description: Konversi ke Derajat Desimal (DD) melalui library yang dirancang khu
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Pembelajaran" tabId="resources" >}}

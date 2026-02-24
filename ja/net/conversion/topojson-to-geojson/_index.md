@@ -1,7 +1,7 @@
 ---
 title: .NET または C# を使用して TopoJSON を GeoJSON GIS データに変換する
 weight: 120
-url: /ja/net/conversion/topojson-to-geojson/ 
+url: /ja/net/conversion/topojson-to-geojson/
 description: 当社のオンプレミス API を使用して、.NET Framework、.NET Core、C# で TopoJSON を GeoJSON に変換します。
 ---
 
@@ -24,11 +24,8 @@ API を使用します。これは C# プラットフォーム向けの機能豊
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +61,6 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/code-block title="TopoJSON を GeoJSON に保存 - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-topojson-to-geojson.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -112,9 +108,7 @@ GeoJSON は、地理的特徴とその非空間属性を表すように設計さ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

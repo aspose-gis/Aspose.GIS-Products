@@ -1,7 +1,7 @@
 ---
 title: Konversi KML ke SHP Data GIS melalui .NET atau C#
 weight: 120
-url: /id/net/conversion/kml-to-shp/ 
+url: /id/net/conversion/kml-to-shp/
 description: Coba API On-Premise kami untuk mengonversi KML ke SHP pada .NET Framework, .NET Core, C#.
 ---
 
@@ -13,20 +13,18 @@ description: Coba API On-Premise kami untuk mengonversi KML ke SHP pada .NET Fra
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi KML ke SHP Menggunakan C#" %}}
 
- Untuk mengonversi KML ke SHP, kita akan menggunakan
- [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
- API yang merupakan GIS API untuk platform C# yang kaya fitur, kuat, dan mudah digunakan. Buka
- [NuGet](https://www.nuget.org/packages/aspose.gis) 
- package manager, cari
- **Aspose.GIS** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi KML ke SHP, kita akan menggunakan
+[Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
+API yang merupakan GIS API untuk platform C# yang kaya fitur, kuat, dan mudah digunakan. Buka
+[NuGet](https://www.nuget.org/packages/aspose.gis) 
+package manager, cari
+**Aspose.GIS** 
+dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -39,16 +37,16 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
- *VectorLayer.Convert* 
- metode. Ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
+Konversi dapat dilakukan hanya dengan satu baris kode saat menggunakan
+*VectorLayer.Convert* 
+metode. Ini membutuhkan 4 parameter seperti yang dijelaskan di bawah ini.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Jenis string jalur file ke file KML sumber
-1.  Driver sumber untuk memberi tahu API tentang format input. Atur ke Drivers.Kml
-1.  Jenis string jalur file ke file data SHP tujuan
-1.  Driver tujuan untuk menentukan format output. Atur ke Drivers.Shapefile
+1. Jenis string jalur file ke file KML sumber  
+2. Driver sumber untuk memberi tahu API tentang format input. Atur ke `Drivers.Kml`  
+3. Jenis string jalur file ke file data SHP tujuan  
+4. Driver tujuan untuk menentukan format output. Atur ke `Drivers.Shapefile`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.GIS
 
 {{% blocks/products/pf/agp/text %}}
 
- API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+API kami didukung di semua platform utama dan Sistem Operasi. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -69,40 +67,39 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung KML ke SHP" sectionDescription="Konversi KML ke SHP sekarang juga dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/gis/conversion/kml-to-shp). Demo langsung memiliki manfaat berikut" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Cukup Pilih SHP sebagai format output dan." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Unggah file KML Anda, itu akan langsung dikonversi ke SHP." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduh." >}}
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh API Aspose GIS." >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Cukup Pilih SHP sebagai format output dan." >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Unggah file KML Anda, itu akan langsung dikonversi ke SHP." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Anda akan mendapatkan tautan unduh." >}}
 
-    {{% blocks/products/pf/agp/content h2="Perpustakaan GIS .NET" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan GIS .NET" %}}
 
- Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll. 
+Aspose.GIS for .NET adalah API manipulasi dan konversi data GIS. Ini sepenuhnya mendukung membaca, menulis, dan mengonversi format data GIS terkenal seperti ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats, dan OpenStreetMap. Ini adalah API berbasis .NET mandiri dan tidak memerlukan perangkat lunak berbasis GIS apa pun seperti ArcGIS / ArcMap, QGIS dll.
 
+{{% /blocks/products/pf/agp/content %}}
 
-    {{% /blocks/products/pf/agp/content %}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 
 KML (Keyhole Markup Language) berisi informasi geospasial dalam notasi XML. KML dapat dibuka di aplikasi Geographic Information System (GIS) asalkan mendukungnya. Banyak aplikasi telah mulai memberikan dukungan untuk format KML setelah diadopsi sebagai standar internasional.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
 
- Shapefile adalah format multi file (dikenal sebagai ESRI Shapefile). Yang utama memiliki ekstensi SHP. Shapefile adalah format file geografis vektor populer. Dikembangkan dan dipelihara oleh ESRI untuk kompatibilitas antara produk Esri dan program lain.
+Shapefile adalah format multi file (dikenal sebagai ESRI Shapefile). Yang utama memiliki ekstensi SHP. Shapefile adalah format file geografis vektor populer. Dikembangkan dan dipelihara oleh ESRI untuk kompatibilitas antara produk Esri dan program lain.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -118,9 +115,6 @@ KML (Keyhole Markup Language) berisi informasi geospasial dalam notasi XML. KML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML KE CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML KE GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

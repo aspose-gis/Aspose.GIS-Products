@@ -111,6 +111,5 @@ GPX 확장자는 인터넷의 애플리케이션 및 웹 서비스 간에 GPS �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

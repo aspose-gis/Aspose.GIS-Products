@@ -1,11 +1,11 @@
 ---
 title: Convert GML to KML GIS Data via .NET or C#
 weight: 120
-url: /ar/net/conversion/gml-to-kml/ 
+url: /ar/net/conversion/gml-to-kml/
 description: جرّب واجهات برمجة التطبيقات (APIs) الخاصة بنا لتنفيذ التحويل من GML إلى KML على .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convert GML to KML in C#" h2="Export GML to KML using server side APIs, without needing softwares like ArcGIS, ArcMap, QGIS or Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="KML" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="GML" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -24,9 +24,7 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,34 +67,30 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/demobox sectionTitle="GML to KML Live Demos" sectionDescription="Convert GML to KML right now by visiting our [Live Demos website](https://products.aspose.app/gis/conversion/gml-to-kml). The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose GIS API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Just Select KML as output format and." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload your GML file, it will be converted instantly to KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
-    {{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
+{{< blocks/products/pf/agp/demobox sectionTitle="GML to KML Live Demos" sectionDescription="Convert GML to KML right now by visiting our [Live Demos website](https://products.aspose.app/gis/conversion/gml-to-kml). The live demo has the following benefits" >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose GIS API." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Just Select KML as output format and." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload your GML file, it will be converted instantly to KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
+
+{{% blocks/products/pf/agp/content h2=".NET GIS Library" %}}
 
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات لمعالجة وتحويل بيانات نظم المعلومات الجغرافية (GIS). وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات GIS الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقواعد بيانات ESRI Geodatabase واللغة الجغرافية المحددة (Geography Markup Language) وأرض جوجل وتنسيق تبادل نظام تحديد المواقع العالمي (GPS Exchange Format) وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات قائمة على .NET مستقلة ولا تتطلب أي برامج GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك. 
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
-
+    {{< blocks/products/pf/agp/about-file-text fileFormat="GML" readMoreLink="" >}}
 اللغة الجغرافية المحددة (المعروفة باسم GML) هي تنسيق قائم على XML يستخدم في نظم المعلومات الجغرافية. تعتبر GML تنسيق تبادل مفتوحًا للمعاملات الجغرافية على الإنترنت. هذا التنسيق موجه للبيانات والهيكل.
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
+    {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
 يحتوي KML (Keyhole Markup Language) على معلومات جغرافية في تدوين XML. يمكن فتح KML في تطبيقات نظم المعلومات الجغرافية (GIS) بشرط أن تدعمها. بدأت العديد من التطبيقات في دعم تنسيق KML بعد اعتماده كمعيار دولي.
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -111,6 +105,6 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -74,7 +74,7 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +120,4 @@ KML, (Keyhole Markup Language съдържа) геопространствена
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

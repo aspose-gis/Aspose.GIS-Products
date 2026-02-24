@@ -72,7 +72,6 @@ PM> Install-Package Aspose.GIS
     
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao Vivo de GeoJSON para KML" sectionDescription="Converter GeoJSON para KML agora mesmo visitando nosso [site de Demonstrações ao Vivo](https://products.aspose.app/gis/conversion/geojson-to-kml). A demonstração ao vivo tem os seguintes benefícios" >}}
@@ -115,9 +114,7 @@ KML (Keyhole Markup Language) contém informações geoespaciais na notação XM
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON PARA SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ API를 사용합니다. 이 API는 C# 플랫폼용 기능이 풍부하고 강력
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -66,7 +64,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // MIF GIS 데이터를 SHX 데이터로 변환합니다.
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -87,27 +84,25 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. ArcGIS / ArcMap, QGIS 등과 같은 GIS 기반 소프트웨어 없이도 독립적으로 실행되는 .NET 기반 API입니다. 
 
+{{% /blocks/products/pf/agp/content %}}
 
+{{< blocks/products/pf/agp/about-file-section >}}
 
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="MIF" readMoreLink="https://docs.fileformat.com/gis/shx/" >}}
 
 mif
 자세히 보기
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
 
 빠른 검색을 위해 특징 지오메트리의 위치 인덱스 형식입니다.
 자세히 보기
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -120,6 +115,6 @@ mif
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

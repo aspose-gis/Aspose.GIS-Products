@@ -1,7 +1,7 @@
 ---
 title: Converter KML para Shapefile Dados GIS via .NET ou C#
 weight: 120
-url: /pt/conversion/kml-to-shapefile/ 
+url: /pt/conversion/kml-to-shapefile/
 description: Experimente nossas APIs On-Premise para converter KML para Shapefile no .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter KML para Shapefil
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +119,5 @@ SHP é a extensão de arquivo para um dos tipos de arquivo primários usados par
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,7 +5,7 @@ url: /nl/net/coordinates/convert-to-ddm
 description: Zet om naar Decimal Degree Minutes (DDM) via een bibliotheek die specifiek is ontworpen voor .NET ontwikkelaars. Coördinaten Converter API's voor DD, DMS, DDM, GeoRef en andere formaten.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class / >}}
 {{< blocks/products/pf/upper-banner h1=".NET API's om Decimal Degree Minutes (DDM) voor GIS om te zetten" h2="Ontwikkel DDM conversie met een API die specifiek is ontworpen voor .NET / C# ontwikkelaars." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="voor .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="voor .NET" >}}
@@ -263,7 +263,6 @@ description: Zet om naar Decimal Degree Minutes (DDM) via een bibliotheek die sp
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Leerbronnen" tabId="resources" >}}

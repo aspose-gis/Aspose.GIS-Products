@@ -1,7 +1,7 @@
 ---
 title: Převod GPX do Shapefile GIS dat pomocí .NET nebo C#
 weight: 120
-url: /cs/net/conversion/gpx-to-shapefile/ 
+url: /cs/net/conversion/gpx-to-shapefile/
 description: Vyzkoušejte naše On-Premise API pro převod GPX do Shapefile na .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ SHP je přípona souboru pro jeden z hlavních typů souborů používaných k r
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: 将 GDB 转换为 CSV GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/gdb-to-csv/ 
+url: /zh/net/conversion/gdb-to-csv/
 description: 使用我们的本地 API 将 GDB 转换为 CSV，在 .NET Framework、.NET Core 和 C# 上进行操作。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 GDB 转换为 CSV，在 .NET Framewor
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -114,9 +112,7 @@ GDB 是 Esri ArcGIS 平台使用的格式。此文件夹包含一个集合，其
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-shp" name="GDB TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gdb-to-gpx" name="GDB TO GPX" description="GPS 交换" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

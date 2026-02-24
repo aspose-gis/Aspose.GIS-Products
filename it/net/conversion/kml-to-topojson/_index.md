@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Console del Gestore 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -84,7 +81,6 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
     {{% blocks/products/pf/agp/content h2="Libreria GIS .NET" %}}
 
 Aspose.GIS for .NET è un'API per la manipolazione e la conversione dei dati GIS. Supporta completamente la lettura, la scrittura e la conversione di famosi formati di dati GIS come ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats e OpenStreetMap. È un'API .NET autonoma che non richiede alcun software GIS basato su ArcGIS / ArcMap, QGIS ecc.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,9 +114,7 @@ TopoJSON è un'estensione di GeoJSON che codifica la topologia. Formato basato s
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

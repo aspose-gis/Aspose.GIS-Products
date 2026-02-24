@@ -22,13 +22,9 @@ description: جرّب واجهات برمجة التطبيقات (APIs) الخا
  وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="الأمر" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -36,87 +32,61 @@ PM> Install-Package Aspose.GIS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="خطوات لتحويل SHP إلى KML في C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  يمكن إجراء التحويل بسطر واحد من التعليمات البرمجية فقط أثناء استخدام
  *VectorLayer.Convert*
  الطريقة. تأخذ 4 معلمات كما هو مفصل أدناه.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  مسار ملف سلسلة إلى ملف SHP المصدر
-2.  المحرك المصدر لإعلام واجهة برمجة التطبيقات (API) بتنسيق الإدخال. اضبطه على Drivers.Shapefile
-3.  مسار ملف سلسلة إلى ملف بيانات KML الوجهة
-4.  محرك الوجهة لتحديد تنسيق الإخراج. اضبطه على Drivers.Kml
+1.  مسار ملف سلسلة إلى ملف SHP المصدر  
+2.  المحرك المصدر لإعلام واجهة برمجة التطبيقات (API) بتنسيق الإدخال. اضبطه على Drivers.Shapefile  
+3.  مسار ملف سلسلة إلى ملف بيانات KML الوجهة  
+4.  محرك الوجهة لتحديد تنسيق الإخراج. اضبطه على Drivers.Kml  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  واجهات برمجة التطبيقات (APIs) الخاصة بنا مدعومة على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من أن لديك المتطلبات الأساسية التالية على نظامك.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="حفظ SHP كـ KML - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-shp-to-kml.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
-
 {{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل SHP إلى KML" sectionDescription="حوّل SHP إلى KML الآن من خلال زيارة [موقع العروض التوضيحية المباشرة](https://products.aspose.app/gis/conversion/shp-to-kml). تتمتع العروض التوضيحية المباشرة بالفوائد التالية" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل واجهة برمجة التطبيقات (API) Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" حدد KML كتنسيق إخراج فقط." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" قم بتحميل ملف SHP الخاص بك، وسيتم تحويله على الفور إلى KML." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" ستحصل على رابط التنزيل." >}}
-
-    {{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
-
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل واجهة برمجة التطبيقات (API) Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" حدد KML كتنسيق إخراج فقط." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" قم بتحميل ملف SHP الخاص بك، وسيتم تحويله على الفور إلى KML." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" ستحصل على رابط التنزيل." >}}
+{{% blocks/products/pf/agp/content h2="مكتبة .NET GIS" %}}
  Aspose.GIS for .NET هي واجهة برمجة تطبيقات (API) لمعالجة وتحويل بيانات نظم المعلومات الجغرافية. وهي تدعم بشكل كامل قراءة وكتابة وتحويل تنسيقات بيانات نظم المعلومات الجغرافية الشهيرة مثل ملفات ESRI Shapefiles و GeoJSON و TopoJSON وقواعد بيانات ESRI Geodatabase و Geography Markup Language و Google Earth وتنسيق GPS Exchange وتنسيقات MapInfo و OpenStreetMap. إنها واجهة برمجة تطبيقات (API) قائمة على .NET مستقلة ولا تتطلب أي برامج GIS مثل ArcGIS / ArcMap أو QGIS وما إلى ذلك.
+{{% /blocks/products/pf/agp/content %}}
 
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
+{{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
  Shapefile هو تنسيق متعدد الملفات (يُعرف باسم ESRI Shapefile). الرئيسي منها يحمل الامتداد SHP. Shapefile هو تنسيق ملف جغرافى متجه شائع. تم تطويره وصيانته بواسطة ESRI للتوافق بين منتجات Esri والبرامج الأخرى.
+    {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
+    {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
  KML (Keyhole Markup Language) يحتوي على معلومات جغرافية في تدوين XML. يمكن فتح KML في تطبيقات نظم المعلومات الجغرافية (GIS) بشرط أن تدعمها. بدأت العديد من التطبيقات في تقديم دعم لتنسيق KML بعد اعتماده كمعيار دولي.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-text >}}
+{{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل SHP إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
-
+{{< blocks/products/pf/agp/other-supported-section title="تحويلات مدعومة أخرى" subTitle="يمكنك أيضًا تحويل SHP إلى عدة تنسيقات ملفات أخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-kml" name="SHP TO KML" description="لغة الترميز الرئيسية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-csv" name="SHP TO CSV" description="قيم مفصولة بفواصل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shp-to-gpx" name="SHP TO GPX" description="تبادل نظام تحديد المواقع العالمي" >}}
-
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

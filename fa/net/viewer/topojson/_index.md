@@ -330,7 +330,7 @@ description: توسعه‌ی TopoJSON viewer از طریق کتابخانه‌ا
      نمونه برای .NET - TopoJSON Viewer
     </h2>
     <p>
-     در اینجا نحوه رندر نقشه از فرمت TopoJSON با استفاده از تنظیمات پیش‌فرض آمده است:
+     در اینجا نحوه رندر نقشه از فرمت TopوJSON با استفاده از تنظیمات پیش‌فرض آمده است:
     </p>
      {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-topojson.cs" >}}
    </div>
@@ -340,7 +340,6 @@ description: توسعه‌ی TopoJSON viewer از طریق کتابخانه‌ا
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
-
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="منابع آموزشی" tabId="resources" >}}
@@ -365,4 +364,4 @@ description: توسعه‌ی TopoJSON viewer از طریق کتابخانه‌ا
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ description: נסה את ה-API שלנו באתר עבור המרת נתוני G
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,13 +65,13 @@ PM> Install-Package Aspose.GIS
 ```cs
 // המרת נתוני GIS של MIF לנתוני SHX
 VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 
 <!-- aboutfile Starts -->
@@ -100,7 +98,7 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHX" readMoreLink="" >}}
 
-פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדימה ואחורה במהירות
+פורמט אינדקס צורה, אינדקס מיקום של גיאומטריית התכונה כדי לאפשר חיפוש קדומה ואחורה במהירות
 קרא עוד
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -117,6 +115,4 @@ VectorLayer.Convert(dir + "example.mif", Drivers.MapInfoInterchange, dir + "outp
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

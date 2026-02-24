@@ -24,9 +24,7 @@ i zainstaluj. Możesz również użyć następującego polecenia z Konsoli Mened
 {{% blocks/products/pf/agp/code-block title="Polecenie" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,6 @@ Nasze API są obsługiwane na wszystkich głównych platformach i systemach oper
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
-
 
 <!-- aboutfile Starts -->
 
@@ -118,9 +115,8 @@ Format oparty na JSON, zaprojektowany do reprezentowania cech geograficznych wra
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX DO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX DO CSV" description="Wartości rozdzielone przecinkami" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

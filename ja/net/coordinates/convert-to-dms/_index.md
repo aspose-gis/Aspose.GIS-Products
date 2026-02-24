@@ -264,7 +264,6 @@ description: .NET 開発者向けに設計されたライブラリを通じて�
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,3 +287,5 @@ description: .NET 開発者向けに設計されたライブラリを通じて�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

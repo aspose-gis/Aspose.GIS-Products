@@ -1,4 +1,3 @@
-
 ---
 title: GML を JSON 形式の GIS データに .NET または C# で変換する
 weight: 120
@@ -14,20 +13,18 @@ description: オンプレミス API を使用して、.NET Framework、.NET Core
 
 {{% blocks/products/pf/agp/content h2="C# を使用して GML を JSON に変換する方法" %}}
 
-GML を JSON に変換するには、
+GML を JSON に変換するには，
 [Aspose.GIS for .NET](https://products.aspose.com/gis/net) 
 API を使用します。これは C# プラットフォーム向けの機能豊富で強力かつ使いやすい GIS API です。
 [NuGet](https://www.nuget.org/packages/aspose.gis) 
-パッケージマネージャーを開き、
+パッケージマネージャーを開き，
 **Aspose.GIS** 
 を検索してインストールします。Package Manager Console から次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +67,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -118,4 +115,4 @@ Geographic Markup Language (GML) は、GIS で使用される XML ベースの�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}

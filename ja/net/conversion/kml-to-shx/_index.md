@@ -118,6 +118,5 @@ Shape index 形式は、フィーチャのジオメトリの位置インデッ�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

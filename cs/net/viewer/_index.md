@@ -5,7 +5,7 @@ url: /cs/net/viewer
 description: Vyvíjejte prohlížeč map pomocí knihovny navržené speciálně pro vývojáře .NET. API pro vykreslování Kml, GeoJson Gpx, Kml a dalších souborů.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pro vykreslování GIS map" h2="Vyvíjejte prohlížeč map s API navrženým speciálně pro vývojáře .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pro .NET" >}}
@@ -341,7 +341,6 @@ description: Vyvíjejte prohlížeč map pomocí knihovny navržené speciálně
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/gis/net/" >}}
@@ -365,4 +364,3 @@ description: Vyvíjejte prohlížeč map pomocí knihovny navržené speciálně
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

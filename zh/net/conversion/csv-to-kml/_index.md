@@ -121,5 +121,6 @@ KML (Keyhole Markup Language) 包含以 XML 表示法表示的地理空间信息
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---

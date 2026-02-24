@@ -5,7 +5,6 @@ url: /nl/net/conversion/topojson-to-geojson/
 description: Probeer onze On-Premise API's om TopoJSON naar GeoJSON te converteren op .NET Framework, .NET Core, C#.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="TopoJSON naar GeoJSON converteren in C#" h2="Exporteren TopoJSON naar GeoJSON met behulp van server side API's, zonder software zoals ArcGIS, ArcMap, QGIS of Google Earth nodig te hebben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GeoJSON" pfName="Aspose.GIS" subTitlepfName="voor .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TopoJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="voor .NET" >}}
@@ -24,9 +23,7 @@ description: Probeer onze On-Premise API's om TopoJSON naar GeoJSON te converter
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,9 +66,9 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -92,7 +89,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TopoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-TopoJSON is een GeoJSON extensie die topologie codeert. JSON gebaseerd formaat ontworpen om de geografische kenmerken met hun niet-ruimtelijke attributen weer te geven. Dit formaat definieert verschillende JSON (JavaScript Object Notation) objecten en hun manier van verbinden. JSON formaat vertegenwoordigt collectieve informatie over de Geografische kenmerken, hun ruimtelijke extenties en eigenschappen.
+TopoJSON is een GeoJSON extensie die topologie codeert. JSON gebaseerd formaat ontworpen om de geografische kenmerken met hun niet-ruimtelijke attributen weer te geven. Dit formulier definieert verschillende JSON (JavaScript Object Notation) objecten en hun manier van verbinden. JSON formaat vertegenwoordigt collectieve informatie over de Geografische kenmerken, hun ruimtelijke extenties en eigenschappen.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,9 +111,4 @@ GeoJSON is een JSON gebaseerd formaat ontworpen om de geografische kenmerken met
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON NAAR KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON NAAR Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}

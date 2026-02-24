@@ -5,7 +5,7 @@ url: /ar/net/viewer/shp-to-jpeg
 description: تحويل من SHP إلى JPEG عبر مكتبة مصممة خصيصًا لمطوري .NET. واجهات برمجة تطبيقات لرسم الخرائط لـ Kml و GeoJson Gpx و Kml، وملفات أخرى.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs للتحويل من SHP إلى JPEG" h2="تحويل SHP إلى JPEG باستخدام واجهة برمجة تطبيقات مصممة خصيصًا لمطوري .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}

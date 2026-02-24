@@ -363,7 +363,6 @@ description: פתחו מתבסס GeoJSON באמצעות ספרייה שתוכנ�
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="תיעוד" href="https://docs.aspose.com/gis/net/" >}}
@@ -387,4 +386,6 @@ description: פתחו מתבסס GeoJSON באמצעות ספרייה שתוכנ�
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

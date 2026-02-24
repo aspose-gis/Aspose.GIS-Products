@@ -5,7 +5,7 @@ url: /ko/net/conversion/topojson-to-shx/
 description: .NET Framework, .NET Core에서 GIS 데이터 변환을 위한 On-Premise API를 사용해 보세요.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C#에서 TOPOJSON을 SHX로 변환" h2="ArcGIS, ArcMap, QGIS 또는 Google Earth와 같은 소프트웨어가 필요 없이 서버 측 API를 사용하여 TOPOJSON을 SHX로 내보내기." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHX" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TOPOJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="for .NET" >}}
@@ -21,9 +21,7 @@ API를 사용합니다.
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -63,14 +61,12 @@ PM> Install-Package Aspose.GIS
 ```cs
 // TOPOJSON GIS 데이터를 SHX 데이터로 변환합니다.
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -83,8 +79,6 @@ VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.sh
     {{% blocks/products/pf/agp/content h2=".NET GIS 라이브러리" %}}
 
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,6 +112,4 @@ TopoJSON은 토폴로지를 인코딩하는 GeoJSON의 확장입니다. TopoJSON
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

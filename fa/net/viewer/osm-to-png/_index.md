@@ -5,7 +5,7 @@ url: /fa/viewer/osm-to-png
 description: تبدیل از OSM به PNG از طریق کتابخانه‌ای که به‌طور خاص برای توسعه‌دهندگان .NET طراحی شده است. APIهای رندر نقشه برای Kml، GeoJson Gpx، Kml و سایر فایل‌ها.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs for OSM to PNG conversion" h2="تبدیل OSM به PNG با یک API که به‌طور خاص برای توسعه‌دهندگان .NET / C# طراحی شده است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="for .NET" >}}
@@ -178,7 +178,7 @@ description: تبدیل از OSM به PNG از طریق کتابخانه‌ای 
     <li><b>MapInfo Interchange Format:</b>MIF</li>
     <li><b>MapInfo Tab Format:</b>TAB, DAT, DBF</li>
     <li><b>OpenStreetMap:</b>OSM</li>
-    <li><b>Comma-Separated Values:</b>CSV</li>
+    <li><b>Comma‑Separated Values:</b>CSV</li>
    </ul>
   </div>
   <!--/left-->

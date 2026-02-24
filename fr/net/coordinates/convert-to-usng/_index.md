@@ -5,7 +5,7 @@ url: /fr/coordinates/convert-to-usng
 description: Convertissez vers la grille nationale américaine (USNG) grâce à une bibliothèque conçue spécifiquement pour les développeurs .NET. API de conversion de coordonnées pour DD, DMS, DDM, GeoRef et autres formats.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pour convertir la grille nationale américaine (USNG) pour les SIG" h2="Développez une conversion USNG avec une API conçue spécifiquement pour les développeurs .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pour .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pour .NET" >}}
@@ -264,7 +264,6 @@ description: Convertissez vers la grille nationale américaine (USNG) grâce à 
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,4 +287,3 @@ description: Convertissez vers la grille nationale américaine (USNG) grâce à 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

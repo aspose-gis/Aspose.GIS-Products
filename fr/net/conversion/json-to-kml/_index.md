@@ -1,7 +1,7 @@
 ---
 title: Convertir JSON en données GIS KML via .NET ou C#
 weight: 120
-url: /fr/net/conversion/json-to-kml/ 
+url: /fr/net/conversion/json-to-kml/
 description: Essayez nos API sur site pour convertir JSON en KML sur .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ et installez-le. Vous pouvez également utiliser la commande suivante depuis la 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -71,7 +69,6 @@ Nos API sont prises en charge sur toutes les plateformes et systèmes d'exploita
 {{< /blocks/products/pf/agp/feature-section >}}
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct de JSON à KML" sectionDescription="Convertissez JSON en KML dès maintenant en visitant notre [site web de démonstrations en direct](https://products.aspose.app/gis/conversion/json-to-kml). La démo en direct présente les avantages suivants" >}}
@@ -113,9 +110,7 @@ KML (Keyhole Markup Language) contient des informations géospatiales au format 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-shapefile" name="JSON TO Shapefile" description="ESRI Shapefile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/json-to-gpx" name="JSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

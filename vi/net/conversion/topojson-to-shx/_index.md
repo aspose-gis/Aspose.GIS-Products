@@ -5,7 +5,7 @@ url: /vi/net/conversion/topojson-to-shx/
 description: Thử các API On-Premise của chúng tôi để chuyển đổi dữ liệu GIS trên .NET Framework, .NET Core.
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Chuyển đổi TOPOJSON thành SHX trong C#" h2="Xuất TOPOJSON sang SHX bằng API phía máy chủ, không cần phần mềm như ArcGIS, ArcMap, QGIS hoặc Google Earth." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SHX" pfName="Aspose.GIS" subTitlepfName="cho .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TOPOJSON" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS " subTitlepfName="cho .NET" >}}
@@ -24,9 +24,7 @@ và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Package Manag
 {{% blocks/products/pf/agp/code-block title="Lệnh" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ phương thức. Nó nhận 4 tham số như chi tiết dưới đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Một đường dẫn tệp kiểu chuỗi đến tệp TOPOJSON nguồn
-2.  Trình điều khiển nguồn để cho API biết về định dạng đầu vào. Đặt thành Drivers.TopoJson
-3.  Đường dẫn tệp kiểu chuỗi đến tệp dữ liệu SHX đích
-4.  Trình điều khiển đích để chỉ định định dạng đầu ra. Đặt thành Drivers.Shapefile
+1.  Một đường dẫn tệp kiểu chuỗi đến tệp TOPOJSON nguồn  
+2.  Trình điều khiển nguồn để cho API biết về định dạng đầu vào. Đặt thành Drivers.TopoJson  
+3.  Đường dẫn tệp kiểu chuỗi đến tệp dữ liệu SHX đích  
+4.  Trình điều khiển đích để chỉ định định dạng đầu ra. Đặt thành Drivers.Shapefile  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,14 +65,14 @@ Các API của chúng tôi được hỗ trợ trên tất cả các nền tản
 ```cs
 // Chuyển đổi dữ liệu GIS TOPOJSON thành dữ liệu SHX
 VectorLayer.Convert(dir + "example.topojson", Drivers.TopoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -120,6 +118,4 @@ TopoJSON là phần mở rộng của GeoJSON mã hóa cấu trúc liên kết �
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

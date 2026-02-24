@@ -264,7 +264,6 @@ description: Konvertieren Sie mit der speziell für .NET-Entwickler entwickelten
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,4 +287,5 @@ description: Konvertieren Sie mit der speziell für .NET-Entwickler entwickelten
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 ---

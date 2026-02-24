@@ -1,7 +1,7 @@
 ---
 title: Převod CSV do GIS dat SHP pomocí .NET nebo C#
 weight: 120
-url: /cs/net/conversion/csv-to-shp/ 
+url: /cs/net/conversion/csv-to-shp/
 description: Vyzkoušejte naše On-Premise API pro převod CSV do SHP na .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzole Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -116,8 +114,7 @@ Soubory s příponou CSV (Comma Separated Values) představují prosté textové
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-shp" name="CSV TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/csv-to-gdb" name="CSV TO GDB" description="Esri Geodatabase" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
----
+{{< /blocks/products/pf/main-wrap-class >}}

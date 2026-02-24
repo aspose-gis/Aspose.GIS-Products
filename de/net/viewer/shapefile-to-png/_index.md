@@ -363,6 +363,7 @@ description: Konvertieren Sie von SHAPEFILE zu PNG mit einer Bibliothek, die spe
 
 {{< /blocks/products/pf/main-container >}}
 
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernressourcen" tabId="resources" >}}
@@ -387,4 +388,3 @@ description: Konvertieren Sie von SHAPEFILE zu PNG mit einer Bibliothek, die spe
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

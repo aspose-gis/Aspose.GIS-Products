@@ -24,9 +24,7 @@ a nainstalujte. Můžete také použít následující příkaz z konzoly Správ
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,21 +68,19 @@ Naše API jsou podporovány na všech hlavních platformách a operačních syst
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="KML to Shapefile živé ukázky" sectionDescription="Převod KML do Shapefile hned teď návštěvou našich [živých demo webových stránek](https://products.aspose.app/gis/conversion/kml-to-shapefile). Živá ukázka má následující výhody" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat Shapefile jako výstupní formát a." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj KML soubor, který bude okamžitě převeden do Shapefile." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat API Aspose GIS." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Stačí vybrat Shapefile jako výstupní formát a." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nahrajte svůj KML soubor, který bude okamžitě převeden do Shapefile." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" Získáte odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS knihovna" %}}
 
  Aspose.GIS for .NET je API pro manipulaci a převod GIS dat. Plně podporuje čtení, zápis a převod známých formátů GIS dat, jako jsou ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats a OpenStreetMap. Jedná se o samostatné .NET API, které nevyžaduje žádný GIS software, jako je ArcGIS / ArcMap, QGIS atd.
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -118,8 +114,7 @@ SHP je přípona souboru pro jeden z hlavních typů souborů používaných k r
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Converti GPX in Shapefile GIS Data tramite .NET o C#
 weight: 120
-url: /it/net/conversion/gpx-to-shapefile/ 
+url: /it/net/conversion/gpx-to-shapefile/
 description: Prova le nostre API On-Premise per convertire da GPX a Shapefile su .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ e installa. Puoi anche utilizzare il seguente comando dalla Package Manager Cons
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,10 +43,10 @@ metodo. Richiede 4 parametri come descritto di seguito.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Un percorso file stringa al file GPX di origine
-2.  Driver di origine per far sapere all'API il formato di input. Imposta su Drivers.Gpx
-3.  Il percorso file stringa al file dei dati Shapefile di destinazione
-4.  Driver di destinazione per specificare il formato di output. Imposta su Drivers.Shapefile
+1.  Un percorso file stringa al file GPX di origine  
+2.  Driver di origine per far sapere all'API il formato di input. Imposta su `Drivers.Gpx`  
+3.  Il percorso file stringa al file dei dati Shapefile di destinazione  
+4.  Driver di destinazione per specificare il formato di output. Imposta su `Drivers.Shapefile`
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -87,7 +85,7 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
 
-L'estensione GPX rappresenta il formato GPS Exchange per lo scambio di dati GPS tra applicazioni e servizi web su Internet. È un formato XML leggero che contiene dati GPS, ovvero punti di percorso, rotte e tracce da importare e leggere da più programmi. GPX è aperto ed è supportato da una varietà di applicazioni e dispositivi GPS.
+L'estensione GPX rappresenta il formato GPS Exchange per lo scambio di dati GPS tra applicazioni e servizi web su Internet. È un formato XML leggerto che contiene dati GPS, ovvero punti di percorso, rotte e tracce da importare e leggere da più programmi. GPX è aperto ed è supportato da una varietà di applicazioni e dispositivi GPS.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -103,19 +101,17 @@ SHP è l'estensione del file per uno dei tipi di file principali utilizzati per 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire GPX in molti altri formati di file, tra cui alcuni elencati di seguito." >}}
+## Altre conversioni supportate
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-json" name="GPX TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shp" name="GPX TO SHP" description="ESRI SHP" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-geojson" name="GPX TO GeoJSON" description="GeoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-kml" name="GPX TO KML" description="Keyword Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-shapefile" name="GPX TO Shapefile" description="ESRI Shapefile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="Comma Separated Values" >}}
+Puoi anche convertire GPX in molti altri formati di file, tra cui alcuni elencati di seguito.
 
+- **[GPX TO JSON](https://products.aspose.com/gis/net/conversion/gpx-to-json)** – JavaScript Object Notation  
+- **[GPX TO SHP](https://products.aspose.com/gis/net/conversion/gpx-to-shp)** – ESRI SHP  
+- **[GPX TO GeoJSON](https://products.aspose.com/gis/net/conversion/gpx-to-geojson)** – GeoJSON  
+- **[GPX TO KML](https://products.aspose.com/gis/net/conversion/gpx-to-kml)** – Keyword Markup Language  
+- **[GPX TO Shapefile](https://products.aspose.com/gis/net/conversion/gpx-to-shapefile)** – ESRI Shapefile  
+- **[GPX TO TopoJSON](https://products.aspose.com/gis/net/conversion/gpx-to-topojson)** – TopoJSON  
+- **[GPX TO CSV](https://products.aspose.com/gis/net/conversion/gpx-to-csv)** – Comma Separated Values  
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

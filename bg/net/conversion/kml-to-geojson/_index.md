@@ -1,7 +1,7 @@
 ---
 title: Преобразуване на KML в GeoJSON GIS данни чрез .NET или C#
 weight: 120
-url: /bg/net/conversion/kml-to-geojson/ 
+url: /bg/net/conversion/kml-to-geojson/
 description: Опитайте нашите On-Premise API за преобразуване на KML в GeoJSON на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Опитайте нашите On-Premise API за преобраз�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -118,9 +116,7 @@ GeoJSON е формат, базиран на JSON, предназначен за
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

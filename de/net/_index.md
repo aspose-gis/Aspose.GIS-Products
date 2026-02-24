@@ -5,7 +5,7 @@ url: /de/net/
 description: Erstellen, lesen, konvertieren, verarbeiten Sie GIS-Daten und rendern Sie Karten mit einer Bibliothek, die speziell für .NET-Entwickler entwickelt wurde.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs zur GIS-Datenmanipulation" h2="Erstellen, lesen, konvertieren, verarbeiten Sie GIS-Daten und rendern Sie Karten mit einer API, die speziell für .NET-Entwickler entwickelt wurde." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/headers/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="für .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="für .NET" >}}

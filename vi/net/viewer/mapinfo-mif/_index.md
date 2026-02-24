@@ -5,7 +5,7 @@ weight: 10
 description: Định dạng tệp MapInfo MIF là một định dạng tệp văn bản được sử dụng để lưu trữ dữ liệu địa lý, thường đi kèm với tệp .map.
 url: /vi/net/viewer/mapinfo-mif/
 aliases: [MIF, mapinfo mif]
-[source](https://en.wikipedia.org/wiki/MapInfo_MIF)
+source: https://en.wikipedia.org/wiki/MapInfo_MIF
 ---
 
 ## Giới thiệu
@@ -26,14 +26,14 @@ Mỗi dòng dữ liệu trong tệp MIF bao gồm các trường được phân 
 
 ## Ưu điểm
 
-*   Định dạng văn bản đơn giản, dễ đọc và chỉnh sửa.
-*   Hỗ trợ nhiều kiểu dữ liệu khác nhau, bao gồm số, chuỗi và ngày tháng.
-*   Có thể được sử dụng để lưu trữ dữ liệu địa lý cho nhiều loại ứng dụng khác nhau.
+* Định dạng văn bản đơn giản, dễ đọc và chỉnh sửa.
+* Hỗ trợ nhiều kiểu dữ liệu khác nhau, bao gồm số, chuỗi và ngày tháng.
+* Có thể được sử dụng để lưu trữ dữ liệu địa lý cho nhiều loại ứng dụng khác nhau.
 
 ## Nhược điểm
 
-*   Không phải là định dạng nhị phân, vì vậy kích thước tệp có thể lớn hơn so với các định dạng khác.
-*   Có thể chậm khi xử lý các tập dữ liệu rất lớn.
+* Không phải là định dạng nhị phân, vì vậy kích thước tệp có thể lớn hơn so với các định dạng khác.
+* Có thể chậm khi xử lý các tập dữ liệu rất lớn.
 
 ## Ví dụ
 
@@ -53,4 +53,3 @@ $MAPINFO_AUTHOR  "John Doe"
 ## Kết luận
 
 Định dạng tệp MapInfo MIF là một định dạng linh hoạt và mạnh mẽ để lưu trữ dữ liệu địa lý. Nó được sử dụng rộng rãi trong ngành GIS và có thể được sử dụng cho nhiều loại ứng dụng khác nhau.
----

@@ -1,7 +1,7 @@
 ---
 title: המרת GeoJSON לנתוני GIS בפורמט CSV באמצעות .NET או C#
 weight: 120
-url: /he/net/conversion/geojson-to-csv/ 
+url: /he/net/conversion/geojson-to-csv/
 description: נסו את ממשקי ה-API שלנו On-Premise כדי להמיר GeoJSON ל-CSV בפלטפורמת .NET Framework, ‎.NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: נסו את ממשקי ה-API שלנו On-Premise כדי להמיר
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -69,9 +67,9 @@ PM> Install-Package Aspose.GIS
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -92,7 +90,7 @@ PM> Install-Package Aspose.GIS
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפיהן המרחביים והמאפיינים שלהן.
+GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות גיאוגרפיות עם התכונות הלא מרחביות שלהן. פורמט זה מגדיר אובייקטים שונים של JSON ואת אופן הצטרפותם. JSON מייצג מידע מצטבר על תכונות גיאוגרפיות, היקפיהן המרחביים והמאפיינים שלהם.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -115,9 +113,6 @@ GeoJSON הוא פורמט מבוסס JSON שנועד לייצג תכונות ג�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/main-container >}}

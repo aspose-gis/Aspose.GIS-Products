@@ -1,7 +1,7 @@
 ---
 title: Converter OSM para GPX Dados GIS via .NET ou C#
 weight: 120
-url: /pt/net/conversion/osm-to-gpx/ 
+url: /pt/net/conversion/osm-to-gpx/
 description: Experimente nossas APIs On-Premise para converter OSM para GPX em .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ description: Experimente nossas APIs On-Premise para converter OSM para GPX em .
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,11 +36,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Etapas para converter OSM para GPX em C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  A conversão pode ser feita com apenas uma linha de código ao usar o
  *VectorLayer.Convert* 
  método. Ele recebe 4 parâmetros conforme detalhado abaixo.
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Um caminho de arquivo do tipo string para o arquivo OSM de origem
@@ -55,22 +51,18 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos do Sistema" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de que você tem os seguintes pré-requisitos no seu sistema.
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Salvar OSM como GPX - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-osm-to-gpx.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-    
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
 
 <!-- aboutfile Starts -->
 
@@ -90,15 +82,11 @@ PM> Install-Package Aspose.GIS
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OSM" readMoreLink="" >}}
-
 O formato OSM é específico para OpenStreetMap. O projeto OpenStreetMap mantém um banco de dados gratuito das ruas do mundo.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GPX" readMoreLink="https://docs.fileformat.com/gis/gpx/" >}}
-
 A extensão GPX representa o formato de troca GPS para intercâmbio de dados GPS entre aplicativos e serviços da web na internet. É um formato XML leve que contém dados GPS, ou seja, pontos de referência, rotas e faixas a serem importados e lidos por vários programas. GPX é aberto e suportado por uma variedade de aplicativos e dispositivos GPS.
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -114,9 +102,7 @@ A extensão GPX representa o formato de troca GPS para intercâmbio de dados GPS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM PARA KML" description="Linguagem de Marcação de Palavras-Chave" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM PARA GPX" description="Troca GPS" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,7 +65,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // Преобразовать GIS данные MIF в данные GEOJSON
 Aspose.Gis.VectorLayer.Convert("template.geojson", Aspose.Gis.Drivers.MapInfoTab, "output.json", Aspose.Gis.Drivers.GeoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -119,6 +116,6 @@ Read More
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

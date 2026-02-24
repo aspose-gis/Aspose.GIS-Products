@@ -5,7 +5,7 @@ url: /ar/net/coordinates/convert-to-mgrs
 description: Convertir a Sistema de Referencia Cuadrícula Militar (MGRS) a través de una biblioteca diseñada específicamente para desarrolladores de .NET. APIs de Conversión de Coordenadas para DD, DMS, DDM, GeoRef y otros formatos.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs para convertir Sistema de Referencia Cuadrícula Militar (MGRS) para SIG" h2="Desarrolle la conversión de MGRS con una API diseñada específicamente para desarrolladores de .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="para .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="para .NET" >}}
@@ -264,7 +264,6 @@ description: Convertir a Sistema de Referencia Cuadrícula Militar (MGRS) a trav
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/gis/net/" >}}
@@ -288,4 +287,3 @@ description: Convertir a Sistema de Referencia Cuadrícula Militar (MGRS) a trav
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

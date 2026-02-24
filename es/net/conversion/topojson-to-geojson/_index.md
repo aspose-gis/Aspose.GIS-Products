@@ -1,7 +1,7 @@
 ---
 title: Convertir TopoJSON a GeoJSON GIS Data vía .NET o C#
 weight: 120
-url: /es/net/conversion/topojson-to-geojson/ 
+url: /es/net/conversion/topojson-to-geojson/
 description: Pruebe nuestras APIs On-Premise para convertir TopoJSON a GeoJSON en .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ y instale. También puede utilizar el siguiente comando desde la Consola del Adm
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -113,9 +111,7 @@ GeoJSON es un formato basado en JSON diseñado para representar las característ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

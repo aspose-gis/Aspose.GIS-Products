@@ -75,7 +75,7 @@ PM> Install-Package Aspose.GIS
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="GML to GeoJSON Live Demos" sectionDescription="แปลง GML เป็น GeoJSON ได้ทันทีโดยไปที่ [เว็บไซต์สาธิตสด](https://products.aspose.app/gis/conversion/gml-to-geojson) การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="GML to GeoJSON Live Demos" sectionDescription="แปลง GML เป็น GeoJSON ได้ทันทีโดยไปที่ [เว็บไซต์สาธิตสด](https://products.aspose.app/gis/conversion/gml-to-geojson) การสาธะสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose GIS API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" เพียงเลือก GeoJSON เป็นรูปแบบเอาต์พุตและ." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" อัปโหลดไฟล์ GML ของคุณ จะถูกแปลงเป็น GeoJSON ทันที" >}}
@@ -98,7 +98,7 @@ Geographic Markup Language (หรือที่เรียกว่า GML) �
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GeoJSON" readMoreLink="https://docs.fileformat.com/gis/geojson/" >}}
 
-GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณสมบัติทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจกต์ JSON ต่างๆ และวิธีการเชื่อมต่อกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณสมบัติทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณสมบัติ
+GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบมาเพื่อแสดงคุณลักษณะทางภูมิศาสตร์พร้อมกับแอตทริบิวต์ที่ไม่ใช่เชิงพื้นที่ รูปแบบนี้กำหนดออบเจกต์ JSON ต่างๆ และวิธีการเชื่อมต่อกัน JSON แสดงข้อมูลโดยรวมเกี่ยวกับคุณลักษณะทางภูมิศาสตร์ ขอบเขตเชิงพื้นที่ และคุณลักษณะ
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,5 +120,7 @@ GeoJSON เป็นรูปแบบตาม JSON ที่ออกแบบ
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---

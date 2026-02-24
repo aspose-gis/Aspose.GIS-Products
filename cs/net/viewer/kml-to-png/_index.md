@@ -5,7 +5,7 @@ url: /cs/viewer/kml-to-png
 description: Převeďte soubory z KML do PNG pomocí knihovny navržené speciálně pro vývojáře .NET. API pro vykreslování map pro formáty Kml, GeoJson Gpx, Kml a další.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class />}}
 {{< blocks/products/pf/upper-banner h1=".NET APIs pro konverzi KML do PNG" h2="Převeďte KML do PNG pomocí API navrženého speciálně pro vývojáře .NET / C#." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/gis/aspose_gis-for-net.svg" pfName="Aspose.GIS" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/gis/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.GIS" subTitlepfName="pro .NET" >}}
@@ -387,4 +387,3 @@ description: Převeďte soubory z KML do PNG pomocí knihovny navržené speciá
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/gis/net" pricingInformationLink="https://purchase.aspose.com/pricing/gis/net" >}}
----

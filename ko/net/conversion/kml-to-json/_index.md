@@ -1,7 +1,7 @@
 ---
 title: .NET 또는 C#을 사용하여 KML을 GeoJSON GIS 데이터로 변환
 weight: 120
-url: /ko/net/conversion/kml-to-json/ 
+url: /ko/net/conversion/kml-to-json/
 description: On-Premise API를 사용하여 .NET Framework, .NET Core, C#에서 KML을 GeoJSON으로 변환해 보세요.
 ---
 
@@ -19,9 +19,7 @@ KML을 GeoJSON으로 변환하려면 [Aspose.GIS for .NET](https://products.aspo
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -78,7 +76,6 @@ PM> Install-Package Aspose.GIS
 Aspose.GIS for .NET은 GIS 데이터 조작 및 변환 API입니다. ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats 및 OpenStreetMap과 같은 유명한 GIS 데이터 형식을 완전히 지원합니다. 독립 실행형 .NET 기반 API이며 ArcGIS / ArcMap, QGIS와 같은 GIS 기반 소프트웨어가 필요하지 않습니다. 
 
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -111,9 +108,7 @@ GeoJSON은 지리적 특징과 비 공간 속성을 나타내도록 설계된 JS
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

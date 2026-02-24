@@ -1,7 +1,7 @@
 ---
 title: Преобразование TopoJSON в Shapefile GIS данные через .NET или C#
 weight: 120
-url: /ru/net/conversion/topojson-to-shapefile/ 
+url: /ru/net/conversion/topojson-to-shapefile/
 description: Попробуйте наши локальные API для преобразования TopoJSON в Shapefile на .NET Framework, .NET Core, C#.
 ---
 
@@ -24,9 +24,7 @@ API, который является многофункциональным, м�
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="TopoJSON в Shapefile Live Demos" sectionDescription="Преобразуйте TopoJSON в Shapefile прямо сейчас, посетив наш [сайт с живыми демонстрациями](https://products.aspose.app/gis/conversion/topojson-to-shapefile). Живая демоверсия имеет следующие преимущества" >}}
@@ -84,7 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS Библиотека" %}}
 
 Aspose.GIS for .NET — это API для манипулирования и преобразования геоданных. Он полностью поддерживает чтение, запись и преобразование известных форматов геоданных, таких как ESRI Shapefiles, GeoJSON, TopoJSON, ESRI Geodatabase, Geography Markup Language, Google Earth, GPS Exchange Format, MapInfo Formats и OpenStreetMap. Это автономный .NET API и не требует никакого GIS программного обеспечения, такого как ArcGIS / ArcMap, QGIS и т.д. 
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -114,9 +110,7 @@ SHP — это расширение файла для одного из осно
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-kml" name="TopoJSON TO KML" description="Keyword Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/topojson-to-shapefile" name="TopoJSON TO Shapefile" description="ESRI Shapefile" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
