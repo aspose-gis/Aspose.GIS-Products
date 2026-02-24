@@ -1,7 +1,7 @@
 ---
 title: 将 GPX 转换为 JSON GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/gpx-to-json/ 
+url: /zh/net/conversion/gpx-to-json/
 description: 使用我们的本地 API 将 GPX 转换为 JSON 在 .NET Framework、.NET Core、C# 上。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 GPX 转换为 JSON 在 .NET Framework
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -117,9 +115,7 @@ GPX 扩展名代表 GPS Exchange 格式，用于在应用程序和互联网上�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-topojson" name="GPX TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/gpx-to-csv" name="GPX TO CSV" description="逗号分隔值" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

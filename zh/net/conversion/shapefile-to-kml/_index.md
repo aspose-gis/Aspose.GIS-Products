@@ -1,7 +1,7 @@
 ---
 title: 将 Shapefile 转换为 KML GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/shapefile-to-kml/ 
+url: /zh/net/conversion/shapefile-to-kml/
 description: 使用我们的本地 API 将 Shapefile 转换为 KML 在 .NET Framework、.NET Core、C# 上。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 Shapefile 转换为 KML 在 .NET Fram
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -114,9 +111,7 @@ KML（Keyhole Markup Language）包含以 XML 符号表示的地理空间信息�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-topojson" name="Shapefile TO TopoJSON" description="TopoJSON" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/shapefile-to-kml" name="Shapefile TO KML" description="Keyword Markup Language" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

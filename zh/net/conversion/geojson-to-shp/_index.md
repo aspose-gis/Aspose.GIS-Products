@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 GeoJSON 转换为 SHP，在 .NET Fram
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -72,7 +70,6 @@ PM> Install-Package Aspose.GIS
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="GeoJSON 到 SHP 在线演示" sectionDescription="访问我们的 [在线演示网站](https://products.aspose.app/gis/conversion/geojson-to-shp) 立即将 GeoJSON 转换为 SHP。在线演示具有以下优势" >}}
@@ -84,8 +81,6 @@ PM> Install-Package Aspose.GIS
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
 
  Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -116,10 +111,7 @@ GeoJSON 是一种基于 JSON 的格式，旨在表示地理要素及其非空间
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS 交换" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-

@@ -117,7 +117,6 @@ SHP 是用于 ESRI Shapefile 的主要文件类型之一的文件扩展名。它
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-

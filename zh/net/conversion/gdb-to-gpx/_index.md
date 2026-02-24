@@ -118,7 +118,6 @@ GPX 扩展名代表 GPS Exchange 格式，用于在互联网上的应用程序�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-

@@ -1,7 +1,7 @@
 ---
 title: 将 GeoJSON 转换为 CSV GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/geojson-to-csv/ 
+url: /zh/net/conversion/geojson-to-csv/
 description: 使用我们的本地 API 将 GeoJSON 转换为 CSV，在 .NET Framework、.NET Core 和 C# 上进行操作。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 GeoJSON 转换为 CSV，在 .NET Fram
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,8 +68,7 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 <!-- aboutfile Starts -->
 
@@ -115,9 +112,7 @@ GeoJSON 是一种基于 JSON 的格式，旨在表示地理要素及其非空间
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-shp" name="GeoJSON TO SHP" description="ESRI SHP" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/geojson-to-gpx" name="GeoJSON TO GPX" description="GPS 交换" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

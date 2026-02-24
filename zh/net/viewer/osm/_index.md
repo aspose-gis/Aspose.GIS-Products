@@ -5,7 +5,7 @@ weight: 10
 description: 用于查看和探索 OpenStreetMap 数据的在线查看器。
 url: /zh/osm/
 aliases: [osm-viewer]
-[source](https://github.com/openlayers/openlayers)
+source: https://github.com/openlayers/openlayers
 ---
 
 ## 关于

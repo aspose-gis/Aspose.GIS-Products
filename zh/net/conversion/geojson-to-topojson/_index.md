@@ -67,7 +67,6 @@ PM> Install-Package Aspose.GIS
 ```cs
 // 将 GEOJSON GIS 数据转换为 TOPOJSON 数据
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.topojson", Drivers.TopoJson);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -121,6 +120,6 @@ TopoJSON 是 GeoJSON 的扩展，用于编码拓扑。而不是离散地表示�
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

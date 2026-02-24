@@ -1,7 +1,7 @@
 ---
 title: 将 OSM 转换为 GPX GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/osm-to-gpx/ 
+url: /zh/net/conversion/osm-to-gpx/
 description: 使用我们的本地 API 将 OSM 转换为 GPX 在 .NET Framework、.NET Core、C# 上。
 ---
 
@@ -24,9 +24,7 @@ description: 使用我们的本地 API 将 OSM 转换为 GPX 在 .NET Framework�
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -70,7 +68,8 @@ PM> Install-Package Aspose.GIS
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}} 
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -113,9 +112,9 @@ GPX 扩展名代表 GPS Exchange 格式，用于在应用程序和互联网上�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-kml" name="OSM TO KML" description="关键字标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/osm-to-gpx" name="OSM TO GPX" description="GPS 交换" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

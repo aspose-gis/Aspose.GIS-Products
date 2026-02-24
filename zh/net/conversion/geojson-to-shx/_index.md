@@ -24,9 +24,7 @@ description: 使用我们的本地 API 进行您的 GIS 数据转换，在 .NET 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -67,15 +65,14 @@ PM> Install-Package Aspose.GIS
 ```cs
 // 将 GEOJSON GIS 数据转换为 SHX 数据
 VectorLayer.Convert(dir + "example.geojson", Drivers.GeoJson, dir + "output.shx", Drivers.Shapefile);
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< /blocks/products/pf/agp/faq-item >}}
 
 <!-- aboutfile Starts -->
 
@@ -122,7 +119,4 @@ GeoJSON 是一种基于 JSON 的格式，旨在表示地理要素及其非空间
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
+{{< /blocks/products/pf/main-container >}}

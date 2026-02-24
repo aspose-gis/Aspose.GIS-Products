@@ -1,7 +1,7 @@
 ---
 title: 将 KML 转换为 SHP GIS 数据，使用 .NET 或 C#
 weight: 120
-url: /zh/net/conversion/kml-to-shp/ 
+url: /zh/net/conversion/kml-to-shp/
 description: 使用我们的本地 API 将 KML 转换为 SHP 在 .NET Framework、.NET Core、C# 上。
 ---
 
@@ -22,13 +22,9 @@ description: 使用我们的本地 API 将 KML 转换为 SHP 在 .NET Framework�
  并安装。您还可以从程序包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
 ```cs
-
 PM> Install-Package Aspose.GIS
-
 ```
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% /blocks/products/pf/agp/content %}}
@@ -38,11 +34,9 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="使用 C# 将 KML 转换为 SHP 的步骤" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  使用
  *VectorLayer.Convert* 
  方法可以仅用一行代码完成转换。它接受四个参数，如下详细所述。
-
 {{% /blocks/products/pf/agp/text %}}
 
 1.  指向源 KML 文件字符串类型的文件路径
@@ -55,23 +49,18 @@ PM> Install-Package Aspose.GIS
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
 
 {{% blocks/products/pf/agp/text %}}
-
  我们的 API 支持所有主流平台和操作系统。在执行以下代码之前，请确保您的系统满足以下先决条件。
-
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="将 KML 保存为 SHP - C#" offSpacer="" %}}
-
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-kml-to-shp.cs" >}}
-
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
     
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 
 <!-- aboutfile Starts -->
 
@@ -82,24 +71,17 @@ PM> Install-Package Aspose.GIS
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2=".NET GIS 库" %}}
-
  Aspose.GIS for .NET 是一个 GIS 数据操作和转换 API。它完全支持读取、写入和转换著名的 GIS 数据格式，例如 ESRI Shapefiles、GeoJSON、TopoJSON、ESRI Geodatabase、Geography Markup Language、Google Earth、GPS Exchange Format、MapInfo Formats 和 OpenStreetMap。 它是一个独立的基于 .NET 的 API，不需要任何基于 GIS 的软件，如 ArcGIS / ArcMap、QGIS 等。
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="KML" readMoreLink="https://docs.fileformat.com/gis/kml/" >}}
-
 KML（Keyhole Markup Language）包含以 XML 符号表示的地理空间信息。如果它们支持 KML，则可以在地理信息系统 (GIS) 应用程序中打开 KML。在它被采用为国际标准后，许多应用程序已经开始提供对 KML 格式的支持。
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SHP" readMoreLink="https://docs.fileformat.com/gis/shp/" >}}
-
  Shapefile 是一种多文件格式（称为 ESRI Shapefile）。主文件具有 SHP 扩展名。Shapefile 是一种流行的矢量地理文件格式。由 ESRI 开发和维护，以实现 Esri 产品与其他程序之间的兼容性。
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -118,9 +100,7 @@ KML（Keyhole Markup Language）包含以 XML 符号表示的地理空间信息�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-csv" name="KML TO CSV" description="Comma Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/gis/net/conversion/kml-to-gpx" name="KML TO GPX" description="GPS Exchange" >}}
 
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
